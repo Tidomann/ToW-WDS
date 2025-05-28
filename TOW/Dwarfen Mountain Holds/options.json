@@ -1,0 +1,378 @@
+[
+  {
+    "Id": "7ad220f0-9187-45ec-967f-fbe203752dc7",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b386d966c2c1465f5ec",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "dcf32d8f-5a9f-46a7-86bb-00bf446f7260",
+    "Name": "Shieldbearers",
+    "Type": "Mount",
+    "OwnerId": "68357b386d966c2c1465f5ec",
+    "WDSDataId": "4ba155d2-8983-4d34-9e0f-d0c4858a3448",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "766eb0c8-c090-4494-995d-45fc9f8bed63",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b396d966c2c14660473",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "44f0d92d-db79-4691-9b6f-32f8b294c1e2",
+    "Name": "Shieldbearers",
+    "Type": "Mount",
+    "OwnerId": "68357b396d966c2c14660473",
+    "WDSDataId": "3b0713fd-f303-4ded-ae7a-f07cb0cc8129",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "0112f8d8-06ba-414f-863e-448037779bcc",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b396d966c2c14660bfb",
+    "WDSDataId": "68357b396d966c2c14660f68",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "3fc301a3-fd3b-4e19-82a5-d38e71e990cf",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b396d966c2c14660bfb",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "5e839955-2c2b-4a53-92d6-6d190dc1fdea",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b396d966c2c14660bfb",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "819bd039-cf06-41d8-b131-3b578864d41e",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3a6d966c2c14661967",
+    "WDSDataId": "68357b3a6d966c2c14661d16",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f7820d9b-f141-44ce-b79a-0604481557ca",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c14661967",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "a6df4676-daf4-4e9b-bbe3-bdffd2a2c0b6",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c14661967",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "edee7af6-b2d8-4504-90f9-50b2f8107f80",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3a6d966c2c146627cf",
+    "WDSDataId": "68357b3a6d966c2c14662b03",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "8b5ef1a0-5c33-4420-a5fc-cabc07bca794",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c146627cf",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "60318101-0cd2-4108-8b6b-7394de61306b",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c146627cf",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "594c7a5f-b012-4a02-ae7f-77aabe6829f2",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3a6d966c2c1466345b",
+    "WDSDataId": "68357b3a6d966c2c146637ba",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "6ca894fd-9a32-453d-82b7-a83344120d76",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c1466345b",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "73c78757-f643-4bc5-93e2-72e41412f956",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3a6d966c2c1466345b",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "53ffac5c-1e77-4bae-b851-79fb9511441c",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3b6d966c2c14664193",
+    "WDSDataId": "68357b3b6d966c2c146644d1",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "546a061e-97a4-4998-b9b6-7ff300a35fc6",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3b6d966c2c14664193",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "90318fad-b94c-4bde-b73a-beb42fa01617",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3b6d966c2c14664193",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "971a5ffb-8147-4d80-b61a-106d364e1f7c",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3c6d966c2c14665ae5",
+    "WDSDataId": "68357b3c6d966c2c14665e96",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "6c5a6e35-62c8-4dba-9742-222f5887e493",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c14665ae5",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "099d633d-ff8a-4fc5-bee8-ccd260c915cc",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c14665ae5",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "5a910c18-af9c-496b-9578-ee2ec5d29ba8",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3c6d966c2c14666949",
+    "WDSDataId": "68357b3c6d966c2c14666cbf",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "332091af-473b-47e3-af71-c673785e4b13",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c14666949",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "c984b0f6-d33d-410a-984d-b7887d9afe66",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c14666949",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3ffc67c5-49d3-41e0-be87-850884cd8581",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3c6d966c2c146676d5",
+    "WDSDataId": "68357b3c6d966c2c14667a7e",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "ce564daa-c08b-40be-8636-486adf18407d",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c146676d5",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "49478b9c-dea7-40c8-b962-8dab4c763f64",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3c6d966c2c146676d5",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "a91f5c32-01ad-4117-b3c0-113e14a88ede",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3d6d966c2c14668531",
+    "WDSDataId": "68357b3d6d966c2c1466887b",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "63c25069-8cc2-4ad5-a447-f510f88b50de",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c14668531",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3eb6a729-d7fe-433a-af2e-e7ca0dc2c453",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c14668531",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "e3e022b2-327f-42c5-a83c-820476fa4091",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3e6d966c2c1466a189",
+    "WDSDataId": "68357b3e6d966c2c1466a4d7",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "94636dc2-f698-4473-8066-1489bf9015d6",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3e6d966c2c1466a189",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "5898e46f-f7c9-46c0-bcee-42fa302bd221",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3e6d966c2c1466a189",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "caa25aa3-4235-46e9-9a97-6c2ea8d1f0d9",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3e6d966c2c1466b184",
+    "WDSDataId": "68357b3e6d966c2c1466b4e1",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "eac527fe-78f1-4a03-bc6a-581f3996fc90",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3e6d966c2c1466b184",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "10108a81-0cc8-4f36-b898-d27f4a32ae94",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3e6d966c2c1466b184",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "f99527b6-ee57-4b3a-9597-398a2509b4f1",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b3f6d966c2c1466beb8",
+    "WDSDataId": "68357b3f6d966c2c1466c568",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "984f4935-9ffb-4fef-9be9-cb7851611f50",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3f6d966c2c1466beb8",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "224f7274-a475-4d1f-85d0-b7ca28ba50d6",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3f6d966c2c1466beb8",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "73f367a2-7f63-4e12-8353-181224478a3e",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3f6d966c2c1466da68",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "139aa19d-bfc9-4941-9a20-81078a4fc039",
+    "Name": "Standard",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3f6d966c2c1466da68",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "ef6bee5a-3ffb-424e-81bd-1a118ca58cd0",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b406d966c2c1466e84c",
+    "WDSDataId": "68357b406d966c2c1466eba1",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "48951f3b-44a6-466c-ad94-a915f20b96d2",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "78d0896a-21f1-4995-9517-92d231e9fa50",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3fc301a3-fd3b-4e19-82a5-d38e71e990cfs",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c146691f5",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "5e839955-2c2b-4a53-92d6-6d190dc1fdeas",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c146691f5",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  }
+]

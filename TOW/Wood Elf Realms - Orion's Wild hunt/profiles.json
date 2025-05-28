@@ -1,0 +1,2765 @@
+[
+  {
+    "Id": "68357cf36d966c2c14bdb265",
+    "Name": "Araloth, Lord of Talsyn",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1751-0dbe-b0dd-2f9c": "Boldest of the Bold",
+      "9fff-999f-6e96-e149": "Evasive",
+      "87ae-4d49-7f58-085f": "Favour of the Goddess",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "605a-2b9a-7e83-441d": "Skaryn the Eye Thief",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "0e4f-f4c2-dda3-106b": "Spear of Talsyn"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Araloth, Lord of Talsyn",
+        "Values": {
+          "M": "5",
+          "WS": "8",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "3",
+          "I": "8",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "0e4f-f4c2-dda3-106b": "Spear of Talsyn"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cf36d966c2c14bdb434",
+    "Name": "Hound of Orion",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "de18-9243-99b8-e4c0": "Spectral Hounds",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hound of Orion",
+        "Values": {
+          "M": "9",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cf36d966c2c14bdb42c",
+    "Name": "Orion, the King in the Woods",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d02d-982c-5880-ea5c": "Cloak of Isha",
+      "c63a-9e6c-d0ea-4aac": "Hawk's Talon",
+      "7a6b-bb43-f56f-83a9": "Horn of the Wild Hunt",
+      "1004-049d-01ed-b2e5": "Spear of Kurnous",
+      "0225-ebef-3cf8-2b9d": "Spear of Kurnous"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Orion, the King in the Woods",
+        "Values": {
+          "M": "9",
+          "WS": "8",
+          "BS": "6",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "8",
+          "A": "5",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d02d-982c-5880-ea5c": "Cloak of Isha",
+          "c63a-9e6c-d0ea-4aac": "Hawk's Talon",
+          "7a6b-bb43-f56f-83a9": "Horn of the Wild Hunt",
+          "1004-049d-01ed-b2e5": "Spear of Kurnous",
+          "0225-ebef-3cf8-2b9d": "Spear of Kurnous"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "2eb9aeab-852f-403b-bfe2-c145af76f169",
+    "Name": "Elven Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "84"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Elven Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "eb58fb4d-99f6-4eb5-85cb-1c8b3fc10d94",
+    "Name": "Great Stag",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "120"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "d43d-b899-cd36-9ba7": "Crown Of Antlers",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "785a-2886-af42-dce9": "First Charge",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "34a4-ebfb-91a-a8dd": "Mighty antlers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Stag",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "34a4-ebfb-91a-a8dd": "Mighty antlers"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "5837f758-95bc-4f46-b9c0-b4ac1a260844",
+    "Name": "Warhawk",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "100"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhawk",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "db4527b8-7fab-4b5a-adb8-92ba8f40659a",
+    "Name": "Great Eagle",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "130"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Eagle",
+        "Values": {
+          "M": "2",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "+1",
+          "W": "+1",
+          "I": "4",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cf36d966c2c14bdb5ff",
+    "Name": "Glade Captain",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Glade Captain",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "6",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "32d2d1e6-0371-4f0c-80d1-f217c661d832",
+    "Name": "Elven Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "149"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Elven Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "b422003f-41a9-4bdc-a5a6-e6dde16e1b2e",
+    "Name": "Great Stag",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "185"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "d43d-b899-cd36-9ba7": "Crown Of Antlers",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "785a-2886-af42-dce9": "First Charge",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "34a4-ebfb-91a-a8dd": "Mighty antlers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Stag",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "34a4-ebfb-91a-a8dd": "Mighty antlers"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "aaac9205-f28a-4f12-b60b-e268e1a93ff7",
+    "Name": "Warhawk",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "165"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhawk",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "38869f4c-eb2c-49fd-8a0e-e00efc0be9b7",
+    "Name": "Forest Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "410"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8d45-3cca-ff3-20f": "Soporific breath",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Forest Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8d45-3cca-ff3-20f": "Soporific breath",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "cae1083e-5640-4f49-a482-b5c6b9072a35",
+    "Name": "Great Eagle",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "195"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Eagle",
+        "Values": {
+          "M": "2",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "+1",
+          "W": "+1",
+          "I": "4",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cf46d966c2c14bde987",
+    "Name": "Glade Lord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "9e77-e167-9d98-6ff1": "The Arrow Of Kurnous",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Glade Lord",
+        "Values": {
+          "M": "5",
+          "WS": "7",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "3",
+          "I": "6",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cf66d966c2c14be1e37",
+    "Name": "Shadowdancer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "c674-9774-b6f6-cc13": "Troubadour of Loec",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Shadowdancers",
+        "Values": {
+          "M": "5",
+          "WS": "8",
+          "BS": "6",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "7",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "ce1174b8-6a30-4f6c-abbd-e2bff8240db8",
+    "Name": "Elven Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "94"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "7f99-6c97-9b99-ab2e": "Lore of Athel Loren",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Elven Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "66b2d302-ee52-4ad7-a43a-ff376c77e0ed",
+    "Name": "Warhawk",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "110"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "7f99-6c97-9b99-ab2e": "Lore of Athel Loren",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhawk",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "1d2edcf1-1546-4666-846e-93f5ec5d68d5",
+    "Name": "Great Eagle",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "140"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "7f99-6c97-9b99-ab2e": "Lore of Athel Loren",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Eagle",
+        "Values": {
+          "M": "2",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "+1",
+          "W": "+1",
+          "I": "4",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "16b4d82d-65c0-4433-abfb-39e185f0c954",
+    "Name": "Unicorn",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "115"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Unicorn Only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "a71and Ambush4-9173-806f-c32d": "Beguiling Aura",
+      "5186-798d-69d-6545": "Counter Charge",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "7f99-6c97-9b99-ab2e": "Lore of Athel Loren",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Unicorn",
+        "Values": {
+          "M": "10",
+          "WS": "4",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "5",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf66d966c2c14be2656",
+    "Name": "Spellsinger",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "7f99-6c97-9b99-ab2e": "Lore of Athel Loren",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5257-9f83-ca92-9453": "High Magic"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Spellsinger",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5257-9f83-ca92-9453": "High Magic"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cf76d966c2c14be5754",
+    "Name": "Waystalker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "f229-4b9d-faba-7568": "Hawk-eyed Archer",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Waystalkers",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "5",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cf76d966c2c14be67da",
+    "Name": "Glade Knight (Glade Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Glade Knight",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Elven Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf76d966c2c14be5f82",
+    "Name": "Glade Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Glade Riders",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Elven Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf86d966c2c14be8a51",
+    "Name": "Wild Hunter (Wild Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5df6-55ba-e648-e1b5": "Hunting spear",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wild Hunter",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Steeds of Kurnous",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf86d966c2c14be809b",
+    "Name": "Wild Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5df6-55ba-e648-e1b5": "Hunting spear",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wild Riders",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Steeds of Kurnous",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf96d966c2c14beb0f2",
+    "Name": "Handmaiden of the Thorn (Sister Of The Thorn)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2eab-a965-2f01-1b5b": "Daughters Of Eternity",
+      "39d9-c621-bd14-c720": "Deepwood Covern",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Handmaiden of the Thorn",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "6",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Steeds of Isha",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cf96d966c2c14bea747",
+    "Name": "Sister Of The Thorn",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2eab-a965-2f01-1b5b": "Daughters Of Eternity",
+      "39d9-c621-bd14-c720": "Deepwood Covern",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sisters Of The Thorn",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Steeds of Isha",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "aa33-5cc9-80ab-d823": "Blackbriar Javelines",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cfa6d966c2c14bedf54",
+    "Name": "Champion (Wardancer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6630-29b8-8574-30d4": "Dances of Loec",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wardancers",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "6",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cf96d966c2c14becdc9",
+    "Name": "Wardancer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6630-29b8-8574-30d4": "Dances of Loec",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wardancers",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "6",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfa6d966c2c14bf04a6",
+    "Name": "Wind Rider (Warhawk Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wind Rider",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Warhawk",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cfa6d966c2c14befc6b",
+    "Name": "Warhawk Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhawk Riders",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Warhawk",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cfb6d966c2c14bf166c",
+    "Name": "Wild Hunter (Wild Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5df6-55ba-e648-e1b5": "Hunting spear",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wild Hunter",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Steeds of Kurnous",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cfa6d966c2c14bf0cbb",
+    "Name": "Wild Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "2607-d20d-bd9a-871f": "Talismanic Tattoos",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5df6-55ba-e648-e1b5": "Hunting spear",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wild Riders",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Steeds of Kurnous",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5df6-55ba-e648-e1b5": "Hunting spear",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cfb6d966c2c14bf3353",
+    "Name": "Beast Keeper",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "f569-fb1b-7300-4124": "Run with the Pack",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Beast Keeper",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf3d5a",
+    "Name": "Lord's Bowman (Deepwood Scout)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lord's Bowman",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf354f",
+    "Name": "Deepwood Scout",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Deepwood Scouts",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf5564",
+    "Name": "Great Eagle (Great Eagles)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Eagle",
+        "Values": {
+          "M": "2",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf5f3b",
+    "Name": "Sentinel (Waywatcher)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sentinel",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "6",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf5723",
+    "Name": "Waywatcher",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "a401-372d-446e-d27c": "Ignores Cover",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "cc99-a848-e853-6b44": "Asrai Longbow",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Waywatchers",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "cc99-a848-e853-6b44": "Asrai Longbow",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf70e5",
+    "Name": "Wildwood Warden (Wildwood Ranger)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "ee3d-981c-3be0-7aef": "Guardians Of The Wildwood",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e959-3fea-756f-c213": "Ranger's Glaive"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wildwood Warden",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e959-3fea-756f-c213": "Ranger's Glaive"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf6743",
+    "Name": "Wildwood Ranger",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a8c1-1eef-eaba-d157": "Elven Reflexes",
+      "ee3d-981c-3be0-7aef": "Guardians Of The Wildwood",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e959-3fea-756f-c213": "Ranger's Glaive"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wildwood Rangers",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e959-3fea-756f-c213": "Ranger's Glaive"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf9312",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf8dc6",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357cfe6d966c2c14bf9df0",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357cfe6d966c2c14bf9fac",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cfe6d966c2c14bfa1ba",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfac8f",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfaa94",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfae6a",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfae73",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfae7c",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cff6d966c2c14bfae85",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

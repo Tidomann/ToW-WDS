@@ -1,0 +1,797 @@
+[
+  {
+    "Id": "68357bc36d966c2c147f624e",
+    "Name": "Bruiser",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Stonehorn",
+        "Thundertusk",
+        "Battle Standard Bearer",
+        "Additional Hand Weapon",
+        "Ironfist",
+        "Great Weapon",
+        "Ogre Pistol",
+        "Brace Of Ogre Pistols",
+        "Hand Weapon",
+        "Horns of stone",
+        "Great tusks",
+        "Chill breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "13a083da-6af7-4ef1-a955-ec2a1ea76503",
+      "791bca56-feaf-43b8-a253-9d4e23937622",
+      "1efa6aaf-40cb-41c4-afc2-365fc4fe5c21"
+    ],
+    "ProfileIds": [
+      "68357bc36d966c2c147f6251"
+    ]
+  },
+  {
+    "Id": "68357bc36d966c2c147f81ef",
+    "Name": "Butcher",
+    "Attributes": {
+      "totalCost": "105",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc36d966c2c147f81f2"
+    ]
+  },
+  {
+    "Id": "68357bc46d966c2c147f8be2",
+    "Name": "Firebelly",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Hand Weapon",
+        "Flaming breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc46d966c2c147f8be5"
+    ]
+  },
+  {
+    "Id": "68357bc46d966c2c147f95a8",
+    "Name": "Hunter",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Stonehorn",
+        "Thundertusk",
+        "Additional Hand Weapon",
+        "Harpoon Launcher",
+        "Hand Weapon",
+        "Great throwing spears",
+        "Horns of stone",
+        "Great tusks",
+        "Chill breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c624bc7b-3988-4dd2-bce6-6511758fc347",
+      "ad53b664-129f-41d0-8ad6-1360cf6ce314",
+      "bfebcf5a-e090-48c8-93e5-498ca4ab0aeb"
+    ],
+    "ProfileIds": [
+      "68357bc46d966c2c147f95ab"
+    ]
+  },
+  {
+    "Id": "68357bc56d966c2c147fb051",
+    "Name": "Slaughtermaster",
+    "Attributes": {
+      "totalCost": "230",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc56d966c2c147fb059"
+    ]
+  },
+  {
+    "Id": "68357bc56d966c2c147fba49",
+    "Name": "Tyrant",
+    "Attributes": {
+      "totalCost": "185",
+      "category": "Characters",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Stonehorn",
+        "Thundertusk",
+        "Additional Hand Weapon",
+        "Ironfist",
+        "Great Weapon",
+        "Ogre Pistol",
+        "Brace Of Ogre Pistols",
+        "Hand Weapon",
+        "Horns of stone",
+        "Great tusks",
+        "Chill breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "54deab52-5bbe-4cba-8128-3145ff11d7a8",
+      "e97ddfcd-27c2-4ca1-8cb1-6d73ec5fc107",
+      "c4a0b677-b24b-4471-83e7-d030607efde5"
+    ],
+    "ProfileIds": [
+      "68357bc56d966c2c147fba51"
+    ]
+  },
+  {
+    "Id": "68357bc56d966c2c147fd513",
+    "Name": "Gnoblar Fighters",
+    "Attributes": {
+      "totalCost": "2",
+      "category": "Core",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Throwing Weapon",
+        "Groinbiter",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b860b70a-73a6-4208-9e2b-5b07745c9cb0"
+    ],
+    "ProfileIds": [
+      "68357bc56d966c2c147fd516"
+    ]
+  },
+  {
+    "Id": "68357bc66d966c2c147fd99b",
+    "Name": "Gnoblar Trappers",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Throwing Weapon",
+        "Snarefinger",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "27502d3d-8fce-404b-b707-ecab8fe6627d"
+    ],
+    "ProfileIds": [
+      "68357bc66d966c2c147fd99e"
+    ]
+  },
+  {
+    "Id": "68357bc66d966c2c147fde23",
+    "Name": "Ironguts",
+    "Attributes": {
+      "totalCost": "39",
+      "category": "Core",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Gutlord",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6cc94d35-ce01-4d0d-abce-af65c15b6b09",
+      "f2ba80ca-8bc8-4a1f-8c51-ab1540f486de",
+      "ba10da68-0da5-45e1-ac0e-5c45a0b3a935"
+    ],
+    "ProfileIds": [
+      "68357bc66d966c2c147fde26"
+    ]
+  },
+  {
+    "Id": "68357bc76d966c2c148006b7",
+    "Name": "Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Core",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Crusher",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "792f8111-018b-4663-a007-ce73e94a47ff",
+      "860a2484-c0d5-4826-b9f6-3d0d8bc399ba",
+      "f462b06b-10b4-4105-8b2f-741ce5e833c8"
+    ],
+    "ProfileIds": [
+      "68357bc76d966c2c148006bc"
+    ]
+  },
+  {
+    "Id": "68357bc76d966c2c1480104b",
+    "Name": "Sabretusk Packs",
+    "Attributes": {
+      "totalCost": "17",
+      "category": "Core",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc76d966c2c1480104e"
+    ]
+  },
+  {
+    "Id": "68357bc76d966c2c14801291",
+    "Name": "Gnoblar Scraplauncher",
+    "Attributes": {
+      "totalCost": "140",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Throwing Weapon",
+        "Scraplauncher catapult"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc76d966c2c1480129a"
+    ]
+  },
+  {
+    "Id": "68357bc76d966c2c148014ea",
+    "Name": "Ironblaster",
+    "Attributes": {
+      "totalCost": "185",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Throwing Weapon",
+        "Cannon of the Sky-Titans"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc76d966c2c148014f2"
+    ]
+  },
+  {
+    "Id": "68357bc76d966c2c1480174d",
+    "Name": "Leadbelchers",
+    "Attributes": {
+      "totalCost": "41",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Leadbelcher Gun",
+        "Thunderfist",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7cb8dbb3-b38e-450c-b397-95887e9e4446",
+      "6f097cf1-c06a-4770-82e1-0127faf37c70"
+    ],
+    "ProfileIds": [
+      "68357bc76d966c2c14801750"
+    ]
+  },
+  {
+    "Id": "68357bc86d966c2c14801e49",
+    "Name": "Maneaters",
+    "Attributes": {
+      "totalCost": "54",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Ironfist",
+        "Great Weapon",
+        "Ogre Pistol",
+        "Brace Of Ogre Pistols",
+        "Maneater Captain",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ef951a81-ec25-4b20-a451-e18c2f15986d",
+      "7e4b0321-3475-437a-8a44-5a96c26e6fa0",
+      "58c6dbb3-62dc-4c97-a334-02f7c5e1e965"
+    ],
+    "ProfileIds": [
+      "68357bc86d966c2c14801e64"
+    ]
+  },
+  {
+    "Id": "68357bc86d966c2c14804824",
+    "Name": "Mournfang Cavalry",
+    "Attributes": {
+      "totalCost": "64",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Monstrous tusks",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Crusher",
+        "Brace Of Ogre Pistols",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ee0cd12c-1ef5-4809-961b-511efdb17243",
+      "d3295c18-2d56-49e8-986e-77c4a96d90de",
+      "835138b0-30bd-4e25-91f7-40dbbb20b7b2"
+    ],
+    "ProfileIds": [
+      "68357bc86d966c2c1480482c"
+    ]
+  },
+  {
+    "Id": "68357bc96d966c2c14806acc",
+    "Name": "Yhetees",
+    "Attributes": {
+      "totalCost": "46",
+      "category": "Special",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Grimfrost weapon",
+        "Greyback",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c19e2307-b3c6-4bcd-86d9-85b28e3912ae"
+    ],
+    "ProfileIds": [
+      "68357bc96d966c2c14806acf"
+    ]
+  },
+  {
+    "Id": "68357bc96d966c2c14806f58",
+    "Name": "Giants",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Rare",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Giant's Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc96d966c2c14806f5b"
+    ]
+  },
+  {
+    "Id": "68357bc96d966c2c14807196",
+    "Name": "Gorgers",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Rare",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked claws",
+        "Distensible jaw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bc96d966c2c1480719b"
+    ]
+  },
+  {
+    "Id": "68357bca6d966c2c148073e4",
+    "Name": "Stonehorn Riders",
+    "Attributes": {
+      "totalCost": "245",
+      "category": "Rare",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaintrap",
+        "Blood vulture",
+        "Hand Weapon",
+        "Harpoon Launcher",
+        "Horns of stone"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bca6d966c2c148073ec"
+    ]
+  },
+  {
+    "Id": "68357bca6d966c2c14807648",
+    "Name": "Thundertusk Riders",
+    "Attributes": {
+      "totalCost": "215",
+      "category": "Rare",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaintrap",
+        "Blood vulture",
+        "Hand Weapon",
+        "Harpoon Launcher",
+        "Great tusks",
+        "Chill breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bca6d966c2c14807650"
+    ]
+  },
+  {
+    "Id": "68357bca6d966c2c148078b1",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e768e0f0-1dc8-433c-9a53-09d5788ebd89",
+      "849440c0-cfc2-4d64-8ace-a025b53bfdb2",
+      "e3ff6123-370f-4d83-be85-cf1e97ba48db"
+    ],
+    "ProfileIds": [
+      "68357bca6d966c2c148078cf"
+    ]
+  },
+  {
+    "Id": "68357bca6d966c2c14808b08",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bca6d966c2c14808b11"
+    ]
+  },
+  {
+    "Id": "68357bcb6d966c2c14808d4d",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bcb6d966c2c14808d56"
+    ]
+  },
+  {
+    "Id": "68357bcb6d966c2c14808f92",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bcb6d966c2c14808f98"
+    ]
+  },
+  {
+    "Id": "68357bcb6d966c2c14809226",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "850dce57-0d95-41c0-a24c-5761d66c83d2",
+      "2f237f2e-8efa-4cc5-a37c-a12930f67447"
+    ],
+    "ProfileIds": [
+      "68357bcb6d966c2c1480922c"
+    ]
+  },
+  {
+    "Id": "68357bcb6d966c2c14809d0a",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9d7814f4-a626-4e8e-8cf8-47753461c25d"
+    ],
+    "ProfileIds": [
+      "68357bcb6d966c2c14809d1e"
+    ]
+  },
+  {
+    "Id": "68357bcc6d966c2c1480a1f4",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Ogre Kingdoms",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "866b22fb-28e9-4adb-841a-c420cbedad81",
+      "31cf7bcc-55dc-4845-8209-bfc37fcb7505"
+    ],
+    "ProfileIds": [
+      "68357bcc6d966c2c1480a200",
+      "68357bcc6d966c2c1480a209",
+      "68357bcc6d966c2c1480a212",
+      "68357bcc6d966c2c1480a21b"
+    ]
+  }
+]

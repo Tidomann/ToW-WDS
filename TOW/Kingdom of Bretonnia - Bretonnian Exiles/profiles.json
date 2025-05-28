@@ -1,0 +1,3014 @@
+[
+  {
+    "Id": "68357b8f6d966c2c14737be9",
+    "Name": "Sir Cecil Gastonne",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "5df9-8493-b680-edd0": "The Exile’s Vow",
+      "e0fd-c587-5727-5ad9": "The Wyrm Slayer",
+      "56ef-dedb-7199-3ab6": "Dragonhide Cloak",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "7d0a-428d-8f17-c07e": "Sorrow’s End"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sir Cecil Gastonne",
+        "Values": {
+          "M": "4",
+          "WS": "7",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "5",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "56ef-dedb-7199-3ab6": "Dragonhide Cloak",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "7d0a-428d-8f17-c07e": "Sorrow’s End"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b8f6d966c2c14737faf",
+    "Name": "The Green Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "3922-1014-8e75-a126": "Aura Of The Fay",
+      "5893-8820-e358-d20f": "Blessed Knight",
+      "6561-8029-dac3-162": "Ethereal",
+      "de36-314b-6886-b2ee": "Guardian Of The Sacred Sites",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "a10e-13b7-e959-ab5": "Unstable",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "b783-ab7e-dbf9-5b11": "The Dolorous Blade (Deadly blows)",
+      "b1df-7321-f745-aee7": "The Dolorous Blade (Rapid strikes)",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "The Green Knight",
+        "Values": {
+          "M": "-",
+          "WS": "7",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "6",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "b783-ab7e-dbf9-5b11": "The Dolorous Blade (Deadly blows)",
+          "b1df-7321-f745-aee7": "The Dolorous Blade (Rapid strikes)"
+        }
+      },
+      {
+        "Name": "The Shadow Steed",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "850300f0-1f39-466c-a850-e28d3b427310",
+    "Name": "Bretonnian Warhorse",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "116"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "9d91d3ae-c10f-4a52-92f3-43e3b8324bac",
+    "Name": "Royal Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "160"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Royal Pegasus only)",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Royal Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "5",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "f4070176-4061-44c5-9389-2ffafc1f3b7e",
+    "Name": "Barded Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "130"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Barded Pegasus",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "d60e89d3-0778-4fd1-9e63-3d39b3f29b9d",
+    "Name": "Hippogryph",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "220"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hippogryph",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+3)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b8f6d966c2c14738380",
+    "Name": "Baron",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Baron",
+        "Values": {
+          "M": "4",
+          "WS": "6",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "5",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "f1d7ffb6-d36d-4e52-b6a8-a8c3513884c7",
+    "Name": "Bretonnian Warhorse",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "76"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "492-9fe3-86af-2ca0": "Aura of the Lady",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c21-d1d5-9884-bce9": "Lore of the Lady",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "58ff-56d9-4cba-ccc": "Shield of the Lady",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "549ebf6f-d1ab-4258-b787-8b01e61d56d7",
+    "Name": "Warhorse",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "72"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "492-9fe3-86af-2ca0": "Aura of the Lady",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "5c21-d1d5-9884-bce9": "Lore of the Lady",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "58ff-56d9-4cba-ccc": "Shield of the Lady",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "3a6a376a-119b-4f72-890a-fca920663d10",
+    "Name": "Unicorn",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "95"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Unicorn only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "492-9fe3-86af-2ca0": "Aura of the Lady",
+      "59aa-eea8-56d3-1039": "Beguiling Aura",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "5c21-d1d5-9884-bce9": "Lore of the Lady",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "58ff-56d9-4cba-ccc": "Shield of the Lady",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Unicorn",
+        "Values": {
+          "M": "10",
+          "WS": "4",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "5",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b906d966c2c1473b876",
+    "Name": "Damsel",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "492-9fe3-86af-2ca0": "Aura of the Lady",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5c21-d1d5-9884-bce9": "Lore of the Lady",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "58ff-56d9-4cba-ccc": "Shield of the Lady",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Damsel",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "c977bff6-7e9f-46ca-966a-e23918d969e1",
+    "Name": "Warhorse",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "57"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "96ca-2ea5-617-1189": "Untutored Arcanist",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b916d966c2c1473e5b7",
+    "Name": "Outcast Wizard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "96ca-2ea5-617-1189": "Untutored Arcanist",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Outcast Wizard",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "c559b0ec-8c89-41fb-bb87-9ed28040b8ee",
+    "Name": "Bretonnian Warhorse",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "76"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "3be9531e-e356-452d-8745-f1656ad1d556",
+    "Name": "Royal Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "120"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Royal Pegasus only)",
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Royal Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "5",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "88033d1d-31fd-48a5-aa77-6ec970c209cb",
+    "Name": "Barded Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "90"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Barded Pegasus",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b916d966c2c1473fc50",
+    "Name": "Paladin",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Paladin",
+        "Values": {
+          "M": "4",
+          "WS": "6",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "97617950-8325-4d78-88b6-5dc2edefeea2",
+    "Name": "Warhorse",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "57"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "a0db-bdf1-3b5d-b099": "Peasant's Duty",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b926d966c2c14742cd0",
+    "Name": "Sergeant-At-Arms",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8cc3-d6f5-da17-6600": "Levies",
+      "a0db-bdf1-3b5d-b099": "Peasant's Duty",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sargent-At-Arms",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "2",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b936d966c2c147446a6",
+    "Name": "Gallant (Knight Errant)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gallant",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b936d966c2c147440ee",
+    "Name": "Knight Errant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Knight Errant",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b936d966c2c1474630f",
+    "Name": "First Knight (Knight of the Realm)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "First Knight",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b936d966c2c14745763",
+    "Name": "Knight of the Realm",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Knight of the Realm",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b946d966c2c147489d3",
+    "Name": "Grail Monk (Man-At-Arms)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e7c7-b48f-7d2c-b337": "Polearm (Double-handed)",
+      "985a-110b-3393-79b7": "Polearm (Single handed)",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Grail Monk",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e7c7-b48f-7d2c-b337": "Polearm (Double-handed)",
+          "985a-110b-3393-79b7": "Polearm (Single handed)",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b946d966c2c147485f5",
+    "Name": "Man-At-Arms",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e7c7-b48f-7d2c-b337": "Polearm (Double-handed)",
+      "985a-110b-3393-79b7": "Polearm (Single handed)",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Man-at-Arms",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e7c7-b48f-7d2c-b337": "Polearm (Double-handed)",
+          "985a-110b-3393-79b7": "Polearm (Single handed)",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b946d966c2c14749527",
+    "Name": "Mounted Knight of the Realm",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mounted Knight of the Realm",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b956d966c2c1474c84e",
+    "Name": "Warden (Mounted Yeomen)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "1b65-71ef-52a3-93d0": "Shortbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warden",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "1b65-71ef-52a3-93d0": "Shortbow"
+        }
+      },
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b956d966c2c1474c449",
+    "Name": "Mounted Yeomen",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "1b65-71ef-52a3-93d0": "Shortbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mounted Yeomen",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "1b65-71ef-52a3-93d0": "Shortbow"
+        }
+      },
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b966d966c2c1474d7dc",
+    "Name": "Villein (Peasant Bowman)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "16e8-23be-ce45-768d": "Longbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Villein",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "16e8-23be-ce45-768d": "Longbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b956d966c2c1474d3fb",
+    "Name": "Peasant Bowman",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "16e8-23be-ce45-768d": "Longbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Peasant Bowman",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "16e8-23be-ce45-768d": "Longbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b966d966c2c1474e8b7",
+    "Name": "Warden (Yeoman Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "4022-c403-b083-ba83": "Veteran",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warden",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b966d966c2c1474e337",
+    "Name": "Yeoman Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "4022-c403-b083-ba83": "Veteran",
+      "505f-e12d-2e36-31d0": "Warband",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Yeoman Guard",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b966d966c2c1474f91a",
+    "Name": "Battle Pilgrim",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (All Enemies)",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Battle Pilgrim",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b976d966c2c1475028d",
+    "Name": "First Knight (Pegasus Knight)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "2a78-f58a-ac7f-87ae": "Dispersed Formation",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "First Knight",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Barded Pegasus",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b976d966c2c1474fcda",
+    "Name": "Pegasus Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "5186-798d-69d-6545": "Counter Charge",
+      "2a78-f58a-ac7f-87ae": "Dispersed Formation",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8ce9-c356-89db-b011": "The Knight's Vow",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pegasus Knight",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Barded Pegasus",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b976d966c2c1475170a",
+    "Name": "Esquire (Squire)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "16e8-23be-ce45-768d": "Longbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Esquire",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "16e8-23be-ce45-768d": "Longbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b976d966c2c1475133e",
+    "Name": "Squire",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "16e8-23be-ce45-768d": "Longbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Squire",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "16e8-23be-ce45-768d": "Longbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b986d966c2c14752254",
+    "Name": "Bombard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8cc3-d6f5-da17-6600": "Levies",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "2746-8b42-242b-8634": "Bombard"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bombard",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "7",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "2746-8b42-242b-8634": "Bombard"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b986d966c2c147536b2",
+    "Name": "Champion (Brigand)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Desperado",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b986d966c2c1475262b",
+    "Name": "Brigand",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Brigand",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b986d966c2c1475557b",
+    "Name": "Field Trebuchet",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8cc3-d6f5-da17-6600": "Levies",
+      "36a8-2e1e-31ba-afae": "Peasantry",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "ffd7-6700-ecb9-1b17": "Field Trebuchet",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Field Trebuchet",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "7",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ffd7-6700-ecb9-1b17": "Field Trebuchet"
+        }
+      },
+      {
+        "Name": "Peasant Crew",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "4",
+          "I": "3",
+          "A": "4",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b996d966c2c14756527",
+    "Name": "Paragon (Questing Knights)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "1439-c8b1-9ff8-298a": "The Questing Vow",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Paragon",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "2",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b996d966c2c14755932",
+    "Name": "Questing Knights",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8e9-e956-786-d941": "Blessings of the Lady",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "abb5-9813-5e95-1d94": "Finest Warhorses",
+      "785a-2886-af42-dce9": "First Charge",
+      "cc9a-f69f-d2e7-b352": "Lance Formation",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "1439-c8b1-9ff8-298a": "The Questing Vow",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Questing Knight",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "2",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Bretonnian Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b996d966c2c1475901f",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b996d966c2c147588d9",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a0eb",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a4a1",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9a6d966c2c1475ac72",
+    "Name": "Marksman (Archer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Marksman",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a8a6",
+    "Name": "Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Archer",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9b6d966c2c1475b3f6",
+    "Name": "Militia Leader (Militia Fighter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Militia Leader",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9b6d966c2c1475b02f",
+    "Name": "Militia Fighter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "559-d4c6-b2e8-500f": "Detachment",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "505f-e12d-2e36-31d0": "Warband",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Militia Fighter",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9b6d966c2c1475b7ad",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9b6d966c2c1475cc64",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b9b6d966c2c1475c86f",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b9c6d966c2c1475d039",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9c6d966c2c1475d042",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9c6d966c2c1475d04b",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b9c6d966c2c1475d054",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

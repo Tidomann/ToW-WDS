@@ -1,0 +1,3392 @@
+[
+  {
+    "Id": "c7301734-eaac-458d-aca5-c62cb8b0d4ca",
+    "Name": "War Boar",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "91"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide",
+      "b592-330-5a29-162f": "Choppas",
+      "5186-798d-69d-6545": "Counter Charge",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "c66fbbe6-dfa1-49a8-86db-48d782a25809",
+    "Name": "Orc Boar Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "165"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "78e4-fffe-6662-41fe": "Ignore Goblin Panic",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Orc Boar Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Orc Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b41722e4-f54d-4f2a-878f-360f397b09b2",
+    "Name": "Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "207"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Black Orc Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b0a6d966c2c145e54d3",
+    "Name": "Black Orc Bigboss",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Orc Bigboss",
+        "Values": {
+          "M": "4",
+          "WS": "6",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "dd35d93a-2eff-4c01-81d1-a021dbc14349",
+    "Name": "War Boar",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "151"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide",
+      "b592-330-5a29-162f": "Choppas",
+      "5186-798d-69d-6545": "Counter Charge",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "a6f9cad5-e92f-4c58-b40b-529b141c57b1",
+    "Name": "Orc Boar Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "225"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "78e4-fffe-6662-41fe": "Ignore Goblin Panic",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Orc Boar Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Orc Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "f35edd65-de62-40d8-a2cf-a535f3dce3a9",
+    "Name": "Wyvern",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "265"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "c761-4dde-b2c8-b6fe": "Venomous Tail",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wyvern",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "3",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "c761-4dde-b2c8-b6fe": "Venomous Tail",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "c6f5ad13-b294-44c7-b829-c9dac09459f6",
+    "Name": "Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "267"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 3+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Black Orc Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b0b6d966c2c145e81c5",
+    "Name": "Black Orc Warboss",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "7711-627f-5ae5-cc7c": "Waaagh!",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Orc Warboss",
+        "Values": {
+          "M": "4",
+          "WS": "7",
+          "BS": "3",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "6",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b0c6d966c2c145eb20e",
+    "Name": "Taur’ruk",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "10a-38e5-1cb4-80a3": "Stampede",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Taur’ruk",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "2",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "4",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "25f74603-cbf6-4be2-bfbb-bb8c8d70aa5a",
+    "Name": "Lammasu",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "180"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-3)",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "23c6-7ce-8a24-76ef": "Sorcerous Miasma",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lammasu",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+3)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "cc068ee3-3bd4-43c9-b0ed-44a357163382",
+    "Name": "Bale Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "245"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "7d45-cf86-c84a-d2e9": "Born of Fire",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bale Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "1fc2e7a8-281c-48f9-8147-1f797876a8a8",
+    "Name": "Great Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+4)",
+          "I": "3",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "721dbb4f-26ca-4465-8545-ad4d9b5534a1",
+    "Name": "Giant Wolf",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "95"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b0c6d966c2c145ebb2a",
+    "Name": "Daemonsmith Sorcerer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "256b-6a1-239c-178e": "Daemonology",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Daemonsmith Sorcerer",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "c65d8541-2499-4b53-add8-628e55c29706",
+    "Name": "Lammasu",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "140"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-3)",
+      "23c6-7ce-8a24-76ef": "Sorcerous Miasma",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lammasu",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+3)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "d621a771-af26-4f25-aa83-ee8311ea9e16",
+    "Name": "Bale Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "7d45-cf86-c84a-d2e9": "Born of Fire",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bale Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "43309818-fb7a-403f-9383-ab1b21481997",
+    "Name": "Great Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "165"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9fff-999f-6e96-e149": "Evasive",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+4)",
+          "I": "3",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "87e83384-fefd-4487-a1cd-0c0dcba35ce4",
+    "Name": "Giant Wolf",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "55"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b0d6d966c2c145ef094",
+    "Name": "Hobgoblin Khan",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "eee5-db12-1271-f2c5": "Throwing Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hobgoblin Khan",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "eee5-db12-1271-f2c5": "Throwing Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b0e6d966c2c145f1fcd",
+    "Name": "Infernal Castellan",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "144b-f554-392a-fd79": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Infernal Castellan",
+        "Values": {
+          "M": "3",
+          "WS": "6",
+          "BS": "4",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b0e6d966c2c145f4de0",
+    "Name": "Infernal Seneschal",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "144b-f554-392a-fd79": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Infernal Seneschal",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "fd7d00c1-1425-4b8d-9215-8d951bb52a97",
+    "Name": "Lammasu",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "290"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-3)",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "23c6-7ce-8a24-76ef": "Sorcerous Miasma",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lammasu",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+3)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "09db1cfb-84e6-4b6b-96b5-d42f7fc2d20b",
+    "Name": "Bale Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "7d45-cf86-c84a-d2e9": "Born of Fire",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bale Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "bd8c9717-4f5a-441c-965b-1c6d0b8dd2c7",
+    "Name": "Great Taurus",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "315"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "5a6-4b8e-d397-8d42": "Goring horns",
+      "9dd9-6632-bc76-803d": "Trampling hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Taurus",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "(+4)",
+          "I": "3",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "5a6-4b8e-d397-8d42": "Goring horns",
+          "9dd9-6632-bc76-803d": "Trampling hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6f6cd88c-3963-4af5-814d-31b5c57ed625",
+    "Name": "Giant Wolf",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b0f6d966c2c145f8404",
+    "Name": "Sorcerer-Prophet",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "ca2c-2a54-1cb5-d96": "Infernal Engineer",
+      "a81b-35e3-4e85-ca1e": "Lore of Hashut",
+      "144b-f554-392a-fd79": "Resolute",
+      "9b0a-3405-96ad-f20e": "Sorcerer’s Curse",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "256b-6a1-239c-178e": "Daemonology",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sorcerer-Prophet",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b116d966c2c145fcc4d",
+    "Name": "Champion (Black Orc)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Orc Boss",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b106d966c2c145fb984",
+    "Name": "Black Orc",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "7a44-b74f-ad39-c2c8": "Da Boyz",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "a097-2e5c-8366-efc1": "Ignore Panic",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "2fb3-330c-b6cb-fc2d": "Quell Impetuosity",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Orc",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b116d966c2c145feff8",
+    "Name": "Boss (Cutthroat)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b116d966c2c145fed0a",
+    "Name": "Cutthroat",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cutthroat",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b116d966c2c1460038d",
+    "Name": "Deathmask (Infernal Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "144b-f554-392a-fd79": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Deathmask",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b116d966c2c145ff8ad",
+    "Name": "Infernal Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "144b-f554-392a-fd79": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Infernal Guard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b126d966c2c14602ec5",
+    "Name": "Bull Centaur Ba’hal (Bull Centaur Render)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "10a-38e5-1cb4-80a3": "Stampede",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bull Centaur Ba’hal",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "2",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b126d966c2c14602406",
+    "Name": "Bull Centaur Render",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "10a-38e5-1cb4-80a3": "Stampede",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bull Centaur Render",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "2",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b126d966c2c14604ef1",
+    "Name": "Deathshrieker Rocket Launcher",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "f868-7407-c3aa-2c4a": "Demolition rockets",
+      "56c7-5da0-4e50-dd92": "Infernal incendiaries",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Deathshrieker Rocket Launcher",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "f868-7407-c3aa-2c4a": "Demolition rockets",
+          "56c7-5da0-4e50-dd92": "Infernal incendiaries"
+        }
+      },
+      {
+        "Name": "Chaos Dwarf Crew",
+        "Values": {
+          "M": "3",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b136d966c2c146051de",
+    "Name": "Bolt Thrower",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8cc3-d6f5-da17-6600": "Levies",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "36e4-28b4-31ff-39dc": "Bolt Thrower",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bolt Thrower",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "4",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "36e4-28b4-31ff-39dc": "Bolt Thrower"
+        }
+      },
+      {
+        "Name": "Hobgoblin Crew",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b136d966c2c14605f87",
+    "Name": "Overseer (Infernal Ironsworn)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "cc1-5422-b107-1d97": "Quell Panic",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "144b-f554-392a-fd79": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "4022-c403-b083-ba83": "Veteran",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Overseer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b136d966c2c146054be",
+    "Name": "Infernal Ironsworn",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "cc1-5422-b107-1d97": "Quell Panic",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "144b-f554-392a-fd79": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "4022-c403-b083-ba83": "Veteran",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Infernal Ironsworn",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b136d966c2c14607fcb",
+    "Name": "Iron Daemon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "76f2-3f15-7e93-f34b": "Carriage Hauler",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "d55d-df75-efbb-908b": "Grinding Wheels",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "82d1-5b25-be81-5f82": "Lumbering Destruction",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "e099-1ebb-9e85-34c8": "Armour Value :  3+",
+      "f24c-8b56-5aa4-307": "Steam Cannonade",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Iron Daemon",
+        "Values": {
+          "M": "5",
+          "WS": "-",
+          "BS": "-",
+          "S": "8",
+          "T": "7",
+          "W": "7",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  3+",
+          "f24c-8b56-5aa4-307": "Steam Cannonade"
+        }
+      },
+      {
+        "Name": "Chaos Dwarf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c14608bbb",
+    "Name": "Manburner (K’daai Fireborn)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "a10e-13b7-e959-ab5": "Unstable",
+      "c24d-4386-c1ef-f195": "Warp-Spawned",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manburner",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "2",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b136d966c2c146082af",
+    "Name": "K’daai Fireborn",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b8-6065-a1f7-2cf2": "Blazing Body",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e50-cfab-b320-3b1d": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "a10e-13b7-e959-ab5": "Unstable",
+      "c24d-4386-c1ef-f195": "Warp-Spawned",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "K’daai Fireborn",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "2",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c146094c7",
+    "Name": "Magma Cannon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "2694-34f1-f146-6351": "Fire Thrower",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Magma Cannon",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "2694-34f1-f146-6351": "Fire Thrower"
+        }
+      },
+      {
+        "Name": "Chaos Dwarf Crew",
+        "Values": {
+          "M": "3",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c14609a95",
+    "Name": "Murder Boss (Sneaky Git)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Murder Boss",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c146097ae",
+    "Name": "Sneaky Git",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sneaky Git",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c1460a054",
+    "Name": "Chaos Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e433-20e5-52c4-8f15": "Giant Attacks",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "5ef1-6977-b2a8-bb53": "Pick Up And...",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "742-e3dd-26f9-778f": "Giant's Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "2",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "742-e3dd-26f9-778f": "Giant's Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b146d966c2c1460a338",
+    "Name": "Dreadquake Mortar",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cbdf-d42c-ab0f-d3c6": "Blackshard Armour",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "4797-bd4f-f0c9-e6e0": "Dreadquake mortar",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dreadquake Mortar",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "7",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "4797-bd4f-f0c9-e6e0": "Dreadquake mortar"
+        }
+      },
+      {
+        "Name": "Chaos Dwarf Crew",
+        "Values": {
+          "M": "3",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460a633",
+    "Name": "Hellcannon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "fa6a-ab7-6580-a1ea": "Caged Fury",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "68ed-9275-f95a-a3f5": "Ensorcelled Weapons",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1084-a4e9-79f-3462": "Monster Handlers",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "c24d-4386-c1ef-f195": "Warp-Spawned",
+      "cf5a-3201-dddf-5561": "Doomfire",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hellcannon",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "5",
+          "T": "6",
+          "W": "5",
+          "I": "1",
+          "A": "5",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "cf5a-3201-dddf-5561": "Doomfire",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Chaos Dwarf Handler",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "cf5a-3201-dddf-5561": "Doomfire",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460ac26",
+    "Name": "Boss (Hobgoblin Wolf Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460a915",
+    "Name": "Hobgoblin Wolf Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "17a0-e08c-7414-b9e7": "Backstab",
+      "9fff-999f-6e96-e149": "Evasive",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8cc3-d6f5-da17-6600": "Levies",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hobgoblin Wolf Rider",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460bbb8",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460b54e",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b156d966c2c1460c9f0",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b166d966c2c1460cccd",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b166d966c2c1460cfa7",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b166d966c2c1460d2d3",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b166d966c2c1460e33e",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b166d966c2c1460e025",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460e637",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460e640",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460e649",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460e652",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

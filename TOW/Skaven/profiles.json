@@ -1,0 +1,1890 @@
+[
+  {
+    "Id": "68357bfa6d966c2c14875deb",
+    "Name": "Weapon Team Crew",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9944-e9db-28f2-c04f": "Deploying Weapon Teams",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "5b67-8535-146c-7cea": "Open Order",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "81e-3f45-7d99-d927": "Targeting Weapon Teams",
+      "9b30-4c0d-2758-1772": "Weapon Team Leadership",
+      "3655-6c21-81d0-3e19": "Doom-Flayer",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Weapon Team Crew",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "3655-6c21-81d0-3e19": "Doom-Flayer",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "dfb6b530-91b4-49fd-aa25-8cc5444790f4",
+    "Name": "Screaming Bell",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "370"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Rat Ogre only)",
+      "d1b-648-e07f-5175": "Blessings Of The Horned Rat",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "f768-e204-4c41-3dbc": "Scurrying Masses",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e5d7-5cab-a440-cf46": "Tolling The Bell",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Screaming Bell",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Rat Ogre Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "3",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bfa6d966c2c148760ea",
+    "Name": "Grey Seer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "a2a4-411e-1567-886": "Lore Of The Horned Rat",
+      "5226-1a14-c4ae-fbc3": "Warpstone Tokens"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Grey Seer",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "a2a4-411e-1567-886": "Lore Of The Horned Rat",
+          "5226-1a14-c4ae-fbc3": "Warpstone Tokens"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfa6d966c2c14877601",
+    "Name": "Master Assassin",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "f48b-78da-9aee-f1dc": "Eshin Infiltration",
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "8e17-dff-3ec8-ebab": "Hidden",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "eee5-db12-1271-f2c5": "Throwing Weapon",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master Assassin",
+        "Values": {
+          "M": "6",
+          "WS": "8",
+          "BS": "7",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "8",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "eee5-db12-1271-f2c5": "Throwing Weapon",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "cb083392-5076-4faa-b979-590b62574888",
+    "Name": "Plague Furnace",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "230"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a9e3-f7a2-26bc-60f7": "Cloud of Flies",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "83e6-6917-19d0-95fc": "Great Censer",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "f768-e204-4c41-3dbc": "Scurrying Masses",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "59ef-6830-122d-1967": "Billowing Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Furnace",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "59ef-6830-122d-1967": "Billowing Death"
+        }
+      },
+      {
+        "Name": "Plague Monk Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bfb6d966c2c14877f1c",
+    "Name": "Plague Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a9e3-f7a2-26bc-60f7": "Cloud of Flies",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "a2a4-411e-1567-886": "Lore Of The Horned Rat"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Priest",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "a2a4-411e-1567-886": "Lore Of The Horned Rat"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "d744241d-b143-45c0-a6a2-807db818670e",
+    "Name": "Plague Furnace",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "230"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a9e3-f7a2-26bc-60f7": "Cloud of Flies",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "83e6-6917-19d0-95fc": "Great Censer",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "f768-e204-4c41-3dbc": "Scurrying Masses",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "59ef-6830-122d-1967": "Billowing Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Furnace",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "59ef-6830-122d-1967": "Billowing Death"
+        }
+      },
+      {
+        "Name": "Plague Monk Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bfb6d966c2c148791bf",
+    "Name": "Plague Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a9e3-f7a2-26bc-60f7": "Cloud of Flies",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "a2a4-411e-1567-886": "Lore Of The Horned Rat"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Priest",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "a2a4-411e-1567-886": "Lore Of The Horned Rat"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfc6d966c2c1487a45c",
+    "Name": "Skaven Chieftain",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skaven Chieftain",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "6",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfc6d966c2c1487af36",
+    "Name": "Skaven Warlord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skaven Warlord",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "7",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfc6d966c2c1487b86e",
+    "Name": "Warlock Engineer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7988-e736-21a-8fc5": "Lore of the Horned Rat",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "c396-488f-2432-3e7a": "Verminous Valour",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "a2a4-411e-1567-886": "Lore Of The Horned Rat",
+      "5226-1a14-c4ae-fbc3": "Warpstone Tokens"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warlock Engineer",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "a2a4-411e-1567-886": "Lore Of The Horned Rat",
+          "5226-1a14-c4ae-fbc3": "Warpstone Tokens"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfc6d966c2c1487c4c9",
+    "Name": "Giant Rat",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "b49e-b47f-fb38-596e": "Fight In Extra Rank",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Giant Rat",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "0",
+          "S": "2",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "3"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfd6d966c2c1487cd97",
+    "Name": "Nightleader (Night Runner)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightleader",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfd6d966c2c1487ca9f",
+    "Name": "Night Runner",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Night Runner",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfd6d966c2c1487d083",
+    "Name": "Rat Swarms",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Rat Swarms",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "0",
+          "S": "2",
+          "T": "2",
+          "W": "5",
+          "I": "4",
+          "A": "5",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bfd6d966c2c1487e782",
+    "Name": "Assassin (Gutter Runner)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Assassin",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfd6d966c2c1487de55",
+    "Name": "Gutter Runner",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9fff-999f-6e96-e149": "Evasive",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gutter Runner",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f9d9",
+    "Name": "Plague Deacon (Plague Monk)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Deacon",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f0a6",
+    "Name": "Plague Monk",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plague Monk",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c1488155a",
+    "Name": "Globadiers",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9f93-6bbb-2e84-d7e3": "Poisoned Wind globes"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Globadiers",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9f93-6bbb-2e84-d7e3": "Poisoned Wind globes"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c1488184b",
+    "Name": "Rat Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "38c6-b344-e030-1f4": "Safe From Harm",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Rat Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "1",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357bff6d966c2c14882a9a",
+    "Name": "Jezzail Team",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5b67-8535-146c-7cea": "Open Order",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5c5a-b5c9-5a78-57b": "Pavise",
+      "482c-afba-f990-369c": "Warplock jezzail"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jezzail Team",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5c5a-b5c9-5a78-57b": "Pavise",
+          "482c-afba-f990-369c": "Warplock jezzail"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357bff6d966c2c14882d8d",
+    "Name": "Doomwheel",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "b4a3-6d68-5ac6-59d6": "Crushing Bulk",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1b08-4621-6379-ff1f": "Random Attacks (Rats only)",
+      "4924-fc1f-bcd-746a": "Random Movement",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "13dc-36db-30db-538c": "Zzzzap!"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomwheel",
+        "Values": {
+          "M": "3D6",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bff6d966c2c14883080",
+    "Name": "Hell Pit Abomination",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b76b-85eb-340a-6ba0": "Abominable Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "4924-fc1f-bcd-746a": "Random Movement",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "7750-766e-e21e-ff21": "Too Horrible To Die",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "94c5-6099-4ee3-6c55": "Warpstone claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hell Pit Abomination",
+        "Values": {
+          "M": "3D6",
+          "WS": "3",
+          "BS": "1",
+          "S": "6",
+          "T": "5",
+          "W": "6",
+          "I": "4",
+          "A": "D6+1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "94c5-6099-4ee3-6c55": "Warpstone claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bff6d966c2c1488336a",
+    "Name": "Censer Bearer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e2b4-f4a-df96-4d9e": "Plague censer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Censer Bearer",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e2b4-f4a-df96-4d9e": "Plague censer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bff6d966c2c14883658",
+    "Name": "Plagueclaw Catapult",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "4bc3-c0d5-6a31-3091": "Plagueclaw catapult"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plagueclaw Catapult",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "4bc3-c0d5-6a31-3091": "Plagueclaw catapult"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c006d966c2c1488394f",
+    "Name": "Warp Lightning Cannon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "92ed-f18a-c3a4-7a3e": "Warp Lightning Cannon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warp Lightning Cannon",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "92ed-f18a-c3a4-7a3e": "Warp Lightning Cannon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c006d966c2c14883954",
+    "Name": "Engineer & Crew",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Engineer & Crew",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "20",
+        "length": "20"
+      }
+    }
+  },
+  {
+    "Id": "68357c006d966c2c148842d6",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c006d966c2c14883c5c",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c006d966c2c1488513e",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c016d966c2c14885428",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c016d966c2c14885764",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c016d966c2c1488681f",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c016d966c2c148864f6",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c026d966c2c14886b28",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c026d966c2c14886b31",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c026d966c2c14886b3a",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c026d966c2c14886b43",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

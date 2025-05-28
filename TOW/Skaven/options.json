@@ -1,0 +1,154 @@
+[
+  {
+    "Id": "112aa2f9-7613-4a3c-a0d8-e01f54de4c13",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357bfa6d966c2c148760e1",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d9af2110-6bb4-4a57-a0b9-0357965120be",
+    "Name": "Screaming Bell",
+    "Type": "Mount",
+    "OwnerId": "68357bfa6d966c2c148760e1",
+    "WDSDataId": "dfb6b530-91b4-49fd-aa25-8cc5444790f4",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "b8bd4f4f-843b-458e-8f14-92baee144d3e",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357bfb6d966c2c14877f13",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "c934d54b-1f18-4f0c-a85a-1e6bf461702b",
+    "Name": "Plague Furnace",
+    "Type": "Mount",
+    "OwnerId": "68357bfb6d966c2c14877f13",
+    "WDSDataId": "cb083392-5076-4faa-b979-590b62574888",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "12a4899e-3763-4377-b653-76efacb7791c",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357bfb6d966c2c148791b6",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "1d68e06d-fd9f-49cd-ba81-fd7b50a7483a",
+    "Name": "Plague Furnace",
+    "Type": "Mount",
+    "OwnerId": "68357bfb6d966c2c148791b6",
+    "WDSDataId": "d744241d-b143-45c0-a6a2-807db818670e",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "34257668-91a4-4241-a849-66bfa62cb514",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bfd6d966c2c1487ca9c",
+    "WDSDataId": "68357bfd6d966c2c1487cd97",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "1189c294-90c4-40df-a297-172782871145",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bfd6d966c2c1487de52",
+    "WDSDataId": "68357bfd6d966c2c1487e782",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "b559d973-6e46-4380-8b89-16cd1cff809a",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bfe6d966c2c1487f0a0",
+    "WDSDataId": "68357bfe6d966c2c1487f9d9",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "3096f824-f792-405d-b757-07661900551d",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357bfe6d966c2c1487f0a0",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "87ed83a3-facd-4b1e-95ea-333f8cc852d4",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357bfe6d966c2c1487f0a0",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "b958f63c-82f5-4f33-af6a-ec672e6d0b6d",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357c006d966c2c14883c3e",
+    "WDSDataId": "68357c006d966c2c148842d6",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "48e3ae8a-6937-4bb4-abe0-424f791ce8ea",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c006d966c2c14883c3e",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "00249376-1246-4890-808a-0f01d7932871",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c006d966c2c14883c3e",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "1cde42d4-59ea-4610-9f7c-c85a77dec6a2",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c016d966c2c1488575e",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "99360f3f-db5a-4eab-81f7-655496287916",
+    "Name": "Standard",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c016d966c2c1488575e",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "752df0d6-6536-4f6b-90d4-1e2859a4e5fe",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357c016d966c2c148864e2",
+    "WDSDataId": "68357c016d966c2c1488681f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "39dfb769-2710-498a-b59d-a305db513762",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c026d966c2c14886b1c",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "0de5330b-a58b-4f5f-ace2-db0459e82083",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357c026d966c2c14886b1c",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  }
+]

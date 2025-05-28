@@ -1,0 +1,5897 @@
+[
+  {
+    "Id": "c316dccf-bbaf-4095-8ec4-a684ed941fab",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "148"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "18006733-f7c2-4e31-9d93-09371ee8778f",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "144"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "046723fb-d378-4720-a071-0460354a88fd",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "410"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6ab31f5f-5022-4614-9b27-2589b80db2ca",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "260"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b9c5a8fd-c0c6-48f4-9022-42c985ea0386",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "165"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "8a27509e-32e4-4468-a1b1-73a60e134a31",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "280"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "098914e0-aba5-4f8c-ae0b-f294c3ef6d90",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "255"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "d0cbd946-2127-4dc0-9822-3a03ef3db026",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "215"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c14628576",
+    "Name": "Dark Elf Dreadlord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Elf Dreadlord",
+        "Values": {
+          "M": "5",
+          "WS": "7",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "3",
+          "I": "6",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "d18167b1-1628-4076-9a8e-d9f6b84efc2b",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "88"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "a749c646-b3af-4a8f-a6e3-94712b23191a",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "84"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "0322fa52-aa7d-43ff-9573-b1454994a637",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "350"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "76792669-5059-4b5d-b7b3-58517e7b0070",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "744b8c53-57fc-4be1-9fab-0413cf99dbb1",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "105"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "18c41005-2826-4cc7-bfb4-51fd4c3f4bfc",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "220"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "09e690fa-f31d-4693-bc44-2e3647ba3883",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "195"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "23ed0c24-921b-40a9-976a-a17bd29625fe",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "155"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b266d966c2c1462d9e0",
+    "Name": "Dark Elf Master",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Elf Master",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "6",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "94577740-c6a8-4263-8d12-be23e2d20fe0",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "88"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "208f1a68-c079-4948-b626-4345589eabc3",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "84"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "38110834-9703-4e0e-8cda-fe1cab179715",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "350"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "3af59e58-038d-4889-9cdf-821c28e4f053",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "f5efb307-8e21-409b-ba9d-a0c2f5d34206",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "105"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "89d12351-ebed-459f-9ac2-902885eabbc3",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "220"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b94119b0-99c1-47bc-8399-6c9e7836467b",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "195"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "75be6d37-5f36-4e22-8c7d-fdbb6f85ebb8",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "155"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b286d966c2c14633cd9",
+    "Name": "Death Hag",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Death Hag",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "6",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "7",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "a802142d-c9df-43f6-a2fe-64584d17a189",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "93"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "b9829388-6724-4244-b485-33d5a9dd3c9d",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "89"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "996192fd-9be3-46e5-92d8-641d098d3063",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "598ef3c0-5284-4bf0-bcc4-26edae8314dc",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "25975428-2c3d-4e4e-9372-fface55e89f8",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "110"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "aa844abe-f01f-44dd-821d-b34a3602f1cc",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "225"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "ef6ab03b-2d44-4e33-97d2-f33c6a0fa73a",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "d87ed468-e700-4f9d-aa69-9eafb008dc6b",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "160"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b296d966c2c1463902c",
+    "Name": "High Beastmaster",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "e3ae-90-a94a-e684": "Goad Beast",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "7505-7edf-c3de-57a6": "Whip",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "High Beastmaster",
+        "Values": {
+          "M": "-",
+          "WS": "7",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "3",
+          "I": "5",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "7505-7edf-c3de-57a6": "Whip"
+        }
+      },
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b2b6d966c2c1463e3bb",
+    "Name": "Khainite Assassin",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (All Enemies)",
+      "a3c3-954c-5b3a-17f5": "Hidden",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "48fd-23c1-c0d5-ae1d": "Strike First",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "eee5-db12-1271-f2c5": "Throwing Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Khainite Assassin",
+        "Values": {
+          "M": "5",
+          "WS": "8",
+          "BS": "7",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "7",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "eee5-db12-1271-f2c5": "Throwing Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "30e6a466-6dde-4f17-b543-8e4a7cff303c",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "93"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "949ccf70-1f14-4123-b60f-bad82c431763",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "89"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "98f7dffa-e61a-40e0-9884-7554e6ffbd60",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "8e1dc729-8266-4be6-8301-f2fc7d7c1a97",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "664afd90-1905-404b-b8b0-4ceaad73031e",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "110"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "7906d7dd-eb6f-461f-960c-bf83c8754a12",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "225"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "9134b3f8-416a-449d-a386-8ad76575a059",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b50d492d-ef30-4bc2-a031-39ea9d944a0e",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "160"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b2b6d966c2c1463ec1f",
+    "Name": "Sorceress",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "375e-7fb1-c651-433e": "Lore of Naggaroth"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sorceress",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "375e-7fb1-c651-433e": "Lore of Naggaroth"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "033d04f7-a645-40df-8de0-82c18951d5a4",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "168"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "d3652afb-795c-48ee-aaf0-20446d7b438a",
+    "Name": "Dark Steed",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "164"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "2e0232db-8583-49a4-94e7-30837074b160",
+    "Name": "Black Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "430"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "79bb-357e-c31e-d97d": "Noxious breath",
+      "c521-1d17-cb12-239e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "-",
+          "S": "7",
+          "T": "(+3)",
+          "W": "(+6)",
+          "I": "4",
+          "A": "6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "79bb-357e-c31e-d97d": "Noxious breath",
+          "c521-1d17-cb12-239e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "00826ef5-073e-4ac1-ab83-44a31fc02745",
+    "Name": "Manticore",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "280"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "267c-dd21-b1b0-57ee": "Wilful Beast",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Manticore",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "5",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "db8a3dfa-4ed8-4477-b09b-47a17bb108d2",
+    "Name": "Dark Pegasus",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "185"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Dark Pegasus only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Pegasus",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "(+1)",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6447aa3e-a0c9-47f8-86a8-c40691b28ff4",
+    "Name": "Cauldron of Blood",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "300"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "db3d-faa3-4355-3a6b": "Blessings Of Khaine",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "bb96-1acf-9e5d-a071": "Cauldron of Blood",
+      "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cauldron of Blood",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "bb96-1acf-9e5d-a071": "Cauldron of Blood"
+        }
+      },
+      {
+        "Name": "Witch Elf Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "9bc5-ae1d-c50c-3442": "Two Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "3aa08252-441b-4b10-ae07-5bd9d19f33c9",
+    "Name": "Cold One Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "275"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "15a97afe-618a-4ca1-adbd-791b59ac0386",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "235"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b2d6d966c2c14644a58",
+    "Name": "Supreme Sorceress",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "909c-157c-ea4c-bb2d": "Hekarti’s Blessing",
+      "dea-f874-c70e-2e4a": "Lore Of Naggaroth",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "375e-7fb1-c651-433e": "Lore of Naggaroth"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Supreme Sorceress",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "5",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "375e-7fb1-c651-433e": "Lore of Naggaroth"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464ac7a",
+    "Name": "Reaver (Corsair)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Reaver",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464a8a3",
+    "Name": "Corsair",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Corsair",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464ba23",
+    "Name": "Lordling (Repeater Crossbowman)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lordling",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464b7e3",
+    "Name": "Repeater Crossbowman",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Repeater Crossbowman",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464c300",
+    "Name": "Lordling (Dark Elf Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lordling",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b2f6d966c2c1464c0c3",
+    "Name": "Dark Elf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Elf Warrior",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b306d966c2c1464cbfe",
+    "Name": "Herald (Dark Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herald",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b306d966c2c1464c997",
+    "Name": "Dark Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dark Rider",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b306d966c2c1464d6c0",
+    "Name": "Hag (Witch Elf)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hag",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b306d966c2c1464d2f1",
+    "Name": "Witch Elf",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Witch Elf",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b316d966c2c1464ec18",
+    "Name": "Tower Master (Black Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "8bd5c110-1d06685a": "Dread Halberd",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tower Master",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "8bd5c110-1d06685a": "Dread Halberd",
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b306d966c2c1464e212",
+    "Name": "Black Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "fab5-2714-1dd-4ed8": "Eternal Hatred",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "6133-9bd8-8780-23ed": "Martial Prowess",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "8bd5c110-1d06685a": "Dread Halberd",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Guard",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "8bd5c110-1d06685a": "Dread Halberd",
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b316d966c2c14650a0c",
+    "Name": "Cold One Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Knight Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b316d966c2c14651688",
+    "Name": "Dread Knight (Cold One Knight)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dread Knight",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b316d966c2c14650c52",
+    "Name": "Cold One Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Knight",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b326d966c2c14653d53",
+    "Name": "Bloodshade (Shade)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodshade",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "6",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b326d966c2c146534e1",
+    "Name": "Shade",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "9fff-999f-6e96-e149": "Evasive",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Shade",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "5",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b326d966c2c14654fbb",
+    "Name": "Draich Master (Executioner)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "4022-c403-b083-ba83": "Veteran",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "fc34-9ebc-9285-b708": "Har Ganeth greatsword",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Draich Master",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "fc34-9ebc-9285-b708": "Har Ganeth greatsword",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b326d966c2c146545b7",
+    "Name": "Executioner",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "4022-c403-b083-ba83": "Veteran",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "fc34-9ebc-9285-b708": "Har Ganeth greatsword",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Executioner",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "fc34-9ebc-9285-b708": "Har Ganeth greatsword",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c14656da7",
+    "Name": "Harpy",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Harpy",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c14656fc1",
+    "Name": "Kharibdyss",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc1-9e5a-d313-7f26": "Abyssal Howl",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1084-a4e9-79f-3462": "Monster Handlers",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e4c0-a478-fa11-724e": "Cavernous Maw",
+      "96ef-bc9-1848-f08e": "Writhing Tentacles"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Kharibdyss",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "0",
+          "S": "7",
+          "T": "5",
+          "W": "5",
+          "I": "3",
+          "A": "5",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "e4c0-a478-fa11-724e": "Cavernous Maw",
+          "96ef-bc9-1848-f08e": "Writhing Tentacles"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c146571f8",
+    "Name": "Scourgerunner Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a52f-2b8e-55bf-b140": "Sea Dragon Cloak",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "75e9-7e36-d63b-cf9a": "Ravager harpoon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "e240-f607-2c57-b181": "Repeater crossbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Scourgerunner Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "75e9-7e36-d63b-cf9a": "Ravager harpoon"
+        }
+      },
+      {
+        "Name": "Beastmaster Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "e240-f607-2c57-b181": "Repeater crossbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c14657441",
+    "Name": "War Hydra",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "23c7-1aeb-5f02-c9e1": "Extra Attacks (+remaining Wounds)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1084-a4e9-79f-3462": "Monster Handlers",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c2c3-72ce-e66e-b9bc": "Fiery breath",
+      "4b56-5100-6a55-452e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "War Hydra",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c2c3-72ce-e66e-b9bc": "Fiery breath",
+          "4b56-5100-6a55-452e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c14657a3d",
+    "Name": "Hag (Witch Elf)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hag",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b336d966c2c14657670",
+    "Name": "Witch Elf",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Witch Elf",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b346d966c2c14658588",
+    "Name": "Bloodwrack Medusa",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "b8ee-3d5f-7896-c7d8": "Stony Stare",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "fca5-fa1d-aff2-e333": "Petrifying gaze"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodwrack Medusa",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "5",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "fca5-fa1d-aff2-e333": "Petrifying gaze"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b346d966c2c146587ae",
+    "Name": "Bloodwrack Shrine",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "a042-c2f5-ebcb-2bab": "Dragged Along",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "b8ee-3d5f-7896-c7d8": "Stony Stare",
+      "c7a2-35bf-4313-f4f0": "Terror"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodwrack Shrine",
+        "Values": {
+          "M": "2",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b346d966c2c1465925d",
+    "Name": "Master (Doomfire Warlock)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "de9b-915c-95a0-803e": "Cursed Coven",
+      "6f31-6ced-94b8-627e": "Dark Runes",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Doomfire Warlocks and Master only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b346d966c2c146589fd",
+    "Name": "Doomfire Warlock",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "de9b-915c-95a0-803e": "Cursed Coven",
+      "6f31-6ced-94b8-627e": "Dark Runes",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Doomfire Warlocks and Master only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomfire Warlock",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Dark Steed",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b346d966c2c14659aab",
+    "Name": "Kharibdyss",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc1-9e5a-d313-7f26": "Abyssal Howl",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1084-a4e9-79f-3462": "Monster Handlers",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e4c0-a478-fa11-724e": "Cavernous Maw",
+      "96ef-bc9-1848-f08e": "Writhing Tentacles"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Kharibdyss",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "0",
+          "S": "7",
+          "T": "5",
+          "W": "5",
+          "I": "3",
+          "A": "5",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "e4c0-a478-fa11-724e": "Cavernous Maw",
+          "96ef-bc9-1848-f08e": "Writhing Tentacles"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c14659cdb",
+    "Name": "Reaper Bolt Thrower",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "3646-bdc6-7ed0-5119": "Rapid Fire",
+      "3f5c-8185-3494-86c1": "Repeater Bolt Thrower"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Reaper Bolt Thrower",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "2",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "3646-bdc6-7ed0-5119": "Rapid Fire",
+          "3f5c-8185-3494-86c1": "Repeater Bolt Thrower"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c1465a2cd",
+    "Name": "Hag (Sister of Slaughter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "410d-4b9e-8e83-6ff3": "Dance Of Death",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c4d7-c77b-7113-3ae8": "Lash & Buckler"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hag",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "6",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c4d7-c77b-7113-3ae8": "Lash & Buckler"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c14659f01",
+    "Name": "Sister of Slaughter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "410d-4b9e-8e83-6ff3": "Dance Of Death",
+      "cf6b-ab6d-f5a1-e20c": "Elven Reflexes",
+      "f4b3-18af-16bf-78dd": "Hatred (High Elves)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "404b-9605-8eb5-e94b": "Murderous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c4d7-c77b-7113-3ae8": "Lash & Buckler"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sister of Slaughter",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "6",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c4d7-c77b-7113-3ae8": "Lash & Buckler"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c1465ae16",
+    "Name": "War Hydra",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "23c7-1aeb-5f02-c9e1": "Extra Attacks (+remaining Wounds)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1084-a4e9-79f-3462": "Monster Handlers",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c2c3-72ce-e66e-b9bc": "Fiery breath",
+      "4b56-5100-6a55-452e": "Serrated Maw",
+      "3189-7068-61dc-17ed": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "War Hydra",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "c2c3-72ce-e66e-b9bc": "Fiery breath",
+          "4b56-5100-6a55-452e": "Serrated Maw",
+          "3189-7068-61dc-17ed": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c1465b610",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b356d966c2c1465b060",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b366d966c2c1465c21a",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b366d966c2c1465c43a",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b366d966c2c1465c6ac",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b366d966c2c1465d375",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b366d966c2c1465d116",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b376d966c2c1465d5b4",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b376d966c2c1465d5bd",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b376d966c2c1465d5c6",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b376d966c2c1465d5cf",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

@@ -1,0 +1,5191 @@
+{
+  "Id": null,
+  "Name": null,
+  "Factions": {
+    "faction-beastmen-brayherds": {
+      "Name": "Beastmen Brayherds",
+      "Children": {
+        "faction-beastmen-brayherds-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-beastlord": {
+              "Name": "Beastlord",
+              "Children": {}
+            },
+            "unit-bray-shaman": {
+              "Name": "Bray-Shaman",
+              "Children": {}
+            },
+            "unit-centigor-chieftain": {
+              "Name": "Centigor Chieftain",
+              "Children": {}
+            },
+            "unit-doombull": {
+              "Name": "Doombull",
+              "Children": {}
+            },
+            "unit-gorebull": {
+              "Name": "Gorebull",
+              "Children": {}
+            },
+            "unit-great-bray-shaman": {
+              "Name": "Great Bray-Shaman",
+              "Children": {}
+            },
+            "unit-wargor": {
+              "Name": "Wargor",
+              "Children": {}
+            }
+          }
+        },
+        "faction-beastmen-brayherds-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-bestigor-herds": {
+              "Name": "Bestigor Herds",
+              "Children": {}
+            },
+            "unit-chaos-warhounds": {
+              "Name": "Chaos Warhounds",
+              "Children": {}
+            },
+            "unit-gor-herds": {
+              "Name": "Gor Herds",
+              "Children": {}
+            },
+            "unit-minotaur-herds": {
+              "Name": "Minotaur Herds",
+              "Children": {}
+            },
+            "unit-razorgor-herds": {
+              "Name": "Razorgor Herds",
+              "Children": {}
+            },
+            "unit-tuskgor-chariots": {
+              "Name": "Tuskgor Chariots",
+              "Children": {}
+            },
+            "unit-ungor-herds": {
+              "Name": "Ungor Herds",
+              "Children": {}
+            }
+          }
+        },
+        "faction-beastmen-brayherds-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-bestigor-herds": {
+              "Name": "Bestigor Herds",
+              "Children": {}
+            },
+            "unit-centigor-herds": {
+              "Name": "Centigor Herds",
+              "Children": {}
+            },
+            "unit-chaos-ogres": {
+              "Name": "Chaos Ogres",
+              "Children": {}
+            },
+            "unit-cockatrice": {
+              "Name": "Cockatrice",
+              "Children": {}
+            },
+            "unit-cygor": {
+              "Name": "Cygor",
+              "Children": {}
+            },
+            "unit-dragon-ogres": {
+              "Name": "Dragon Ogres",
+              "Children": {}
+            },
+            "unit-ghorgon": {
+              "Name": "Ghorgon",
+              "Children": {}
+            },
+            "unit-harpies": {
+              "Name": "Harpies",
+              "Children": {}
+            },
+            "unit-jabberslythe": {
+              "Name": "Jabberslythe",
+              "Children": {}
+            },
+            "unit-minotaur-herds": {
+              "Name": "Minotaur Herds",
+              "Children": {}
+            },
+            "unit-razorgor-chariots": {
+              "Name": "Razorgor Chariots",
+              "Children": {}
+            }
+          }
+        },
+        "faction-beastmen-brayherds-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-chaos-giants": {
+              "Name": "Chaos Giants",
+              "Children": {}
+            },
+            "unit-chaos-spawn": {
+              "Name": "Chaos Spawn",
+              "Children": {}
+            },
+            "unit-chaos-trolls": {
+              "Name": "Chaos Trolls",
+              "Children": {}
+            },
+            "unit-cygor": {
+              "Name": "Cygor",
+              "Children": {}
+            },
+            "unit-dragon-ogre-shaggoth": {
+              "Name": "Dragon Ogre Shaggoth",
+              "Children": {}
+            },
+            "unit-ghorgon": {
+              "Name": "Ghorgon",
+              "Children": {}
+            },
+            "unit-gigantic-spawn-of-chaos": {
+              "Name": "Gigantic Spawn of Chaos",
+              "Children": {}
+            },
+            "unit-jabberslythe": {
+              "Name": "Jabberslythe",
+              "Children": {}
+            }
+          }
+        },
+        "faction-beastmen-brayherds-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-chaos-dwarfs": {
+      "Name": "Chaos Dwarfs",
+      "Children": {
+        "faction-chaos-dwarfs-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-black-orc-bigboss": {
+              "Name": "Black Orc Bigboss",
+              "Children": {}
+            },
+            "unit-black-orc-warboss": {
+              "Name": "Black Orc Warboss",
+              "Children": {}
+            },
+            "unit-bull-centaur-taur’ruk": {
+              "Name": "Bull Centaur Taur’ruk",
+              "Children": {}
+            },
+            "unit-daemonsmith-sorcerer": {
+              "Name": "Daemonsmith Sorcerer",
+              "Children": {}
+            },
+            "unit-hobgoblin-khan": {
+              "Name": "Hobgoblin Khan",
+              "Children": {}
+            },
+            "unit-infernal-castellan": {
+              "Name": "Infernal Castellan",
+              "Children": {}
+            },
+            "unit-infernal-seneschal": {
+              "Name": "Infernal Seneschal",
+              "Children": {}
+            },
+            "unit-sorcerer-prophet": {
+              "Name": "Sorcerer-Prophet",
+              "Children": {}
+            }
+          }
+        },
+        "faction-chaos-dwarfs-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-black-orc-mobs": {
+              "Name": "Black Orc Mobs",
+              "Children": {}
+            },
+            "unit-hobgoblin-cutthroats": {
+              "Name": "Hobgoblin Cutthroats",
+              "Children": {}
+            },
+            "unit-infernal-guard": {
+              "Name": "Infernal Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-chaos-dwarfs-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-bull-centaur-renders": {
+              "Name": "Bull Centaur Renders",
+              "Children": {}
+            },
+            "unit-deathshrieker-rocket-launcher": {
+              "Name": "Deathshrieker Rocket Launcher",
+              "Children": {}
+            },
+            "unit-hobgoblin-bolt-thrower": {
+              "Name": "Hobgoblin Bolt Thrower",
+              "Children": {}
+            },
+            "unit-infernal-ironsworn": {
+              "Name": "Infernal Ironsworn",
+              "Children": {}
+            },
+            "unit-iron-daemon": {
+              "Name": "Iron Daemon",
+              "Children": {}
+            },
+            "unit-k’daai-fireborn": {
+              "Name": "K’daai Fireborn",
+              "Children": {}
+            },
+            "unit-magma-cannon": {
+              "Name": "Magma Cannon",
+              "Children": {}
+            },
+            "unit-sneaky-gits": {
+              "Name": "Sneaky Gits",
+              "Children": {}
+            }
+          }
+        },
+        "faction-chaos-dwarfs-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-chaos-giants": {
+              "Name": "Chaos Giants",
+              "Children": {}
+            },
+            "unit-dreadquake-mortar": {
+              "Name": "Dreadquake Mortar",
+              "Children": {}
+            },
+            "unit-hellcannon": {
+              "Name": "Hellcannon",
+              "Children": {}
+            },
+            "unit-hobgoblin-wolf-riders": {
+              "Name": "Hobgoblin Wolf Riders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-chaos-dwarfs-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-daemons-of-chaos": {
+      "Name": "Daemons of Chaos",
+      "Children": {
+        "faction-daemons-of-chaos-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-bloodthirster": {
+              "Name": "Bloodthirster",
+              "Children": {}
+            },
+            "unit-daemon-prince": {
+              "Name": "Daemon Prince",
+              "Children": {}
+            },
+            "unit-great-unclean-one": {
+              "Name": "Great Unclean One",
+              "Children": {}
+            },
+            "unit-herald-of-khorne": {
+              "Name": "Herald of Khorne",
+              "Children": {}
+            },
+            "unit-herald-of-nurgle": {
+              "Name": "Herald of Nurgle",
+              "Children": {}
+            },
+            "unit-herald-of-slaanesh": {
+              "Name": "Herald of Slaanesh",
+              "Children": {}
+            },
+            "unit-herald-of-tzeentch": {
+              "Name": "Herald of Tzeentch",
+              "Children": {}
+            },
+            "unit-keeper-of-secrets": {
+              "Name": "Keeper of Secrets",
+              "Children": {}
+            },
+            "unit-lord-of-change": {
+              "Name": "Lord of Change",
+              "Children": {}
+            }
+          }
+        },
+        "faction-daemons-of-chaos-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-bloodletters-of-khorne": {
+              "Name": "Bloodletters Of Khorne",
+              "Children": {}
+            },
+            "unit-blue-horrors-of-tzeentch": {
+              "Name": "Blue Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-brimstone-horrors-of-tzeentch": {
+              "Name": "Brimstone Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-chaos-furies": {
+              "Name": "Chaos Furies",
+              "Children": {}
+            },
+            "unit-daemonettes-of-slaanesh": {
+              "Name": "Daemonettes Of Slaanesh",
+              "Children": {}
+            },
+            "unit-flesh-hounds-of-khorne": {
+              "Name": "Flesh Hounds Of Khorne",
+              "Children": {}
+            },
+            "unit-nurglings": {
+              "Name": "Nurglings",
+              "Children": {}
+            },
+            "unit-pink-horrors-of-tzeentch": {
+              "Name": "Pink Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-plaguebearers-of-nurgle": {
+              "Name": "Plaguebearers Of Nurgle",
+              "Children": {}
+            },
+            "unit-seekers-of-slaanesh": {
+              "Name": "Seekers Of Slaanesh",
+              "Children": {}
+            }
+          }
+        },
+        "faction-daemons-of-chaos-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-beasts-of-nurgle": {
+              "Name": "Beasts Of Nurgle",
+              "Children": {}
+            },
+            "unit-bloodcrushers-of-khorne": {
+              "Name": "Bloodcrushers Of Khorne",
+              "Children": {}
+            },
+            "unit-bloodletters-of-khorne": {
+              "Name": "Bloodletters Of Khorne",
+              "Children": {}
+            },
+            "unit-blue-horrors-of-tzeentch": {
+              "Name": "Blue Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-brimstone-horrors-of-tzeentch": {
+              "Name": "Brimstone Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-daemonettes-of-slaanesh": {
+              "Name": "Daemonettes Of Slaanesh",
+              "Children": {}
+            },
+            "unit-fiends-of-slaanesh": {
+              "Name": "Fiends Of Slaanesh",
+              "Children": {}
+            },
+            "unit-flamers-of-tzeentch": {
+              "Name": "Flamers Of Tzeentch",
+              "Children": {}
+            },
+            "unit-flesh-hounds-of-khorne": {
+              "Name": "Flesh Hounds Of Khorne",
+              "Children": {}
+            },
+            "unit-hellflayer-of-slaanesh": {
+              "Name": "Hellflayer Of Slaanesh",
+              "Children": {}
+            },
+            "unit-nurglings": {
+              "Name": "Nurglings",
+              "Children": {}
+            },
+            "unit-pink-horrors-of-tzeentch": {
+              "Name": "Pink Horrors Of Tzeentch",
+              "Children": {}
+            },
+            "unit-plague-drones-of-nurgle": {
+              "Name": "Plague Drones Of Nurgle",
+              "Children": {}
+            },
+            "unit-plaguebearers-of-nurgle": {
+              "Name": "Plaguebearers Of Nurgle",
+              "Children": {}
+            },
+            "unit-screamers-of-tzeentch": {
+              "Name": "Screamers Of Tzeentch",
+              "Children": {}
+            },
+            "unit-seeker-chariot-of-slaanesh": {
+              "Name": "Seeker Chariot Of Slaanesh",
+              "Children": {}
+            },
+            "unit-seekers-of-slaanesh": {
+              "Name": "Seekers Of Slaanesh",
+              "Children": {}
+            }
+          }
+        },
+        "faction-daemons-of-chaos-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-beasts-of-nurgle": {
+              "Name": "Beasts Of Nurgle",
+              "Children": {}
+            },
+            "unit-bloodcrushers-of-khorne": {
+              "Name": "Bloodcrushers Of Khorne",
+              "Children": {}
+            },
+            "unit-burning-chariot-of-tzeentch": {
+              "Name": "Burning Chariot Of Tzeentch",
+              "Children": {}
+            },
+            "unit-fiends-of-slaanesh": {
+              "Name": "Fiends Of Slaanesh",
+              "Children": {}
+            },
+            "unit-flamers-of-tzeentch": {
+              "Name": "Flamers Of Tzeentch",
+              "Children": {}
+            },
+            "unit-hellflayer-of-slaanesh": {
+              "Name": "Hellflayer Of Slaanesh",
+              "Children": {}
+            },
+            "unit-plague-drones-of-nurgle": {
+              "Name": "Plague Drones Of Nurgle",
+              "Children": {}
+            },
+            "unit-screamers-of-tzeentch": {
+              "Name": "Screamers Of Tzeentch",
+              "Children": {}
+            },
+            "unit-seeker-chariot-of-slaanesh": {
+              "Name": "Seeker Chariot Of Slaanesh",
+              "Children": {}
+            },
+            "unit-skull-cannon-of-khorne": {
+              "Name": "Skull Cannon Of Khorne",
+              "Children": {}
+            },
+            "unit-soul-grinder": {
+              "Name": "Soul Grinder",
+              "Children": {}
+            }
+          }
+        },
+        "faction-daemons-of-chaos-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-dark-elves": {
+      "Name": "Dark Elves",
+      "Children": {
+        "faction-dark-elves-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-dark-elf-dreadlord": {
+              "Name": "Dark Elf Dreadlord",
+              "Children": {}
+            },
+            "unit-dark-elf-master": {
+              "Name": "Dark Elf Master",
+              "Children": {}
+            },
+            "unit-death-hag": {
+              "Name": "Death Hag",
+              "Children": {}
+            },
+            "unit-high-beastmaster": {
+              "Name": "High Beastmaster",
+              "Children": {}
+            },
+            "unit-khainite-assassin": {
+              "Name": "Khainite Assassin",
+              "Children": {}
+            },
+            "unit-sorceress": {
+              "Name": "Sorceress",
+              "Children": {}
+            },
+            "unit-supreme-sorceress": {
+              "Name": "Supreme Sorceress",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dark-elves-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-black-ark-corsairs": {
+              "Name": "Black Ark Corsairs",
+              "Children": {}
+            },
+            "unit-dark-elf-crossbowmen": {
+              "Name": "Dark Elf Crossbowmen",
+              "Children": {}
+            },
+            "unit-dark-elf-warriors": {
+              "Name": "Dark Elf Warriors",
+              "Children": {}
+            },
+            "unit-dark-riders": {
+              "Name": "Dark Riders",
+              "Children": {}
+            },
+            "unit-witch-elves": {
+              "Name": "Witch Elves",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dark-elves-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-black-guard-of-naggarond": {
+              "Name": "Black Guard Of Naggarond",
+              "Children": {}
+            },
+            "unit-cold-one-chariots": {
+              "Name": "Cold One Chariots",
+              "Children": {}
+            },
+            "unit-cold-one-knights": {
+              "Name": "Cold One Knights",
+              "Children": {}
+            },
+            "unit-dark-elf-shades": {
+              "Name": "Dark Elf Shades",
+              "Children": {}
+            },
+            "unit-har-ganeth-executioners": {
+              "Name": "Har Ganeth Executioners",
+              "Children": {}
+            },
+            "unit-harpies": {
+              "Name": "Harpies",
+              "Children": {}
+            },
+            "unit-kharibdyss": {
+              "Name": "Kharibdyss",
+              "Children": {}
+            },
+            "unit-scourgerunner-chariots": {
+              "Name": "Scourgerunner Chariots",
+              "Children": {}
+            },
+            "unit-war-hydra": {
+              "Name": "War Hydra",
+              "Children": {}
+            },
+            "unit-witch-elves": {
+              "Name": "Witch Elves",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dark-elves-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-bloodwrack-medusa": {
+              "Name": "Bloodwrack Medusa",
+              "Children": {}
+            },
+            "unit-bloodwrack-shrine": {
+              "Name": "Bloodwrack Shrine",
+              "Children": {}
+            },
+            "unit-doomfire-warlocks": {
+              "Name": "Doomfire Warlocks",
+              "Children": {}
+            },
+            "unit-kharibdyss": {
+              "Name": "Kharibdyss",
+              "Children": {}
+            },
+            "unit-reaper-bolt-thrower": {
+              "Name": "Reaper Bolt Thrower",
+              "Children": {}
+            },
+            "unit-sisters-of-slaughter": {
+              "Name": "Sisters of Slaughter",
+              "Children": {}
+            },
+            "unit-war-hydra": {
+              "Name": "War Hydra",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dark-elves-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-dwarfen-mountain-holds": {
+      "Name": "Dwarfen Mountain Holds",
+      "Children": {
+        "faction-dwarfen-mountain-holds-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-burlok-damminson": {
+              "Name": "Burlok Damminson",
+              "Children": {}
+            },
+            "unit-thorgrim-ulleksson": {
+              "Name": "Thorgrim Ulleksson",
+              "Children": {}
+            },
+            "unit-ungrim-ironfist": {
+              "Name": "Ungrim Ironfist",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-anvil-of-doom": {
+              "Name": "Anvil of Doom",
+              "Children": {}
+            },
+            "unit-daemon-slayer": {
+              "Name": "Daemon Slayer",
+              "Children": {}
+            },
+            "unit-dragon-slayer": {
+              "Name": "Dragon Slayer",
+              "Children": {}
+            },
+            "unit-dwarf-engineer": {
+              "Name": "Dwarf Engineer",
+              "Children": {}
+            },
+            "unit-king": {
+              "Name": "King",
+              "Children": {}
+            },
+            "unit-runelord": {
+              "Name": "Runelord",
+              "Children": {}
+            },
+            "unit-runesmith": {
+              "Name": "Runesmith",
+              "Children": {}
+            },
+            "unit-thane": {
+              "Name": "Thane",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-dwarf-warriors": {
+              "Name": "Dwarf Warriors",
+              "Children": {}
+            },
+            "unit-longbeards": {
+              "Name": "Longbeards",
+              "Children": {}
+            },
+            "unit-quarrellers": {
+              "Name": "Quarrellers",
+              "Children": {}
+            },
+            "unit-rangers": {
+              "Name": "Rangers",
+              "Children": {}
+            },
+            "unit-thunderers": {
+              "Name": "Thunderers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-bolt-thrower": {
+              "Name": "Bolt Thrower",
+              "Children": {}
+            },
+            "unit-cannon": {
+              "Name": "Cannon",
+              "Children": {}
+            },
+            "unit-grudge-thrower": {
+              "Name": "Grudge Thrower",
+              "Children": {}
+            },
+            "unit-gyrocopters": {
+              "Name": "Gyrocopters",
+              "Children": {}
+            },
+            "unit-hammerers": {
+              "Name": "Hammerers",
+              "Children": {}
+            },
+            "unit-ironbreakers": {
+              "Name": "Ironbreakers",
+              "Children": {}
+            },
+            "unit-longbeards": {
+              "Name": "Longbeards",
+              "Children": {}
+            },
+            "unit-miners": {
+              "Name": "Miners",
+              "Children": {}
+            },
+            "unit-slayers": {
+              "Name": "Slayers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-dwarf-cart": {
+              "Name": "Dwarf Cart",
+              "Children": {}
+            },
+            "unit-flame-cannon": {
+              "Name": "Flame Cannon",
+              "Children": {}
+            },
+            "unit-goblin-hewer": {
+              "Name": "Goblin-Hewer",
+              "Children": {}
+            },
+            "unit-gyrobomber": {
+              "Name": "Gyrobomber",
+              "Children": {}
+            },
+            "unit-irondrakes": {
+              "Name": "Irondrakes",
+              "Children": {}
+            },
+            "unit-organ-gun": {
+              "Name": "Organ Gun",
+              "Children": {}
+            },
+            "unit-rangers": {
+              "Name": "Rangers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-dwarfen-mountain-holds---expeditionary-force": {
+      "Name": "Dwarfen Mountain Holds - Expeditionary Force",
+      "Children": {
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-burlok-damminson": {
+              "Name": "Burlok Damminson",
+              "Children": {}
+            },
+            "unit-thorgrim-ulleksson": {
+              "Name": "Thorgrim Ulleksson",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-daemon-slayer": {
+              "Name": "Daemon Slayer",
+              "Children": {}
+            },
+            "unit-dragon-slayer": {
+              "Name": "Dragon Slayer",
+              "Children": {}
+            },
+            "unit-dwarf-engineer": {
+              "Name": "Dwarf Engineer",
+              "Children": {}
+            },
+            "unit-dwarf-engineer-sappers": {
+              "Name": "Dwarf Engineer Sappers",
+              "Children": {}
+            },
+            "unit-runesmith": {
+              "Name": "Runesmith",
+              "Children": {}
+            },
+            "unit-thane": {
+              "Name": "Thane",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-dwarf-cart": {
+              "Name": "Dwarf Cart",
+              "Children": {}
+            },
+            "unit-dwarf-warriors": {
+              "Name": "Dwarf Warriors",
+              "Children": {}
+            },
+            "unit-rangers": {
+              "Name": "Rangers",
+              "Children": {}
+            },
+            "unit-scout-gyrocopters": {
+              "Name": "Scout Gyrocopters",
+              "Children": {}
+            },
+            "unit-thunderers": {
+              "Name": "Thunderers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-bolt-thrower": {
+              "Name": "Bolt Thrower",
+              "Children": {}
+            },
+            "unit-cannon": {
+              "Name": "Cannon",
+              "Children": {}
+            },
+            "unit-grudge-thrower": {
+              "Name": "Grudge Thrower",
+              "Children": {}
+            },
+            "unit-gyrocopters": {
+              "Name": "Gyrocopters",
+              "Children": {}
+            },
+            "unit-miners": {
+              "Name": "Miners",
+              "Children": {}
+            },
+            "unit-scout-gyrocopters": {
+              "Name": "Scout Gyrocopters",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-flame-cannon": {
+              "Name": "Flame Cannon",
+              "Children": {}
+            },
+            "unit-gyrobomber": {
+              "Name": "Gyrobomber",
+              "Children": {}
+            },
+            "unit-organ-gun": {
+              "Name": "Organ Gun",
+              "Children": {}
+            },
+            "unit-slayers": {
+              "Name": "Slayers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---expeditionary-force-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-goblin-hewer": {
+              "Name": "Goblin-Hewer",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-dwarfen-mountain-holds---royal-clan": {
+      "Name": "Dwarfen Mountain Holds - Royal Clan",
+      "Children": {
+        "faction-dwarfen-mountain-holds---royal-clan-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-thorgrim-ulleksson": {
+              "Name": "Thorgrim Ulleksson",
+              "Children": {}
+            },
+            "unit-ungrim-ironfist": {
+              "Name": "Ungrim Ironfist",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---royal-clan-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-anvil-of-doom": {
+              "Name": "Anvil of Doom",
+              "Children": {}
+            },
+            "unit-daemon-slayer": {
+              "Name": "Daemon Slayer",
+              "Children": {}
+            },
+            "unit-dragon-slayer": {
+              "Name": "Dragon Slayer",
+              "Children": {}
+            },
+            "unit-king": {
+              "Name": "King",
+              "Children": {}
+            },
+            "unit-runelord": {
+              "Name": "Runelord",
+              "Children": {}
+            },
+            "unit-runesmith": {
+              "Name": "Runesmith",
+              "Children": {}
+            },
+            "unit-thane": {
+              "Name": "Thane",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---royal-clan-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-longbeards": {
+              "Name": "Longbeards",
+              "Children": {}
+            },
+            "unit-quarrellers": {
+              "Name": "Quarrellers",
+              "Children": {}
+            },
+            "unit-royal-clan-warriors": {
+              "Name": "Royal Clan Warriors",
+              "Children": {}
+            },
+            "unit-slayers": {
+              "Name": "Slayers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---royal-clan-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-bolt-thrower": {
+              "Name": "Bolt Thrower",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-dwarf-cart": {
+              "Name": "Dwarf Cart",
+              "Children": {}
+            },
+            "unit-grudge-thrower": {
+              "Name": "Grudge Thrower",
+              "Children": {}
+            },
+            "unit-hammerers": {
+              "Name": "Hammerers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---royal-clan-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-ironbreakers": {
+              "Name": "Ironbreakers",
+              "Children": {}
+            },
+            "unit-irondrakes": {
+              "Name": "Irondrakes",
+              "Children": {}
+            },
+            "unit-rangers": {
+              "Name": "Rangers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-dwarfen-mountain-holds---royal-clan-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-goblin-hewer": {
+              "Name": "Goblin-Hewer",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-high-elf-realms": {
+      "Name": "High Elf Realms",
+      "Children": {
+        "faction-high-elf-realms-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-ishaya-vess,-sentinel-of-the-silent-isle": {
+              "Name": "Ishaya Vess, Sentinel of the Silent Isle",
+              "Children": {}
+            },
+            "unit-korhil-lionmane,-captain-of-the-white-lions": {
+              "Name": "Korhil Lionmane, Captain of the White Lions",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-archmage": {
+              "Name": "Archmage",
+              "Children": {}
+            },
+            "unit-dragon-mage": {
+              "Name": "Dragon Mage",
+              "Children": {}
+            },
+            "unit-handmaiden-of-the-everqueen": {
+              "Name": "Handmaiden of the Everqueen",
+              "Children": {}
+            },
+            "unit-mage": {
+              "Name": "Mage",
+              "Children": {}
+            },
+            "unit-noble": {
+              "Name": "Noble",
+              "Children": {}
+            },
+            "unit-prince": {
+              "Name": "Prince",
+              "Children": {}
+            },
+            "unit-storm-weavers": {
+              "Name": "Storm Weavers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-ellyrian-reavers": {
+              "Name": "Ellyrian Reavers",
+              "Children": {}
+            },
+            "unit-elven-archers": {
+              "Name": "Elven Archers",
+              "Children": {}
+            },
+            "unit-elven-spearmen": {
+              "Name": "Elven Spearmen",
+              "Children": {}
+            },
+            "unit-lothern-sea-guard": {
+              "Name": "Lothern Sea Guard",
+              "Children": {}
+            },
+            "unit-silver-helms": {
+              "Name": "Silver Helms",
+              "Children": {}
+            },
+            "unit-sisters-of-avelorn": {
+              "Name": "Sisters of Avelorn",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-dragon-princes": {
+              "Name": "Dragon Princes",
+              "Children": {}
+            },
+            "unit-lion-chariot-of-chrace": {
+              "Name": "Lion Chariot of Chrace",
+              "Children": {}
+            },
+            "unit-lothern-skycutters": {
+              "Name": "Lothern Skycutters",
+              "Children": {}
+            },
+            "unit-phoenix-guard": {
+              "Name": "Phoenix Guard",
+              "Children": {}
+            },
+            "unit-shadow-warriors": {
+              "Name": "Shadow Warriors",
+              "Children": {}
+            },
+            "unit-swordmasters-of-hoeth": {
+              "Name": "Swordmasters of Hoeth",
+              "Children": {}
+            },
+            "unit-tiranoc-chariot": {
+              "Name": "Tiranoc Chariot",
+              "Children": {}
+            },
+            "unit-white-lions-of-chrace": {
+              "Name": "White Lions of Chrace",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-eagle-claw-bolt-thrower": {
+              "Name": "Eagle-Claw Bolt Thrower",
+              "Children": {}
+            },
+            "unit-flamespyre-phoenix": {
+              "Name": "Flamespyre Phoenix",
+              "Children": {}
+            },
+            "unit-frostheart-phoenix": {
+              "Name": "Frostheart Phoenix",
+              "Children": {}
+            },
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-lion-chariot-of-chrace": {
+              "Name": "Lion Chariot of Chrace",
+              "Children": {}
+            },
+            "unit-lothern-skycutters": {
+              "Name": "Lothern Skycutters",
+              "Children": {}
+            },
+            "unit-merwyrms": {
+              "Name": "Merwyrms",
+              "Children": {}
+            },
+            "unit-sisters-of-avelorn": {
+              "Name": "Sisters of Avelorn",
+              "Children": {}
+            },
+            "unit-war-lions": {
+              "Name": "War Lions",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-high-elf-realms---chracian-warhost": {
+      "Name": "High Elf Realms - Chracian Warhost",
+      "Children": {
+        "faction-high-elf-realms---chracian-warhost-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-korhil-lionmane,-captain-of-the-white-lions": {
+              "Name": "Korhil Lionmane, Captain of the White Lions",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-archmage": {
+              "Name": "Archmage",
+              "Children": {}
+            },
+            "unit-chracian-chieftains": {
+              "Name": "Chracian Chieftains",
+              "Children": {}
+            },
+            "unit-noble": {
+              "Name": "Noble",
+              "Children": {}
+            },
+            "unit-prince": {
+              "Name": "Prince",
+              "Children": {}
+            },
+            "unit-storm-weavers": {
+              "Name": "Storm Weavers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-chracian-woodsmen": {
+              "Name": "Chracian Woodsmen",
+              "Children": {}
+            },
+            "unit-elven-archers": {
+              "Name": "Elven Archers",
+              "Children": {}
+            },
+            "unit-elven-spearmen": {
+              "Name": "Elven Spearmen",
+              "Children": {}
+            },
+            "unit-white-lions-of-chrace": {
+              "Name": "White Lions of Chrace",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-lion-chariot-of-chrace": {
+              "Name": "Lion Chariot of Chrace",
+              "Children": {}
+            },
+            "unit-war-lions": {
+              "Name": "War Lions",
+              "Children": {}
+            },
+            "unit-white-lions-of-chrace": {
+              "Name": "White Lions of Chrace",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-eagle-claw-bolt-thrower": {
+              "Name": "Eagle-Claw Bolt Thrower",
+              "Children": {}
+            },
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-lion-guard": {
+              "Name": "Lion Guard",
+              "Children": {}
+            },
+            "unit-shadow-warriors": {
+              "Name": "Shadow Warriors",
+              "Children": {}
+            },
+            "unit-sisters-of-avelorn": {
+              "Name": "Sisters of Avelorn",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-high-elf-realms---sea-guard-garrison": {
+      "Name": "High Elf Realms - Sea Guard Garrison",
+      "Children": {
+        "faction-high-elf-realms---sea-guard-garrison-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-ishaya-vess,-sentinel-of-the-silent-isle": {
+              "Name": "Ishaya Vess, Sentinel of the Silent Isle",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-dragon-mage": {
+              "Name": "Dragon Mage",
+              "Children": {}
+            },
+            "unit-mage": {
+              "Name": "Mage",
+              "Children": {}
+            },
+            "unit-noble": {
+              "Name": "Noble",
+              "Children": {}
+            },
+            "unit-sea-guard-garrison-commanders": {
+              "Name": "Sea Guard Garrison Commanders",
+              "Children": {}
+            },
+            "unit-storm-weavers": {
+              "Name": "Storm Weavers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-lothern-sea-guard": {
+              "Name": "Lothern Sea Guard",
+              "Children": {}
+            },
+            "unit-shadow-warriors": {
+              "Name": "Shadow Warriors",
+              "Children": {}
+            },
+            "unit-ship's-company": {
+              "Name": "Ship's Company",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-eagle-claw-bolt-thrower": {
+              "Name": "Eagle-Claw Bolt Thrower",
+              "Children": {}
+            },
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-lothern-skycutters": {
+              "Name": "Lothern Skycutters",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-ellyrian-reavers": {
+              "Name": "Ellyrian Reavers",
+              "Children": {}
+            },
+            "unit-flamespyre-phoenix": {
+              "Name": "Flamespyre Phoenix",
+              "Children": {}
+            },
+            "unit-frostheart-phoenix": {
+              "Name": "Frostheart Phoenix",
+              "Children": {}
+            },
+            "unit-merwyrms": {
+              "Name": "Merwyrms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-kingdom-of-bretonnia": {
+      "Name": "Kingdom of Bretonnia",
+      "Children": {
+        "faction-kingdom-of-bretonnia-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-lady-élisse-duchaard": {
+              "Name": "Lady Élisse Duchaard",
+              "Children": {}
+            },
+            "unit-sir-cecil-gastonne": {
+              "Name": "Sir Cecil Gastonne",
+              "Children": {}
+            },
+            "unit-the-green-knight": {
+              "Name": "The Green Knight",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-baron": {
+              "Name": "Baron",
+              "Children": {}
+            },
+            "unit-damsel": {
+              "Name": "Damsel",
+              "Children": {}
+            },
+            "unit-duke": {
+              "Name": "Duke",
+              "Children": {}
+            },
+            "unit-paladin": {
+              "Name": "Paladin",
+              "Children": {}
+            },
+            "unit-prophetess": {
+              "Name": "Prophetess",
+              "Children": {}
+            },
+            "unit-sergeants-at-arms": {
+              "Name": "Sergeants-At-Arms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-knights-errant": {
+              "Name": "Knights Errant",
+              "Children": {}
+            },
+            "unit-knights-of-the-realm-on-foot": {
+              "Name": "Knights of the Realm on Foot",
+              "Children": {}
+            },
+            "unit-men-at-arms": {
+              "Name": "Men-At-Arms",
+              "Children": {}
+            },
+            "unit-mounted-knights-of-the-realm": {
+              "Name": "Mounted Knights of the Realm",
+              "Children": {}
+            },
+            "unit-peasant-bowmen": {
+              "Name": "Peasant Bowmen",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-battle-pilgrims-&-grail-reliquae": {
+              "Name": "Battle Pilgrims & Grail Reliquae",
+              "Children": {}
+            },
+            "unit-mounted-yeomen": {
+              "Name": "Mounted Yeomen",
+              "Children": {}
+            },
+            "unit-pegasus-knights": {
+              "Name": "Pegasus Knights",
+              "Children": {}
+            },
+            "unit-questing-knights": {
+              "Name": "Questing Knights",
+              "Children": {}
+            },
+            "unit-squires": {
+              "Name": "Squires",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-field-trebuchet": {
+              "Name": "Field Trebuchet",
+              "Children": {}
+            },
+            "unit-grail-knights": {
+              "Name": "Grail Knights",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-kingdom-of-bretonnia---bretonnian-exiles": {
+      "Name": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "Children": {
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-sir-cecil-gastonne": {
+              "Name": "Sir Cecil Gastonne",
+              "Children": {}
+            },
+            "unit-the-green-knight": {
+              "Name": "The Green Knight",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-baron": {
+              "Name": "Baron",
+              "Children": {}
+            },
+            "unit-damsel": {
+              "Name": "Damsel",
+              "Children": {}
+            },
+            "unit-outcast-wizard": {
+              "Name": "Outcast Wizard",
+              "Children": {}
+            },
+            "unit-paladin": {
+              "Name": "Paladin",
+              "Children": {}
+            },
+            "unit-sergeants-at-arms": {
+              "Name": "Sergeants-At-Arms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-knights-errant": {
+              "Name": "Knights Errant",
+              "Children": {}
+            },
+            "unit-knights-of-the-realm-on-foot": {
+              "Name": "Knights of the Realm on Foot",
+              "Children": {}
+            },
+            "unit-men-at-arms": {
+              "Name": "Men-At-Arms",
+              "Children": {}
+            },
+            "unit-mounted-knights-of-the-realm": {
+              "Name": "Mounted Knights of the Realm",
+              "Children": {}
+            },
+            "unit-mounted-yeomen": {
+              "Name": "Mounted Yeomen",
+              "Children": {}
+            },
+            "unit-peasant-bowmen": {
+              "Name": "Peasant Bowmen",
+              "Children": {}
+            },
+            "unit-yeomen-guard": {
+              "Name": "Yeomen Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-battle-pilgrims-&-grail-reliquae": {
+              "Name": "Battle Pilgrims & Grail Reliquae",
+              "Children": {}
+            },
+            "unit-pegasus-knights": {
+              "Name": "Pegasus Knights",
+              "Children": {}
+            },
+            "unit-squires": {
+              "Name": "Squires",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-border-princes-bombard": {
+              "Name": "Border Princes Bombard",
+              "Children": {}
+            },
+            "unit-border-princes-brigands": {
+              "Name": "Border Princes Brigands",
+              "Children": {}
+            },
+            "unit-field-trebuchet": {
+              "Name": "Field Trebuchet",
+              "Children": {}
+            },
+            "unit-questing-knights": {
+              "Name": "Questing Knights",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---bretonnian-exiles-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-empire-archers": {
+              "Name": "Empire Archers",
+              "Children": {}
+            },
+            "unit-free-company-militia": {
+              "Name": "Free Company Militia",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-kingdom-of-bretonnia---errantry-crusade": {
+      "Name": "Kingdom of Bretonnia - Errantry Crusade",
+      "Children": {
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-lady-élisse-duchaard": {
+              "Name": "Lady Élisse Duchaard",
+              "Children": {}
+            },
+            "unit-sir-cecil-gastonne": {
+              "Name": "Sir Cecil Gastonne",
+              "Children": {}
+            },
+            "unit-the-green-knight": {
+              "Name": "The Green Knight",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-baron": {
+              "Name": "Baron",
+              "Children": {}
+            },
+            "unit-damsel": {
+              "Name": "Damsel",
+              "Children": {}
+            },
+            "unit-duke": {
+              "Name": "Duke",
+              "Children": {}
+            },
+            "unit-paladin": {
+              "Name": "Paladin",
+              "Children": {}
+            },
+            "unit-prophetess": {
+              "Name": "Prophetess",
+              "Children": {}
+            },
+            "unit-sergeants-at-arms": {
+              "Name": "Sergeants-At-Arms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-battle-pilgrims-&-grail-reliquae": {
+              "Name": "Battle Pilgrims & Grail Reliquae",
+              "Children": {}
+            },
+            "unit-knights-errant": {
+              "Name": "Knights Errant",
+              "Children": {}
+            },
+            "unit-knights-of-the-realm-on-foot": {
+              "Name": "Knights of the Realm on Foot",
+              "Children": {}
+            },
+            "unit-mounted-knights-of-the-realm": {
+              "Name": "Mounted Knights of the Realm",
+              "Children": {}
+            },
+            "unit-squires": {
+              "Name": "Squires",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-battle-pilgrims-&-grail-reliquae": {
+              "Name": "Battle Pilgrims & Grail Reliquae",
+              "Children": {}
+            },
+            "unit-men-at-arms": {
+              "Name": "Men-At-Arms",
+              "Children": {}
+            },
+            "unit-peasant-bowmen": {
+              "Name": "Peasant Bowmen",
+              "Children": {}
+            },
+            "unit-pegasus-knights": {
+              "Name": "Pegasus Knights",
+              "Children": {}
+            },
+            "unit-questing-knights": {
+              "Name": "Questing Knights",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-field-trebuchet": {
+              "Name": "Field Trebuchet",
+              "Children": {}
+            },
+            "unit-grail-knights": {
+              "Name": "Grail Knights",
+              "Children": {}
+            },
+            "unit-mounted-yeomen": {
+              "Name": "Mounted Yeomen",
+              "Children": {}
+            }
+          }
+        },
+        "faction-kingdom-of-bretonnia---errantry-crusade-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-lizardmen": {
+      "Name": "Lizardmen",
+      "Children": {
+        "faction-lizardmen-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-saurus-oldblood": {
+              "Name": "Saurus Oldblood",
+              "Children": {}
+            },
+            "unit-saurus-scar-veteran": {
+              "Name": "Saurus Scar-Veteran",
+              "Children": {}
+            },
+            "unit-skink-chief": {
+              "Name": "Skink Chief",
+              "Children": {}
+            },
+            "unit-skink-priest": {
+              "Name": "Skink Priest",
+              "Children": {}
+            },
+            "unit-slann-mage-priests": {
+              "Name": "Slann Mage-Priests",
+              "Children": {}
+            }
+          }
+        },
+        "faction-lizardmen-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-jungle-swarms": {
+              "Name": "Jungle Swarms",
+              "Children": {}
+            },
+            "unit-saurus-warriors": {
+              "Name": "Saurus Warriors",
+              "Children": {}
+            },
+            "unit-skink-skirmishers": {
+              "Name": "Skink Skirmishers",
+              "Children": {}
+            },
+            "unit-temple-guard": {
+              "Name": "Temple Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-lizardmen-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-bastiladon": {
+              "Name": "Bastiladon",
+              "Children": {}
+            },
+            "unit-chameleon-skinks": {
+              "Name": "Chameleon Skinks",
+              "Children": {}
+            },
+            "unit-cold-one-riders": {
+              "Name": "Cold One Riders",
+              "Children": {}
+            },
+            "unit-kroxigor": {
+              "Name": "Kroxigor",
+              "Children": {}
+            },
+            "unit-ripperdactyl-riders": {
+              "Name": "Ripperdactyl Riders",
+              "Children": {}
+            },
+            "unit-stegadon": {
+              "Name": "Stegadon",
+              "Children": {}
+            },
+            "unit-terradon-riders": {
+              "Name": "Terradon Riders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-lizardmen-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-ancient-stegadon": {
+              "Name": "Ancient Stegadon",
+              "Children": {}
+            },
+            "unit-razordon-packs": {
+              "Name": "Razordon Packs",
+              "Children": {}
+            },
+            "unit-salamander-packs": {
+              "Name": "Salamander Packs",
+              "Children": {}
+            },
+            "unit-stegadon": {
+              "Name": "Stegadon",
+              "Children": {}
+            },
+            "unit-troglodon": {
+              "Name": "Troglodon",
+              "Children": {}
+            }
+          }
+        },
+        "faction-lizardmen-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-ogre-kingdoms": {
+      "Name": "Ogre Kingdoms",
+      "Children": {
+        "faction-ogre-kingdoms-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-bruiser": {
+              "Name": "Bruiser",
+              "Children": {}
+            },
+            "unit-butcher": {
+              "Name": "Butcher",
+              "Children": {}
+            },
+            "unit-firebelly": {
+              "Name": "Firebelly",
+              "Children": {}
+            },
+            "unit-hunter": {
+              "Name": "Hunter",
+              "Children": {}
+            },
+            "unit-slaughtermaster": {
+              "Name": "Slaughtermaster",
+              "Children": {}
+            },
+            "unit-tyrant": {
+              "Name": "Tyrant",
+              "Children": {}
+            }
+          }
+        },
+        "faction-ogre-kingdoms-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-gnoblar-fighters": {
+              "Name": "Gnoblar Fighters",
+              "Children": {}
+            },
+            "unit-gnoblar-trappers": {
+              "Name": "Gnoblar Trappers",
+              "Children": {}
+            },
+            "unit-ironguts": {
+              "Name": "Ironguts",
+              "Children": {}
+            },
+            "unit-ogre-bulls": {
+              "Name": "Ogre Bulls",
+              "Children": {}
+            },
+            "unit-sabretusk-packs": {
+              "Name": "Sabretusk Packs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-ogre-kingdoms-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-gnoblar-scraplauncher": {
+              "Name": "Gnoblar Scraplauncher",
+              "Children": {}
+            },
+            "unit-ironblaster": {
+              "Name": "Ironblaster",
+              "Children": {}
+            },
+            "unit-leadbelchers": {
+              "Name": "Leadbelchers",
+              "Children": {}
+            },
+            "unit-maneaters": {
+              "Name": "Maneaters",
+              "Children": {}
+            },
+            "unit-mournfang-cavalry": {
+              "Name": "Mournfang Cavalry",
+              "Children": {}
+            },
+            "unit-yhetees": {
+              "Name": "Yhetees",
+              "Children": {}
+            }
+          }
+        },
+        "faction-ogre-kingdoms-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-giants": {
+              "Name": "Giants",
+              "Children": {}
+            },
+            "unit-gorgers": {
+              "Name": "Gorgers",
+              "Children": {}
+            },
+            "unit-stonehorn-riders": {
+              "Name": "Stonehorn Riders",
+              "Children": {}
+            },
+            "unit-thundertusk-riders": {
+              "Name": "Thundertusk Riders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-ogre-kingdoms-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-orc-and-goblin-tribes": {
+      "Name": "Orc and Goblin Tribes",
+      "Children": {
+        "faction-orc-and-goblin-tribes-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-kiknik-toofsnatcha": {
+              "Name": "Kiknik Toofsnatcha",
+              "Children": {}
+            },
+            "unit-ogdruz-swampdigga": {
+              "Name": "Ogdruz Swampdigga",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-black-orc-bigboss": {
+              "Name": "Black Orc Bigboss",
+              "Children": {}
+            },
+            "unit-black-orc-warboss": {
+              "Name": "Black Orc Warboss",
+              "Children": {}
+            },
+            "unit-goblin-bigboss": {
+              "Name": "Goblin Bigboss",
+              "Children": {}
+            },
+            "unit-goblin-oddgit": {
+              "Name": "Goblin Oddgit",
+              "Children": {}
+            },
+            "unit-goblin-oddnob": {
+              "Name": "Goblin Oddnob",
+              "Children": {}
+            },
+            "unit-goblin-warboss": {
+              "Name": "Goblin Warboss",
+              "Children": {}
+            },
+            "unit-night-goblin-bigboss": {
+              "Name": "Night Goblin Bigboss",
+              "Children": {}
+            },
+            "unit-night-goblin-oddgit": {
+              "Name": "Night Goblin Oddgit",
+              "Children": {}
+            },
+            "unit-night-goblin-oddnob": {
+              "Name": "Night Goblin Oddnob",
+              "Children": {}
+            },
+            "unit-night-goblin-warboss": {
+              "Name": "Night Goblin Warboss",
+              "Children": {}
+            },
+            "unit-orc-bigboss": {
+              "Name": "Orc Bigboss",
+              "Children": {}
+            },
+            "unit-orc-warboss": {
+              "Name": "Orc Warboss",
+              "Children": {}
+            },
+            "unit-orc-weirdboy": {
+              "Name": "Orc Weirdboy",
+              "Children": {}
+            },
+            "unit-orc-weirdnob": {
+              "Name": "Orc Weirdnob",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-black-orc-mobs": {
+              "Name": "Black Orc Mobs",
+              "Children": {}
+            },
+            "unit-goblin-mobs": {
+              "Name": "Goblin Mobs",
+              "Children": {}
+            },
+            "unit-goblin-spider-rider-mobs": {
+              "Name": "Goblin Spider Rider Mobs",
+              "Children": {}
+            },
+            "unit-goblin-wolf-rider-mobs": {
+              "Name": "Goblin Wolf Rider Mobs",
+              "Children": {}
+            },
+            "unit-night-goblin-mobs": {
+              "Name": "Night Goblin Mobs",
+              "Children": {}
+            },
+            "unit-night-goblin-squig-herds": {
+              "Name": "Night Goblin Squig Herds",
+              "Children": {}
+            },
+            "unit-orc-mobs": {
+              "Name": "Orc Mobs",
+              "Children": {}
+            },
+            "unit-snotling-mobs": {
+              "Name": "Snotling Mobs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-black-orc-mobs": {
+              "Name": "Black Orc Mobs",
+              "Children": {}
+            },
+            "unit-common-troll-mobs": {
+              "Name": "Common Troll Mobs",
+              "Children": {}
+            },
+            "unit-goblin-bolt-throwas": {
+              "Name": "Goblin Bolt Throwas",
+              "Children": {}
+            },
+            "unit-goblin-wolf-chariots": {
+              "Name": "Goblin Wolf Chariots",
+              "Children": {}
+            },
+            "unit-night-goblin-squig-hopper-mobs": {
+              "Name": "Night Goblin Squig Hopper Mobs",
+              "Children": {}
+            },
+            "unit-orc-boar-boy-mobs": {
+              "Name": "Orc Boar Boy Mobs",
+              "Children": {}
+            },
+            "unit-orc-boar-chariots": {
+              "Name": "Orc Boar Chariots",
+              "Children": {}
+            },
+            "unit-river-troll-mobs": {
+              "Name": "River Troll Mobs",
+              "Children": {}
+            },
+            "unit-snotling-pump-wagons": {
+              "Name": "Snotling Pump Wagons",
+              "Children": {}
+            },
+            "unit-stone-troll-mobs": {
+              "Name": "Stone Troll Mobs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-arachnarok-spider": {
+              "Name": "Arachnarok Spider",
+              "Children": {}
+            },
+            "unit-doom-diver-catapults": {
+              "Name": "Doom Diver Catapults",
+              "Children": {}
+            },
+            "unit-giants": {
+              "Name": "Giants",
+              "Children": {}
+            },
+            "unit-goblin-rock-lobbers": {
+              "Name": "Goblin Rock Lobbers",
+              "Children": {}
+            },
+            "unit-mangler-squigs": {
+              "Name": "Mangler Squigs",
+              "Children": {}
+            },
+            "unit-troll-hag": {
+              "Name": "Troll Hag",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-orc-and-goblin-tribes---nomadic-waaagh!": {
+      "Name": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "Children": {
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-kiknik-toofsnatcha": {
+              "Name": "Kiknik Toofsnatcha",
+              "Children": {}
+            },
+            "unit-ogdruz-swampdigga": {
+              "Name": "Ogdruz Swampdigga",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-black-orc-bigboss": {
+              "Name": "Black Orc Bigboss",
+              "Children": {}
+            },
+            "unit-black-orc-warboss": {
+              "Name": "Black Orc Warboss",
+              "Children": {}
+            },
+            "unit-goblin-bigboss": {
+              "Name": "Goblin Bigboss",
+              "Children": {}
+            },
+            "unit-goblin-oddgit": {
+              "Name": "Goblin Oddgit",
+              "Children": {}
+            },
+            "unit-goblin-oddnob": {
+              "Name": "Goblin Oddnob",
+              "Children": {}
+            },
+            "unit-goblin-warboss": {
+              "Name": "Goblin Warboss",
+              "Children": {}
+            },
+            "unit-orc-bigboss": {
+              "Name": "Orc Bigboss",
+              "Children": {}
+            },
+            "unit-orc-warboss": {
+              "Name": "Orc Warboss",
+              "Children": {}
+            },
+            "unit-orc-weirdboy": {
+              "Name": "Orc Weirdboy",
+              "Children": {}
+            },
+            "unit-orc-weirdnob": {
+              "Name": "Orc Weirdnob",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-black-orc-chariot": {
+              "Name": "Black Orc Chariot",
+              "Children": {}
+            },
+            "unit-goblin-wolf-chariots": {
+              "Name": "Goblin Wolf Chariots",
+              "Children": {}
+            },
+            "unit-goblin-wolf-rider-mobs": {
+              "Name": "Goblin Wolf Rider Mobs",
+              "Children": {}
+            },
+            "unit-orc-boar-boy-mobs": {
+              "Name": "Orc Boar Boy Mobs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-orc-boar-boy-mobs": {
+              "Name": "Orc Boar Boy Mobs",
+              "Children": {}
+            },
+            "unit-orc-boar-chariots": {
+              "Name": "Orc Boar Chariots",
+              "Children": {}
+            },
+            "unit-snotling-pump-wagons": {
+              "Name": "Snotling Pump Wagons",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-black-orc-chariot": {
+              "Name": "Black Orc Chariot",
+              "Children": {}
+            },
+            "unit-giants": {
+              "Name": "Giants",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---nomadic-waaagh!-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-orc-and-goblin-tribes---troll-horde": {
+      "Name": "Orc and Goblin Tribes - Troll Horde",
+      "Children": {
+        "faction-orc-and-goblin-tribes---troll-horde-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-kiknik-toofsnatcha": {
+              "Name": "Kiknik Toofsnatcha",
+              "Children": {}
+            },
+            "unit-ogdruz-swampdigga": {
+              "Name": "Ogdruz Swampdigga",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---troll-horde-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-goblin-bigboss": {
+              "Name": "Goblin Bigboss",
+              "Children": {}
+            },
+            "unit-goblin-oddgit": {
+              "Name": "Goblin Oddgit",
+              "Children": {}
+            },
+            "unit-goblin-oddnob": {
+              "Name": "Goblin Oddnob",
+              "Children": {}
+            },
+            "unit-goblin-warboss": {
+              "Name": "Goblin Warboss",
+              "Children": {}
+            },
+            "unit-orc-bigboss": {
+              "Name": "Orc Bigboss",
+              "Children": {}
+            },
+            "unit-orc-warboss": {
+              "Name": "Orc Warboss",
+              "Children": {}
+            },
+            "unit-orc-weirdboy": {
+              "Name": "Orc Weirdboy",
+              "Children": {}
+            },
+            "unit-orc-weirdnob": {
+              "Name": "Orc Weirdnob",
+              "Children": {}
+            },
+            "unit-troll-hag": {
+              "Name": "Troll Hag",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---troll-horde-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-common-troll-mobs": {
+              "Name": "Common Troll Mobs",
+              "Children": {}
+            },
+            "unit-goblin-mobs": {
+              "Name": "Goblin Mobs",
+              "Children": {}
+            },
+            "unit-goblin-spider-rider-mobs": {
+              "Name": "Goblin Spider Rider Mobs",
+              "Children": {}
+            },
+            "unit-goblin-wolf-rider-mobs": {
+              "Name": "Goblin Wolf Rider Mobs",
+              "Children": {}
+            },
+            "unit-orc-mobs": {
+              "Name": "Orc Mobs",
+              "Children": {}
+            },
+            "unit-river-troll-mobs": {
+              "Name": "River Troll Mobs",
+              "Children": {}
+            },
+            "unit-stone-troll-mobs": {
+              "Name": "Stone Troll Mobs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---troll-horde-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-common-troll-mobs": {
+              "Name": "Common Troll Mobs",
+              "Children": {}
+            },
+            "unit-goblin-wolf-chariots": {
+              "Name": "Goblin Wolf Chariots",
+              "Children": {}
+            },
+            "unit-orc-boar-boy-mobs": {
+              "Name": "Orc Boar Boy Mobs",
+              "Children": {}
+            },
+            "unit-orc-boar-chariots": {
+              "Name": "Orc Boar Chariots",
+              "Children": {}
+            },
+            "unit-river-troll-mobs": {
+              "Name": "River Troll Mobs",
+              "Children": {}
+            },
+            "unit-stone-troll-mobs": {
+              "Name": "Stone Troll Mobs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---troll-horde-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-giants": {
+              "Name": "Giants",
+              "Children": {}
+            }
+          }
+        },
+        "faction-orc-and-goblin-tribes---troll-horde-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-skaven": {
+      "Name": "Skaven",
+      "Children": {
+        "faction-skaven-category-0": {
+          "Name": "Uncategorized",
+          "Children": {
+            "unit-packmasters-&-master-moulders": {
+              "Name": "Packmasters & Master Moulders",
+              "Children": {}
+            },
+            "unit-weapon-team": {
+              "Name": "Weapon Team",
+              "Children": {}
+            }
+          }
+        },
+        "faction-skaven-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-grey-seer": {
+              "Name": "Grey Seer",
+              "Children": {}
+            },
+            "unit-master-assassin": {
+              "Name": "Master Assassin",
+              "Children": {}
+            },
+            "unit-plague-priest": {
+              "Name": "Plague Priest",
+              "Children": {}
+            },
+            "unit-skaven-chieftain": {
+              "Name": "Skaven Chieftain",
+              "Children": {}
+            },
+            "unit-skaven-warlord": {
+              "Name": "Skaven Warlord",
+              "Children": {}
+            },
+            "unit-warlock-engineer": {
+              "Name": "Warlock Engineer",
+              "Children": {}
+            }
+          }
+        },
+        "faction-skaven-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-clanrats": {
+              "Name": "Clanrats",
+              "Children": {}
+            },
+            "unit-giant-rats": {
+              "Name": "Giant Rats",
+              "Children": {}
+            },
+            "unit-night-runners": {
+              "Name": "Night Runners",
+              "Children": {}
+            },
+            "unit-rat-swarms": {
+              "Name": "Rat Swarms",
+              "Children": {}
+            },
+            "unit-stormvermin": {
+              "Name": "Stormvermin",
+              "Children": {}
+            }
+          }
+        },
+        "faction-skaven-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-gutter-runners": {
+              "Name": "Gutter Runners",
+              "Children": {}
+            },
+            "unit-plague-monks": {
+              "Name": "Plague Monks",
+              "Children": {}
+            },
+            "unit-poisoned-wind-globadiers": {
+              "Name": "Poisoned Wind Globadiers",
+              "Children": {}
+            },
+            "unit-rat-ogres": {
+              "Name": "Rat Ogres",
+              "Children": {}
+            },
+            "unit-warplock-jezzails": {
+              "Name": "Warplock Jezzails",
+              "Children": {}
+            }
+          }
+        },
+        "faction-skaven-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-doomwheel": {
+              "Name": "Doomwheel",
+              "Children": {}
+            },
+            "unit-hell-pit-abomination": {
+              "Name": "Hell Pit Abomination",
+              "Children": {}
+            },
+            "unit-plague-censer-bearers": {
+              "Name": "Plague Censer Bearers",
+              "Children": {}
+            },
+            "unit-plagueclaw-catapult": {
+              "Name": "Plagueclaw Catapult",
+              "Children": {}
+            },
+            "unit-warp-lightning-cannon": {
+              "Name": "Warp Lightning Cannon",
+              "Children": {}
+            }
+          }
+        },
+        "faction-skaven-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-the-empire-of-man": {
+      "Name": "The Empire of Man",
+      "Children": {
+        "faction-the-empire-of-man-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-general-hans-von-löwenhacke": {
+              "Name": "General Hans Von Löwenhacke",
+              "Children": {}
+            },
+            "unit-harald-gemunsen,-grand-master-of-the-knights-panther": {
+              "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-captain-of-the-empire": {
+              "Name": "Captain of the Empire",
+              "Children": {}
+            },
+            "unit-chapter-master": {
+              "Name": "Chapter Master",
+              "Children": {}
+            },
+            "unit-engineer": {
+              "Name": "Engineer",
+              "Children": {}
+            },
+            "unit-general-of-the-empire": {
+              "Name": "General of the Empire",
+              "Children": {}
+            },
+            "unit-grand-master": {
+              "Name": "Grand Master",
+              "Children": {}
+            },
+            "unit-harbinger-of-doom": {
+              "Name": "Harbinger of Doom",
+              "Children": {}
+            },
+            "unit-high-priest-of-ulric": {
+              "Name": "High Priest of Ulric",
+              "Children": {}
+            },
+            "unit-lector-of-sigmar": {
+              "Name": "Lector of Sigmar",
+              "Children": {}
+            },
+            "unit-master-mage": {
+              "Name": "Master Mage",
+              "Children": {}
+            },
+            "unit-priest-of-sigmar": {
+              "Name": "Priest of Sigmar",
+              "Children": {}
+            },
+            "unit-priest-of-ulric": {
+              "Name": "Priest of Ulric",
+              "Children": {}
+            },
+            "unit-witch-hunter": {
+              "Name": "Witch Hunter",
+              "Children": {}
+            },
+            "unit-wizard-lord": {
+              "Name": "Wizard Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-empire-archers": {
+              "Name": "Empire Archers",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-free-company-militia": {
+              "Name": "Free Company Militia",
+              "Children": {}
+            },
+            "unit-state-missile-troops": {
+              "Name": "State Missile Troops",
+              "Children": {}
+            },
+            "unit-state-troops": {
+              "Name": "State Troops",
+              "Children": {}
+            },
+            "unit-veteran-state-troops": {
+              "Name": "Veteran State Troops",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-demigryph-knights": {
+              "Name": "Demigryph Knights",
+              "Children": {}
+            },
+            "unit-empire-greatswords": {
+              "Name": "Empire Greatswords",
+              "Children": {}
+            },
+            "unit-empire-road-wardens": {
+              "Name": "Empire Road Wardens",
+              "Children": {}
+            },
+            "unit-great-cannon": {
+              "Name": "Great Cannon",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-mortar": {
+              "Name": "Mortar",
+              "Children": {}
+            },
+            "unit-outriders": {
+              "Name": "Outriders",
+              "Children": {}
+            },
+            "unit-pistoliers": {
+              "Name": "Pistoliers",
+              "Children": {}
+            },
+            "unit-teutogen-guard": {
+              "Name": "Teutogen Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-empire-steam-tank": {
+              "Name": "Empire Steam Tank",
+              "Children": {}
+            },
+            "unit-empire-war-wagons": {
+              "Name": "Empire War Wagons",
+              "Children": {}
+            },
+            "unit-flagellants": {
+              "Name": "Flagellants",
+              "Children": {}
+            },
+            "unit-helblaster-volley-gun": {
+              "Name": "Helblaster Volley Gun",
+              "Children": {}
+            },
+            "unit-helstorm-rocket-battery": {
+              "Name": "Helstorm Rocket Battery",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-the-empire-of-man---city-state-of-nuln": {
+      "Name": "The Empire of Man - City-State of Nuln",
+      "Children": {
+        "faction-the-empire-of-man---city-state-of-nuln-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-general-hans-von-löwenhacke": {
+              "Name": "General Hans Von Löwenhacke",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---city-state-of-nuln-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-captain-of-the-empire": {
+              "Name": "Captain of the Empire",
+              "Children": {}
+            },
+            "unit-engineer": {
+              "Name": "Engineer",
+              "Children": {}
+            },
+            "unit-general-of-the-empire": {
+              "Name": "General of the Empire",
+              "Children": {}
+            },
+            "unit-lector-of-sigmar": {
+              "Name": "Lector of Sigmar",
+              "Children": {}
+            },
+            "unit-master-mage": {
+              "Name": "Master Mage",
+              "Children": {}
+            },
+            "unit-priest-of-sigmar": {
+              "Name": "Priest of Sigmar",
+              "Children": {}
+            },
+            "unit-witch-hunter": {
+              "Name": "Witch Hunter",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---city-state-of-nuln-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-empire-archers": {
+              "Name": "Empire Archers",
+              "Children": {}
+            },
+            "unit-free-company-militia": {
+              "Name": "Free Company Militia",
+              "Children": {}
+            },
+            "unit-nuln-state-troops": {
+              "Name": "Nuln State Troops",
+              "Children": {}
+            },
+            "unit-nuln-veteran-state-troops": {
+              "Name": "Nuln Veteran State Troops",
+              "Children": {}
+            },
+            "unit-outriders": {
+              "Name": "Outriders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---city-state-of-nuln-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-empire-greatswords": {
+              "Name": "Empire Greatswords",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-empire-war-wagons": {
+              "Name": "Empire War Wagons",
+              "Children": {}
+            },
+            "unit-great-cannon": {
+              "Name": "Great Cannon",
+              "Children": {}
+            },
+            "unit-mortar": {
+              "Name": "Mortar",
+              "Children": {}
+            },
+            "unit-outriders": {
+              "Name": "Outriders",
+              "Children": {}
+            },
+            "unit-pistoliers": {
+              "Name": "Pistoliers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---city-state-of-nuln-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-empire-road-wardens": {
+              "Name": "Empire Road Wardens",
+              "Children": {}
+            },
+            "unit-empire-steam-tank": {
+              "Name": "Empire Steam Tank",
+              "Children": {}
+            },
+            "unit-helblaster-volley-gun": {
+              "Name": "Helblaster Volley Gun",
+              "Children": {}
+            },
+            "unit-helstorm-rocket-battery": {
+              "Name": "Helstorm Rocket Battery",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---city-state-of-nuln-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-the-empire-of-man---knightly-order": {
+      "Name": "The Empire of Man - Knightly Order",
+      "Children": {
+        "faction-the-empire-of-man---knightly-order-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-harald-gemunsen,-grand-master-of-the-knights-panther": {
+              "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---knightly-order-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-chapter-master": {
+              "Name": "Chapter Master",
+              "Children": {}
+            },
+            "unit-grand-master": {
+              "Name": "Grand Master",
+              "Children": {}
+            },
+            "unit-harbinger-of-doom": {
+              "Name": "Harbinger of Doom",
+              "Children": {}
+            },
+            "unit-high-priest-of-ulric": {
+              "Name": "High Priest of Ulric",
+              "Children": {}
+            },
+            "unit-lector-of-sigmar": {
+              "Name": "Lector of Sigmar",
+              "Children": {}
+            },
+            "unit-master-mage": {
+              "Name": "Master Mage",
+              "Children": {}
+            },
+            "unit-priest-of-sigmar": {
+              "Name": "Priest of Sigmar",
+              "Children": {}
+            },
+            "unit-priest-of-ulric": {
+              "Name": "Priest of Ulric",
+              "Children": {}
+            },
+            "unit-witch-hunter": {
+              "Name": "Witch Hunter",
+              "Children": {}
+            },
+            "unit-wizard-lord": {
+              "Name": "Wizard Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---knightly-order-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-empire-archers": {
+              "Name": "Empire Archers",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-free-company-militia": {
+              "Name": "Free Company Militia",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---knightly-order-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-demigryph-knights": {
+              "Name": "Demigryph Knights",
+              "Children": {}
+            },
+            "unit-great-cannon": {
+              "Name": "Great Cannon",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-mortar": {
+              "Name": "Mortar",
+              "Children": {}
+            },
+            "unit-state-missile-troops": {
+              "Name": "State Missile Troops",
+              "Children": {}
+            },
+            "unit-state-troops": {
+              "Name": "State Troops",
+              "Children": {}
+            },
+            "unit-teutogen-guard": {
+              "Name": "Teutogen Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---knightly-order-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-flagellants": {
+              "Name": "Flagellants",
+              "Children": {}
+            },
+            "unit-pistoliers": {
+              "Name": "Pistoliers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-the-empire-of-man---knightly-order-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-tomb-kings-of-khemri": {
+      "Name": "Tomb Kings of Khemri",
+      "Children": {
+        "faction-tomb-kings-of-khemri-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-nekaph": {
+              "Name": "Nekaph",
+              "Children": {}
+            },
+            "unit-prince-apophas": {
+              "Name": "Prince Apophas",
+              "Children": {}
+            },
+            "unit-settra-the-imperishable": {
+              "Name": "Settra the Imperishable",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-high-priest": {
+              "Name": "High Priest",
+              "Children": {}
+            },
+            "unit-mortuary-priest": {
+              "Name": "Mortuary Priest",
+              "Children": {}
+            },
+            "unit-necrotect": {
+              "Name": "Necrotect",
+              "Children": {}
+            },
+            "unit-royal-herald": {
+              "Name": "Royal Herald",
+              "Children": {}
+            },
+            "unit-tomb-king": {
+              "Name": "Tomb King",
+              "Children": {}
+            },
+            "unit-tomb-prince": {
+              "Name": "Tomb Prince",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-sepulchral-stalkers": {
+              "Name": "Sepulchral Stalkers",
+              "Children": {}
+            },
+            "unit-skeleton-archers": {
+              "Name": "Skeleton Archers",
+              "Children": {}
+            },
+            "unit-skeleton-chariots": {
+              "Name": "Skeleton Chariots",
+              "Children": {}
+            },
+            "unit-skeleton-horse-archers": {
+              "Name": "Skeleton Horse Archers",
+              "Children": {}
+            },
+            "unit-skeleton-horsemen": {
+              "Name": "Skeleton Horsemen",
+              "Children": {}
+            },
+            "unit-skeleton-skirmishers": {
+              "Name": "Skeleton Skirmishers",
+              "Children": {}
+            },
+            "unit-skeleton-warriors": {
+              "Name": "Skeleton Warriors",
+              "Children": {}
+            },
+            "unit-tomb-guard": {
+              "Name": "Tomb Guard",
+              "Children": {}
+            },
+            "unit-tomb-swarms": {
+              "Name": "Tomb Swarms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-carrion": {
+              "Name": "Carrion",
+              "Children": {}
+            },
+            "unit-khemrian-warsphinx": {
+              "Name": "Khemrian Warsphinx",
+              "Children": {}
+            },
+            "unit-necropolis-knights": {
+              "Name": "Necropolis Knights",
+              "Children": {}
+            },
+            "unit-sepulchral-stalkers": {
+              "Name": "Sepulchral Stalkers",
+              "Children": {}
+            },
+            "unit-tomb-guard": {
+              "Name": "Tomb Guard",
+              "Children": {}
+            },
+            "unit-tomb-scorpion": {
+              "Name": "Tomb Scorpion",
+              "Children": {}
+            },
+            "unit-ushabti": {
+              "Name": "Ushabti",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-casket-of-souls": {
+              "Name": "Casket of Souls",
+              "Children": {}
+            },
+            "unit-necrolith-colossus": {
+              "Name": "Necrolith Colossus",
+              "Children": {}
+            },
+            "unit-necrosphinx": {
+              "Name": "Necrosphinx",
+              "Children": {}
+            },
+            "unit-screaming-skull-catapult": {
+              "Name": "Screaming Skull Catapult",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-tomb-kings-of-khemri---mortuary-cult": {
+      "Name": "Tomb Kings of Khemri - Mortuary Cult",
+      "Children": {
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-prince-apophas": {
+              "Name": "Prince Apophas",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-arch-necrotect": {
+              "Name": "Arch Necrotect",
+              "Children": {}
+            },
+            "unit-high-priest": {
+              "Name": "High Priest",
+              "Children": {}
+            },
+            "unit-mortuary-priest": {
+              "Name": "Mortuary Priest",
+              "Children": {}
+            },
+            "unit-necrotect": {
+              "Name": "Necrotect",
+              "Children": {}
+            },
+            "unit-tomb-prince": {
+              "Name": "Tomb Prince",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-necroserpents": {
+              "Name": "Necroserpents",
+              "Children": {}
+            },
+            "unit-skeleton-archers": {
+              "Name": "Skeleton Archers",
+              "Children": {}
+            },
+            "unit-skeleton-horse-archers": {
+              "Name": "Skeleton Horse Archers",
+              "Children": {}
+            },
+            "unit-skeleton-horsemen": {
+              "Name": "Skeleton Horsemen",
+              "Children": {}
+            },
+            "unit-skeleton-skirmishers": {
+              "Name": "Skeleton Skirmishers",
+              "Children": {}
+            },
+            "unit-skeleton-warriors": {
+              "Name": "Skeleton Warriors",
+              "Children": {}
+            },
+            "unit-tomb-swarms": {
+              "Name": "Tomb Swarms",
+              "Children": {}
+            },
+            "unit-ushabti": {
+              "Name": "Ushabti",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-carrion": {
+              "Name": "Carrion",
+              "Children": {}
+            },
+            "unit-necrolith-colossus": {
+              "Name": "Necrolith Colossus",
+              "Children": {}
+            },
+            "unit-necroserpents": {
+              "Name": "Necroserpents",
+              "Children": {}
+            },
+            "unit-necrosphinx": {
+              "Name": "Necrosphinx",
+              "Children": {}
+            },
+            "unit-sepulchral-stalkers": {
+              "Name": "Sepulchral Stalkers",
+              "Children": {}
+            },
+            "unit-skeleton-chariots": {
+              "Name": "Skeleton Chariots",
+              "Children": {}
+            },
+            "unit-tomb-scorpion": {
+              "Name": "Tomb Scorpion",
+              "Children": {}
+            },
+            "unit-tomb-swarms": {
+              "Name": "Tomb Swarms",
+              "Children": {}
+            },
+            "unit-ushabti": {
+              "Name": "Ushabti",
+              "Children": {}
+            },
+            "unit-venerable-ushabti": {
+              "Name": "Venerable Ushabti",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-casket-of-souls": {
+              "Name": "Casket of Souls",
+              "Children": {}
+            },
+            "unit-necrolith-colossus": {
+              "Name": "Necrolith Colossus",
+              "Children": {}
+            },
+            "unit-necrosphinx": {
+              "Name": "Necrosphinx",
+              "Children": {}
+            },
+            "unit-screaming-skull-catapult": {
+              "Name": "Screaming Skull Catapult",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-tomb-kings-of-khemri---royal-host": {
+      "Name": "Tomb Kings of Khemri - Royal Host",
+      "Children": {
+        "faction-tomb-kings-of-khemri---royal-host-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-nekaph": {
+              "Name": "Nekaph",
+              "Children": {}
+            },
+            "unit-prince-apophas": {
+              "Name": "Prince Apophas",
+              "Children": {}
+            },
+            "unit-settra-the-imperishable": {
+              "Name": "Settra the Imperishable",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-mortuary-priest": {
+              "Name": "Mortuary Priest",
+              "Children": {}
+            },
+            "unit-royal-herald": {
+              "Name": "Royal Herald",
+              "Children": {}
+            },
+            "unit-tomb-king": {
+              "Name": "Tomb King",
+              "Children": {}
+            },
+            "unit-tomb-prince": {
+              "Name": "Tomb Prince",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-skeleton-archers": {
+              "Name": "Skeleton Archers",
+              "Children": {}
+            },
+            "unit-skeleton-cavalry-cohort": {
+              "Name": "Skeleton Cavalry Cohort",
+              "Children": {}
+            },
+            "unit-skeleton-chariots": {
+              "Name": "Skeleton Chariots",
+              "Children": {}
+            },
+            "unit-skeleton-infantry-cohort": {
+              "Name": "Skeleton Infantry Cohort",
+              "Children": {}
+            },
+            "unit-tomb-guard": {
+              "Name": "Tomb Guard",
+              "Children": {}
+            },
+            "unit-tomb-guard-chariots": {
+              "Name": "Tomb Guard Chariots",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-khemrian-warsphinx": {
+              "Name": "Khemrian Warsphinx",
+              "Children": {}
+            },
+            "unit-necropolis-knights": {
+              "Name": "Necropolis Knights",
+              "Children": {}
+            },
+            "unit-skeleton-horse-archers": {
+              "Name": "Skeleton Horse Archers",
+              "Children": {}
+            },
+            "unit-skeleton-skirmishers": {
+              "Name": "Skeleton Skirmishers",
+              "Children": {}
+            },
+            "unit-tomb-guard": {
+              "Name": "Tomb Guard",
+              "Children": {}
+            },
+            "unit-tomb-guard-chariots": {
+              "Name": "Tomb Guard Chariots",
+              "Children": {}
+            },
+            "unit-tomb-scorpion": {
+              "Name": "Tomb Scorpion",
+              "Children": {}
+            },
+            "unit-ushabti": {
+              "Name": "Ushabti",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-screaming-skull-catapult": {
+              "Name": "Screaming Skull Catapult",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-vampire-counts": {
+      "Name": "Vampire Counts",
+      "Children": {
+        "faction-vampire-counts-category-0": {
+          "Name": "Characters",
+          "Children": {
+            "unit-cairn-wraith": {
+              "Name": "Cairn Wraith",
+              "Children": {}
+            },
+            "unit-master-necromancer": {
+              "Name": "Master Necromancer",
+              "Children": {}
+            },
+            "unit-necromantic-acolyte": {
+              "Name": "Necromantic Acolyte",
+              "Children": {}
+            },
+            "unit-strigoi-ghoul-king": {
+              "Name": "Strigoi Ghoul King",
+              "Children": {}
+            },
+            "unit-tomb-banshee": {
+              "Name": "Tomb Banshee",
+              "Children": {}
+            },
+            "unit-vampire-count": {
+              "Name": "Vampire Count",
+              "Children": {}
+            },
+            "unit-vampire-thrall": {
+              "Name": "Vampire Thrall",
+              "Children": {}
+            },
+            "unit-wight-king": {
+              "Name": "Wight King",
+              "Children": {}
+            },
+            "unit-wight-lord": {
+              "Name": "Wight Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-vampire-counts-category-1": {
+          "Name": "Core",
+          "Children": {
+            "unit-bat-swarms": {
+              "Name": "Bat Swarms",
+              "Children": {}
+            },
+            "unit-black-knights": {
+              "Name": "Black Knights",
+              "Children": {}
+            },
+            "unit-crypt-ghouls": {
+              "Name": "Crypt Ghouls",
+              "Children": {}
+            },
+            "unit-dire-wolves": {
+              "Name": "Dire Wolves",
+              "Children": {}
+            },
+            "unit-grave-guard": {
+              "Name": "Grave Guard",
+              "Children": {}
+            },
+            "unit-skeleton-warriors": {
+              "Name": "Skeleton Warriors",
+              "Children": {}
+            },
+            "unit-zombies": {
+              "Name": "Zombies",
+              "Children": {}
+            }
+          }
+        },
+        "faction-vampire-counts-category-2": {
+          "Name": "Special",
+          "Children": {
+            "unit-black-knights": {
+              "Name": "Black Knights",
+              "Children": {}
+            },
+            "unit-corpse-cart": {
+              "Name": "Corpse Cart",
+              "Children": {}
+            },
+            "unit-crypt-horrors": {
+              "Name": "Crypt Horrors",
+              "Children": {}
+            },
+            "unit-fell-bats": {
+              "Name": "Fell Bats",
+              "Children": {}
+            },
+            "unit-grave-guard": {
+              "Name": "Grave Guard",
+              "Children": {}
+            },
+            "unit-spirit-hosts": {
+              "Name": "Spirit Hosts",
+              "Children": {}
+            },
+            "unit-terrorgheist": {
+              "Name": "Terrorgheist",
+              "Children": {}
+            },
+            "unit-vargheists": {
+              "Name": "Vargheists",
+              "Children": {}
+            }
+          }
+        },
+        "faction-vampire-counts-category-3": {
+          "Name": "Rare",
+          "Children": {
+            "unit-black-coach": {
+              "Name": "Black Coach",
+              "Children": {}
+            },
+            "unit-blood-knights": {
+              "Name": "Blood Knights",
+              "Children": {}
+            },
+            "unit-hexwraiths": {
+              "Name": "Hexwraiths",
+              "Children": {}
+            },
+            "unit-terrorgheist": {
+              "Name": "Terrorgheist",
+              "Children": {}
+            },
+            "unit-vargheists": {
+              "Name": "Vargheists",
+              "Children": {}
+            },
+            "unit-varghulf": {
+              "Name": "Varghulf",
+              "Children": {}
+            }
+          }
+        },
+        "faction-vampire-counts-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-warriors-of-chaos": {
+      "Name": "Warriors of Chaos",
+      "Children": {
+        "faction-warriors-of-chaos-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-frydaal-the-chainmaker": {
+              "Name": "Frydaal the Chainmaker",
+              "Children": {}
+            },
+            "unit-galrauch,-the-great-drake": {
+              "Name": "Galrauch, the Great Drake",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-aspiring-champion": {
+              "Name": "Aspiring Champion",
+              "Children": {}
+            },
+            "unit-chaos-lord": {
+              "Name": "Chaos Lord",
+              "Children": {}
+            },
+            "unit-daemon-princes": {
+              "Name": "Daemon Princes",
+              "Children": {}
+            },
+            "unit-exalted-champion": {
+              "Name": "Exalted Champion",
+              "Children": {}
+            },
+            "unit-exalted-sorcerer": {
+              "Name": "Exalted Sorcerer",
+              "Children": {}
+            },
+            "unit-sorcerer-lord": {
+              "Name": "Sorcerer Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-chaos-knights": {
+              "Name": "Chaos Knights",
+              "Children": {}
+            },
+            "unit-chaos-marauders": {
+              "Name": "Chaos Marauders",
+              "Children": {}
+            },
+            "unit-chaos-warhounds": {
+              "Name": "Chaos Warhounds",
+              "Children": {}
+            },
+            "unit-chaos-warriors": {
+              "Name": "Chaos Warriors",
+              "Children": {}
+            },
+            "unit-forsaken": {
+              "Name": "Forsaken",
+              "Children": {}
+            },
+            "unit-marauder-horsemen": {
+              "Name": "Marauder Horsemen",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-chaos-chariots": {
+              "Name": "Chaos Chariots",
+              "Children": {}
+            },
+            "unit-chaos-ogres": {
+              "Name": "Chaos Ogres",
+              "Children": {}
+            },
+            "unit-chaos-spawn": {
+              "Name": "Chaos Spawn",
+              "Children": {}
+            },
+            "unit-chaos-trolls": {
+              "Name": "Chaos Trolls",
+              "Children": {}
+            },
+            "unit-chimera": {
+              "Name": "Chimera",
+              "Children": {}
+            },
+            "unit-chosen-chaos-knights": {
+              "Name": "Chosen Chaos Knights",
+              "Children": {}
+            },
+            "unit-chosen-chaos-warriors": {
+              "Name": "Chosen Chaos Warriors",
+              "Children": {}
+            },
+            "unit-dragon-ogres": {
+              "Name": "Dragon Ogres",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-chaos-giants": {
+              "Name": "Chaos Giants",
+              "Children": {}
+            },
+            "unit-dragon-ogre-shaggoth": {
+              "Name": "Dragon Ogre Shaggoth",
+              "Children": {}
+            },
+            "unit-gigantic-spawn-of-chaos": {
+              "Name": "Gigantic Spawn of Chaos",
+              "Children": {}
+            },
+            "unit-gorebeast-chariots": {
+              "Name": "Gorebeast Chariots",
+              "Children": {}
+            },
+            "unit-hellcannon": {
+              "Name": "Hellcannon",
+              "Children": {}
+            },
+            "unit-warpfire-dragons": {
+              "Name": "Warpfire Dragons",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-warriors-of-chaos---heralds-of-darkness": {
+      "Name": "Warriors of Chaos - Heralds of Darkness",
+      "Children": {
+        "faction-warriors-of-chaos---heralds-of-darkness-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-galrauch,-the-great-drake": {
+              "Name": "Galrauch, the Great Drake",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---heralds-of-darkness-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-aspiring-champion": {
+              "Name": "Aspiring Champion",
+              "Children": {}
+            },
+            "unit-chaos-lord": {
+              "Name": "Chaos Lord",
+              "Children": {}
+            },
+            "unit-daemon-princes": {
+              "Name": "Daemon Princes",
+              "Children": {}
+            },
+            "unit-exalted-champion": {
+              "Name": "Exalted Champion",
+              "Children": {}
+            },
+            "unit-exalted-sorcerer": {
+              "Name": "Exalted Sorcerer",
+              "Children": {}
+            },
+            "unit-sorcerer-lord": {
+              "Name": "Sorcerer Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---heralds-of-darkness-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-chaos-chariots": {
+              "Name": "Chaos Chariots",
+              "Children": {}
+            },
+            "unit-chaos-knights": {
+              "Name": "Chaos Knights",
+              "Children": {}
+            },
+            "unit-chaos-warhounds": {
+              "Name": "Chaos Warhounds",
+              "Children": {}
+            },
+            "unit-marauder-horsemen": {
+              "Name": "Marauder Horsemen",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---heralds-of-darkness-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-chaos-chariots": {
+              "Name": "Chaos Chariots",
+              "Children": {}
+            },
+            "unit-chaos-spawn": {
+              "Name": "Chaos Spawn",
+              "Children": {}
+            },
+            "unit-chimera": {
+              "Name": "Chimera",
+              "Children": {}
+            },
+            "unit-chosen-chaos-chariots": {
+              "Name": "Chosen Chaos Chariots",
+              "Children": {}
+            },
+            "unit-chosen-chaos-knights": {
+              "Name": "Chosen Chaos Knights",
+              "Children": {}
+            },
+            "unit-dragon-ogres": {
+              "Name": "Dragon Ogres",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---heralds-of-darkness-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-chaos-giants": {
+              "Name": "Chaos Giants",
+              "Children": {}
+            },
+            "unit-dragon-ogre-shaggoth": {
+              "Name": "Dragon Ogre Shaggoth",
+              "Children": {}
+            },
+            "unit-gigantic-spawn-of-chaos": {
+              "Name": "Gigantic Spawn of Chaos",
+              "Children": {}
+            },
+            "unit-gorebeast-chariots": {
+              "Name": "Gorebeast Chariots",
+              "Children": {}
+            },
+            "unit-warpfire-dragons": {
+              "Name": "Warpfire Dragons",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---heralds-of-darkness-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-centigor-chieftain": {
+              "Name": "Centigor Chieftain",
+              "Children": {}
+            },
+            "unit-centigor-herds": {
+              "Name": "Centigor Herds",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-warriors-of-chaos---wolves-of-the-sea": {
+      "Name": "Warriors of Chaos - Wolves of the Sea",
+      "Children": {
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-frydaal-the-chainmaker": {
+              "Name": "Frydaal the Chainmaker",
+              "Children": {}
+            },
+            "unit-galrauch,-the-great-drake": {
+              "Name": "Galrauch, the Great Drake",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-aspiring-champion": {
+              "Name": "Aspiring Champion",
+              "Children": {}
+            },
+            "unit-chaos-lord": {
+              "Name": "Chaos Lord",
+              "Children": {}
+            },
+            "unit-daemon-princes": {
+              "Name": "Daemon Princes",
+              "Children": {}
+            },
+            "unit-exalted-champion": {
+              "Name": "Exalted Champion",
+              "Children": {}
+            },
+            "unit-exalted-sorcerer": {
+              "Name": "Exalted Sorcerer",
+              "Children": {}
+            },
+            "unit-marauder-tribe-chieftains": {
+              "Name": "Marauder Tribe Chieftains",
+              "Children": {}
+            },
+            "unit-sorcerer-lord": {
+              "Name": "Sorcerer Lord",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-chaos-marauders": {
+              "Name": "Chaos Marauders",
+              "Children": {}
+            },
+            "unit-chaos-warhounds": {
+              "Name": "Chaos Warhounds",
+              "Children": {}
+            },
+            "unit-marauder-horsemen": {
+              "Name": "Marauder Horsemen",
+              "Children": {}
+            },
+            "unit-marauder-tribe-berserkers": {
+              "Name": "Marauder Tribe Berserkers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-chaos-chariots": {
+              "Name": "Chaos Chariots",
+              "Children": {}
+            },
+            "unit-chaos-spawn": {
+              "Name": "Chaos Spawn",
+              "Children": {}
+            },
+            "unit-chaos-warriors": {
+              "Name": "Chaos Warriors",
+              "Children": {}
+            },
+            "unit-marauder-tribe-huscarls": {
+              "Name": "Marauder Tribe Huscarls",
+              "Children": {}
+            },
+            "unit-skin-wolves": {
+              "Name": "Skin Wolves",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-chaos-giants": {
+              "Name": "Chaos Giants",
+              "Children": {}
+            },
+            "unit-chaos-ogres": {
+              "Name": "Chaos Ogres",
+              "Children": {}
+            },
+            "unit-chaos-trolls": {
+              "Name": "Chaos Trolls",
+              "Children": {}
+            },
+            "unit-dragon-ogre-shaggoth": {
+              "Name": "Dragon Ogre Shaggoth",
+              "Children": {}
+            },
+            "unit-dragon-ogres": {
+              "Name": "Dragon Ogres",
+              "Children": {}
+            },
+            "unit-gigantic-spawn-of-chaos": {
+              "Name": "Gigantic Spawn of Chaos",
+              "Children": {}
+            }
+          }
+        },
+        "faction-warriors-of-chaos---wolves-of-the-sea-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-gor-herds": {
+              "Name": "Gor Herds",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            },
+            "unit-ungor-herds": {
+              "Name": "Ungor Herds",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-wood-elf-realms": {
+      "Name": "Wood Elf Realms",
+      "Children": {
+        "faction-wood-elf-realms-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-araloth,-lord-of-talsyn": {
+              "Name": "Araloth, Lord of Talsyn",
+              "Children": {}
+            },
+            "unit-orion,-the-king-in-the-woods": {
+              "Name": "Orion, the King in the Woods",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-branchwraiths": {
+              "Name": "Branchwraiths",
+              "Children": {}
+            },
+            "unit-glade-captain": {
+              "Name": "Glade Captain",
+              "Children": {}
+            },
+            "unit-glade-lord": {
+              "Name": "Glade Lord",
+              "Children": {}
+            },
+            "unit-shadowdancers": {
+              "Name": "Shadowdancers",
+              "Children": {}
+            },
+            "unit-spellsinger": {
+              "Name": "Spellsinger",
+              "Children": {}
+            },
+            "unit-spellweaver": {
+              "Name": "Spellweaver",
+              "Children": {}
+            },
+            "unit-treemen-ancients": {
+              "Name": "Treemen Ancients",
+              "Children": {}
+            },
+            "unit-waystalkers": {
+              "Name": "Waystalkers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-deepwood-scouts": {
+              "Name": "Deepwood Scouts",
+              "Children": {}
+            },
+            "unit-dryads": {
+              "Name": "Dryads",
+              "Children": {}
+            },
+            "unit-eternal-guard": {
+              "Name": "Eternal Guard",
+              "Children": {}
+            },
+            "unit-glade-guard": {
+              "Name": "Glade Guard",
+              "Children": {}
+            },
+            "unit-glade-riders": {
+              "Name": "Glade Riders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-deepwood-scouts": {
+              "Name": "Deepwood Scouts",
+              "Children": {}
+            },
+            "unit-sisters-of-the-thorn": {
+              "Name": "Sisters Of The Thorn",
+              "Children": {}
+            },
+            "unit-tree-kin": {
+              "Name": "Tree Kin",
+              "Children": {}
+            },
+            "unit-wardancers": {
+              "Name": "Wardancers",
+              "Children": {}
+            },
+            "unit-warhawk-riders": {
+              "Name": "Warhawk Riders",
+              "Children": {}
+            },
+            "unit-wild-riders": {
+              "Name": "Wild Riders",
+              "Children": {}
+            },
+            "unit-wildwood-rangers": {
+              "Name": "Wildwood Rangers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-treemen": {
+              "Name": "Treemen",
+              "Children": {}
+            },
+            "unit-waywatchers": {
+              "Name": "Waywatchers",
+              "Children": {}
+            },
+            "unit-wood-elf-beast-packs": {
+              "Name": "Wood Elf Beast Packs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-wood-elf-realms---host-of-talsyn": {
+      "Name": "Wood Elf Realms - Host of Talsyn",
+      "Children": {
+        "faction-wood-elf-realms---host-of-talsyn-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-araloth,-lord-of-talsyn": {
+              "Name": "Araloth, Lord of Talsyn",
+              "Children": {}
+            },
+            "unit-orion,-the-king-in-the-woods": {
+              "Name": "Orion, the King in the Woods",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---host-of-talsyn-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-branchwraiths": {
+              "Name": "Branchwraiths",
+              "Children": {}
+            },
+            "unit-glade-captain": {
+              "Name": "Glade Captain",
+              "Children": {}
+            },
+            "unit-glade-lord": {
+              "Name": "Glade Lord",
+              "Children": {}
+            },
+            "unit-shadowdancers": {
+              "Name": "Shadowdancers",
+              "Children": {}
+            },
+            "unit-spellsinger": {
+              "Name": "Spellsinger",
+              "Children": {}
+            },
+            "unit-spellweaver": {
+              "Name": "Spellweaver",
+              "Children": {}
+            },
+            "unit-treemen-ancients": {
+              "Name": "Treemen Ancients",
+              "Children": {}
+            },
+            "unit-wardens-of-talsyn": {
+              "Name": "Wardens of Talsyn",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---host-of-talsyn-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-deepwood-scouts": {
+              "Name": "Deepwood Scouts",
+              "Children": {}
+            },
+            "unit-dryads": {
+              "Name": "Dryads",
+              "Children": {}
+            },
+            "unit-eternal-guard": {
+              "Name": "Eternal Guard",
+              "Children": {}
+            },
+            "unit-glade-guard": {
+              "Name": "Glade Guard",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---host-of-talsyn-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-deepwood-scouts": {
+              "Name": "Deepwood Scouts",
+              "Children": {}
+            },
+            "unit-guardians-of-talsyn": {
+              "Name": "Guardians of Talsyn",
+              "Children": {}
+            },
+            "unit-sisters-of-the-thorn": {
+              "Name": "Sisters Of The Thorn",
+              "Children": {}
+            },
+            "unit-tree-kin": {
+              "Name": "Tree Kin",
+              "Children": {}
+            },
+            "unit-wildwood-rangers": {
+              "Name": "Wildwood Rangers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---host-of-talsyn-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-treemen": {
+              "Name": "Treemen",
+              "Children": {}
+            },
+            "unit-wardancers": {
+              "Name": "Wardancers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---host-of-talsyn-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+    "faction-wood-elf-realms---orion's-wild-hunt": {
+      "Name": "Wood Elf Realms - Orion's Wild hunt",
+      "Children": {
+        "faction-wood-elf-realms---orion's-wild-hunt-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-araloth,-lord-of-talsyn": {
+              "Name": "Araloth, Lord of Talsyn",
+              "Children": {}
+            },
+            "unit-orion,-the-king-in-the-woods": {
+              "Name": "Orion, the King in the Woods",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---orion's-wild-hunt-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-glade-captain": {
+              "Name": "Glade Captain",
+              "Children": {}
+            },
+            "unit-glade-lord": {
+              "Name": "Glade Lord",
+              "Children": {}
+            },
+            "unit-shadowdancers": {
+              "Name": "Shadowdancers",
+              "Children": {}
+            },
+            "unit-spellsinger": {
+              "Name": "Spellsinger",
+              "Children": {}
+            },
+            "unit-waystalkers": {
+              "Name": "Waystalkers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---orion's-wild-hunt-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-glade-riders": {
+              "Name": "Glade Riders",
+              "Children": {}
+            },
+            "unit-wild-riders": {
+              "Name": "Wild Riders",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---orion's-wild-hunt-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-sisters-of-the-thorn": {
+              "Name": "Sisters Of The Thorn",
+              "Children": {}
+            },
+            "unit-wardancers": {
+              "Name": "Wardancers",
+              "Children": {}
+            },
+            "unit-warhawk-riders": {
+              "Name": "Warhawk Riders",
+              "Children": {}
+            },
+            "unit-wild-riders": {
+              "Name": "Wild Riders",
+              "Children": {}
+            },
+            "unit-wood-elf-beast-packs": {
+              "Name": "Wood Elf Beast Packs",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---orion's-wild-hunt-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-deepwood-scouts": {
+              "Name": "Deepwood Scouts",
+              "Children": {}
+            },
+            "unit-great-eagles": {
+              "Name": "Great Eagles",
+              "Children": {}
+            },
+            "unit-waywatchers": {
+              "Name": "Waywatchers",
+              "Children": {}
+            },
+            "unit-wildwood-rangers": {
+              "Name": "Wildwood Rangers",
+              "Children": {}
+            }
+          }
+        },
+        "faction-wood-elf-realms---orion's-wild-hunt-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

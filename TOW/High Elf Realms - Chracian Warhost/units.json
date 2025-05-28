@@ -1,0 +1,809 @@
+[
+  {
+    "Id": "68357b686d966c2c146d1569",
+    "Name": "Korhil Lionmane, Captain of the White Lions",
+    "Attributes": {
+      "totalCost": "175",
+      "category": "Named Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chieftain's Chariot",
+        "Chayal",
+        "Hand Weapon",
+        "Chracian Great Blade"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "be133554-9436-4cf6-9e29-4ece06762034",
+      "ba3f0de2-82b3-48cf-ab8c-21b694bd03be"
+    ],
+    "ProfileIds": [
+      "68357b686d966c2c146d156c"
+    ]
+  },
+  {
+    "Id": "68357b686d966c2c146d1952",
+    "Name": "Archmage",
+    "Attributes": {
+      "totalCost": "155",
+      "category": "Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Lothern Skycutter",
+        "Lion Chariot",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Elven Steed",
+        "Barded Elven Steed",
+        "Sun Dragon",
+        "Moon Dragon",
+        "Star Dragon",
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Hand Weapon",
+        "Shortbow",
+        "Cavalry Spear",
+        "Chracian Great Blade",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Sun Dragon",
+        "Dragon Fire",
+        "Moon Dragon",
+        "Star Dragon",
+        "Bow of Avelorn",
+        "Ceremonial Halberd",
+        "Sword of Hoeth",
+        "Warbow"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1bd1f1fb-66b0-4f5d-8fa5-b08dcccaaf8d",
+      "e2a2d028-91fb-414d-80a0-b6d9a767b5e3",
+      "38a5a629-12bd-4fb2-9d65-ecf9e2d81cc7",
+      "f3ef04eb-c9a9-4412-a776-303449d020e2",
+      "948703e6-204c-4d0d-97d0-d3908c5af671",
+      "27ebeb64-2cd2-417e-adc8-da7933ba3478",
+      "47b7d5df-0fe5-45c2-ac74-b89f32c12d09",
+      "acd6534e-a11f-4c8f-b79b-212991b1e04f",
+      "ddb5c88c-4ac8-43e9-af0c-7079eb01399c",
+      "ab864095-c66c-46f9-8ef0-7039b92ab6dc",
+      "e6624682-fdd0-41bd-b474-3ccaa71f0994"
+    ],
+    "ProfileIds": [
+      "68357b686d966c2c146d195a"
+    ]
+  },
+  {
+    "Id": "68357b6a6d966c2c146d8d16",
+    "Name": "Chracian Chieftains",
+    "Attributes": {
+      "totalCost": "105",
+      "category": "Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chieftain's Chariot",
+        "Battle Standard Bearer",
+        "Hand Weapon",
+        "Chracian Great Blade",
+        "Additional Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "cd94311f-6959-4bb1-94f5-850b5aaa24a0",
+      "6c25a0e8-3d5a-4f3e-8516-3518bf646e91"
+    ],
+    "ProfileIds": [
+      "68357b6a6d966c2c146d8d1e"
+    ]
+  },
+  {
+    "Id": "68357b6b6d966c2c146da0ab",
+    "Name": "Noble",
+    "Attributes": {
+      "totalCost": "73",
+      "category": "Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Tiranoc Chariot",
+        "Lion Chariot",
+        "Lothern Skycutter",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Elven Steed",
+        "Barded Elven Steed",
+        "Griffon",
+        "Sun Dragon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear",
+        "Lance",
+        "Halberd",
+        "Bow of Avelorn",
+        "Longbow",
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Hand Weapon",
+        "Chracian Great Blade",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Shortbow",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Griffon",
+        "Sun Dragon",
+        "Dragon Fire",
+        "Battle Standard Bearer",
+        "Ceremonial Halberd",
+        "Sword of Hoeth",
+        "Warbow",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "81c94e2f-2ca4-4057-a628-9ba923dc0fc0",
+      "8924f824-915d-4d5c-8fa5-1540f25de009",
+      "524f507a-754b-47a6-a51a-94c7a8cb4c6e",
+      "e9d273d6-fbee-496c-8dcf-4aed459c365c",
+      "d2dc8c26-3ec6-467c-9fc8-f773ea481067",
+      "39295926-1cce-4fa0-b6f6-795f4d842488",
+      "d3d4af66-40e2-45f6-81aa-5e8fb5087465",
+      "31a446d9-66cb-4dc5-9982-03e0ce64ed39",
+      "23869c0b-291f-411b-9531-7155926b3c20",
+      "985a0f37-d2fd-4e1a-8e88-a8408d818d1e",
+      "5af82ca0-0fcc-41d4-840d-a6e1c0c09512"
+    ],
+    "ProfileIds": [
+      "68357b6b6d966c2c146da0ae"
+    ]
+  },
+  {
+    "Id": "68357b6d6d966c2c146e1c92",
+    "Name": "Prince",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Griffon",
+        "Elven Steed",
+        "Moon Dragon",
+        "Star Dragon",
+        "Lion Chariot",
+        "Tiranoc Chariot",
+        "Great Eagle",
+        "Barded Elven Steed",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Lothern Skycutter",
+        "Sun Dragon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear",
+        "Lance",
+        "Halberd",
+        "Bow of Avelorn",
+        "Longbow",
+        "Griffon",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Hand Weapon",
+        "Moon Dragon",
+        "Dragon Fire",
+        "Star Dragon",
+        "Chracian Great Blade",
+        "Great Eagle",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Shortbow",
+        "Sun Dragon",
+        "Ceremonial Halberd",
+        "Sword of Hoeth",
+        "Warbow",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ec84f113-6d02-4b28-8c36-1e7037abca9a",
+      "366bf553-3bf8-498b-8d45-64151e4e4195",
+      "1f3abde5-105e-4064-9cdd-3e263cb1f95c",
+      "fb439ee7-bd32-43ca-a56a-a3226120fb4e",
+      "6650dd51-f609-48b4-b751-bbd66f86ecc8",
+      "d813ff8b-6180-4c15-ba1c-59667665f701",
+      "f794d9ae-8a6b-4097-9482-c4b9e23eb437",
+      "fe78c57b-5ac8-41d4-b706-aa83a1aff958",
+      "a4a728e3-bbfb-46a9-8b34-7f2bd2b2115d",
+      "37e1103a-10af-4b18-aa20-c8ee88f3c319",
+      "50b75da4-52cb-4c88-b60a-497ebb6fe53d",
+      "d986e0e2-f42f-499c-b2f8-fb0b64ec2eb8",
+      "adbf1bfd-97cf-4a92-a6d1-f78c57cd38fa"
+    ],
+    "ProfileIds": [
+      "68357b6d6d966c2c146e1c9a"
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146e9c4d",
+    "Name": "Storm Weavers",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Unicorn",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3336d2ef-294c-4c30-bf5d-8d19a12fd30e",
+      "a27deed2-2c84-48c9-ba7c-a346bdb40c67"
+    ],
+    "ProfileIds": [
+      "68357b706d966c2c146e9c55"
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eaef7",
+    "Name": "Chracian Woodsmen",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Core",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Chracian Great Blade",
+        "Chracian Captain",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "dfdef025-8170-4f6e-8f5d-fb3466e54146",
+      "97ef72a0-a59c-46a0-8ca7-54d22d5170fb",
+      "5fc2055e-44de-4770-bf8f-40d3d92049fc"
+    ],
+    "ProfileIds": [
+      "68357b706d966c2c146eaefa"
+    ]
+  },
+  {
+    "Id": "68357b706d966c2c146eb69f",
+    "Name": "Elven Archers",
+    "Attributes": {
+      "totalCost": "10",
+      "category": "Core",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Longbow",
+        "Hand Weapon",
+        "Sentinel",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2636e150-8ad0-4977-8923-b87b73b59205",
+      "8e9316c9-7820-4c27-89ac-6e3953e991e2",
+      "37c9aa26-adce-4c7b-b1b6-9f13e88d9065"
+    ],
+    "ProfileIds": [
+      "68357b706d966c2c146eb6a2"
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ebe9b",
+    "Name": "Elven Spearmen",
+    "Attributes": {
+      "totalCost": "9",
+      "category": "Core",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Thrusting Spear",
+        "Sentinel",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "95346979-3e19-426a-806b-655da872b842",
+      "9faf5aad-5cc7-4273-8924-5dda2e9b00f6",
+      "17a2852f-c6d8-4ed2-8329-e2ded85659fa"
+    ],
+    "ProfileIds": [
+      "68357b716d966c2c146ebe9e"
+    ]
+  },
+  {
+    "Id": "68357b716d966c2c146ec69f",
+    "Name": "White Lions of Chrace",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Core",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chracian Great Blade",
+        "Hand Weapon",
+        "Guardian",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1529511d-30e1-4759-876b-180436e45e5e",
+      "420fcbe1-076f-4f56-84de-755a3a7d4278",
+      "f9767032-eb37-49e6-b016-f328410f9854"
+    ],
+    "ProfileIds": [
+      "68357b716d966c2c146ec6a7"
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146eed5b",
+    "Name": "Lion Chariot of Chrace",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Special",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Chracian Great Blade"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b726d966c2c146eed5e"
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146eef2f",
+    "Name": "War Lions",
+    "Attributes": {
+      "totalCost": "18",
+      "category": "Special",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b726d966c2c146eef37"
+    ]
+  },
+  {
+    "Id": "68357b726d966c2c146ef0f3",
+    "Name": "White Lions of Chrace",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Special",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chracian Great Blade",
+        "Hand Weapon",
+        "Guardian",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "77459d58-098d-4c64-a1e7-3a0292cb5a0d",
+      "6eb48482-3736-4a5d-8413-3b818bbbfaa6",
+      "ac7e44b7-49f4-4879-9b69-69d3ea57a59a"
+    ],
+    "ProfileIds": [
+      "68357b726d966c2c146ef0f6"
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f179b",
+    "Name": "Eagle-Claw Bolt Thrower",
+    "Attributes": {
+      "totalCost": "80",
+      "category": "Rare",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bolt Thrower",
+        "Repeater Bolt Thrower"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b736d966c2c146f17a3"
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f1969",
+    "Name": "Great Eagles",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Rare",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b736d966c2c146f1971"
+    ]
+  },
+  {
+    "Id": "68357b736d966c2c146f1b33",
+    "Name": "Lion Guard",
+    "Attributes": {
+      "totalCost": "18",
+      "category": "Rare",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Chracian Great Blade",
+        "Lion Guard Captain",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a03f9fbf-ae47-4fa0-baf7-95407176f53e",
+      "0a65f151-01f6-4d72-8cc3-7ad051d605b7",
+      "fb2cbf32-5f27-48d0-9768-ca5f8f4619ae"
+    ],
+    "ProfileIds": [
+      "68357b736d966c2c146f1b37"
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f41b7",
+    "Name": "Shadow Warriors",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Rare",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Shadow Walker",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d41c1d29-3b91-4fb0-a7b7-5a539472b097"
+    ],
+    "ProfileIds": [
+      "68357b746d966c2c146f41bf"
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f51e7",
+    "Name": "Sisters of Avelorn",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Rare",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Bow of Avelorn",
+        "High Sister",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9e62a6e6-23b3-425a-bf84-21c07d1714d7"
+    ],
+    "ProfileIds": [
+      "68357b746d966c2c146f51ef"
+    ]
+  },
+  {
+    "Id": "68357b746d966c2c146f61ff",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "16b5f578-f3db-47b8-b8cd-ac5e3ce4e183",
+      "e73ff77b-1c60-4ffa-a6b1-9fc7e6ca5800",
+      "6ab2b6d3-eb04-4f40-b664-f5c894eed14d"
+    ],
+    "ProfileIds": [
+      "68357b746d966c2c146f621d"
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f726e",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b756d966c2c146f7277"
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7439",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b756d966c2c146f743f"
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7653",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "95cf3a27-b797-4ce2-ad46-7a657d37ecdf",
+      "91f37e11-0ba1-4ff5-af80-549cb030fa81"
+    ],
+    "ProfileIds": [
+      "68357b756d966c2c146f7659"
+    ]
+  },
+  {
+    "Id": "68357b756d966c2c146f7f4f",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0b176ae4-322c-4c79-91eb-35e2124a7814"
+    ],
+    "ProfileIds": [
+      "68357b756d966c2c146f7f63"
+    ]
+  },
+  {
+    "Id": "68357b766d966c2c146f8345",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Chracian Warhost",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e3993e30-3e28-49b6-b2c3-7f3e05fa6104",
+      "ef2a937d-08cd-4cc4-99e0-03d607f8a7dc"
+    ],
+    "ProfileIds": [
+      "68357b766d966c2c146f8351",
+      "68357b766d966c2c146f835a",
+      "68357b766d966c2c146f8363",
+      "68357b766d966c2c146f836c"
+    ]
+  }
+]

@@ -1,0 +1,1040 @@
+[
+  {
+    "Id": "68357c256d966c2c148e1931",
+    "Name": "Harald Gemunsen, Grand Master of the Knights Panther",
+    "Attributes": {
+      "totalCost": "185",
+      "category": "Named Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Beast Reaver",
+        "Hand Weapon",
+        "Barded Warhorse"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c256d966c2c148e193b"
+    ]
+  },
+  {
+    "Id": "68357c256d966c2c148e2ce0",
+    "Name": "Chapter Master",
+    "Attributes": {
+      "totalCost": "91",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Pegasus",
+        "Demigryph",
+        "Great Weapon",
+        "Wolf Hammer",
+        "Additional Hand Weapon",
+        "Lance",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Pegasus",
+        "Wicked Claws",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "592d1dad-cc56-433d-a11c-b03ccac6ab60",
+      "6fcb5118-685c-4bcc-8113-d75b975c52ee",
+      "2d349c57-e991-419d-8433-7e24d34b8448",
+      "ce7ef350-f69e-4173-976d-e99049ac5ae8"
+    ],
+    "ProfileIds": [
+      "68357c256d966c2c148e2ce5"
+    ]
+  },
+  {
+    "Id": "68357c276d966c2c148e9c76",
+    "Name": "Grand Master",
+    "Attributes": {
+      "totalCost": "161",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Pegasus",
+        "Demigryph",
+        "Great Weapon",
+        "Wolf Hammer",
+        "Additional Hand Weapon",
+        "Lance",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Pegasus",
+        "Wicked Claws",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "72097300-1a43-4a6c-9a45-21762a28e17a",
+      "dd242c75-4d50-4ac2-94da-75888048bb84",
+      "a6859f90-33ee-4fe3-874d-12c4d84dd51c",
+      "ec083814-0216-4883-9882-e6de330ffa63"
+    ],
+    "ProfileIds": [
+      "68357c276d966c2c148e9c7b"
+    ]
+  },
+  {
+    "Id": "68357c286d966c2c148f0584",
+    "Name": "Harbinger of Doom",
+    "Attributes": {
+      "totalCost": "65",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Flail",
+        "Great Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c286d966c2c148f058d"
+    ]
+  },
+  {
+    "Id": "68357c286d966c2c148f1f4b",
+    "Name": "High Priest of Ulric",
+    "Attributes": {
+      "totalCost": "113",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d1598427-8eec-4f81-942d-614c4a24d40a",
+      "cafd1c47-7451-4042-a9ab-3bd5e2fd6f77",
+      "cee0d83a-36b2-4364-ad5c-f0ba0f97dadf"
+    ],
+    "ProfileIds": [
+      "68357c286d966c2c148f1f5c"
+    ]
+  },
+  {
+    "Id": "68357c296d966c2c148f6d2d",
+    "Name": "Lector of Sigmar",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "War Altar of Sigmar",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1b01b7f7-a45d-4e70-976b-aa58d42e207b",
+      "76599026-860b-4a7f-858c-e556833c1344",
+      "16e07ea4-6684-4340-b15e-f54aea529779",
+      "6fef26f1-7e4f-4016-b282-0955593e7791"
+    ],
+    "ProfileIds": [
+      "68357c296d966c2c148f6d3e"
+    ]
+  },
+  {
+    "Id": "68357c2b6d966c2c148fd548",
+    "Name": "Master Mage",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Hand Weapon",
+        "Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0529b8e6-cbc3-485a-82e9-e77f7e272e55",
+      "013d0a9b-1a81-4816-99c0-16f96cc2ce43",
+      "5ce298fc-500d-4ff3-b5b1-ed61e78a0ede"
+    ],
+    "ProfileIds": [
+      "68357c2b6d966c2c148fd554"
+    ]
+  },
+  {
+    "Id": "68357c2c6d966c2c149026d2",
+    "Name": "Master Mage",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Hand Weapon",
+        "Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a81ac786-a441-4bf3-bddf-8aba8c02dffc",
+      "843df7c7-4f51-4ddb-8573-32c893d89821",
+      "ca3685df-aead-40ce-86c4-ed9ec58e3e20"
+    ],
+    "ProfileIds": [
+      "68357c2c6d966c2c149026de"
+    ]
+  },
+  {
+    "Id": "68357c2d6d966c2c1490785c",
+    "Name": "Priest of Sigmar",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "505b74fb-b8a2-4b4c-87ca-41c523c81206",
+      "0b271a13-35fe-44ef-9eba-472f1da47af3",
+      "f5782399-a978-4edc-bd11-5b82ca9b90a4"
+    ],
+    "ProfileIds": [
+      "68357c2d6d966c2c14907867"
+    ]
+  },
+  {
+    "Id": "68357c2e6d966c2c1490c62c",
+    "Name": "Priest of Ulric",
+    "Attributes": {
+      "totalCost": "63",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e2b21b76-df58-46a8-ae0b-d9d55efc5abd",
+      "98e93db6-3176-4278-86c3-55ca0dbc373a",
+      "fcc7aa31-64c9-4104-84fe-adc9ecb820f7"
+    ],
+    "ProfileIds": [
+      "68357c2e6d966c2c1490c637"
+    ]
+  },
+  {
+    "Id": "68357c2e6d966c2c149113fc",
+    "Name": "Witch Hunter",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Crossbow",
+        "Handgun",
+        "Pistol",
+        "Brace of Pistols",
+        "Hand Weapon",
+        "Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8e866a56-81d8-4d36-9dd3-eee5c7dc6620",
+      "cec527ca-fbb9-4745-a682-d299b24cbb7e",
+      "c554d01a-3310-492f-9e78-976f7a114f26"
+    ],
+    "ProfileIds": [
+      "68357c2e6d966c2c14911403"
+    ]
+  },
+  {
+    "Id": "68357c2f6d966c2c149161f0",
+    "Name": "Wizard Lord",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Characters",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Imperial Griffon",
+        "Hand Weapon",
+        "Pegasus",
+        "Imperial Griffon",
+        "Serrated Maw",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "47602e7f-be56-4c0f-b7d9-306fefce91c6",
+      "5220e628-6317-415f-86ff-2ed4180cc36c",
+      "243dd9f2-d129-4393-90bd-1fd0588a37ce",
+      "86bda810-7120-443d-a6db-a2a448fd35f3"
+    ],
+    "ProfileIds": [
+      "68357c2f6d966c2c149161f7"
+    ]
+  },
+  {
+    "Id": "68357c316d966c2c1491cefc",
+    "Name": "Empire Archers",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Core",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Marksman",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "db2671a7-7ccc-47e9-9694-3b80be6f0771"
+    ],
+    "ProfileIds": [
+      "68357c316d966c2c1491ceff"
+    ]
+  },
+  {
+    "Id": "68357c316d966c2c1491f634",
+    "Name": "Empire Knights",
+    "Attributes": {
+      "totalCost": "21",
+      "category": "Core",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "77f9c01c-3c59-4b36-80cb-96085bf356d8",
+      "f89a1145-ee2b-4222-bedb-b4a2db64e5c4",
+      "f5f6bee5-c895-44f9-b60e-1686d01c3fe8"
+    ],
+    "ProfileIds": [
+      "68357c316d966c2c1491f63c"
+    ]
+  },
+  {
+    "Id": "68357c326d966c2c149265cc",
+    "Name": "Free Company Militia",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Core",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Weapon",
+        "Two Hand Weapons",
+        "Militia Leader",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "95a2ffa0-2afe-4413-ad32-f12bd4b506cf"
+    ],
+    "ProfileIds": [
+      "68357c326d966c2c149265d9"
+    ]
+  },
+  {
+    "Id": "68357c336d966c2c14928d0a",
+    "Name": "Inner Circle Knights",
+    "Attributes": {
+      "totalCost": "29",
+      "category": "Core",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Inner Circle Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6eb32f2e-de0e-4405-aa28-8e8ef452f873",
+      "40193be8-4549-459b-a48c-15f532456e7b",
+      "86ccee04-0c27-4e70-83fa-6c5ef8e39eaf"
+    ],
+    "ProfileIds": [
+      "68357c336d966c2c14928d0e"
+    ]
+  },
+  {
+    "Id": "68357c346d966c2c1492fc5a",
+    "Name": "Demigryph Knights",
+    "Attributes": {
+      "totalCost": "58",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lance",
+        "Halberd",
+        "Wolf Hammer",
+        "Hand Weapon",
+        "Wicked Claws",
+        "Shield",
+        "Demigryph Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "39ceb7a4-571a-4e56-9fb2-ba9254baa85a",
+      "c763b897-be83-44c1-82be-9e94777da283",
+      "7996de7f-f4e0-41e8-be74-f65ec6e535b3"
+    ],
+    "ProfileIds": [
+      "68357c346d966c2c1492fc5d"
+    ]
+  },
+  {
+    "Id": "68357c356d966c2c14936b9a",
+    "Name": "Great Cannon",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Cannon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c356d966c2c14936ba6"
+    ]
+  },
+  {
+    "Id": "68357c366d966c2c14937f3e",
+    "Name": "Inner Circle Knights",
+    "Attributes": {
+      "totalCost": "29",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Inner Circle Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2742ed2b-6958-4d9d-98fd-2de7dc513394",
+      "080f9c7d-297d-40fe-865d-7374062522b5",
+      "9ec0588b-c9e1-4a14-b032-93c0b20deb1e"
+    ],
+    "ProfileIds": [
+      "68357c366d966c2c14937f41"
+    ]
+  },
+  {
+    "Id": "68357c376d966c2c1493ee8a",
+    "Name": "Mortar",
+    "Attributes": {
+      "totalCost": "95",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortar",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c376d966c2c1493ee96"
+    ]
+  },
+  {
+    "Id": "68357c376d966c2c1494022e",
+    "Name": "State Missile Troops",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crossbow",
+        "Handgun",
+        "Hand Weapon",
+        "Sergeant",
+        "Brace of Pistols",
+        "Crossbow",
+        "Hochland Long Rifle",
+        "Repeater Handgun",
+        "Handgun",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e359932e-4adf-4576-8dca-0e58abe74f62",
+      "fbf136cf-0f2f-4bd4-8e92-eb23d56789da",
+      "2a677b07-aef2-49ae-909b-24f9413bd475"
+    ],
+    "ProfileIds": [
+      "68357c376d966c2c14940238"
+    ]
+  },
+  {
+    "Id": "68357c386d966c2c14945196",
+    "Name": "State Troops",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Halberd",
+        "Thrusting Spear",
+        "Hand Weapon",
+        "Shield",
+        "Sergeant",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "fe0d6e00-372e-489c-9e40-4348fbd1917f",
+      "38454288-b3a5-40cc-9acf-528d149d83c1",
+      "4c9e5e2b-9a03-4e52-a426-e42c70f4476f"
+    ],
+    "ProfileIds": [
+      "68357c386d966c2c149451a0"
+    ]
+  },
+  {
+    "Id": "68357c396d966c2c1494a04a",
+    "Name": "Teutogen Guard",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Special",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Wolf Hammer",
+        "First Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6d1d3dab-f54f-49b8-8df9-974e13f014c0",
+      "30b8a590-d021-4d97-858b-b1c73774b45d",
+      "688cfc95-0dc1-4368-bbb1-67537dd3e474"
+    ],
+    "ProfileIds": [
+      "68357c396d966c2c1494a051"
+    ]
+  },
+  {
+    "Id": "68357c3a6d966c2c1494f542",
+    "Name": "Flagellants",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Rare",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Flail",
+        "Prophet of Doom",
+        "Standard Bearer",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "37283533-408d-4226-813c-8553e1b31cd3",
+      "3b5599d1-9a15-46ae-931e-10767b44f749"
+    ],
+    "ProfileIds": [
+      "68357c3a6d966c2c1494f549"
+    ]
+  },
+  {
+    "Id": "68357c3b6d966c2c14953001",
+    "Name": "Pistoliers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Rare",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Veteran",
+        "Grenade Launching Blunderbuss",
+        "Brace of Pistols",
+        "Repeater Pistol",
+        "Repeater Handgun",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "cf6aece0-663a-40b8-b04f-05931d6530e3",
+      "3a76431f-2d88-4033-a16f-850b6f77e40b"
+    ],
+    "ProfileIds": [
+      "68357c3b6d966c2c14953004"
+    ]
+  },
+  {
+    "Id": "68357c3b6d966c2c14956b3d",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f7bc6981-b30e-496f-80f3-154c3d883299",
+      "b178cf42-5b81-4261-8904-66b026beac57",
+      "576ae09d-9666-4e14-a4d3-98ab10790880"
+    ],
+    "ProfileIds": [
+      "68357c3b6d966c2c14956b5b"
+    ]
+  },
+  {
+    "Id": "68357c3c6d966c2c1495c2c4",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c3c6d966c2c1495c2cd"
+    ]
+  },
+  {
+    "Id": "68357c3d6d966c2c1495d655",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c3d6d966c2c1495d65b"
+    ]
+  },
+  {
+    "Id": "68357c3d6d966c2c1495ea35",
+    "Name": "Empire Knights",
+    "Attributes": {
+      "totalCost": "21",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f963b473-dbc4-426a-b204-9ae1ab228ba6",
+      "f50eccf3-e588-461f-9116-67823542fa6e"
+    ],
+    "ProfileIds": [
+      "68357c3d6d966c2c1495ea41"
+    ]
+  },
+  {
+    "Id": "68357c3e6d966c2c149659a5",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "823e8a47-3dc4-48c2-81fe-f55409487dfd",
+      "6c6ca526-a35f-4bf4-a75b-e0e762d96e15"
+    ],
+    "ProfileIds": [
+      "68357c3e6d966c2c149659ab"
+    ]
+  },
+  {
+    "Id": "68357c3f6d966c2c1496a9b9",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ff30f17c-1d2a-4f47-94c5-72093de9d81d"
+    ],
+    "ProfileIds": [
+      "68357c3f6d966c2c1496a9cd"
+    ]
+  },
+  {
+    "Id": "68357c406d966c2c1496d13b",
+    "Name": "Inner Circle Knights",
+    "Attributes": {
+      "totalCost": "29",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Inner Circle Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9fb92b8b-35c1-4d66-80c3-cb383e0999d7",
+      "38384411-14eb-4985-b0b8-768f9090bc47"
+    ],
+    "ProfileIds": [
+      "68357c406d966c2c1496d147"
+    ]
+  },
+  {
+    "Id": "68357c416d966c2c1497407b",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - Knightly Order",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9618a18a-d6cb-4f6e-ac0e-6262801640a6",
+      "4ef529af-46e1-459b-9b84-b23649f487e5"
+    ],
+    "ProfileIds": [
+      "68357c416d966c2c14974087",
+      "68357c416d966c2c14974090",
+      "68357c416d966c2c14974099",
+      "68357c416d966c2c149740a2"
+    ]
+  }
+]

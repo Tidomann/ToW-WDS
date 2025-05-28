@@ -1,0 +1,908 @@
+[
+  {
+    "Id": "68357c626d966c2c14a28d95",
+    "Name": "Prince Apophas",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Named Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Swarming Mass",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c626d966c2c14a28d99"
+    ]
+  },
+  {
+    "Id": "68357c636d966c2c14a2a213",
+    "Name": "Arch Necrotect",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Whip"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c636d966c2c14a2a21d"
+    ]
+  },
+  {
+    "Id": "68357c636d966c2c14a2bccd",
+    "Name": "High Priest",
+    "Attributes": {
+      "totalCost": "140",
+      "category": "Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Skeletal Steed",
+        "Necrolith Bone Dragon",
+        "Hand Weapon",
+        "Necrolith Bone Dragon",
+        "Wicked Claws",
+        "Breath of Dessication"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c7e7638c-7204-446e-af9b-116aa8fe825b",
+      "e52a8e29-1e0a-42a7-a6c0-1d469e28d8ef",
+      "728e0b0f-7458-4d58-92bb-f4aec9d6d9fe"
+    ],
+    "ProfileIds": [
+      "68357c636d966c2c14a2bcd2"
+    ]
+  },
+  {
+    "Id": "68357c646d966c2c14a3110c",
+    "Name": "Mortuary Priest",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Skeletal Steed",
+        "Hand Weapon",
+        "Battle Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9460934f-4284-4d49-9011-4ed2ff0c0196",
+      "ae22581f-95ee-4beb-acd9-4777dc843c82"
+    ],
+    "ProfileIds": [
+      "68357c646d966c2c14a31111"
+    ]
+  },
+  {
+    "Id": "68357c656d966c2c14a34c57",
+    "Name": "Necrotect",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Whip"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c656d966c2c14a34c5a"
+    ]
+  },
+  {
+    "Id": "68357c656d966c2c14a36702",
+    "Name": "Tomb Prince",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Skeletal Steed",
+        "Skeleton Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Flail",
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0aaf0a7c-03ce-448e-8795-d9b48b52bf1d",
+      "0613dae6-afa4-4f6a-98cc-146ec152123b",
+      "b0269658-4fec-404a-a396-b30673d7398a"
+    ],
+    "ProfileIds": [
+      "68357c656d966c2c14a3670c"
+    ]
+  },
+  {
+    "Id": "68357c676d966c2c14a3b7ee",
+    "Name": "Necroserpents",
+    "Attributes": {
+      "totalCost": "38",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c676d966c2c14a3b7f2"
+    ]
+  },
+  {
+    "Id": "68357c676d966c2c14a3cc64",
+    "Name": "Skeleton Archers",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Master of Arrows",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c9fc2e66-8214-4129-82bd-761a377693c8",
+      "e5ed5e42-bc9f-4ba3-8579-aa0c6abae10c",
+      "ef01292c-81f4-41d8-8062-4e9e09895017"
+    ],
+    "ProfileIds": [
+      "68357c676d966c2c14a3cc68"
+    ]
+  },
+  {
+    "Id": "68357c686d966c2c14a41e90",
+    "Name": "Skeleton Horse Archers",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Master of Horse",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "eee6c90c-5534-40d7-8129-99531332654d",
+      "0213ce94-b0a6-4135-b9b1-cd28f3a16f18",
+      "15a1cf03-1d59-4bd8-a9f1-be7240641df0"
+    ],
+    "ProfileIds": [
+      "68357c686d966c2c14a41e93"
+    ]
+  },
+  {
+    "Id": "68357c696d966c2c14a47100",
+    "Name": "Skeleton Horsemen",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Cavalry Spear",
+        "Master of Horse",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7192db3e-3293-401b-9106-4443d836278a",
+      "63b96ddf-8ffb-4d72-88a6-cee236aaf686",
+      "abff7cd6-c71c-4614-9049-c6587e0d4c62"
+    ],
+    "ProfileIds": [
+      "68357c696d966c2c14a47103"
+    ]
+  },
+  {
+    "Id": "68357c6a6d966c2c14a4dc78",
+    "Name": "Skeleton Skirmishers",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warbow",
+        "Shield",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6a6d966c2c14a4dc7b"
+    ]
+  },
+  {
+    "Id": "68357c6a6d966c2c14a4f101",
+    "Name": "Skeleton Warriors",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Thrusting Spear",
+        "Master of Arms",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "337bdaf0-d98d-4d9b-9d02-8509f8aced22",
+      "e4647236-93d7-4b85-b86a-43bc026a3da7",
+      "db6f4871-de05-4505-934e-865f30085f11"
+    ],
+    "ProfileIds": [
+      "68357c6a6d966c2c14a4f104"
+    ]
+  },
+  {
+    "Id": "68357c6b6d966c2c14a55c1d",
+    "Name": "Tomb Swarms",
+    "Attributes": {
+      "totalCost": "37",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Swarms",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6b6d966c2c14a55c21"
+    ]
+  },
+  {
+    "Id": "68357c6c6d966c2c14a57092",
+    "Name": "Ushabti",
+    "Attributes": {
+      "totalCost": "49",
+      "category": "Core",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ritual Blade",
+        "Greatbow",
+        "Hand Weapon",
+        "Ancient",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e325e5b3-915b-4aa7-a892-5f450482af2f"
+    ],
+    "ProfileIds": [
+      "68357c6c6d966c2c14a57096"
+    ]
+  },
+  {
+    "Id": "68357c6c6d966c2c14a5999c",
+    "Name": "Carrion",
+    "Attributes": {
+      "totalCost": "27",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6c6d966c2c14a5999f"
+    ]
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5ae0c",
+    "Name": "Necrolith Colossus",
+    "Attributes": {
+      "totalCost": "160",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Paired Great Khopeshes"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6d6d966c2c14a5ae11"
+    ]
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5c284",
+    "Name": "Necroserpents",
+    "Attributes": {
+      "totalCost": "38",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6d6d966c2c14a5c287"
+    ]
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5d6f9",
+    "Name": "Necrosphinx",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cleaving Blades",
+        "Decapitating Strike",
+        "Envenomed Sting"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6d6d966c2c14a5d6fe"
+    ]
+  },
+  {
+    "Id": "68357c6e6d966c2c14a5eb79",
+    "Name": "Sepulchral Stalkers",
+    "Attributes": {
+      "totalCost": "52",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Writhing Tail",
+        "Petryfing Gaze",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6e6d966c2c14a5eb7c"
+    ]
+  },
+  {
+    "Id": "68357c6e6d966c2c14a60005",
+    "Name": "Skeleton Chariots",
+    "Attributes": {
+      "totalCost": "43",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Cavalry Spear",
+        "Master Charioteer",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "de535de8-17d8-46df-ae71-2aefb003a0e5",
+      "747d42bf-1a15-48c7-8073-d9141c20fca8",
+      "66597878-4030-4589-9be9-98ab464963c2"
+    ],
+    "ProfileIds": [
+      "68357c6e6d966c2c14a60008"
+    ]
+  },
+  {
+    "Id": "68357c6f6d966c2c14a671e5",
+    "Name": "Tomb Scorpion",
+    "Attributes": {
+      "totalCost": "70",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Decapitating Claws",
+        "Envenomed Sting"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c6f6d966c2c14a671ed"
+    ]
+  },
+  {
+    "Id": "68357c706d966c2c14a6866c",
+    "Name": "Tomb Swarms",
+    "Attributes": {
+      "totalCost": "37",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Swarms",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c706d966c2c14a6866f"
+    ]
+  },
+  {
+    "Id": "68357c706d966c2c14a69ae0",
+    "Name": "Ushabti",
+    "Attributes": {
+      "totalCost": "49",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ritual Blade",
+        "Greatbow",
+        "Hand Weapon",
+        "Ancient",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "67d8f38d-e26b-421f-8fc9-458806aa247c"
+    ],
+    "ProfileIds": [
+      "68357c706d966c2c14a69ae3"
+    ]
+  },
+  {
+    "Id": "68357c716d966c2c14a6c3e8",
+    "Name": "Venerable Ushabti",
+    "Attributes": {
+      "totalCost": "56",
+      "category": "Special",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Ritual Blade",
+        "Venerable Ancient",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9af17140-690f-418a-bdd3-b99f68070047"
+    ],
+    "ProfileIds": [
+      "68357c716d966c2c14a6c3f5"
+    ]
+  },
+  {
+    "Id": "68357c716d966c2c14a6ecf6",
+    "Name": "Casket of Souls",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Rare",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": []
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c716d966c2c14a6ecff"
+    ]
+  },
+  {
+    "Id": "68357c716d966c2c14a7017b",
+    "Name": "Necrolith Colossus",
+    "Attributes": {
+      "totalCost": "160",
+      "category": "Rare",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Paired Great Khopeshes"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c716d966c2c14a7017e"
+    ]
+  },
+  {
+    "Id": "68357c726d966c2c14a715f1",
+    "Name": "Necrosphinx",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Rare",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cleaving Blades",
+        "Decapitating Strike",
+        "Envenomed Sting"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c726d966c2c14a715f4"
+    ]
+  },
+  {
+    "Id": "68357c726d966c2c14a72a6f",
+    "Name": "Screaming Skull Catapult",
+    "Attributes": {
+      "totalCost": "105",
+      "category": "Rare",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Stone Thrower",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c726d966c2c14a72a77"
+    ]
+  },
+  {
+    "Id": "68357c726d966c2c14a73ef7",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5fc7efd0-f9ec-4f3f-a28e-124160c52e6d",
+      "3f75de3c-0fc6-431e-8cff-ed9937500e36",
+      "9a004d21-1901-40de-a9de-a62e8805ec3c"
+    ],
+    "ProfileIds": [
+      "68357c726d966c2c14a73f15"
+    ]
+  },
+  {
+    "Id": "68357c736d966c2c14a79a2e",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c736d966c2c14a79a37"
+    ]
+  },
+  {
+    "Id": "68357c746d966c2c14a7aeab",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c746d966c2c14a7aeb1"
+    ]
+  },
+  {
+    "Id": "68357c746d966c2c14a7c377",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "55695e17-e0e6-471c-bf4b-2a5d0708a60d",
+      "13283f62-1063-46e4-bfe1-7c2eacff1c9b"
+    ],
+    "ProfileIds": [
+      "68357c746d966c2c14a7c37d"
+    ]
+  },
+  {
+    "Id": "68357c756d966c2c14a8173b",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7d7a2425-5894-4d8b-8cc0-14c44eb7c169"
+    ],
+    "ProfileIds": [
+      "68357c756d966c2c14a8174f"
+    ]
+  },
+  {
+    "Id": "68357c766d966c2c14a84095",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Tomb Kings of Khemri - Mortuary Cult",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6e6f8a80-cb15-498a-96f5-ef528195785f",
+      "695fda6d-857e-42a6-af9b-dc8f95ab1ca9"
+    ],
+    "ProfileIds": [
+      "68357c766d966c2c14a840a1",
+      "68357c766d966c2c14a840aa",
+      "68357c766d966c2c14a840b3",
+      "68357c766d966c2c14a840bc"
+    ]
+  }
+]

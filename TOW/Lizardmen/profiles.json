@@ -1,0 +1,3774 @@
+[
+  {
+    "Id": "28095d0a-9ff8-4256-9a27-75595d750458",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "158"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "7f01329f-ef3a-4632-a91c-28815e4604e2",
+    "Name": "Carnosaur",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "310"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5627-f840-3260-8196": "Blood Frenzy",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "ffb6-bce1-e7c8-90e8": "Slashing talons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Carnosaur",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "7",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "ffb6-bce1-e7c8-90e8": "Slashing talons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "02aaa979-27ee-408e-a709-9eee4b44a257",
+    "Name": "Terradon",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "170"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "79a63956-c033-42b8-827b-b5ca4cd3d167",
+    "Name": "Ripperdactyl",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "175"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "66bc7c0c-e5d1-475d-9186-c5818aef8867",
+    "Name": "Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "0f391e89-71bf-4633-afc4-a132fb7df132",
+    "Name": "Ancient Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "370"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "6",
+          "W": "(+5)",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bb56d966c2c147d1905",
+    "Name": "Saurus Oldblood",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Saurus Oldblood",
+        "Values": {
+          "M": "4",
+          "WS": "6",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "5",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "8c58bab7-4541-433b-9b0b-eb4e0f1d8302",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "108"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "d4905b25-191b-4035-be9f-dd51f4c00242",
+    "Name": "Carnosaur",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "260"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5627-f840-3260-8196": "Blood Frenzy",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "ffb6-bce1-e7c8-90e8": "Slashing talons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Carnosaur",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "7",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "ffb6-bce1-e7c8-90e8": "Slashing talons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "9f7f839c-be27-4b31-af06-7d3b4a32bb73",
+    "Name": "Terradon",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "120"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "32fa911e-7fcd-434d-ae5f-cf1f61c8fed2",
+    "Name": "Ripperdactyl",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "125"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "e5a8eff5-ff69-46cf-8bc6-c7ef7661bebe",
+    "Name": "Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "305"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "84a47c78-8f4d-4a58-9d2e-df08d681a55b",
+    "Name": "Ancient Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "320"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "6",
+          "W": "(+5)",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bb66d966c2c147d5c4e",
+    "Name": "Saurus Scar-Veteran",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "23c4-bd19-2422-ad08": "Rallying Cry",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Saurus Scar-Veteran",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "2",
+          "I": "3",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "684b99fa-f951-4ff3-bac6-a0ae99e059d2",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "63"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "b68720e7-1517-4b39-8cfe-89d2ae1b0328",
+    "Name": "Carnosaur",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "215"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "5627-f840-3260-8196": "Blood Frenzy",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "ffb6-bce1-e7c8-90e8": "Slashing talons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Carnosaur",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "7",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "ffb6-bce1-e7c8-90e8": "Slashing talons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "61cefb33-af2d-4812-8b8b-775b9c0b02fc",
+    "Name": "Terradon",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "75"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "470ebe7c-b298-4591-b9f3-fad79d2ebaf3",
+    "Name": "Ripperdactyl",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "80"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge (Ripperdactyl only)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "43b4fd9f-cedb-4569-8fc5-891f9bc06409",
+    "Name": "Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "260"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "c918018e-3803-4628-90de-0dc00a6f87b0",
+    "Name": "Ancient Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "275"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "6",
+          "W": "(+5)",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bb86d966c2c147daaf6",
+    "Name": "Skink Chief",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skink Chief",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "5",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "6",
+          "A": "3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "80db0991-4049-4d3e-8171-335ec7c66a08",
+    "Name": "Cold One",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "78"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "beebab6c-bd02-4d75-a04a-2d18aed7df88",
+    "Name": "Carnosaur",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "230"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "5627-f840-3260-8196": "Blood Frenzy",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "ffb6-bce1-e7c8-90e8": "Slashing talons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Carnosaur",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "7",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "ffb6-bce1-e7c8-90e8": "Slashing talons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "13bec169-4012-49f4-98b7-9b03299880e7",
+    "Name": "Terradon",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "90"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "1e219d69-d29f-421f-be36-6b3cff6e8c07",
+    "Name": "Ripperdactyl",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "95"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge (Ripperdactyl only)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "95d50dcf-1037-45f8-9a5b-e66f0ef082b5",
+    "Name": "Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "275"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "(+5)",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "4e65e162-9954-48ee-9441-6d316b712082",
+    "Name": "Ancient Stegadon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "290"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "6",
+          "W": "(+5)",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bb96d966c2c147df996",
+    "Name": "Skink Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9872-a62f-93ff-4e9e": "Lore of Lustria"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skink Priest",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "2",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9872-a62f-93ff-4e9e": "Lore of Lustria"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bbb6d966c2c147e455b",
+    "Name": "Slann Mage-Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2923-5a00-ad64-43a2": "Arcane Shield",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "9872-a62f-93ff-4e9e": "Lore of Lustria"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Slann Mage-Priest",
+        "Values": {
+          "M": "2",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "5",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "9872-a62f-93ff-4e9e": "Lore of Lustria"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357bbb6d966c2c147e5170",
+    "Name": "Jungle Swarms",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jungle Swarms",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "2",
+          "T": "2",
+          "W": "5",
+          "I": "1",
+          "A": "5",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbb6d966c2c147e5d5e",
+    "Name": "Spawn Leader (Saurus Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Spawn Leader",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbb6d966c2c147e543d",
+    "Name": "Saurus Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Saurus Warrior",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbc6d966c2c147e7b92",
+    "Name": "Patrol Leader (Skink)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Patrol Leader",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "4",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bbc6d966c2c147e789f",
+    "Name": "Skink",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skink",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bbc6d966c2c147e8938",
+    "Name": "Revered Guardian (Temple Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9bcd-b4dd-74d0-59ab": "Guardians",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Revered Guardian",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbc6d966c2c147e7e79",
+    "Name": "Temple Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9bcd-b4dd-74d0-59ab": "Guardians",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Temple Guard",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbd6d966c2c147eb411",
+    "Name": "Revered Guardian (Temple Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9bcd-b4dd-74d0-59ab": "Guardians",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Revered Guardian",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbd6d966c2c147ea952",
+    "Name": "Temple Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9bcd-b4dd-74d0-59ab": "Guardians",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Temple Guard",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "1",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bbd6d966c2c147ed42f",
+    "Name": "Bastiladon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "c59f-ddf3-63b7-eaf": "Impervious Defence",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "dcef-d996-383e-c1ea": "Slithering Serpents",
+      "f0bc-d38f-d9ae-105d": "Spawn of Sotek",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  3+",
+      "6ed4-8a23-db9e-139a": "Thunderous bludgeon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bastiladon",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "5",
+          "W": "4",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  3+",
+          "6ed4-8a23-db9e-139a": "Thunderous bludgeon"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bbe6d966c2c147ed9f6",
+    "Name": "Patrol Leader (Chameleon Skink)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9fff-999f-6e96-e149": "Evasive",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "d03f-1fcf-1246-19ef": "Blowpipe",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Patrol Leader",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "5",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "d03f-1fcf-1246-19ef": "Blowpipe",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bbe6d966c2c147ed714",
+    "Name": "Chameleon Skink",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "9fff-999f-6e96-e149": "Evasive",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "d03f-1fcf-1246-19ef": "Blowpipe",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chameleon Skink",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "4",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "d03f-1fcf-1246-19ef": "Blowpipe",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bbe6d966c2c147ee796",
+    "Name": "Pack Leader (Cold One Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pack Leader",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357bbe6d966c2c147edcc8",
+    "Name": "Cold One Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Cold One only)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "f40b-cb96-3405-2e11": "Obsidian Blades",
+      "f7af-e016-1f9c-54c0": "Stupidity",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cold One Rider",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cold One",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f0ab8",
+    "Name": "Ancient (Kroxigor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "aa7-f3d2-b4b9-a2e3": "Skirmish Screen",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f07dc",
+    "Name": "Kroxigor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "aa7-f3d2-b4b9-a2e3": "Skirmish Screen",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Kroxigor",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f1091",
+    "Name": "Ripperdactyl Champion (Ripperdactyl Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge (Ripperdactyl only)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl Champion",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f0d89",
+    "Name": "Ripperdactyl Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "f28b-ec19-c8aa-61a8": "Cleaving Blow (Ripperdactyl only)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge (Ripperdactyl only)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "401b-4fd5-8315-114": "Toad Rage",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ripperdactyl Rider",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Ripperdactyl",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f1375",
+    "Name": "Stegadon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "5",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f1955",
+    "Name": "Sky Leader (Terradon Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sky Leader",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f165f",
+    "Name": "Terradon Rider",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "2396-465a-571c-8e02": "Drop Rocks",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terradon Rider",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Terradon",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bbf6d966c2c147f1c3e",
+    "Name": "Ancient Stegadon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "6",
+          "W": "5",
+          "I": "1",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f1f34",
+    "Name": "Razordon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "2d23-e868-8f64-7196": "Beast Handlers",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2637-b726-c17-321": "Razor barbs",
+      "d487-e11-1cc5-1560": "Wicked claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razordon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2637-b726-c17-321": "Razor barbs",
+          "d487-e11-1cc5-1560": "Wicked claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f1f2f",
+    "Name": "Skink Handler",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "2d23-e868-8f64-7196": "Beast Handlers",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skink Handler",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f2220",
+    "Name": "Salamander",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "2d23-e868-8f64-7196": "Beast Handlers",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "62a4-535f-c619-df64": "Fiery breath",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "d487-e11-1cc5-1560": "Wicked claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Salamander",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "62a4-535f-c619-df64": "Fiery breath",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "d487-e11-1cc5-1560": "Wicked claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f221b",
+    "Name": "Skink Handler",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "2d23-e868-8f64-7196": "Beast Handlers",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skink Handler",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "2",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f2508",
+    "Name": "Stegadon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "7513-3d8a-0665-3fda": "Howdah (Lizardmen)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (javelins only)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c2ef-844b-196f-89ed": "Giant bow",
+      "8715-7ee1-b1e8-730": "Great horns",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "f3f8-7476-d165-1a5d": "Javelin"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stegadon",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "5",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "c2ef-844b-196f-89ed": "Giant bow",
+          "8715-7ee1-b1e8-730": "Great horns"
+        }
+      },
+      {
+        "Name": "Skink Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "f3f8-7476-d165-1a5d": "Javelin"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bc06d966c2c147f27f5",
+    "Name": "Troglodon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1f39-2789-f136-7645": "Aquatic",
+      "931c-9a14-c64-334d": "Arcane Vassal",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "36e4-6605-cfed-f985": "Cold Blooded",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "7310-fc0b-4011-6eaa": "Lore Of Lustria",
+      "8425-fbf8-1c5e-4439": "Primeval Roar",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "ae10-c5ba-fbb6-3377": "Illusion",
+      "9872-a62f-93ff-4e9e": "Lore of Lustria",
+      "f2ca-e290-2a24-28e": "Venom spray",
+      "12f3-1f28-7a10-775c": "Venomous talons",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Troglodon",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "ae10-c5ba-fbb6-3377": "Illusion",
+          "9872-a62f-93ff-4e9e": "Lore of Lustria",
+          "f2ca-e290-2a24-28e": "Venom spray",
+          "12f3-1f28-7a10-775c": "Venomous talons"
+        }
+      },
+      {
+        "Name": "Skink Oracle",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "ae10-c5ba-fbb6-3377": "Illusion",
+          "9872-a62f-93ff-4e9e": "Lore of Lustria"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bc16d966c2c147f3166",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bc16d966c2c147f2b02",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bc16d966c2c147f3f8c",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357bc16d966c2c147f4260",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc16d966c2c147f4586",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f55d3",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f52c0",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f58c6",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f58cf",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f58d8",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bc26d966c2c147f58e1",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

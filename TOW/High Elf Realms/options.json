@@ -1,0 +1,690 @@
+[
+  {
+    "Id": "f7796e1c-b9d0-4ed4-8325-b095f5cc12ba",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c1469584c",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "a64c0b10-30d5-4b2d-8189-4024dd488e32",
+    "Name": "Chieftain's Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c1469584c",
+    "WDSDataId": "9fcc20dc-d585-4046-baa5-4b1b64275d9f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "b4722c19-e1fc-4d9b-9b22-fa6fbb5c36e3",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "cd058bd7-5f27-462e-b673-6a05530d3929",
+    "Name": "Great Eagle",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "f6556772-fcd5-4bdb-8d45-a55389a42eee",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "45db52a7-e15c-4976-9674-858207010f7d",
+    "Name": "Lothern Skycutter",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "ecca6921-e64c-4b1e-aa0e-c612e208136c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d7a49b6e-fcea-45d4-a4fb-a3587f46c98a",
+    "Name": "Lion Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "4346958d-d305-4bc6-8670-7862585066b1",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "5e09fcbc-0e3e-4544-8201-e7a5dd7803d7",
+    "Name": "Flamespyre Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "cd9ebc5b-fa1f-433a-b3b0-d27c747a7056",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "cfec9d36-99c7-48fd-bad9-5da94698d307",
+    "Name": "Frostheart Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "bffc21ea-e1bd-440f-b962-01d4a16102d0",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "93e278ba-44ed-4a71-8d8b-1c2373d65fd6",
+    "Name": "Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "503fb8a3-1c67-4a98-8c21-6805cfe15f55",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "829c1e13-bb3d-46a1-89a0-f7c1cf7618f0",
+    "Name": "Barded Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "c22310bd-7968-4a40-b9fa-21ef784a35b4",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "04ba7bfb-2142-4c79-85b9-852ae3b8131b",
+    "Name": "Sun Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "c12836cc-b825-4d78-8ad9-27c0acdb5863",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "05ff90e7-a713-4e1c-b28e-a4afb9e2c0f9",
+    "Name": "Moon Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "1b03ea8c-90be-49e3-ae6e-607ccfe77fc0",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "2b70285c-af0b-41b7-b8d7-119945d40dce",
+    "Name": "Star Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b526d966c2c14695d6d",
+    "WDSDataId": "25c904ee-81e4-46de-94b1-8d9535e95c6d",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d81bb747-f30a-4794-b2fc-faef6d838f6a",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d0b13a5a-a80b-4451-960f-056e1e2a360e",
+    "Name": "Great Eagle",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "b841724c-af58-4ea7-aedb-02f4150a63a5",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "b5179029-f37e-4d5a-9ae6-a7078e439184",
+    "Name": "Lothern Skycutter",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "8c07a2c0-7223-4d55-8f58-210ef1d42fd0",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "e73d5838-d982-4b16-84b7-6df2d39a3bb7",
+    "Name": "Lion Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "6d5a64a7-9349-4ec0-9ca4-a4800f08d63b",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "58b38e6c-9109-445b-99eb-c355813ba93b",
+    "Name": "Flamespyre Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "a8eda84e-a5f8-4f4b-a942-65bb08c4372f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "a368a948-8188-4e7e-adab-8e354619ac6e",
+    "Name": "Frostheart Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "b9d3fe13-7f89-4f12-9fce-e0133e917859",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "0812dcaa-a2ce-48a1-acc4-9676d7787301",
+    "Name": "Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "5c683ae0-4f3c-4ae3-b5b4-b72733b6c662",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "330376e6-8044-4ec2-9e61-a570262f27f6",
+    "Name": "Barded Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "a654cdd5-c76d-4197-bb48-98cfea99959c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "bf6d8699-e25d-4792-8b18-02e6bf4e28ae",
+    "Name": "Sun Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b566d966c2c1469eaba",
+    "WDSDataId": "43dc971e-2a76-4800-89b4-937fede21d0d",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "8f7cf4c1-f3b2-41b9-a504-62fdac7f56ee",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d3128067-748c-4e3e-af07-44e04941d5f1",
+    "Name": "Great Eagle",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "66ed071a-1ded-459b-bae2-aeef40a8484a",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "16db5e05-2525-451d-a88b-ee40b912272e",
+    "Name": "Tiranoc Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "d965d9ae-2d52-4e7a-ad8b-3845738e1c30",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f192fcf0-d827-4865-8264-5921a877a388",
+    "Name": "Lion Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "db2f658c-ecd2-4e10-b1ea-570d467cb316",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f37f3dd6-f47b-4647-a84b-65f28c6b11c8",
+    "Name": "Lothern Skycutter",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "69dc5481-bad8-47a7-a4de-e686f5b64e46",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "7f88b466-0665-46fc-92ed-afa337702e2d",
+    "Name": "Flamespyre Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "88fffa3d-3c5a-476c-ae5a-9d218a43e0b6",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "dbaa126c-c7ee-4a1e-b2b5-1cee4484bfce",
+    "Name": "Frostheart Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "de489d8f-a5af-4e10-8203-2321e61c7040",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "9807f747-a6d1-4122-8dee-b50586f3293a",
+    "Name": "Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "a7129775-610b-4d9d-a6a0-bda9e566613d",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "91ce1889-e970-4e88-bb66-d02fc7672cc1",
+    "Name": "Barded Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "717931c9-f304-481a-a578-df34f73ff14a",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "fab558dd-e62b-4976-87a3-ad12903be4d5",
+    "Name": "Griffon",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "084799a5-7ba5-43a3-85dc-3adce9e181d3",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "2b0102a9-2656-494f-b29a-a686414a49ad",
+    "Name": "Sun Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b586d966c2c146a4d49",
+    "WDSDataId": "3685cfbf-52fe-4774-929f-cddbb14dd2ca",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "534c7896-11d3-4b39-98e0-2bd0f4f800c9",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "a0ebf8ac-834e-482d-b20f-8e72f01d00d6",
+    "Name": "Griffon",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "70f87a7b-eb55-4332-b51b-7975b04a7561",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "27dda4a4-ed54-4292-a07c-bc4a54726eaf",
+    "Name": "Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "1e23d78d-fcdf-4d92-a34d-0b814c62274f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "9fa7ce54-7a3e-4039-9718-b676645ccf1d",
+    "Name": "Moon Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "ec9094c4-1b9d-4ce5-af6c-b518a6989855",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "fa61451b-751d-4543-9014-cc32bbd2cb9a",
+    "Name": "Star Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "8d3cfaea-563e-46d5-add4-878f9c8db6ec",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "99a30dd9-6e46-44a4-b398-fa6fe9d351fe",
+    "Name": "Lion Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "a5dc596b-8273-49d7-9e8e-8f8530363c4b",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "94d06712-ee63-4a59-88b6-935e1adf137d",
+    "Name": "Tiranoc Chariot",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "25ae696c-4091-4e24-a9fd-16eb3d5b8d8a",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "ed258dbd-83b7-4551-ad1a-70826c6f3871",
+    "Name": "Great Eagle",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "ea663d1f-e3d5-433e-9698-40eda9c552e6",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "2f23e289-5a26-4284-ba9e-a2da4331fc6b",
+    "Name": "Barded Elven Steed",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "c4a3e89e-28c7-4bdc-9f7a-55ea497e73c2",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "75044182-9590-4820-8fea-493841119b12",
+    "Name": "Flamespyre Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "91f66bb5-8bab-47ff-9d5d-e0fd630740c7",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d4ce05a5-923f-431c-a656-290c794507ed",
+    "Name": "Frostheart Phoenix",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "f2bfc5e2-dfea-4521-bd26-9f30b4a63080",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "9be367f9-dd77-4d5e-923d-32cfe8e753ac",
+    "Name": "Lothern Skycutter",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "adb2265a-cb27-4692-b3a3-494b84d562c0",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f66575a4-8e96-4f06-8fc3-815106e2e6a3",
+    "Name": "Sun Dragon",
+    "Type": "Mount",
+    "OwnerId": "68357b5a6d966c2c146ad010",
+    "WDSDataId": "7050e799-d51d-4525-a1f5-1b3181f21849",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f42b2ba0-7ed9-4c2b-9916-2798158f7965",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "68357b5d6d966c2c146b57eb",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "d02ce3b2-d6c9-491a-a2fe-fd7dd00d2c62",
+    "Name": "Unicorn",
+    "Type": "Mount",
+    "OwnerId": "68357b5d6d966c2c146b57eb",
+    "WDSDataId": "c35d5798-b452-4fbc-b712-bea571341876",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "77b4255c-cbd4-488e-99e9-a2e13fd5d5d2",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b5d6d966c2c146b6bcd",
+    "WDSDataId": "68357b5e6d966c2c146b74b5",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "c68a879d-2353-49f4-8f29-0edb3e718ebb",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5d6d966c2c146b6bcd",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "752c848e-8dbd-45b0-94c4-8b3e0b575759",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5d6d966c2c146b6bcd",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "56c1f072-5e43-428d-9b28-cbb2e7902ec5",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b5e6d966c2c146b8f39",
+    "WDSDataId": "68357b5e6d966c2c146b91e3",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "1e5c931e-e6b2-427a-8cda-e3c4eabde429",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5e6d966c2c146b8f39",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "87afa536-790d-4571-9587-6cedb05f0584",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5e6d966c2c146b8f39",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "768ffed5-f033-42ac-972b-faeb7a0dd734",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b5e6d966c2c146b99a5",
+    "WDSDataId": "68357b5e6d966c2c146b9c55",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "77f089a1-940c-4e25-a97a-28046559a587",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5e6d966c2c146b99a5",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "f5f7facb-40f9-4355-84bb-103448c1d909",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5e6d966c2c146b99a5",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "ee3321ba-2f90-4fd5-b2cb-65185b50443f",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b5f6d966c2c146ba419",
+    "WDSDataId": "68357b5f6d966c2c146bacfd",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "620ea57e-3123-425b-9063-b2687564ac22",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5f6d966c2c146ba419",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "07b2698d-c4fe-480b-a260-7adb37783ea6",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5f6d966c2c146ba419",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "d2a2a08c-4b16-4e8d-a187-3f8c1b6c53d2",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b5f6d966c2c146bc759",
+    "WDSDataId": "68357b5f6d966c2c146bd1ce",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "96e2f851-b693-41b0-95ee-88ec9dd2e9ce",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5f6d966c2c146bc759",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "f4307f78-3202-470b-af82-05ab78a5402a",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b5f6d966c2c146bc759",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "49fb4687-968b-4d17-88a3-805d1a5d154f",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b606d966c2c146bf0dd",
+    "WDSDataId": "68357b606d966c2c146bf98f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "f7245fc8-74e8-4de1-bf59-0c589637ead7",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b606d966c2c146c0227",
+    "WDSDataId": "68357b606d966c2c146c0cad",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "4cf22eae-e72c-46f7-92b6-33939bc6390c",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b606d966c2c146c0227",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "c3c10da7-b1ac-4ad2-a219-1c2770154031",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b606d966c2c146c0227",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "8df94ce2-dc5d-44c8-bc95-347378da74f5",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b616d966c2c146c30dd",
+    "WDSDataId": "68357b626d966c2c146c3b27",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "4c76e712-47f2-494c-8c62-a5425327a970",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b616d966c2c146c30dd",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "4897fc93-8d36-454f-b37f-d41d66f0fc4a",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b616d966c2c146c30dd",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "73f0e89b-8671-4ae7-83ac-7fe0502d2144",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b626d966c2c146c59d9",
+    "WDSDataId": "68357b626d966c2c146c6293",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "2729f00d-286c-4bf9-80fe-158c2ffaa0b0",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b626d966c2c146c6b37",
+    "WDSDataId": "68357b636d966c2c146c7581",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "00316431-a9c4-4101-b479-90611490ef98",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b626d966c2c146c6b37",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "28170096-2dcd-4f54-9597-905439a504eb",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b626d966c2c146c6b37",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "57b46fe6-adcc-4e0f-83cb-f25d6912dd40",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b636d966c2c146c96bb",
+    "WDSDataId": "68357b636d966c2c146ca116",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "ad0602ea-4e81-471e-8af4-b1d980424141",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b636d966c2c146c96bb",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "9cb38d0c-4ac2-49a0-9db1-e12427ad5a33",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b636d966c2c146c96bb",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "daec83be-b2e8-4098-8a16-9b4ae6d0830d",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b656d966c2c146cd0f4",
+    "WDSDataId": "68357b656d966c2c146cd9a2",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "07dcbb36-561a-48b4-9760-6bf48ea8fc3f",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b666d966c2c146ce499",
+    "WDSDataId": "68357b666d966c2c146ceaab",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "a5ff04b7-622e-4af5-ac21-0e9a897f0392",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b666d966c2c146ce499",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "04dacdc1-73bc-4de9-81a0-5c0685995c6c",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b666d966c2c146ce499",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "48dce4da-06cc-4990-9e8f-0ecabc176bbe",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b676d966c2c146cfc95",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "8eab1b19-6f15-4636-9771-413996a5cb3e",
+    "Name": "Standard",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b676d966c2c146cfc95",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "34262617-d128-44c4-87fa-4a47ff954722",
+    "Name": "Champion",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b676d966c2c146d0801",
+    "WDSDataId": "68357b676d966c2c146d0ab8",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "c6180d98-0a61-400f-88ce-885aa2868b28",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b676d966c2c146d0d2f",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "fea5b977-7ad7-403a-a9ce-18d60dd46f30",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b676d966c2c146d0d2f",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "Id": "68357b8f6d966c2c14737be4",
+    "Name": "Sir Cecil Gastonne",
+    "Attributes": {
+      "totalCost": "165",
+      "category": "Named Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sorrow’s End",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b8f6d966c2c14737be9"
+    ]
+  },
+  {
+    "Id": "68357b8f6d966c2c14737fab",
+    "Name": "The Green Knight",
+    "Attributes": {
+      "totalCost": "275",
+      "category": "Named Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b8f6d966c2c14737faf"
+    ]
+  },
+  {
+    "Id": "68357b8f6d966c2c14738377",
+    "Name": "Baron",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Lance",
+        "Morning Star",
+        "Great Weapon",
+        "Hand Weapon",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Wicked Claws",
+        "Serrated Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "51edf59b-37a6-4d81-82f9-16001531b22b",
+      "10e16f99-15d1-45ec-ab5c-6f9d40a374d7",
+      "5430ddbc-931b-4457-914a-dd39d7f42ec1",
+      "6327bbf0-129e-4d63-8b22-e1c1473681d9",
+      "0c17231e-19de-41f7-9f5e-dd535854f7c2"
+    ],
+    "ProfileIds": [
+      "68357b8f6d966c2c14738380"
+    ]
+  },
+  {
+    "Id": "68357b906d966c2c1473b872",
+    "Name": "Damsel",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Warhorse",
+        "Unicorn",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "591eca02-4991-4881-b2c3-fb32608392fb",
+      "f8a375de-ce95-4a14-a910-17037a566c80",
+      "c981a1e2-5f29-4379-9936-8efe9ba66de2",
+      "9ef8b785-38fb-4b34-be55-a445ba1171c8"
+    ],
+    "ProfileIds": [
+      "68357b906d966c2c1473b876"
+    ]
+  },
+  {
+    "Id": "68357b916d966c2c1473e5b4",
+    "Name": "Outcast Wizard",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warhorse",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9ca4903b-8553-478c-b670-926124432501",
+      "ea879f7c-7a36-48d2-bf7f-d7b344e0bc43"
+    ],
+    "ProfileIds": [
+      "68357b916d966c2c1473e5b7"
+    ]
+  },
+  {
+    "Id": "68357b916d966c2c1473fc4d",
+    "Name": "Paladin",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Lance",
+        "Morning Star",
+        "Great Weapon",
+        "Hand Weapon",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5b58eacd-ac64-438e-ad13-9d17c2f87ee9",
+      "051a78d5-080b-4a61-a6e3-7170da16069f",
+      "a4f843a4-1f3f-4897-a410-51a870998453",
+      "2b9eb52b-352b-4dc1-8528-e9ae5b5f35b2"
+    ],
+    "ProfileIds": [
+      "68357b916d966c2c1473fc50"
+    ]
+  },
+  {
+    "Id": "68357b926d966c2c14742ccd",
+    "Name": "Sergeants-At-Arms",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warhorse",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Halberd",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "883ef1ca-3b44-4da2-9fa2-05a0b173b9e0",
+      "e0ba36d7-3691-4976-a4f4-7527f23840a4"
+    ],
+    "ProfileIds": [
+      "68357b926d966c2c14742cd0"
+    ]
+  },
+  {
+    "Id": "68357b936d966c2c147440e6",
+    "Name": "Knights Errant",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Gallant",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "aa5b4c9a-cc0b-4b10-ab16-8dc477f869f8",
+      "c34a2c27-f1e7-4bc9-b1b2-c1d6fdd7dd04",
+      "e63972fb-ab44-49c6-a24e-07e604b8d070"
+    ],
+    "ProfileIds": [
+      "68357b936d966c2c147440ee"
+    ]
+  },
+  {
+    "Id": "68357b936d966c2c1474575e",
+    "Name": "Knights of the Realm on Foot",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "First Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "98447afc-7ede-4ed5-937a-2cc3a41abfc6",
+      "8585818e-2730-4db7-9fd1-3e3928893477",
+      "4d774922-86e8-49ea-abbf-41df19109463"
+    ],
+    "ProfileIds": [
+      "68357b936d966c2c14745763"
+    ]
+  },
+  {
+    "Id": "68357b946d966c2c147485f2",
+    "Name": "Men-At-Arms",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Polearm",
+        "Yeoman",
+        "Grail Monk",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "16ed1ff7-de27-486f-8de7-bcbbcbfd7dc3",
+      "31820d84-e43c-4ff2-a57c-46f2745a4c26",
+      "a33164ee-1a86-4b7e-a336-1df2321f12a2"
+    ],
+    "ProfileIds": [
+      "68357b946d966c2c147485f5"
+    ]
+  },
+  {
+    "Id": "68357b946d966c2c14749522",
+    "Name": "Mounted Knights of the Realm",
+    "Attributes": {
+      "totalCost": "24",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3a4d36bd-16fb-4fab-a9dd-30e53ddf6f70",
+      "5760602d-33db-412b-aafd-80afeb8f3656"
+    ],
+    "ProfileIds": [
+      "68357b946d966c2c14749527"
+    ]
+  },
+  {
+    "Id": "68357b956d966c2c1474c446",
+    "Name": "Mounted Yeomen",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Hand Weapon",
+        "Shortbow",
+        "Cavalry Spear",
+        "Warden",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7cd5aa15-0a84-4cf7-9820-b4743fbf9394",
+      "ffafef1d-9a6b-486c-a6c4-1e9b57d4f415",
+      "eb4193c6-9167-4a7f-a392-816a715b253e"
+    ],
+    "ProfileIds": [
+      "68357b956d966c2c1474c449"
+    ]
+  },
+  {
+    "Id": "68357b956d966c2c1474d3f6",
+    "Name": "Peasant Bowmen",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Villein",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7e307954-c126-4133-9575-56bcd2578e4c",
+      "4b87e1cc-238a-4974-bb5f-c50a714123b7",
+      "dee870c5-8a32-4492-b1ec-b4487f26881b"
+    ],
+    "ProfileIds": [
+      "68357b956d966c2c1474d3fb"
+    ]
+  },
+  {
+    "Id": "68357b966d966c2c1474e332",
+    "Name": "Yeomen Guard",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Halberd",
+        "Polearm",
+        "Thrusting Spear",
+        "Hand Weapon",
+        "Shield",
+        "Warden",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ebf0e54c-1d68-46be-b200-3743b11180fa",
+      "ad00c0d8-8575-42f5-bc3d-0b933cfe9c18",
+      "fa3e06b3-effd-4382-860d-1ce999dc8984"
+    ],
+    "ProfileIds": [
+      "68357b966d966c2c1474e337"
+    ]
+  },
+  {
+    "Id": "68357b966d966c2c1474f912",
+    "Name": "Battle Pilgrims & Grail Reliquae",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b966d966c2c1474f91a"
+    ]
+  },
+  {
+    "Id": "68357b976d966c2c1474fcd7",
+    "Name": "Pegasus Knights",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Pegasus",
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "First Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0abbae2c-a0d4-4f53-96c7-f8d3fdce27cc",
+      "8d0f7356-1b1c-4587-bb87-bb2a48dd0996",
+      "7bc48831-b73c-40e8-adc3-11a4565d3ee7"
+    ],
+    "ProfileIds": [
+      "68357b976d966c2c1474fcda"
+    ]
+  },
+  {
+    "Id": "68357b976d966c2c1475133b",
+    "Name": "Squires",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Esquire",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "910ee09a-a6e1-4f8a-8e87-1edd6a46c7f5",
+      "2fcf6902-12c3-44e1-8bbe-1de5c818b4b4",
+      "213e0f05-2a66-4cf9-b5e2-28acc1021184"
+    ],
+    "ProfileIds": [
+      "68357b976d966c2c1475133e"
+    ]
+  },
+  {
+    "Id": "68357b986d966c2c1475224b",
+    "Name": "Border Princes Bombard",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bombard"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b986d966c2c14752254"
+    ]
+  },
+  {
+    "Id": "68357b986d966c2c1475260f",
+    "Name": "Border Princes Brigands",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Shield",
+        "Pistol",
+        "Blunderbuss",
+        "Crossbow",
+        "Desperado",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "eac231a3-cf3f-427a-a913-934a59ebc44b",
+      "25eb35c8-37b7-4e96-92f5-57fa4ae82b9e",
+      "557a7526-0a20-4697-b8aa-2f359f5dc54f"
+    ],
+    "ProfileIds": [
+      "68357b986d966c2c1475262b"
+    ]
+  },
+  {
+    "Id": "68357b986d966c2c14755573",
+    "Name": "Field Trebuchet",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Field Trebuchet"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b986d966c2c1475557b"
+    ]
+  },
+  {
+    "Id": "68357b996d966c2c1475592f",
+    "Name": "Questing Knights",
+    "Attributes": {
+      "totalCost": "26",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Shield",
+        "Paragon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "65f033fd-be92-4efc-8a9f-d5601badc6e3",
+      "3ddd45b3-0834-4ba1-b050-f0c1bdc6483b",
+      "360a8893-4043-45cc-abbc-a6141691bf3c"
+    ],
+    "ProfileIds": [
+      "68357b996d966c2c14755932"
+    ]
+  },
+  {
+    "Id": "68357b996d966c2c147588bb",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "55ece9b5-9110-4698-be6f-2499d1721fcf",
+      "54217c69-b7aa-4b63-a1d6-65469bfd6807",
+      "4144e303-039e-4740-9751-81bc005ecfc9"
+    ],
+    "ProfileIds": [
+      "68357b996d966c2c147588d9"
+    ]
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a0e2",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b9a6d966c2c1475a0eb"
+    ]
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a49b",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b9a6d966c2c1475a4a1"
+    ]
+  },
+  {
+    "Id": "68357b9a6d966c2c1475a8a3",
+    "Name": "Empire Archers",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Marksman",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f79e0095-62ce-44b4-9b25-35236c6baf38"
+    ],
+    "ProfileIds": [
+      "68357b9a6d966c2c1475a8a6"
+    ]
+  },
+  {
+    "Id": "68357b9b6d966c2c1475b02b",
+    "Name": "Free Company Militia",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Weapon",
+        "Two Hand Weapons",
+        "Militia Leader",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6dca28a3-8a3f-4142-841b-3f6c38a9f72b"
+    ],
+    "ProfileIds": [
+      "68357b9b6d966c2c1475b02f"
+    ]
+  },
+  {
+    "Id": "68357b9b6d966c2c1475b7a7",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "bb8b47d7-795d-432e-a389-10e638a461ba",
+      "6e384723-4daf-4592-84b3-69468d688a80"
+    ],
+    "ProfileIds": [
+      "68357b9b6d966c2c1475b7ad"
+    ]
+  },
+  {
+    "Id": "68357b9b6d966c2c1475c85b",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e7a7e09c-bd19-40e5-b7bb-2f46034dd73e"
+    ],
+    "ProfileIds": [
+      "68357b9b6d966c2c1475c86f"
+    ]
+  },
+  {
+    "Id": "68357b9c6d966c2c1475d02d",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Bretonnian Exiles",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b57a9c61-2c0d-4c07-b77b-efb422212106",
+      "197164f7-69d0-4658-b97e-8a16eaf18088"
+    ],
+    "ProfileIds": [
+      "68357b9c6d966c2c1475d039",
+      "68357b9c6d966c2c1475d042",
+      "68357b9c6d966c2c1475d04b",
+      "68357b9c6d966c2c1475d054"
+    ]
+  }
+]

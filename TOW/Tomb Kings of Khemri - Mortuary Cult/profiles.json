@@ -1,0 +1,2701 @@
+[
+  {
+    "Id": "68357c626d966c2c14a28d99",
+    "Name": "Prince Apophas",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e300-297d-688a-b8a2": "Scarab Prince",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "89cb-9d6e-32d5-e190": "Usirian’s Reaper",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "f948-75e3-7430-3ea6": "Swarming Mass"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Apophas",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "3",
+          "W": "4",
+          "I": "1",
+          "A": "5",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "f948-75e3-7430-3ea6": "Swarming Mass"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c636d966c2c14a2a21d",
+    "Name": "Arch Necrotect",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "e1e-470-3078-c879": "Immortal Overseer",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "662a-2f6-7143-950f": "Stone Shaper",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "7505-7edf-c3de-57a6": "Whip"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Arch Necrotect",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "7505-7edf-c3de-57a6": "Whip"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6cf2e9d1-df5b-44a9-bad5-ab20b8490ada",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "152"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a869-df99-ad99-f255": "Arise!",
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "2363-698-c566-4bfb": "From Beneath the Sands",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "5ba4-f380-93dc-358d": "Lore of Nehekhara",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "db25d4ee-9165-457b-ab9b-04df17311b11",
+    "Name": "Necrolith Bone Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "335"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a869-df99-ad99-f255": "Arise!",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9ada-55bb-3fc4-e52b": "Cloud of Dust",
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "2363-698-c566-4bfb": "From Beneath the Sands",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "5ba4-f380-93dc-358d": "Lore of Nehekhara",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "ada5-bc2c-a82f-3d76": "Breath of Dessication",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "8382-4e23-e72c-d90": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrolith Bone Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ada5-bc2c-a82f-3d76": "Breath of Dessication",
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "8382-4e23-e72c-d90": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c636d966c2c14a2bcd2",
+    "Name": "High Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a869-df99-ad99-f255": "Arise!",
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "2363-698-c566-4bfb": "From Beneath the Sands",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "5ba4-f380-93dc-358d": "Lore of Nehekhara",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ae10-c5ba-fbb6-3377": "Illusion",
+      "2faa-884e-d8e5-331a": "Lore of Nehekhara"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "High Priest",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "ae10-c5ba-fbb6-3377": "Illusion",
+          "2faa-884e-d8e5-331a": "Lore of Nehekhara"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "3f9fd19e-f4c1-47ac-950d-41e2851e4507",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "67"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "a869-df99-ad99-f255": "Arise!",
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "2363-698-c566-4bfb": "From Beneath the Sands",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "5ba4-f380-93dc-358d": "Lore of Nehekhara",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c646d966c2c14a31111",
+    "Name": "Mortuary Priest",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a869-df99-ad99-f255": "Arise!",
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "2363-698-c566-4bfb": "From Beneath the Sands",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "5ba4-f380-93dc-358d": "Lore of Nehekhara",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ae10-c5ba-fbb6-3377": "Illusion",
+      "2faa-884e-d8e5-331a": "Lore of Nehekhara"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortuary Priest",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "ae10-c5ba-fbb6-3377": "Illusion",
+          "2faa-884e-d8e5-331a": "Lore of Nehekhara"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c656d966c2c14a34c5a",
+    "Name": "Necrotect",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "2cb-b6cc-72e8-ee9e": "Eternal Taskmaster",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "7505-7edf-c3de-57a6": "Whip"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrotect",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "7505-7edf-c3de-57a6": "Whip"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "935adce3-bfcf-4fd9-825f-48b623a16e1f",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "102"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "abde-68e9-9d0e-a46": "My Will Be Done",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "73836c4f-bbd4-435a-9cce-db8da7d1315a",
+    "Name": "Skeleton Chariot",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "125"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "abde-68e9-9d0e-a46": "My Will Be Done",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+3)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c656d966c2c14a3670c",
+    "Name": "Tomb Prince",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ccfe-3943-82d5-2a58": "Curse of the Necropolis",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "abde-68e9-9d0e-a46": "My Will Be Done",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tomb Prince",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c676d966c2c14a3b7f2",
+    "Name": "Necroserpent",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necroserpent",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c676d966c2c14a3e0fc",
+    "Name": "Master of Arrows (Skeleton Archer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Arrows",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c676d966c2c14a3cc68",
+    "Name": "Skeleton Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Archer",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c686d966c2c14a43337",
+    "Name": "Master of Horse (Skeleton Horse Archer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Horse",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c686d966c2c14a41e93",
+    "Name": "Skeleton Horse Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Horse Archer",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c696d966c2c14a48beb",
+    "Name": "Master of Horse (Skeleton Horseman)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Horse",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c696d966c2c14a47103",
+    "Name": "Skeleton Horseman",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Horseman",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c6a6d966c2c14a4dc7b",
+    "Name": "Skeleton Skirmisher",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "afa3-a46a-2608-f62c": "Chariot Runners",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Skirmisher",
+        "Values": {
+          "M": "5",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c6b6d966c2c14a50bd2",
+    "Name": "Master of Arms (Skeleton Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Arms",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c6a6d966c2c14a4f104",
+    "Name": "Skeleton Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Warrior",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c6b6d966c2c14a55c21",
+    "Name": "Tomb Swarm",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tomb Swarm",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "2",
+          "T": "2",
+          "W": "5",
+          "I": "1",
+          "A": "5",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c6c6d966c2c14a58522",
+    "Name": "Ancient (Ushabti)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c6c6d966c2c14a57096",
+    "Name": "Ushabti",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ushabti",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c6c6d966c2c14a5999f",
+    "Name": "Carrion",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Carrion",
+        "Values": {
+          "M": "2",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "3",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5ae11",
+    "Name": "Necrolith Colossus",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "fbbb-aba9-7f94-97db": "Unstoppable Assault",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "dde4-8808-8190-39d1": "Paired Great Khopeshes"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrolith Colossus",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "6",
+          "T": "6",
+          "W": "5",
+          "I": "1",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "dde4-8808-8190-39d1": "Paired Great Khopeshes"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5c287",
+    "Name": "Necroserpent",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8c0b-6fe6-dc06-512": "Ambushers",
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necroserpent",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c6d6d966c2c14a5d6fe",
+    "Name": "Necrosphinx",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "31d6-475d-5db3-94b6": "Soul Reaper",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "a42-ed34-8560-1d88": "Cleaving Blades",
+      "8fe2-999b-242e-6c32": "Decapitating Strike",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrosphinx",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "6",
+          "W": "6",
+          "I": "1",
+          "A": "5",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "a42-ed34-8560-1d88": "Cleaving Blades",
+          "8fe2-999b-242e-6c32": "Decapitating Strike",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c6e6d966c2c14a5eb7c",
+    "Name": "Sepulchral Stalker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "884b-e35a-a206-4427": "Petryfing Gaze",
+      "416f-5ebe-a43a-d02d": "Writhing Tail"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sepulchral Stalker",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "884b-e35a-a206-4427": "Petryfing Gaze",
+          "416f-5ebe-a43a-d02d": "Writhing Tail"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c6e6d966c2c14a61c8a",
+    "Name": "Master Charioteer (Skeleton Chariot)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master Charioteer",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "2",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Skeleton Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "2",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c6e6d966c2c14a60008",
+    "Name": "Skeleton Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 5+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Skeleton Crew",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "2",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d6b8-1ad9-d024-1d72": "Warbow"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c6f6d966c2c14a671ed",
+    "Name": "Tomb Scorpion",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "f9de-2ab9-9c7d-92ff": "Decapitating Claws",
+      "3845-49d0-ec6f-589": "Envenomed Sting",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tomb Scorpion",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "f9de-2ab9-9c7d-92ff": "Decapitating Claws",
+          "3845-49d0-ec6f-589": "Envenomed Sting",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "75",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c706d966c2c14a6866f",
+    "Name": "Tomb Swarm",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tomb Swarm",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "2",
+          "T": "2",
+          "W": "5",
+          "I": "1",
+          "A": "5",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c706d966c2c14a6af6e",
+    "Name": "Ancient (Ushabti)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ancient",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c706d966c2c14a69ae3",
+    "Name": "Ushabti",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ushabti",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c716d966c2c14a6d87a",
+    "Name": "Venerable Ancient (Venerable Ushabti)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "90ed-c9be-a611-79cc": "Magic Resistance (2)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Venerable Ancient",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c716d966c2c14a6c3f5",
+    "Name": "Venerable Ushabti",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "b049-caf4-f185-d3d4": "Khopesh",
+      "90ed-c9be-a611-79cc": "Magic Resistance (2)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "2c5f-ac49-f54a-1329": "Ritual Blade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Venerable Ushabti",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2c5f-ac49-f54a-1329": "Ritual Blade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c716d966c2c14a6ecff",
+    "Name": "Casket of Souls",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e8fa-c1b8-3da7-f23d": "Cleaving Blow",
+      "e499-a9e5-3160-f62d": "Covenant of Power",
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "8ff4-5dcd-f462-1acd": "Immovable Object",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "54de-15ad-9dc8-e4be": "Unbound Spirits",
+      "a10c-954f-cdd4-5116": "Vortex of Souls"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Casket of Souls",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      }
+    ],
+    "Base": {
+      "Shape": "round",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c716d966c2c14a7017e",
+    "Name": "Necrolith Colossus",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "fbbb-aba9-7f94-97db": "Unstoppable Assault",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "dde4-8808-8190-39d1": "Paired Great Khopeshes"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrolith Colossus",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "6",
+          "T": "6",
+          "W": "5",
+          "I": "1",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "dde4-8808-8190-39d1": "Paired Great Khopeshes"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c726d966c2c14a715f4",
+    "Name": "Necrosphinx",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "9e4d-c79a-658d-6900": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "31d6-475d-5db3-94b6": "Soul Reaper",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+2)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "a42-ed34-8560-1d88": "Cleaving Blades",
+      "8fe2-999b-242e-6c32": "Decapitating Strike",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necrosphinx",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "6",
+          "W": "6",
+          "I": "1",
+          "A": "5",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "a42-ed34-8560-1d88": "Cleaving Blades",
+          "8fe2-999b-242e-6c32": "Decapitating Strike",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c726d966c2c14a72a77",
+    "Name": "Screaming Skull Catapult",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "ae9b-6cef-787a-da54": "Dry as Dust",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "9e4d-c79a-658d-6900": "Indomitable (1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "14ec-afd4-37fd-d2bc": "Screaming Skulls",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "bfbc-c435-2046-4691": "Stone Thrower"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Screaming Skull Catapult",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "bfbc-c435-2046-4691": "Stone Thrower"
+        }
+      },
+      {
+        "Name": "Skeleton Catapult Crew",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "bfbc-c435-2046-4691": "Stone Thrower"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c736d966c2c14a7571f",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c726d966c2c14a73f15",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c736d966c2c14a79a37",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c746d966c2c14a7aeb1",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c746d966c2c14a7c37d",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c756d966c2c14a82c08",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c756d966c2c14a8174f",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c766d966c2c14a840a1",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c766d966c2c14a840aa",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c766d966c2c14a840b3",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c766d966c2c14a840bc",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

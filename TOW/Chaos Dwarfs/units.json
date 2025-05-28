@@ -1,0 +1,949 @@
+[
+  {
+    "Id": "68357b0a6d966c2c145e54cf",
+    "Name": "Black Orc Bigboss",
+    "Attributes": {
+      "totalCost": "75",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Orc Boar Chariot",
+        "Black Orc Chariot",
+        "Tusks",
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Frenzy",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Battle Standard Bearer",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e9875b88-5f4c-406d-81f8-77389f10b4e8",
+      "71d06308-95a6-4050-b0d4-2a3a6c1918a2",
+      "9bd6d500-0015-4eb7-8a49-d241b3d16728",
+      "534f1d85-c617-4902-ab96-80488622755f"
+    ],
+    "ProfileIds": [
+      "68357b0a6d966c2c145e54d3"
+    ]
+  },
+  {
+    "Id": "68357b0b6d966c2c145e81c1",
+    "Name": "Black Orc Warboss",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Orc Boar Chariot",
+        "Wyvern",
+        "Black Orc Chariot",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Tusks",
+        "Hand Weapon",
+        "Frenzy",
+        "Wyvern",
+        "Wicked claws",
+        "Venomous Tail",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "15e6b78f-3c84-47ac-a8d1-8e524bbeb7af",
+      "7847ee5e-dab3-406d-b2fb-57211b915d75",
+      "67bee513-f9fa-4ee0-9fc9-ecb8b843da26",
+      "cc1e5745-af28-4cf3-b7b2-2f0fae7fbdce",
+      "4dae07ff-159e-4327-b28c-f2b970f1a8a7"
+    ],
+    "ProfileIds": [
+      "68357b0b6d966c2c145e81c5"
+    ]
+  },
+  {
+    "Id": "68357b0c6d966c2c145eb208",
+    "Name": "Bull Centaur Taur’ruk",
+    "Attributes": {
+      "totalCost": "145",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Darkforged Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b0c6d966c2c145eb20e"
+    ]
+  },
+  {
+    "Id": "68357b0c6d966c2c145ebb27",
+    "Name": "Daemonsmith Sorcerer",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lammasu",
+        "Bale Taurus",
+        "Great Taurus",
+        "Giant Wolf",
+        "Darkforged Weapon",
+        "Naptha Bombs",
+        "Blood of Hashut",
+        "Hand Weapon",
+        "Lammasu",
+        "Mace Tail",
+        "Sorcerous Exhalation",
+        "Bale Taurus",
+        "Trampling Hooves",
+        "Goring Horns",
+        "Great Taurus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "17a3bb38-1201-4697-9ecb-e5aecfe7d985",
+      "0d0648c8-73c0-4427-b622-33a97d03e4d8",
+      "abd0f0bc-d07c-437b-ae41-78cabd36f485",
+      "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
+      "de29acb7-bbdb-4dce-b64a-99ac6edbb6d1"
+    ],
+    "ProfileIds": [
+      "68357b0c6d966c2c145ebb2a"
+    ]
+  },
+  {
+    "Id": "68357b0d6d966c2c145ef091",
+    "Name": "Hobgoblin Khan",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lammasu",
+        "Bale Taurus",
+        "Great Taurus",
+        "Giant Wolf",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear",
+        "Throwing Weapon",
+        "Shortbow",
+        "Shield",
+        "Hand Weapon",
+        "Lammasu",
+        "Mace Tail",
+        "Sorcerous Exhalation",
+        "Bale Taurus",
+        "Trampling Hooves",
+        "Goring Horns",
+        "Great Taurus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "069e5aad-66c5-43f8-bbe7-10427b6a43d0",
+      "0c789d2a-a72a-47b1-8ef2-c15e4d536bb2",
+      "281d8fcf-1b0b-406d-ad74-c9a687177b53",
+      "cfdf9999-2058-4e24-9775-065d6ce19f66",
+      "99a595d8-e27a-4081-95de-8c279030410f"
+    ],
+    "ProfileIds": [
+      "68357b0d6d966c2c145ef094"
+    ]
+  },
+  {
+    "Id": "68357b0e6d966c2c145f1fc5",
+    "Name": "Infernal Castellan",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lammasu",
+        "Bale Taurus",
+        "Great Taurus",
+        "Giant Wolf",
+        "Darkforged Weapon",
+        "Great Weapon",
+        "Fireglaive",
+        "Hailshot Blunderbusses",
+        "Pistol",
+        "Naptha Bombs",
+        "Hand Weapon",
+        "Shield",
+        "Lammasu",
+        "Mace Tail",
+        "Sorcerous Exhalation",
+        "Bale Taurus",
+        "Trampling Hooves",
+        "Goring Horns",
+        "Great Taurus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7f6d6a47-39bc-4c11-afd3-f7e76d37d271"
+    ],
+    "ProfileIds": [
+      "68357b0e6d966c2c145f1fcd"
+    ]
+  },
+  {
+    "Id": "68357b0e6d966c2c145f4ddd",
+    "Name": "Infernal Seneschal",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lammasu",
+        "Bale Taurus",
+        "Great Taurus",
+        "Giant Wolf",
+        "Fireglaive",
+        "Hailshot Blunderbusses",
+        "Pistol",
+        "Naptha Bombs",
+        "Battle Standard Bearer",
+        "Darkforged Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Shield",
+        "Lammasu",
+        "Mace Tail",
+        "Sorcerous Exhalation",
+        "Bale Taurus",
+        "Trampling Hooves",
+        "Goring Horns",
+        "Great Taurus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "bc74bf68-22e3-4556-9ac9-393ab39e4b0d"
+    ],
+    "ProfileIds": [
+      "68357b0e6d966c2c145f4de0"
+    ]
+  },
+  {
+    "Id": "68357b0f6d966c2c145f83fc",
+    "Name": "Sorcerer-Prophet",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Characters",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lammasu",
+        "Bale Taurus",
+        "Great Taurus",
+        "Giant Wolf",
+        "Darkforged Weapon",
+        "Naptha Bombs",
+        "Blood of Hashut",
+        "Hand Weapon",
+        "Lammasu",
+        "Mace Tail",
+        "Sorcerous Exhalation",
+        "Bale Taurus",
+        "Trampling Hooves",
+        "Goring Horns",
+        "Great Taurus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "471f2dc0-2ebb-4e20-913e-75e7f0508e52",
+      "c4d277c4-7b29-4845-a9c2-1c9ff1883bea",
+      "94723b06-b32e-489b-9117-ec222f52d4a6",
+      "e39080ea-b97d-44f5-8702-6265249c9b51",
+      "e5a5234f-6f04-4e63-883c-8fa29c77d1d0"
+    ],
+    "ProfileIds": [
+      "68357b0f6d966c2c145f8404"
+    ]
+  },
+  {
+    "Id": "68357b106d966c2c145fb96b",
+    "Name": "Black Orc Mobs",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Core",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Additional Hand Weapon",
+        "Boss",
+        "Hand Weapon",
+        "Shield",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7d29d96e-5af5-4f1a-93ae-febd718c0aad",
+      "e30ddbb5-107e-4521-a153-dc6d166cc5e9",
+      "c4834318-deda-484c-ace5-7659c01d649d"
+    ],
+    "ProfileIds": [
+      "68357b106d966c2c145fb984"
+    ]
+  },
+  {
+    "Id": "68357b116d966c2c145fed07",
+    "Name": "Hobgoblin Cutthroats",
+    "Attributes": {
+      "totalCost": "3",
+      "category": "Core",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Shortbow",
+        "Hand Weapon",
+        "Boss",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5bebc12a-f36b-4da4-831b-b982fde84f10",
+      "78212ca1-2b9d-429d-b557-c6e51f66d41e",
+      "ca2c3a9c-1df1-4f68-821e-56e16e80051a"
+    ],
+    "ProfileIds": [
+      "68357b116d966c2c145fed0a"
+    ]
+  },
+  {
+    "Id": "68357b116d966c2c145ff8a7",
+    "Name": "Infernal Guard",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Fireglaive",
+        "Hailshot Blunderbusses",
+        "Hand Weapon",
+        "Shield",
+        "Deathmask",
+        "Pistol",
+        "Naptha Bombs",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e700a686-21a8-4120-8a7d-22819bf631a2",
+      "e32af64d-d1a3-4330-bffe-aaf3af76d0e0",
+      "f0d66133-ae70-44f1-8968-555e9fb04d02"
+    ],
+    "ProfileIds": [
+      "68357b116d966c2c145ff8ad"
+    ]
+  },
+  {
+    "Id": "68357b126d966c2c14602403",
+    "Name": "Bull Centaur Renders",
+    "Attributes": {
+      "totalCost": "56",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Bull Centaur Ba’hal",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4b4809e2-3bbe-43d7-888e-72c5ec52b54b",
+      "71ce6bd1-f8f3-480d-8833-39d193073121",
+      "97b73e4d-4782-4f8c-8511-8c0b963fc92f"
+    ],
+    "ProfileIds": [
+      "68357b126d966c2c14602406"
+    ]
+  },
+  {
+    "Id": "68357b126d966c2c14604ee3",
+    "Name": "Deathshrieker Rocket Launcher",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Demolition Rockets",
+        "Infernal Incendiaries"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b126d966c2c14604ef1"
+    ]
+  },
+  {
+    "Id": "68357b136d966c2c146051d9",
+    "Name": "Hobgoblin Bolt Thrower",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Bolt Thrower"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b136d966c2c146051de"
+    ]
+  },
+  {
+    "Id": "68357b136d966c2c146054bb",
+    "Name": "Infernal Ironsworn",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Halberd",
+        "Hand Weapon",
+        "Shield",
+        "Overseer",
+        "Pistol",
+        "Naptha Bombs",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c3db5fcb-56c0-4015-b8c1-ab18f602aafc",
+      "d9fbe8b0-14c6-47b8-bc38-2289a283f817",
+      "70525e91-1773-40b8-b105-ad8e91075560"
+    ],
+    "ProfileIds": [
+      "68357b136d966c2c146054be"
+    ]
+  },
+  {
+    "Id": "68357b136d966c2c14607fc3",
+    "Name": "Iron Daemon",
+    "Attributes": {
+      "totalCost": "275",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Steam Cannonade",
+        "Skullcracker"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b136d966c2c14607fcb"
+    ]
+  },
+  {
+    "Id": "68357b136d966c2c146082ac",
+    "Name": "K’daai Fireborn",
+    "Attributes": {
+      "totalCost": "41",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Manburner",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "cb4f424b-b9cd-4138-8704-efacf60a2b20"
+    ],
+    "ProfileIds": [
+      "68357b136d966c2c146082af"
+    ]
+  },
+  {
+    "Id": "68357b146d966c2c146094b9",
+    "Name": "Magma Cannon",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Fire Thrower"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b146d966c2c146094c7"
+    ]
+  },
+  {
+    "Id": "68357b146d966c2c146097ab",
+    "Name": "Sneaky Gits",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Special",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Two Hand Weapons",
+        "Throwing Weapon",
+        "Murder Boss",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b3bf33ab-99ac-4f71-b72e-67a148bd1ff9",
+      "455e0305-3680-4310-8efa-ccb0308f7eb7"
+    ],
+    "ProfileIds": [
+      "68357b146d966c2c146097ae"
+    ]
+  },
+  {
+    "Id": "68357b146d966c2c1460a04b",
+    "Name": "Chaos Giants",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Rare",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Giant's Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b146d966c2c1460a054"
+    ]
+  },
+  {
+    "Id": "68357b146d966c2c1460a32d",
+    "Name": "Dreadquake Mortar",
+    "Attributes": {
+      "totalCost": "165",
+      "category": "Rare",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Dreadquake Mortar"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b146d966c2c1460a338"
+    ]
+  },
+  {
+    "Id": "68357b156d966c2c1460a628",
+    "Name": "Hellcannon",
+    "Attributes": {
+      "totalCost": "215",
+      "category": "Rare",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Doomfire",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b156d966c2c1460a633"
+    ]
+  },
+  {
+    "Id": "68357b156d966c2c1460a910",
+    "Name": "Hobgoblin Wolf Riders",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Rare",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shortbow",
+        "Shield",
+        "Boss",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "66d41f9f-ef9d-4e24-b1e5-33c9cd40d669",
+      "8ad4aef9-7433-43c6-b03a-fca3b3265f4a",
+      "1a175a38-c4f9-4631-9733-2389adcd5523"
+    ],
+    "ProfileIds": [
+      "68357b156d966c2c1460a915"
+    ]
+  },
+  {
+    "Id": "68357b156d966c2c1460b530",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6e1a3e54-934c-4aa2-b9f6-007199fee0ca",
+      "510e0c89-057e-422d-a4ce-8f87eb19286d",
+      "0dce7115-facd-45cb-89b5-865e902713ec"
+    ],
+    "ProfileIds": [
+      "68357b156d966c2c1460b54e"
+    ]
+  },
+  {
+    "Id": "68357b156d966c2c1460c9e7",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b156d966c2c1460c9f0"
+    ]
+  },
+  {
+    "Id": "68357b166d966c2c1460ccc4",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b166d966c2c1460cccd"
+    ]
+  },
+  {
+    "Id": "68357b166d966c2c1460cfa1",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b166d966c2c1460cfa7"
+    ]
+  },
+  {
+    "Id": "68357b166d966c2c1460d2cd",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1b4473fd-632c-4a27-a5e8-fac20c8bbd74",
+      "490fffd4-012a-43d6-aa49-444bdcf63c95"
+    ],
+    "ProfileIds": [
+      "68357b166d966c2c1460d2d3"
+    ]
+  },
+  {
+    "Id": "68357b166d966c2c1460e011",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e08d50c3-c5dd-4b85-971f-a71b4678ffd7"
+    ],
+    "ProfileIds": [
+      "68357b166d966c2c1460e025"
+    ]
+  },
+  {
+    "Id": "68357b176d966c2c1460e62b",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Chaos Dwarfs",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "855be077-e4d5-4bbd-8777-4855e00a8e87",
+      "52c2a22b-1179-458a-9eee-48090f365ce7"
+    ],
+    "ProfileIds": [
+      "68357b176d966c2c1460e637",
+      "68357b176d966c2c1460e640",
+      "68357b176d966c2c1460e649",
+      "68357b176d966c2c1460e652"
+    ]
+  }
+]

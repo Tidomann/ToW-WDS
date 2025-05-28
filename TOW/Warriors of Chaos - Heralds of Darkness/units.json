@@ -1,0 +1,883 @@
+[
+  {
+    "Id": "68357cb46d966c2c14b413aa",
+    "Name": "Galrauch, the Great Drake",
+    "Attributes": {
+      "totalCost": "465",
+      "category": "Named Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Dark Fire of Chaos",
+        "Fumes of Contagion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cb46d966c2c14b413b0"
+    ]
+  },
+  {
+    "Id": "68357cb46d966c2c14b416b0",
+    "Name": "Aspiring Champion",
+    "Attributes": {
+      "totalCost": "180",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaos Chariot",
+        "Chaos Steed",
+        "Gorebeast Chariot",
+        "Chosen Chaos Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Flail",
+        "Lance",
+        "Hand Weapon",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "498fa5ff-910f-48f0-8d67-8e5373cb93e9",
+      "ed99a0e7-c6ba-4b8b-bab4-2404aefebe68",
+      "cfef6a77-1e35-4a72-84ae-67f62e23dccb",
+      "05197707-bbf0-497a-9c2b-e66277cdb3e3",
+      "888e0c22-f9cf-42d7-9e2d-fe9701ca5519"
+    ],
+    "ProfileIds": [
+      "68357cb46d966c2c14b416b7"
+    ]
+  },
+  {
+    "Id": "68357cb56d966c2c14b4519f",
+    "Name": "Chaos Lord",
+    "Attributes": {
+      "totalCost": "305",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaos Chariot",
+        "Chaos Steed",
+        "Manticore",
+        "Daemonic Mount",
+        "Gorebeast Chariot",
+        "Chaos Dragon",
+        "Chosen Chaos Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Flail",
+        "Lance",
+        "Hand Weapon",
+        "Manticore",
+        "Wicked Claws",
+        "Chaos Dragon",
+        "Fumes of Contagion",
+        "Dark Fire of Chaos",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4d7b13c6-d2a2-4418-82be-8e76e91be77e",
+      "9c05cd8e-7c11-4508-8cb4-0676eaebb904",
+      "084bdddc-fc06-477b-be23-c44cd1be77ee",
+      "8e4a097a-e8c3-4450-90d7-06d883f1ca95",
+      "a074e79e-eb12-423a-ac4b-43e71c9282f7",
+      "05fec799-d564-44ca-bf3b-0484062fca8f",
+      "33224d39-a5d4-44b1-80bd-6e4c8b0a1919",
+      "76fe4145-5eee-4de5-a2b9-b689477ddcd3"
+    ],
+    "ProfileIds": [
+      "68357cb56d966c2c14b451a7"
+    ]
+  },
+  {
+    "Id": "68357cb76d966c2c14b4a3ce",
+    "Name": "Daemon Princes",
+    "Attributes": {
+      "totalCost": "245",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Fly (9)",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cb76d966c2c14b4a3d6"
+    ]
+  },
+  {
+    "Id": "68357cb76d966c2c14b4ad4a",
+    "Name": "Exalted Champion",
+    "Attributes": {
+      "totalCost": "235",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaos Chariot",
+        "Chaos Steed",
+        "Daemonic Mount",
+        "Gorebeast Chariot",
+        "Chosen Chaos Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Flail",
+        "Lance",
+        "Hand Weapon",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "95b36e5e-9536-40a8-8aeb-029377c3b24a",
+      "51560731-fba1-425d-bb69-75b85e9d0490",
+      "af216652-f3f0-449d-b301-f113ca914a34",
+      "f76ffb1c-d37e-4301-8b0c-712359d93afd",
+      "87491211-d702-4cf5-9377-c360b293d1e1",
+      "24c377ed-bcd9-4011-8cb3-0dbc19488fb1"
+    ],
+    "ProfileIds": [
+      "68357cb76d966c2c14b4ad56"
+    ]
+  },
+  {
+    "Id": "68357cb96d966c2c14b4f3f5",
+    "Name": "Exalted Sorcerer",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaos Chariot",
+        "Chaos Steed",
+        "Daemonic Mount",
+        "Hand Weapon",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "980c8805-6e49-4875-9d6e-81d977c7b0b0",
+      "7f73b3d4-437d-40e6-b78f-fdc206202736",
+      "5b8e02dc-df38-471c-a42f-6bc108189112",
+      "321bc7f8-3833-407f-8a7a-28b44d0a814e"
+    ],
+    "ProfileIds": [
+      "68357cb96d966c2c14b4f3fb"
+    ]
+  },
+  {
+    "Id": "68357cba6d966c2c14b51fa6",
+    "Name": "Sorcerer Lord",
+    "Attributes": {
+      "totalCost": "305",
+      "category": "Characters",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Chaos Chariot",
+        "Chaos Steed",
+        "Manticore",
+        "Daemonic Mount",
+        "Chaos Dragon",
+        "Hand Weapon",
+        "Halberd",
+        "Manticore",
+        "Wicked Claws",
+        "Chaos Dragon",
+        "Fumes of Contagion",
+        "Dark Fire of Chaos"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f7a10fd5-7ae5-4b04-84d1-49a55602bfc7",
+      "d0968469-535b-4b9e-8b7f-18fe0cbda244",
+      "d1e99117-ffdd-4f85-b805-d1682e4c1b11",
+      "31eca52e-f70c-43f8-b500-1cc3d5ae33a6",
+      "13ccf556-3f0e-4b0d-8b4c-39981513caab",
+      "c10e9fca-9cc7-4e5d-9ce5-9be969866f16"
+    ],
+    "ProfileIds": [
+      "68357cba6d966c2c14b51fb1"
+    ]
+  },
+  {
+    "Id": "68357cbb6d966c2c14b56211",
+    "Name": "Chaos Chariots",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Core",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbb6d966c2c14b56219"
+    ]
+  },
+  {
+    "Id": "68357cbb6d966c2c14b5651f",
+    "Name": "Chaos Knights",
+    "Attributes": {
+      "totalCost": "27",
+      "category": "Core",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Lance",
+        "Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "188f1df3-1f0a-4f0a-9c9f-ebc6350d7af9",
+      "beaab18a-bf00-4d61-b3a7-10ec492cbfd2",
+      "fb5175f0-f863-4dc1-940b-52b98bdbfc56"
+    ],
+    "ProfileIds": [
+      "68357cbb6d966c2c14b56527"
+    ]
+  },
+  {
+    "Id": "68357cbc6d966c2c14b590e7",
+    "Name": "Chaos Warhounds",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Core",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Whip",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbc6d966c2c14b590ea"
+    ]
+  },
+  {
+    "Id": "68357cbc6d966c2c14b593e7",
+    "Name": "Marauder Horsemen",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Core",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Spear",
+        "Flail",
+        "Cavalry Spear",
+        "Javelin",
+        "Throwing Axe",
+        "Hand Weapon",
+        "Shield",
+        "Marauder Horsemaster",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "bde7ae07-250d-443f-84ad-c3cbca7aa04f",
+      "ccb66c4b-db69-40b8-a3d7-8c26c442506d",
+      "458b4c16-6eb1-447c-a482-21442699496b"
+    ],
+    "ProfileIds": [
+      "68357cbc6d966c2c14b593ee"
+    ]
+  },
+  {
+    "Id": "68357cbd6d966c2c14b5a0c7",
+    "Name": "Chaos Chariots",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbd6d966c2c14b5a0ce"
+    ]
+  },
+  {
+    "Id": "68357cbd6d966c2c14b5a3d4",
+    "Name": "Chaos Spawn",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbd6d966c2c14b5a3d7"
+    ]
+  },
+  {
+    "Id": "68357cbd6d966c2c14b5a6c3",
+    "Name": "Chimera",
+    "Attributes": {
+      "totalCost": "180",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Flaming Breath",
+        "Fiend Tail",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbd6d966c2c14b5a6c6"
+    ]
+  },
+  {
+    "Id": "68357cbd6d966c2c14b5a9b5",
+    "Name": "Chosen Chaos Chariots",
+    "Attributes": {
+      "totalCost": "140",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbd6d966c2c14b5a9bd"
+    ]
+  },
+  {
+    "Id": "68357cbe6d966c2c14b5acc2",
+    "Name": "Chosen Chaos Knights",
+    "Attributes": {
+      "totalCost": "36",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6f59b640-3f8e-4739-8653-17171633b40c",
+      "0309297f-3b6e-49ba-ba1c-f739541ad34c",
+      "837620ae-f917-4080-bbac-cf47878d2521"
+    ],
+    "ProfileIds": [
+      "68357cbe6d966c2c14b5acca"
+    ]
+  },
+  {
+    "Id": "68357cbe6d966c2c14b5d8aa",
+    "Name": "Dragon Ogres",
+    "Attributes": {
+      "totalCost": "56",
+      "category": "Special",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Hand Weapon",
+        "Shartak",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4baa98f7-3f83-4a69-bcf9-ff96d657779f"
+    ],
+    "ProfileIds": [
+      "68357cbe6d966c2c14b5d8ad"
+    ]
+  },
+  {
+    "Id": "68357cbf6d966c2c14b5eb4a",
+    "Name": "Chaos Giants",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Rare",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Giant's Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbf6d966c2c14b5eb52"
+    ]
+  },
+  {
+    "Id": "68357cbf6d966c2c14b5ee39",
+    "Name": "Dragon Ogre Shaggoth",
+    "Attributes": {
+      "totalCost": "225",
+      "category": "Rare",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbf6d966c2c14b5ee3e"
+    ]
+  },
+  {
+    "Id": "68357cbf6d966c2c14b5f783",
+    "Name": "Gigantic Spawn of Chaos",
+    "Attributes": {
+      "totalCost": "145",
+      "category": "Rare",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Slashing talons",
+        "Gnashing maws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbf6d966c2c14b5f78b"
+    ]
+  },
+  {
+    "Id": "68357cbf6d966c2c14b5fa7c",
+    "Name": "Gorebeast Chariots",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Rare",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Halberd"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cbf6d966c2c14b5fa83"
+    ]
+  },
+  {
+    "Id": "68357cc06d966c2c14b5fd88",
+    "Name": "Warpfire Dragons",
+    "Attributes": {
+      "totalCost": "375",
+      "category": "Rare",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Warpfire Blast"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cc06d966c2c14b5fd8c"
+    ]
+  },
+  {
+    "Id": "68357cc06d966c2c14b60081",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1e936b37-fcb9-45ec-82bf-c642150ddce2",
+      "f26cc815-0608-4726-b8c2-f5dd56f3105d",
+      "d6f29901-27ee-4808-a997-c99d184dd779"
+    ],
+    "ProfileIds": [
+      "68357cc06d966c2c14b6009f"
+    ]
+  },
+  {
+    "Id": "68357cc06d966c2c14b61570",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cc06d966c2c14b61579"
+    ]
+  },
+  {
+    "Id": "68357cc16d966c2c14b6185b",
+    "Name": "Centigor Chieftain",
+    "Attributes": {
+      "totalCost": "75",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cavalry Spear",
+        "Great Weapon",
+        "Javelin",
+        "Throwing Axe",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cc16d966c2c14b6185e"
+    ]
+  },
+  {
+    "Id": "68357cc16d966c2c14b621c3",
+    "Name": "Centigor Herds",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Javelin",
+        "Throwing Axe",
+        "Throwing Spear",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Gorehoof",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6f3b94d8-fa22-4e3e-9567-62286427ac83",
+      "7ca7432d-4fae-49fb-8388-ee3d74096948",
+      "870a6314-e83d-4556-b4ca-eb103c0d7d72"
+    ],
+    "ProfileIds": [
+      "68357cc16d966c2c14b621c6"
+    ]
+  },
+  {
+    "Id": "68357cc16d966c2c14b64703",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cc16d966c2c14b64709"
+    ]
+  },
+  {
+    "Id": "68357cc26d966c2c14b64a3d",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9d8162f3-54fe-4655-9b04-5e1e1006e0da",
+      "02816abd-6357-4f34-865d-4b32c5f995f5"
+    ],
+    "ProfileIds": [
+      "68357cc26d966c2c14b64a43"
+    ]
+  },
+  {
+    "Id": "68357cc26d966c2c14b657b9",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3dddcb36-792d-46f0-aa15-0dcf5e1183a5"
+    ],
+    "ProfileIds": [
+      "68357cc26d966c2c14b657cd"
+    ]
+  },
+  {
+    "Id": "68357cc26d966c2c14b65def",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Warriors of Chaos - Heralds of Darkness",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2574ccd7-63b6-4a67-b9a2-a23bc1430c5f",
+      "edc530fa-1cc1-424f-a1aa-ee399281643f"
+    ],
+    "ProfileIds": [
+      "68357cc26d966c2c14b65dfb",
+      "68357cc26d966c2c14b65e04",
+      "68357cc26d966c2c14b65e0d",
+      "68357cc26d966c2c14b65e16"
+    ]
+  }
+]

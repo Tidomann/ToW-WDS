@@ -1,0 +1,1149 @@
+[
+  {
+    "Id": "68357c8c6d966c2c14ae44ee",
+    "Name": "Cairn Wraith",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Spectral Scythe"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c8c6d966c2c14ae44f1"
+    ]
+  },
+  {
+    "Id": "68357c8c6d966c2c14ae4749",
+    "Name": "Master Necromancer",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Lance",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "75e9a2b0-5356-4f51-a389-99cb622ab55c",
+      "65f77d2e-2cad-411a-af02-54217a6f0259",
+      "4f4ed7de-d4c8-4a70-babb-94c798e22587",
+      "c025862a-13fc-4f5e-8a83-c35aa384f4bb",
+      "4379b940-c81a-49fa-b440-36b325f97048",
+      "81a87848-4676-42ce-9a12-c8c49add0e37",
+      "c994a86c-39d9-48cc-a041-46aa05d26901",
+      "5d3c2da6-e25e-4628-9bcf-eb9d13b42de9"
+    ],
+    "ProfileIds": [
+      "68357c8c6d966c2c14ae4751"
+    ]
+  },
+  {
+    "Id": "68357c8e6d966c2c14ae9c71",
+    "Name": "Necromantic Acolyte",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Lance",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4bdcda59-3647-4d01-a327-3b13f4d794f0",
+      "345165b4-194a-49e8-9343-8bf43ccaf967",
+      "74a89fb8-92ec-4983-ad00-62896d5df82b",
+      "07a82271-9518-4875-8aa9-3c24ba21b100",
+      "f6f690b7-98d9-435d-a1e6-68aba39646ec",
+      "1c67c6d3-a5a9-450a-bacc-a554835806ef",
+      "f3f04b63-8e41-46d6-b852-f3d9f42450d5",
+      "f28ec124-d690-43c0-8654-013182cfcaf1"
+    ],
+    "ProfileIds": [
+      "68357c8e6d966c2c14ae9c74"
+    ]
+  },
+  {
+    "Id": "68357c906d966c2c14aef179",
+    "Name": "Strigoi Ghoul King",
+    "Attributes": {
+      "totalCost": "145",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Lance",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f321536a-70ef-4c36-a1b7-2a31ed70ada0",
+      "ac688458-5af7-432d-b858-f60e88eb98b4",
+      "ad70c8f9-bbd9-40a1-8800-45dc56595e48",
+      "2d3ab13a-4d53-46e6-9f22-5207bf571af4",
+      "66478daa-a09f-4dc4-b4c9-d399817bcb04",
+      "df38349e-18cc-4be3-9c55-a761ba2abe5f",
+      "438598d2-e39a-43f1-8b66-753b481e3ffb",
+      "b0a6d52d-0852-4147-9687-96c37c784bb6"
+    ],
+    "ProfileIds": [
+      "68357c906d966c2c14aef181"
+    ]
+  },
+  {
+    "Id": "68357c926d966c2c14af3d91",
+    "Name": "Tomb Banshee",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c926d966c2c14af3d99"
+    ]
+  },
+  {
+    "Id": "68357c926d966c2c14af3ff2",
+    "Name": "Vampire Count",
+    "Attributes": {
+      "totalCost": "160",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Lance",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ea8815ce-35e8-4761-b785-e7094f443c54",
+      "ffdd0ac3-8201-4701-95c5-ce8db1208d0f",
+      "3d8dfa39-a070-4d99-b613-4fc1b025cb15",
+      "c4883838-4781-46b6-b79c-ae8ee9a0d44a",
+      "bece8c15-b1ca-45d4-a14e-c1762e3238e2",
+      "c944af05-1acd-49c4-9601-be560c254cef",
+      "a91d2f60-f2fb-445d-82aa-6d9d271bd446",
+      "a87c6451-8188-4b15-9be6-f5494888ec08"
+    ],
+    "ProfileIds": [
+      "68357c926d966c2c14af3ffa"
+    ]
+  },
+  {
+    "Id": "68357c946d966c2c14af8d3a",
+    "Name": "Vampire Thrall",
+    "Attributes": {
+      "totalCost": "75",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Battle Standard Bearer",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Lance",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "791ac5e3-8678-4b1c-aa79-796b5c97e0da",
+      "6df66e76-548c-4c6e-8f73-51d45e1287ae",
+      "c74fcf4a-e081-4a42-ae2a-d51af5c41d8f",
+      "b765dd19-4005-4e27-aedf-a80b968b92a3",
+      "270c026b-847f-4455-9395-7e451e877622",
+      "9e236f30-599f-4613-91c8-09fd4cde0b6d",
+      "b9706bb4-9a16-4fb1-98b7-1b3c53a0476b",
+      "11688903-020c-4735-894c-4aa4f03cbb73"
+    ],
+    "ProfileIds": [
+      "68357c946d966c2c14af8d3d"
+    ]
+  },
+  {
+    "Id": "68357c966d966c2c14afe73a",
+    "Name": "Wight King",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Lance",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "cbe2d554-8d82-4c89-a55e-1edbb5dad1a0",
+      "dbffce43-4e96-4b37-8872-31f9d20eb0d0",
+      "d7f03508-7d46-4510-b168-0caaea1b4d3c",
+      "2da07e1f-7c6a-4d3a-9cc8-c3d2af02935a",
+      "24dd0489-eb44-43eb-ac73-5670131a5710",
+      "22575036-1d92-493a-9196-c623e1698c3e",
+      "0c1f941a-f82e-48c3-a5ff-3071d63f7e48",
+      "2b589da2-220f-4c82-a545-7f37d738534a"
+    ],
+    "ProfileIds": [
+      "68357c966d966c2c14afe774"
+    ]
+  },
+  {
+    "Id": "68357c986d966c2c14b0341a",
+    "Name": "Wight Lord",
+    "Attributes": {
+      "totalCost": "40",
+      "category": "Characters",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Zombie Dragon",
+        "Nightmare",
+        "Skeletal Steed",
+        "Terrorgheist",
+        "Battle Standard Bearer",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Lance",
+        "Hand Weapon",
+        "Mortis Engine",
+        "Coven Throne",
+        "Abyssal Terror",
+        "Wicked Claws",
+        "Poisonous Tail",
+        "Zombie Dragon",
+        "Pestilential breath",
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "52c0b21c-4d09-49cc-bb04-7fe10e1555fd",
+      "e45b4cc0-972f-4e84-bbbf-62cd9c4a407f",
+      "db6632ea-4825-4962-b3d8-1bf9d4078944",
+      "24cdb0e7-e612-406e-8176-03beca386daa",
+      "66173f8a-6e62-4263-9654-97872e9e944c",
+      "4c3cbcd3-99ae-4936-b1bc-a4687a23a966",
+      "02a0e607-5614-4408-9eca-8f764d1ef28d",
+      "f39a26cd-adda-4c16-a361-824e87718614"
+    ],
+    "ProfileIds": [
+      "68357c986d966c2c14b0344f"
+    ]
+  },
+  {
+    "Id": "68357c996d966c2c14b08df2",
+    "Name": "Bat Swarms",
+    "Attributes": {
+      "totalCost": "39",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Swarms",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c996d966c2c14b08df5"
+    ]
+  },
+  {
+    "Id": "68357c9a6d966c2c14b0904c",
+    "Name": "Black Knights",
+    "Attributes": {
+      "totalCost": "24",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Lance",
+        "Hell Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ad74bde9-d090-4591-a236-cfd29a2232cb",
+      "eca0697e-ad6c-4437-b4e2-293d68c9e2e9",
+      "cbfb12e2-24da-4bfe-adb0-7f7526a55e05"
+    ],
+    "ProfileIds": [
+      "68357c9a6d966c2c14b09054"
+    ]
+  },
+  {
+    "Id": "68357c9a6d966c2c14b0b9c8",
+    "Name": "Crypt Ghouls",
+    "Attributes": {
+      "totalCost": "9",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Crypt Ghast",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "9fa342aa-d8a7-46ae-9718-ee8265d6e0de"
+    ],
+    "ProfileIds": [
+      "68357c9a6d966c2c14b0b9cb"
+    ]
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0be86",
+    "Name": "Dire Wolves",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Doom Wolf",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b63c250b-05e8-43ce-b20f-a0fd15d7059a"
+    ],
+    "ProfileIds": [
+      "68357c9b6d966c2c14b0be89"
+    ]
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0c346",
+    "Name": "Grave Guard",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Great Weapon",
+        "Hand Weapon",
+        "Seneschal",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2c102406-71ff-4d7c-a60e-cb76be5e1140",
+      "26f89037-26cb-4462-9dda-3d2d36aadbcb",
+      "92301879-d921-4c51-8961-d05979f4ddfb"
+    ],
+    "ProfileIds": [
+      "68357c9b6d966c2c14b0c34e"
+    ]
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0ec7e",
+    "Name": "Skeleton Warriors",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Thrusting Spear",
+        "Skeleton Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "afd11564-f084-46e1-9a86-a2fa5759f34d",
+      "892613b5-28c2-4d8c-9f27-17d3df70999e",
+      "cd3a1569-7534-4199-90c0-178852b6672c"
+    ],
+    "ProfileIds": [
+      "68357c9c6d966c2c14b0ec81"
+    ]
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0f686",
+    "Name": "Zombies",
+    "Attributes": {
+      "totalCost": "3",
+      "category": "Core",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "be2e25fa-f273-460c-8094-411d4522c60e",
+      "130569f3-f91c-4a6b-b328-4e1d96dd43e4"
+    ],
+    "ProfileIds": [
+      "68357c9c6d966c2c14b0f689"
+    ]
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0fdaf",
+    "Name": "Black Knights",
+    "Attributes": {
+      "totalCost": "24",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Lance",
+        "Hell Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c416fb89-ad87-4b8f-8446-b612405984ec",
+      "88fca2a9-c1e7-4849-9f90-e9f167b54609",
+      "671b4a99-a49a-449f-9bed-9616ddc43885"
+    ],
+    "ProfileIds": [
+      "68357c9c6d966c2c14b0fdb7"
+    ]
+  },
+  {
+    "Id": "68357c9d6d966c2c14b1272b",
+    "Name": "Corpse Cart",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Whip",
+        "Cavalry Spear",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c9d6d966c2c14b1272f"
+    ]
+  },
+  {
+    "Id": "68357c9d6d966c2c14b129c6",
+    "Name": "Crypt Horrors",
+    "Attributes": {
+      "totalCost": "46",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Filth-Encrusted Claws",
+        "Crypt Haunter",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5649295e-c12a-42fb-8009-2178d59b2712"
+    ],
+    "ProfileIds": [
+      "68357c9d6d966c2c14b129d6"
+    ]
+  },
+  {
+    "Id": "68357c9d6d966c2c14b12e94",
+    "Name": "Fell Bats",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c9d6d966c2c14b12e9c"
+    ]
+  },
+  {
+    "Id": "68357c9e6d966c2c14b130f3",
+    "Name": "Grave Guard",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Great Weapon",
+        "Hand Weapon",
+        "Seneschal",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0ba712a8-028b-4587-99bd-0be8cad556d6",
+      "57998823-5232-440f-ae81-70ec45bc964c",
+      "e44b1010-72af-4464-92a6-28c0cbd5fcea"
+    ],
+    "ProfileIds": [
+      "68357c9e6d966c2c14b130fb"
+    ]
+  },
+  {
+    "Id": "68357c9e6d966c2c14b15a2b",
+    "Name": "Spirit Hosts",
+    "Attributes": {
+      "totalCost": "49",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Swarms",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c9e6d966c2c14b15a33"
+    ]
+  },
+  {
+    "Id": "68357c9e6d966c2c14b15c8b",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "totalCost": "205",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c9e6d966c2c14b15c91"
+    ]
+  },
+  {
+    "Id": "68357c9f6d966c2c14b15ef9",
+    "Name": "Vargheists",
+    "Attributes": {
+      "totalCost": "61",
+      "category": "Special",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Vargoyle",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "32759509-df10-4bac-84c7-96596741b6db"
+    ],
+    "ProfileIds": [
+      "68357c9f6d966c2c14b15f07"
+    ]
+  },
+  {
+    "Id": "68357c9f6d966c2c14b163c5",
+    "Name": "Black Coach",
+    "Attributes": {
+      "totalCost": "205",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Spectral Scythe"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c9f6d966c2c14b163c9"
+    ]
+  },
+  {
+    "Id": "68357c9f6d966c2c14b16630",
+    "Name": "Blood Knights",
+    "Attributes": {
+      "totalCost": "39",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Kastellan",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "96ccb846-15ad-4eff-8cfd-8587427cb047",
+      "1ba0d127-081d-4c8e-8690-3c659ef85e58",
+      "107599a1-435b-4ad9-8e46-cfb204d024be"
+    ],
+    "ProfileIds": [
+      "68357c9f6d966c2c14b16635"
+    ]
+  },
+  {
+    "Id": "68357ca06d966c2c14b19044",
+    "Name": "Hexwraiths",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Hellwraith",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "40c1176e-25eb-4caf-91ac-d099646455db"
+    ],
+    "ProfileIds": [
+      "68357ca06d966c2c14b1904a"
+    ]
+  },
+  {
+    "Id": "68357ca06d966c2c14b19528",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "totalCost": "205",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Terrorgheist",
+        "Filth-encrusted Talons",
+        "Rancid Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ca06d966c2c14b19530"
+    ]
+  },
+  {
+    "Id": "68357ca06d966c2c14b19798",
+    "Name": "Vargheists",
+    "Attributes": {
+      "totalCost": "61",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Vargoyle",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3651c5b4-7e7d-4359-8bd2-36e59352032d"
+    ],
+    "ProfileIds": [
+      "68357ca06d966c2c14b197a5"
+    ]
+  },
+  {
+    "Id": "68357ca16d966c2c14b19c62",
+    "Name": "Varghulf",
+    "Attributes": {
+      "totalCost": "140",
+      "category": "Rare",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ca16d966c2c14b19c6a"
+    ]
+  },
+  {
+    "Id": "68357ca16d966c2c14b19ec8",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b2fc7483-8ef6-4cfb-9651-b236d289c958",
+      "37aa23bd-0429-4483-9c1d-b648e9681484",
+      "4c5c1e0d-861b-4a4b-b334-9e6146d5f812"
+    ],
+    "ProfileIds": [
+      "68357ca16d966c2c14b19ee6"
+    ]
+  },
+  {
+    "Id": "68357ca16d966c2c14b1b1a7",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ca16d966c2c14b1b1b0"
+    ]
+  },
+  {
+    "Id": "68357ca26d966c2c14b1b40e",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ca26d966c2c14b1b414"
+    ]
+  },
+  {
+    "Id": "68357ca26d966c2c14b1b6c4",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0e89ab3e-b115-491f-9db2-fc9a81a67f53",
+      "9dc2fe9a-26ef-4341-b68c-86bd53c23270"
+    ],
+    "ProfileIds": [
+      "68357ca26d966c2c14b1b6ca"
+    ]
+  },
+  {
+    "Id": "68357ca26d966c2c14b1c230",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0a90d2c7-61ed-4f71-b3f7-0f931d62a1e2"
+    ],
+    "ProfileIds": [
+      "68357ca26d966c2c14b1c244"
+    ]
+  },
+  {
+    "Id": "68357ca36d966c2c14b1c75e",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Vampire Counts",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "68f18cbe-63ed-47d9-831f-2f226c2278a6",
+      "56e9f252-769b-4f09-a1e2-f63124d86ae3"
+    ],
+    "ProfileIds": [
+      "68357ca36d966c2c14b1c76a",
+      "68357ca36d966c2c14b1c773",
+      "68357ca36d966c2c14b1c77c",
+      "68357ca36d966c2c14b1c785"
+    ]
+  }
+]

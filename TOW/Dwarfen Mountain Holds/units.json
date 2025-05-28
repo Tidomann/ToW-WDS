@@ -1,0 +1,1086 @@
+[
+  {
+    "Id": "68357b376d966c2c1465de94",
+    "Name": "Burlok Damminson",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Named Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Furnace Hammer",
+        "Rivet Gun"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b376d966c2c1465de98"
+    ]
+  },
+  {
+    "Id": "68357b376d966c2c1465e19f",
+    "Name": "Thorgrim Ulleksson",
+    "Attributes": {
+      "totalCost": "250",
+      "category": "Named Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Grudge-Settler",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b376d966c2c1465e1a3"
+    ]
+  },
+  {
+    "Id": "68357b376d966c2c1465e4c0",
+    "Name": "Ungrim Ironfist",
+    "Attributes": {
+      "totalCost": "315",
+      "category": "Named Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "The Axe of Dargo"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b376d966c2c1465e4c4"
+    ]
+  },
+  {
+    "Id": "68357b386d966c2c1465e7d2",
+    "Name": "Anvil of Doom",
+    "Attributes": {
+      "totalCost": "235",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b386d966c2c1465e7dd"
+    ]
+  },
+  {
+    "Id": "68357b386d966c2c1465eb5c",
+    "Name": "Daemon Slayer",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b386d966c2c1465eb5f"
+    ]
+  },
+  {
+    "Id": "68357b386d966c2c1465eee0",
+    "Name": "Dragon Slayer",
+    "Attributes": {
+      "totalCost": "70",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b386d966c2c1465eee3"
+    ]
+  },
+  {
+    "Id": "68357b386d966c2c1465f238",
+    "Name": "Dwarf Engineer",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Pistol",
+        "Brace of Pistols",
+        "Handgun",
+        "Great Weapon",
+        "Battle Standard Bearer",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b386d966c2c1465f23b"
+    ]
+  },
+  {
+    "Id": "68357b386d966c2c1465f5ec",
+    "Name": "King",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shieldbearers",
+        "Pistol",
+        "Shield",
+        "Crossbow",
+        "Great Weapon",
+        "Handgun",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7ad220f0-9187-45ec-967f-fbe203752dc7",
+      "dcf32d8f-5a9f-46a7-86bb-00bf446f7260"
+    ],
+    "ProfileIds": [
+      "68357b386d966c2c1465f5f7"
+    ]
+  },
+  {
+    "Id": "68357b396d966c2c1465fd3a",
+    "Name": "Runelord",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b396d966c2c1465fd45"
+    ]
+  },
+  {
+    "Id": "68357b396d966c2c146600c8",
+    "Name": "Runesmith",
+    "Attributes": {
+      "totalCost": "65",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Battle Standard Bearer",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b396d966c2c146600cb"
+    ]
+  },
+  {
+    "Id": "68357b396d966c2c14660473",
+    "Name": "Thane",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shieldbearers",
+        "Pistol",
+        "Shield",
+        "Great Weapon",
+        "Crossbow",
+        "Handgun",
+        "Hand Weapon",
+        "Battle Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "766eb0c8-c090-4494-995d-45fc9f8bed63",
+      "44f0d92d-db79-4691-9b6f-32f8b294c1e2"
+    ],
+    "ProfileIds": [
+      "68357b396d966c2c14660476"
+    ]
+  },
+  {
+    "Id": "68357b396d966c2c14660bfb",
+    "Name": "Dwarf Warriors",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Core",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0112f8d8-06ba-414f-863e-448037779bcc",
+      "3fc301a3-fd3b-4e19-82a5-d38e71e990cf",
+      "5e839955-2c2b-4a53-92d6-6d190dc1fdea"
+    ],
+    "ProfileIds": [
+      "68357b396d966c2c14660bfe"
+    ]
+  },
+  {
+    "Id": "68357b3a6d966c2c14661967",
+    "Name": "Longbeards",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Core",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Elder",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "819bd039-cf06-41d8-b131-3b578864d41e",
+      "f7820d9b-f141-44ce-b79a-0604481557ca",
+      "a6df4676-daf4-4e9b-bbe3-bdffd2a2c0b6"
+    ],
+    "ProfileIds": [
+      "68357b3a6d966c2c1466196d"
+    ]
+  },
+  {
+    "Id": "68357b3a6d966c2c146627cf",
+    "Name": "Quarrellers",
+    "Attributes": {
+      "totalCost": "9",
+      "category": "Core",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Crossbow",
+        "Veteran",
+        "Pistol",
+        "Brace of Pistols",
+        "Crossbow",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "edee7af6-b2d8-4504-90f9-50b2f8107f80",
+      "8b5ef1a0-5c33-4420-a5fc-cabc07bca794",
+      "60318101-0cd2-4108-8b6b-7394de61306b"
+    ],
+    "ProfileIds": [
+      "68357b3a6d966c2c146627d2"
+    ]
+  },
+  {
+    "Id": "68357b3a6d966c2c1466345b",
+    "Name": "Rangers",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Crossbow",
+        "Throwing Axe",
+        "Hand Weapon",
+        "Ol Deadeye",
+        "Brace of Pistols",
+        "Crossbow",
+        "Pistol",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "594c7a5f-b012-4a02-ae7f-77aabe6829f2",
+      "6ca894fd-9a32-453d-82b7-a83344120d76",
+      "73c78757-f643-4bc5-93e2-72e41412f956"
+    ],
+    "ProfileIds": [
+      "68357b3a6d966c2c1466345f"
+    ]
+  },
+  {
+    "Id": "68357b3b6d966c2c14664193",
+    "Name": "Thunderers",
+    "Attributes": {
+      "totalCost": "10",
+      "category": "Core",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Handgun",
+        "Veteran",
+        "Brace of Pistols",
+        "Handgun",
+        "Pistol",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "53ffac5c-1e77-4bae-b851-79fb9511441c",
+      "546a061e-97a4-4998-b9b6-7ff300a35fc6",
+      "90318fad-b94c-4bde-b73a-beb42fa01617"
+    ],
+    "ProfileIds": [
+      "68357b3b6d966c2c14664196"
+    ]
+  },
+  {
+    "Id": "68357b3b6d966c2c14664e47",
+    "Name": "Bolt Thrower",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bolt Thrower",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3b6d966c2c14664e4f"
+    ]
+  },
+  {
+    "Id": "68357b3b6d966c2c14665175",
+    "Name": "Cannon",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cannon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3b6d966c2c1466517d"
+    ]
+  },
+  {
+    "Id": "68357b3b6d966c2c146654a7",
+    "Name": "Grudge Thrower",
+    "Attributes": {
+      "totalCost": "95",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Stone Thrower",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3b6d966c2c146654af"
+    ]
+  },
+  {
+    "Id": "68357b3b6d966c2c146657d5",
+    "Name": "Gyrocopters",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Brimstone Gun",
+        "Clattergun",
+        "Steam Gun",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3b6d966c2c146657dd"
+    ]
+  },
+  {
+    "Id": "68357b3c6d966c2c14665ae5",
+    "Name": "Hammerers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great hammer",
+        "Shield",
+        "Royal Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "971a5ffb-8147-4d80-b61a-106d364e1f7c",
+      "6c5a6e35-62c8-4dba-9742-222f5887e493",
+      "099d633d-ff8a-4fc5-bee8-ccd260c915cc"
+    ],
+    "ProfileIds": [
+      "68357b3c6d966c2c14665aed"
+    ]
+  },
+  {
+    "Id": "68357b3c6d966c2c14666949",
+    "Name": "Ironbreakers",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Ironbeard",
+        "Drakegun",
+        "Brace of Drakefire Pistols",
+        "Cinderblast Bombs",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5a910c18-af9c-496b-9578-ee2ec5d29ba8",
+      "332091af-473b-47e3-af71-c673785e4b13",
+      "c984b0f6-d33d-410a-984d-b7887d9afe66"
+    ],
+    "ProfileIds": [
+      "68357b3c6d966c2c1466694c"
+    ]
+  },
+  {
+    "Id": "68357b3c6d966c2c146676d5",
+    "Name": "Longbeards",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Elder",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3ffc67c5-49d3-41e0-be87-850884cd8581",
+      "ce564daa-c08b-40be-8636-486adf18407d",
+      "49478b9c-dea7-40c8-b962-8dab4c763f64"
+    ],
+    "ProfileIds": [
+      "68357b3c6d966c2c146676d8"
+    ]
+  },
+  {
+    "Id": "68357b3d6d966c2c14668531",
+    "Name": "Miners",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Blasting Charges",
+        "Hand Weapon",
+        "Great Weapon",
+        "Prospector",
+        "Steam Drill",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a91f5c32-01ad-4117-b3c0-113e14a88ede",
+      "63c25069-8cc2-4ad5-a447-f510f88b50de",
+      "3eb6a729-d7fe-433a-af2e-e7ca0dc2c453"
+    ],
+    "ProfileIds": [
+      "68357b3d6d966c2c14668534"
+    ]
+  },
+  {
+    "Id": "68357b3d6d966c2c146691f5",
+    "Name": "Slayers",
+    "Attributes": {
+      "totalCost": "12",
+      "category": "Special",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3fc301a3-fd3b-4e19-82a5-d38e71e990cfs",
+      "5e839955-2c2b-4a53-92d6-6d190dc1fdeas"
+    ],
+    "ProfileIds": [
+      "68357b3d6d966c2c146691ff",
+      "68357b3d6d966c2c146691ffg"
+    ]
+  },
+  {
+    "Id": "68357b3d6d966c2c1466952a",
+    "Name": "Dwarf Cart",
+    "Attributes": {
+      "totalCost": "65",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3d6d966c2c1466952e"
+    ]
+  },
+  {
+    "Id": "68357b3d6d966c2c14669840",
+    "Name": "Flame Cannon",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Fire Thrower"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3d6d966c2c14669848"
+    ]
+  },
+  {
+    "Id": "68357b3d6d966c2c14669b53",
+    "Name": "Goblin-Hewer",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Goblin-Hewer",
+        "Hand Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3d6d966c2c14669b5f",
+      "68357b3d6d966c2c14669b84"
+    ]
+  },
+  {
+    "Id": "68357b3e6d966c2c14669e7e",
+    "Name": "Gyrobomber",
+    "Attributes": {
+      "totalCost": "95",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Brimstone Gun",
+        "Steam Gun",
+        "Clattergun",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3e6d966c2c14669e81"
+    ]
+  },
+  {
+    "Id": "68357b3e6d966c2c1466a189",
+    "Name": "Irondrakes",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Drakegun",
+        "Ironwarden",
+        "Trollhammer Torpedo",
+        "Brace of Drakefire Pistols",
+        "Drakegun",
+        "Cinderblast Bombs",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e3e022b2-327f-42c5-a83c-820476fa4091",
+      "94636dc2-f698-4473-8066-1489bf9015d6",
+      "5898e46f-f7c9-46c0-bcee-42fa302bd221"
+    ],
+    "ProfileIds": [
+      "68357b3e6d966c2c1466a18c"
+    ]
+  },
+  {
+    "Id": "68357b3e6d966c2c1466ae71",
+    "Name": "Organ Gun",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Organ Gun",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3e6d966c2c1466ae79"
+    ]
+  },
+  {
+    "Id": "68357b3e6d966c2c1466b184",
+    "Name": "Rangers",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Rare",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Crossbow",
+        "Throwing Axe",
+        "Hand Weapon",
+        "Ol Deadeye",
+        "Brace of Pistols",
+        "Crossbow",
+        "Pistol",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "caa25aa3-4235-46e9-9a97-6c2ea8d1f0d9",
+      "eac527fe-78f1-4a03-bc6a-581f3996fc90",
+      "10108a81-0cc8-4f36-b898-d27f4a32ae94"
+    ],
+    "ProfileIds": [
+      "68357b3e6d966c2c1466b187"
+    ]
+  },
+  {
+    "Id": "68357b3f6d966c2c1466beb8",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f99527b6-ee57-4b3a-9597-398a2509b4f1",
+      "984f4935-9ffb-4fef-9be9-cb7851611f50",
+      "224f7274-a475-4d1f-85d0-b7ca28ba50d6"
+    ],
+    "ProfileIds": [
+      "68357b3f6d966c2c1466bed6"
+    ]
+  },
+  {
+    "Id": "68357b3f6d966c2c1466d40f",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3f6d966c2c1466d418"
+    ]
+  },
+  {
+    "Id": "68357b3f6d966c2c1466d714",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b3f6d966c2c1466d719"
+    ]
+  },
+  {
+    "Id": "68357b3f6d966c2c1466da68",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "73f367a2-7f63-4e12-8353-181224478a3e",
+      "139aa19d-bfc9-4941-9a20-81078a4fc039"
+    ],
+    "ProfileIds": [
+      "68357b3f6d966c2c1466da6d"
+    ]
+  },
+  {
+    "Id": "68357b406d966c2c1466e84c",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ef6bee5a-3ffb-424e-81bd-1a118ca58cd0"
+    ],
+    "ProfileIds": [
+      "68357b406d966c2c1466e860"
+    ]
+  },
+  {
+    "Id": "68357b406d966c2c1466eeb6",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Dwarfen Mountain Holds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "48951f3b-44a6-466c-ad94-a915f20b96d2",
+      "78d0896a-21f1-4995-9517-92d231e9fa50"
+    ],
+    "ProfileIds": [
+      "68357b406d966c2c1466eebe",
+      "68357b406d966c2c1466eec7",
+      "68357b406d966c2c1466eed0",
+      "68357b406d966c2c1466eed9"
+    ]
+  }
+]

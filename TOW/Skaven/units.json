@@ -1,0 +1,724 @@
+[
+  {
+    "Id": "68357bfa6d966c2c14875de8",
+    "Name": "Weapon Team",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Uncategorized",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Doom-Flayer",
+        "Poisoned Wind Mortar",
+        "Ratling Gun",
+        "Warpfire Thrower",
+        "Warp Grinder",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfa6d966c2c14875deb"
+    ]
+  },
+  {
+    "Id": "68357bfa6d966c2c148760e1",
+    "Name": "Grey Seer",
+    "Attributes": {
+      "totalCost": "185",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Screaming Bell",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "112aa2f9-7613-4a3c-a0d8-e01f54de4c13",
+      "d9af2110-6bb4-4a57-a0b9-0357965120be"
+    ],
+    "ProfileIds": [
+      "68357bfa6d966c2c148760ea"
+    ]
+  },
+  {
+    "Id": "68357bfa6d966c2c148775f8",
+    "Name": "Master Assassin",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Two Hand Weapons",
+        "Throwing Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfa6d966c2c14877601"
+    ]
+  },
+  {
+    "Id": "68357bfb6d966c2c14877f13",
+    "Name": "Plague Priest",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Plague Furnace",
+        "Additional Hand Weapon",
+        "Plague censer",
+        "Plague Furnace",
+        "Hand Weapon",
+        "Billowing Death"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b8bd4f4f-843b-458e-8f14-92baee144d3e",
+      "c934d54b-1f18-4f0c-a85a-1e6bf461702b"
+    ],
+    "ProfileIds": [
+      "68357bfb6d966c2c14877f1c"
+    ]
+  },
+  {
+    "Id": "68357bfb6d966c2c148791b6",
+    "Name": "Plague Priest",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Plague Furnace",
+        "Additional Hand Weapon",
+        "Plague censer",
+        "Plague Furnace",
+        "Hand Weapon",
+        "Billowing Death"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "12a4899e-3763-4377-b653-76efacb7791c",
+      "1d68e06d-fd9f-49cd-ba81-fd7b50a7483a"
+    ],
+    "ProfileIds": [
+      "68357bfb6d966c2c148791bf"
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487a459",
+    "Name": "Skaven Chieftain",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Battle Standard Bearer",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfc6d966c2c1487a45c"
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487af2d",
+    "Name": "Skaven Warlord",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfc6d966c2c1487af36"
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487b865",
+    "Name": "Warlock Engineer",
+    "Attributes": {
+      "totalCost": "35",
+      "category": "Characters",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warplock musket",
+        "Warplock pistol",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfc6d966c2c1487b86e"
+    ]
+  },
+  {
+    "Id": "68357bfc6d966c2c1487c4c6",
+    "Name": "Giant Rats",
+    "Attributes": {
+      "totalCost": "3",
+      "category": "Core",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Master Moulder",
+        "Whip",
+        "Things-catcher",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfc6d966c2c1487c4c9"
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487ca9c",
+    "Name": "Night Runners",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Core",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sling",
+        "Throwing Weapon",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Nightleader",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "34257668-91a4-4241-a849-66bfa62cb514"
+    ],
+    "ProfileIds": [
+      "68357bfd6d966c2c1487ca9f"
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487d080",
+    "Name": "Rat Swarms",
+    "Attributes": {
+      "totalCost": "36",
+      "category": "Core",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Swarms",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfd6d966c2c1487d083"
+    ]
+  },
+  {
+    "Id": "68357bfd6d966c2c1487de52",
+    "Name": "Gutter Runners",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Special",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sling",
+        "Throwing Weapon",
+        "Two Hand Weapons",
+        "Assassin",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1189c294-90c4-40df-a297-172782871145"
+    ],
+    "ProfileIds": [
+      "68357bfd6d966c2c1487de55"
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f0a0",
+    "Name": "Plague Monks",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Special",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Plague Deacon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b559d973-6e46-4380-8b89-16cd1cff809a",
+      "3096f824-f792-405d-b757-07661900551d",
+      "87ed83a3-facd-4b1e-95ea-333f8cc852d4"
+    ],
+    "ProfileIds": [
+      "68357bfe6d966c2c1487f0a6"
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c14881554",
+    "Name": "Poisoned Wind Globadiers",
+    "Attributes": {
+      "totalCost": "10",
+      "category": "Special",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Poisoned Wind globes"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfe6d966c2c1488155a"
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c14881842",
+    "Name": "Rat Ogres",
+    "Attributes": {
+      "totalCost": "48",
+      "category": "Special",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Master Moulder",
+        "Whip",
+        "Things-catcher",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfe6d966c2c1488184b"
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14882a94",
+    "Name": "Warplock Jezzails",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Special",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warplock Jezzail"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bff6d966c2c14882a9a"
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14882d81",
+    "Name": "Doomwheel",
+    "Attributes": {
+      "totalCost": "145",
+      "category": "Rare",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": []
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bff6d966c2c14882d8d"
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14883078",
+    "Name": "Hell Pit Abomination",
+    "Attributes": {
+      "totalCost": "210",
+      "category": "Rare",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warpstone claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bff6d966c2c14883080"
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c14883360",
+    "Name": "Plague Censer Bearers",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Rare",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Plague censer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bff6d966c2c1488336a"
+    ]
+  },
+  {
+    "Id": "68357bff6d966c2c1488364e",
+    "Name": "Plagueclaw Catapult",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Rare",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Plagueclaw Catapult",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bff6d966c2c14883658"
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c14883944",
+    "Name": "Warp Lightning Cannon",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Rare",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warp Lightning Cannon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c006d966c2c1488394f",
+      "68357c006d966c2c14883954"
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c14883c3e",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b958f63c-82f5-4f33-af6a-ec672e6d0b6d",
+      "48e3ae8a-6937-4bb4-abe0-424f791ce8ea",
+      "00249376-1246-4890-808a-0f01d7932871"
+    ],
+    "ProfileIds": [
+      "68357c006d966c2c14883c5c"
+    ]
+  },
+  {
+    "Id": "68357c006d966c2c14885135",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c006d966c2c1488513e"
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c14885422",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c016d966c2c14885428"
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c1488575e",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1cde42d4-59ea-4610-9f7c-c85a77dec6a2",
+      "99360f3f-db5a-4eab-81f7-655496287916"
+    ],
+    "ProfileIds": [
+      "68357c016d966c2c14885764"
+    ]
+  },
+  {
+    "Id": "68357c016d966c2c148864e2",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "752df0d6-6536-4f6b-90d4-1e2859a4e5fe"
+    ],
+    "ProfileIds": [
+      "68357c016d966c2c148864f6"
+    ]
+  },
+  {
+    "Id": "68357c026d966c2c14886b1c",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "39dfb769-2710-498a-b59d-a305db513762",
+      "0de5330b-a58b-4f5f-ace2-db0459e82083"
+    ],
+    "ProfileIds": [
+      "68357c026d966c2c14886b28",
+      "68357c026d966c2c14886b31",
+      "68357c026d966c2c14886b3a",
+      "68357c026d966c2c14886b43"
+    ]
+  }
+]

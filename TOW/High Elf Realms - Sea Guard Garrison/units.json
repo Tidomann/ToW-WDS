@@ -1,0 +1,701 @@
+[
+  {
+    "Id": "68357b766d966c2c146f8a25",
+    "Name": "Ishaya Vess, Sentinel of the Silent Isle",
+    "Attributes": {
+      "totalCost": "170",
+      "category": "Named Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mathlann's Ire",
+        "Hand Weapon",
+        "Shield",
+        "Warbow"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b766d966c2c146f8a28"
+    ]
+  },
+  {
+    "Id": "68357b766d966c2c146f8bdc",
+    "Name": "Dragon Mage",
+    "Attributes": {
+      "totalCost": "275",
+      "category": "Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sun Dragon",
+        "Dragon Fire",
+        "Wicked Claws",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b766d966c2c146f8be4"
+    ]
+  },
+  {
+    "Id": "68357b776d966c2c146f951a",
+    "Name": "Mage",
+    "Attributes": {
+      "totalCost": "80",
+      "category": "Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Lothern Skycutter",
+        "Lion Chariot",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Elven Steed",
+        "Barded Elven Steed",
+        "Sun Dragon",
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Hand Weapon",
+        "Shortbow",
+        "Cavalry Spear",
+        "Chracian Great Blade",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Sun Dragon",
+        "Dragon Fire",
+        "Bow of Avelorn",
+        "Ceremonial Halberd",
+        "Sword of Hoeth",
+        "Warbow"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7c93ee09-496b-4086-be82-22fa565ecb4c",
+      "9b71086c-fadb-4c11-b791-64c54501f0d3",
+      "90381ec8-4c59-4d04-a123-6fadee139ded",
+      "b751c208-48c2-4742-80a8-bcce2cbb384f",
+      "a5d15fd0-1820-4a7d-9665-1ac9f0df14e1",
+      "914c9f51-ee69-4618-b57a-3d4a31a9a54c",
+      "d84c8ecc-5ae2-486d-aa77-5b766ed6c59f",
+      "c6fb7d20-2b2f-4da6-aad5-c4bb81b331ba",
+      "82799833-843e-4ae5-97df-d8ffc73fee32"
+    ],
+    "ProfileIds": [
+      "68357b776d966c2c146f9522"
+    ]
+  },
+  {
+    "Id": "68357b796d966c2c146ff104",
+    "Name": "Noble",
+    "Attributes": {
+      "totalCost": "73",
+      "category": "Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Tiranoc Chariot",
+        "Lion Chariot",
+        "Lothern Skycutter",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Elven Steed",
+        "Barded Elven Steed",
+        "Griffon",
+        "Sun Dragon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear",
+        "Lance",
+        "Halberd",
+        "Bow of Avelorn",
+        "Longbow",
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Hand Weapon",
+        "Chracian Great Blade",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Shortbow",
+        "Flamespyre Phoenix",
+        "Frostheart Phoenix",
+        "Griffon",
+        "Sun Dragon",
+        "Dragon Fire",
+        "Battle Standard Bearer",
+        "Ceremonial Halberd",
+        "Sword of Hoeth",
+        "Warbow",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f2c5af2e-17ee-400f-b471-b2786325564b",
+      "407913b9-f2b1-400e-8329-9b5d07aae48e",
+      "cea92f0b-505c-40ef-8874-4713ea1b583c",
+      "c530c889-636e-4d09-b15c-e514696b79ed",
+      "8dfc80ff-c4c2-47b6-b0e3-24bc9d22feb4",
+      "7b32a3b4-c823-4e7e-8753-f7ffb5ed6a96",
+      "06a0072f-f32a-407d-b495-b721c199a415",
+      "36806707-5be7-4fe3-af00-ff48e2e52b81",
+      "dfdc6a2f-2339-401c-a69f-39968441c1ad",
+      "b27bf127-77a1-4320-8a6b-43ad74b0378d",
+      "58e36b99-3438-43d7-81a7-0b29231e312a"
+    ],
+    "ProfileIds": [
+      "68357b796d966c2c146ff10c"
+    ]
+  },
+  {
+    "Id": "68357b7b6d966c2c14706bac",
+    "Name": "Sea Guard Garrison Commanders",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Griffon",
+        "Great Eagle",
+        "Lothern Skycutter",
+        "Battle Standard Bearer",
+        "Warbow",
+        "Longbow",
+        "Griffon",
+        "Serrated Maw",
+        "Wicked Claws",
+        "Great Eagle",
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Hand Weapon",
+        "Shortbow",
+        "Cavalry Spear",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "717d084e-7baf-47c4-9054-7093efe96d78",
+      "cd10d28b-3e13-4933-a89e-9caef546e77e",
+      "5fd78ca0-5015-4f48-a670-c63ecac799f7",
+      "6914f8b8-9ee2-4082-8433-85ce1094457c"
+    ],
+    "ProfileIds": [
+      "68357b7b6d966c2c14706baf"
+    ]
+  },
+  {
+    "Id": "68357b7c6d966c2c1470937a",
+    "Name": "Storm Weavers",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Unicorn",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0bdef8eb-29e2-4990-83c3-683d3eff96b5",
+      "3a3eb5f8-3727-4404-9ce4-b9e437373c37"
+    ],
+    "ProfileIds": [
+      "68357b7c6d966c2c1470937d"
+    ]
+  },
+  {
+    "Id": "68357b7c6d966c2c1470a5d6",
+    "Name": "Lothern Sea Guard",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Thrusting Spear",
+        "Warbow",
+        "Hand Weapon",
+        "Shield",
+        "Sea Master",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "daa8d736-3d66-4a7e-83cd-9852c13f9859",
+      "a727367b-96d6-4cfc-884d-052bb0c2521f",
+      "cf3bc76e-fc4d-4e81-82a2-9d94c531da45"
+    ],
+    "ProfileIds": [
+      "68357b7c6d966c2c1470a5d9"
+    ]
+  },
+  {
+    "Id": "68357b7d6d966c2c1470c5fe",
+    "Name": "Shadow Warriors",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Core",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Shadow Walker",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f709f923-4e0f-49ab-b7fe-87a16ac96f49"
+    ],
+    "ProfileIds": [
+      "68357b7d6d966c2c1470c606"
+    ]
+  },
+  {
+    "Id": "68357b7d6d966c2c1470d5ea",
+    "Name": "Ship's Company",
+    "Attributes": {
+      "totalCost": "9",
+      "category": "Core",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Thrusting Spear and Shields",
+        "Warbow",
+        "Hand Weapon",
+        "Midshipman",
+        "Bosun",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "93ce35b5-1fc8-42e9-8865-031df6798005a",
+	  "93ce35b5-1fc8-42e9-8865-031df6798005b",
+      "b3cfaee8-61c0-4bcb-99b3-aefa04e7a6e4",
+      "6e9e1679-097a-4959-a275-2b3e21daf67a"
+    ],
+    "ProfileIds": [
+      "68357b7d6d966c2c1470d5ed"
+    ]
+  },
+  {
+    "Id": "68357b7e6d966c2c1470dd32",
+    "Name": "Eagle-Claw Bolt Thrower",
+    "Attributes": {
+      "totalCost": "80",
+      "category": "Special",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bolt Thrower",
+        "Repeater Bolt Thrower"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7e6d966c2c1470dd3a"
+    ]
+  },
+  {
+    "Id": "68357b7e6d966c2c1470dede",
+    "Name": "Great Eagles",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Special",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7e6d966c2c1470dee6"
+    ]
+  },
+  {
+    "Id": "68357b7e6d966c2c1470e086",
+    "Name": "Lothern Skycutters",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Special",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lothern Skycutter",
+        "Eagle-Eye Bolt Thrower",
+        "Hand Weapon",
+        "Wicked Claws",
+        "Shortbow",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7e6d966c2c1470e089"
+    ]
+  },
+  {
+    "Id": "68357b7e6d966c2c1470e259",
+    "Name": "Ellyrian Reavers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Rare",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cavalry Spear",
+        "Shortbow",
+        "Hand Weapon",
+        "Harbinger",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "93ce35b5-1fc8-42e9-8865-031df6798005",
+      "467fb53b-b565-4cd0-801b-aa2d7d1eba81",
+      "8bf81a8c-f0e8-40ad-b93e-184aa699b497"
+    ],
+    "ProfileIds": [
+      "68357b7e6d966c2c1470e25c"
+    ]
+  },
+  {
+    "Id": "68357b7f6d966c2c147102cd",
+    "Name": "Flamespyre Phoenix",
+    "Attributes": {
+      "totalCost": "170",
+      "category": "Rare",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Flamespyre Phoenix",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7f6d966c2c147102d5"
+    ]
+  },
+  {
+    "Id": "68357b7f6d966c2c14710477",
+    "Name": "Frostheart Phoenix",
+    "Attributes": {
+      "totalCost": "205",
+      "category": "Rare",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Frostheart Phoenix",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7f6d966c2c1471047f"
+    ]
+  },
+  {
+    "Id": "68357b7f6d966c2c14710621",
+    "Name": "Merwyrms",
+    "Attributes": {
+      "totalCost": "225",
+      "category": "Rare",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Lashing Talons",
+        "Serpentine Tail",
+        "Briny Breath"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b7f6d966c2c14710624"
+    ]
+  },
+  {
+    "Id": "68357b7f6d966c2c147107cd",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5f58421f-1284-42ad-bc1e-d293db31c0b2",
+      "37256982-a7cd-4a90-859b-9bb482c3e366",
+      "62ff0119-db5a-4f62-8fd0-9b194d3a602b"
+    ],
+    "ProfileIds": [
+      "68357b7f6d966c2c147107eb"
+    ]
+  },
+  {
+    "Id": "68357b806d966c2c147117b4",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b806d966c2c147117bd"
+    ]
+  },
+  {
+    "Id": "68357b806d966c2c1471195d",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b806d966c2c14711963"
+    ]
+  },
+  {
+    "Id": "68357b806d966c2c14711b55",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0b4ad384-a786-4e1a-b06e-0ac998a837b9",
+      "b295c059-0ab2-4949-bca8-8cf6aec18c80"
+    ],
+    "ProfileIds": [
+      "68357b806d966c2c14711b5b"
+    ]
+  },
+  {
+    "Id": "68357b806d966c2c147123c9",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3a88498d-7279-4875-b555-b4f7ff49f58a"
+    ],
+    "ProfileIds": [
+      "68357b806d966c2c147123dd"
+    ]
+  },
+  {
+    "Id": "68357b806d966c2c1471277b",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "High Elf Realms - Sea Guard Garrison",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e63dc768-33b0-4f21-abb5-5f026d2c994d",
+      "df025e17-f2b5-4c09-ad9f-839a7696a7d4"
+    ],
+    "ProfileIds": [
+      "68357b806d966c2c14712787",
+      "68357b806d966c2c14712790",
+      "68357b806d966c2c14712799",
+      "68357b806d966c2c147127a2"
+    ]
+  }
+]

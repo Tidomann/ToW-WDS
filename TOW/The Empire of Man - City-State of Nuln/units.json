@@ -1,0 +1,1045 @@
+[
+  {
+    "Id": "68357c166d966c2c148bdcd8",
+    "Name": "General Hans Von Löwenhacke",
+    "Attributes": {
+      "totalCost": "190",
+      "category": "Named Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Judgement",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c166d966c2c148bdce1"
+    ]
+  },
+  {
+    "Id": "68357c166d966c2c148bdfad",
+    "Name": "Captain of the Empire",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Pegasus",
+        "Demigryph",
+        "Griffon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Handgun",
+        "Longbow",
+        "Lance",
+        "Pistol",
+        "Brace of Pistols",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Pegasus",
+        "Wicked Claws",
+        "Griffon",
+        "Serrated Maw",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "53a1e3a5-8fd2-4f6d-8cbf-622d0cbc0393",
+      "f2f86e1a-9ce1-41a9-9cd2-ca8a38e741fc",
+      "f03aa7e2-fad7-4a01-a9f7-b4f4e5843aee",
+      "108754ad-349d-422e-9bb7-79142a06ca4f",
+      "8a40b2a3-21c6-4721-a0f5-4782cb5483a9",
+      "64924bf8-c840-470f-99ab-94e424936c11"
+    ],
+    "ProfileIds": [
+      "68357c166d966c2c148bdfb0"
+    ]
+  },
+  {
+    "Id": "68357c186d966c2c148c21e1",
+    "Name": "Engineer",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Wagon",
+        "Hochland Long Rifle",
+        "Repeater Handgun",
+        "Repeater Pistol",
+        "Grenade Launching Blunderbuss",
+        "Battle Standard Bearer",
+        "Hand Weapon",
+        "Blunderbuss",
+        "Ball & chain",
+        "Long rifle",
+        "Hooked halberd",
+        "Repeating rifle",
+        "Man-catcher"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8c4d714a-8d09-42c5-97a8-7c39bdbc6695",
+      "4ad2fa3f-575f-4c43-8a68-8a79756fdeea"
+    ],
+    "ProfileIds": [
+      "68357c186d966c2c148c21e4"
+    ]
+  },
+  {
+    "Id": "68357c186d966c2c148c37a2",
+    "Name": "General of the Empire",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Pegasus",
+        "Demigryph",
+        "Griffon",
+        "Imperial Griffon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Handgun",
+        "Longbow",
+        "Lance",
+        "Pistol",
+        "Brace of Pistols",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Pegasus",
+        "Wicked Claws",
+        "Griffon",
+        "Serrated Maw",
+        "Imperial Griffon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f84bb716-826e-44cd-9095-50dc27f35513",
+      "44bf233e-6116-4694-87ff-1cac02538023",
+      "617fe33b-ae05-45b0-a268-35522bfc62f2",
+      "8af77530-41c6-4af6-8d60-bdd26c0ce31b",
+      "08aea99e-e15f-4da6-8152-4fb5d2ad6014",
+      "706dc957-fb5d-47a0-8074-7b59fd8433d5",
+      "9400150c-6c50-40f3-8472-e8b5a732aa8b"
+    ],
+    "ProfileIds": [
+      "68357c186d966c2c148c37aa"
+    ]
+  },
+  {
+    "Id": "68357c196d966c2c148c7a49",
+    "Name": "Lector of Sigmar",
+    "Attributes": {
+      "totalCost": "110",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "War Altar of Sigmar",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2553bea9-ce86-4ff4-8765-fe55cf733f90",
+      "b0d17f5b-ec54-487f-963a-035d0c7d2821",
+      "e6c33f69-d086-48a8-ab70-3220ec035f2d",
+      "68edb7ae-d9b2-4883-bf09-b34cc674c60d"
+    ],
+    "ProfileIds": [
+      "68357c196d966c2c148c7a4c"
+    ]
+  },
+  {
+    "Id": "68357c1a6d966c2c148c9f0c",
+    "Name": "Master Mage",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Hand Weapon",
+        "Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "342b4800-4e0b-4a48-951b-9bb2c8aeb3a5",
+      "b802fac9-d5fd-435b-a66a-2bcdd786e25c",
+      "08c3f3fb-6903-495a-9caa-c16bd2784bbb"
+    ],
+    "ProfileIds": [
+      "68357c1a6d966c2c148c9f0f"
+    ]
+  },
+  {
+    "Id": "68357c1b6d966c2c148cbe23",
+    "Name": "Priest of Sigmar",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Warhorse",
+        "Empire Warhorse",
+        "Barded Warhorse",
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "40f5340e-de6d-4e0f-9af0-c94fcadaf7f3",
+      "c7437734-6c43-4b27-8fc7-3b9ec6cf1a2b",
+      "6fb5df4b-6dac-45ce-8ea9-ad6b9b948986"
+    ],
+    "ProfileIds": [
+      "68357c1b6d966c2c148cbe26"
+    ]
+  },
+  {
+    "Id": "68357c1b6d966c2c148cd983",
+    "Name": "Witch Hunter",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Characters",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Empire Warhorse",
+        "Pegasus",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Crossbow",
+        "Handgun",
+        "Pistol",
+        "Brace of Pistols",
+        "Hand Weapon",
+        "Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4bd8f852-f3e5-475d-917a-963e382bd7e1",
+      "2de53464-2e81-455a-b577-35583171b205",
+      "ebeacfd4-7e06-415e-bd19-4b045fa57d67"
+    ],
+    "ProfileIds": [
+      "68357c1b6d966c2c148cd986"
+    ]
+  },
+  {
+    "Id": "68357c1c6d966c2c148cf513",
+    "Name": "Empire Archers",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Core",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Warbow",
+        "Marksman",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0d58136b-f37b-4d65-936d-b4e3db38e8fc"
+    ],
+    "ProfileIds": [
+      "68357c1c6d966c2c148cf516"
+    ]
+  },
+  {
+    "Id": "68357c1c6d966c2c148cfab3",
+    "Name": "Free Company Militia",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Core",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Weapon",
+        "Two Hand Weapons",
+        "Militia Leader",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3a3f6c0d-8516-446e-b361-b3a3503fa27d"
+    ],
+    "ProfileIds": [
+      "68357c1c6d966c2c148cfab7"
+    ]
+  },
+  {
+    "Id": "68357c1c6d966c2c148d0047",
+    "Name": "Nuln State Troops",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Core",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Halberd",
+        "Sergeant",
+        "Hand Weapon",
+        "Handgun",
+        "Sergeant",
+        "Brace of Pistols",
+        "Hochland Long Rifle",
+        "Repeater Handgun",
+        "Handgun",
+        "Hand Weapon",
+        "Shield",
+        "Sergeant",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f99861f9-5100-4a20-bc06-1c6353335084",
+      "c1f038e8-11ea-4355-8c72-5bfb83a08f23"
+    ],
+    "ProfileIds": [
+      "68357c1d6d966c2c148d004d"
+    ]
+  },
+  {
+    "Id": "68357c1d6d966c2c148d0bbf",
+    "Name": "Nuln Veteran State Troops",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Core",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Halberd",
+        "Sergeant",
+        "Hand Weapon",
+        "Shield",
+        "Sergeant",
+        "Hand Weapon",
+        "Handgun",
+        "Sergeant",
+        "Brace of Pistols",
+        "Hochland Long Rifle",
+        "Repeater Handgun",
+        "Handgun",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "77af2db0-7138-4c64-8ca2-6cb44260cac4",
+      "132796e1-bc67-43e6-b17c-520750828794"
+    ],
+    "ProfileIds": [
+      "68357c1d6d966c2c148d0bc3"
+    ]
+  },
+  {
+    "Id": "68357c1e6d966c2c148d366f",
+    "Name": "Outriders",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Core",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Repeater Handgun",
+        "Pistol",
+        "Sharpshooter",
+        "Brace of Pistols",
+        "Repeater Handgun",
+        "Repeater Pistol",
+        "Grenade Launching Blunderbuss",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "31c90a9a-d309-452c-8e02-a55095b20e1f",
+      "a62d791d-5b27-475a-9213-1e1849698b66"
+    ],
+    "ProfileIds": [
+      "68357c1e6d966c2c148d3677"
+    ]
+  },
+  {
+    "Id": "68357c1e6d966c2c148d3f48",
+    "Name": "Empire Greatswords",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Count's Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "cfe0173c-c1f4-40b0-aec4-1abfeb971a80",
+      "6f67b5eb-2db6-46c8-98a7-85e8f56b8718",
+      "06502700-e7f3-4180-a46e-454addfd92fc"
+    ],
+    "ProfileIds": [
+      "68357c1e6d966c2c148d3f4c"
+    ]
+  },
+  {
+    "Id": "68357c1e6d966c2c148d639c",
+    "Name": "Empire Knights",
+    "Attributes": {
+      "totalCost": "21",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a417b21a-02f6-4b93-bf22-15091c8d38e1",
+      "ff1161f8-5b19-46b1-a421-5bbd97004b30",
+      "66e333e7-98a7-4623-a1fd-f8f8f54f7ef5"
+    ],
+    "ProfileIds": [
+      "68357c1e6d966c2c148d639f"
+    ]
+  },
+  {
+    "Id": "68357c1f6d966c2c148d8ff0",
+    "Name": "Empire War Wagons",
+    "Attributes": {
+      "totalCost": "140",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Blunderbuss",
+        "Ball & chain",
+        "Long rifle",
+        "Hooked halberd",
+        "Repeating rifle",
+        "Man-catcher"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c1f6d966c2c148d8ff3"
+    ]
+  },
+  {
+    "Id": "68357c1f6d966c2c148d92d6",
+    "Name": "Great Cannon",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Cannon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c1f6d966c2c148d92de"
+    ]
+  },
+  {
+    "Id": "68357c206d966c2c148d95aa",
+    "Name": "Mortar",
+    "Attributes": {
+      "totalCost": "95",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Mortar",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c206d966c2c148d95b2"
+    ]
+  },
+  {
+    "Id": "68357c206d966c2c148d987e",
+    "Name": "Outriders",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Repeater Handgun",
+        "Pistol",
+        "Sharpshooter",
+        "Brace of Pistols",
+        "Repeater Handgun",
+        "Repeater Pistol",
+        "Grenade Launching Blunderbuss",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "be38876e-dd53-4763-8692-a02acaab9c51",
+      "5a432c36-ab5f-4db0-adb6-a20c4263e163"
+    ],
+    "ProfileIds": [
+      "68357c206d966c2c148d9881"
+    ]
+  },
+  {
+    "Id": "68357c206d966c2c148da148",
+    "Name": "Pistoliers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Special",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Veteran",
+        "Grenade Launching Blunderbuss",
+        "Brace of Pistols",
+        "Repeater Pistol",
+        "Repeater Handgun",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d3ca10ea-4b5a-4576-bfd7-3d477fc3b57d",
+      "045d038d-a56b-4e5d-bd0f-7b7dee59a31e"
+    ],
+    "ProfileIds": [
+      "68357c206d966c2c148da14b"
+    ]
+  },
+  {
+    "Id": "68357c206d966c2c148daa20",
+    "Name": "Empire Road Wardens",
+    "Attributes": {
+      "totalCost": "18",
+      "category": "Rare",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crossbow",
+        "Brace of Pistols",
+        "Hand Weapon",
+        "Captain",
+        "Crossbow",
+        "Brace of Pistols",
+        "Repeater Pistol",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2b2bee7e-3078-43dd-93e4-4f3f564bb138"
+    ],
+    "ProfileIds": [
+      "68357c206d966c2c148daa23"
+    ]
+  },
+  {
+    "Id": "68357c216d966c2c148db31d",
+    "Name": "Empire Steam Tank",
+    "Attributes": {
+      "totalCost": "265",
+      "category": "Rare",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hochland Long Rifle",
+        "Repeater Pistol",
+        "Steam Gun",
+        "Steam Cannon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c216d966c2c148db32a"
+    ]
+  },
+  {
+    "Id": "68357c216d966c2c148db5f3",
+    "Name": "Helblaster Volley Gun",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Rare",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Helblaster Volley Gun",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c216d966c2c148db5fb"
+    ]
+  },
+  {
+    "Id": "68357c216d966c2c148db8c4",
+    "Name": "Helstorm Rocket Battery",
+    "Attributes": {
+      "totalCost": "125",
+      "category": "Rare",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Helstorm Rocket Battery",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c216d966c2c148db8cc"
+    ]
+  },
+  {
+    "Id": "68357c216d966c2c148dbb95",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4c0dc26c-8d81-4d0e-8771-7ac89e376b53",
+      "58b93d7a-3971-4cf3-ad0d-785096e9d131",
+      "61d15870-a6a4-4f66-b5d1-70fd01cbe7c3"
+    ],
+    "ProfileIds": [
+      "68357c216d966c2c148dbbb3"
+    ]
+  },
+  {
+    "Id": "68357c226d966c2c148dcfec",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c226d966c2c148dcff5"
+    ]
+  },
+  {
+    "Id": "68357c226d966c2c148dd2b1",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c226d966c2c148dd2b7"
+    ]
+  },
+  {
+    "Id": "68357c226d966c2c148dd5c5",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357c226d966c2c148dd5cb"
+    ]
+  },
+  {
+    "Id": "68357c226d966c2c148dd8d9",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8b40f9d6-4f25-488d-8619-df18edf4c61c",
+      "1cdb0040-171e-4bd9-a66d-771149cfed3f"
+    ],
+    "ProfileIds": [
+      "68357c226d966c2c148dd8df"
+    ]
+  },
+  {
+    "Id": "68357c236d966c2c148de5bd",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "23e64e8d-047a-433e-b3cf-de255abe3e09",
+      "f58bb3d1-cf4a-4c00-ac5b-3ca70202da67"
+    ],
+    "ProfileIds": [
+      "68357c236d966c2c148de5c3"
+    ]
+  },
+  {
+    "Id": "68357c236d966c2c148df2a1",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "63003eaa-f17b-4a21-a66f-7ddf4bbcbf34"
+    ],
+    "ProfileIds": [
+      "68357c236d966c2c148df2b5"
+    ]
+  },
+  {
+    "Id": "68357c246d966c2c148df88b",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c94af8a6-fb0e-4dc5-9175-287fb2c8ae78"
+    ],
+    "ProfileIds": [
+      "68357c246d966c2c148df89f"
+    ]
+  },
+  {
+    "Id": "68357c246d966c2c148dfe75",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "The Empire of Man - City-State of Nuln",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "89726f67-1271-4286-be92-4a6764d3a625",
+      "ea554392-8191-40e8-8208-f4c3e1b5dd4d"
+    ],
+    "ProfileIds": [
+      "68357c246d966c2c148dfe7d",
+      "68357c246d966c2c148dfe86",
+      "68357c246d966c2c148dfe8f",
+      "68357c246d966c2c148dfe98"
+    ]
+  }
+]

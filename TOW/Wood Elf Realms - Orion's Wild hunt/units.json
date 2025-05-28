@@ -1,0 +1,736 @@
+[
+  {
+    "Id": "68357cf36d966c2c14bdb25c",
+    "Name": "Araloth, Lord of Talsyn",
+    "Attributes": {
+      "totalCost": "170",
+      "category": "Named Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cf36d966c2c14bdb265"
+    ]
+  },
+  {
+    "Id": "68357cf36d966c2c14bdb427",
+    "Name": "Orion, the King in the Woods",
+    "Attributes": {
+      "totalCost": "455",
+      "category": "Named Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cf36d966c2c14bdb434",
+      "68357cf36d966c2c14bdb42c"
+    ]
+  },
+  {
+    "Id": "68357cf36d966c2c14bdb5fc",
+    "Name": "Glade Captain",
+    "Attributes": {
+      "totalCost": "70",
+      "category": "Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Elven Steed",
+        "Great Stag",
+        "Warhawk",
+        "Great Eagle",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Hand Weapon",
+        "Mighty Antlers",
+        "Warhawk",
+        "Wicked Claws",
+        "Great Eagle",
+        "Serrated Maw",
+        "Battle Standard Bearer",
+        "Asrai Longbow",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0cfca3be-6623-4f47-ba3e-2004f344986f",
+      "34028368-2ed7-40c2-94d2-d7bb5eef3b30",
+      "83aa808c-58ef-4d0e-abd8-4c4c6c654a74",
+      "c4b708b4-51b7-4e6b-8c36-27483cb90426",
+      "ca041370-a570-401e-8410-bab032e60630"
+    ],
+    "ProfileIds": [
+      "68357cf36d966c2c14bdb5ff"
+    ]
+  },
+  {
+    "Id": "68357cf46d966c2c14bde97f",
+    "Name": "Glade Lord",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Elven Steed",
+        "Great Stag",
+        "Warhawk",
+        "Forest Dragon",
+        "Great Eagle",
+        "Hand Weapon",
+        "Mighty Antlers",
+        "Warhawk",
+        "Wicked Claws",
+        "Forest Dragon",
+        "Soporific Breath",
+        "Serrated Maw",
+        "Great Eagle",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Asrai Longbow",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d84c2dd7-cca0-42a1-8110-7411668ef0bf",
+      "db0c7eda-5051-4be3-a5a0-2a5024b539b6",
+      "fd7815f7-d471-4a6f-979b-a649f29cc490",
+      "b0c38563-5348-4572-b2dc-e2c13dcef81e",
+      "a451b401-6af0-41e6-9ada-5eef1f0740a3",
+      "52405672-673f-425c-86b9-7817e4c3a939"
+    ],
+    "ProfileIds": [
+      "68357cf46d966c2c14bde987"
+    ]
+  },
+  {
+    "Id": "68357cf66d966c2c14be1e2f",
+    "Name": "Shadowdancers",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Spear of Loec",
+        "Trickster's Blade",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cf66d966c2c14be1e37"
+    ]
+  },
+  {
+    "Id": "68357cf66d966c2c14be264e",
+    "Name": "Spellsinger",
+    "Attributes": {
+      "totalCost": "80",
+      "category": "Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Elven Steed",
+        "Warhawk",
+        "Great Eagle",
+        "Unicorn",
+        "Hand Weapon",
+        "Warhawk",
+        "Wicked Claws",
+        "Great Eagle",
+        "Serrated Maw"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8ece25bd-c047-4343-a039-8a27863e66e8",
+      "572407b2-9ca0-4c26-859a-87fc52a5477e",
+      "a9b5d279-6db3-42a8-bc3b-364b84a100bb",
+      "fb7605f5-784e-4af4-b779-07feaf643ca7",
+      "ead22df1-4aa8-4916-8729-c205d8b13946"
+    ],
+    "ProfileIds": [
+      "68357cf66d966c2c14be2656"
+    ]
+  },
+  {
+    "Id": "68357cf76d966c2c14be574c",
+    "Name": "Waystalkers",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Characters",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Asrai Longbow",
+        "Additional Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cf76d966c2c14be5754"
+    ]
+  },
+  {
+    "Id": "68357cf76d966c2c14be5f7f",
+    "Name": "Glade Riders",
+    "Attributes": {
+      "totalCost": "18",
+      "category": "Core",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Asrai Longbow",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Glade Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "11613ddd-117f-4bce-b3d1-d922b32a6c00",
+      "bd28c786-4c45-4dca-bad5-c554c7bc882f",
+      "2b8af646-b7ad-48ef-882a-cb445dfd164a"
+    ],
+    "ProfileIds": [
+      "68357cf76d966c2c14be5f82"
+    ]
+  },
+  {
+    "Id": "68357cf86d966c2c14be8093",
+    "Name": "Wild Riders",
+    "Attributes": {
+      "totalCost": "27",
+      "category": "Core",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Hunting Spear",
+        "Hand Weapon",
+        "Wild Hunter",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b95f8dca-aa00-4d3d-8b42-2381d051a0fe",
+      "6b2ee1ef-8d07-4d76-b93b-49da9fa50b02",
+      "9b60ef45-f1c3-4485-a10e-2a158f5a0c71"
+    ],
+    "ProfileIds": [
+      "68357cf86d966c2c14be809b"
+    ]
+  },
+  {
+    "Id": "68357cf96d966c2c14bea73f",
+    "Name": "Sisters Of The Thorn",
+    "Attributes": {
+      "totalCost": "24",
+      "category": "Special",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Blackbriar Javelines",
+        "Hand Weapon",
+        "Handmaiden of the Thorn",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8cbcd434-e2a3-4cc7-a386-414bf287f61a",
+      "1bdd995c-abd7-49ea-a7b2-c1e15043a4ea",
+      "9dd6bb2a-8a24-4d57-8aec-66c7bf557472"
+    ],
+    "ProfileIds": [
+      "68357cf96d966c2c14bea747"
+    ]
+  },
+  {
+    "Id": "68357cf96d966c2c14becdc3",
+    "Name": "Wardancers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Special",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Throwing Spear",
+        "Bladesinger",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f7795b25-fa4b-4205-9dd0-6451def3cfa5",
+      "4466f9c0-e273-4026-837c-d816343de7ea",
+      "c27dcf9e-9ba9-4533-a5e1-22f31ad0289a"
+    ],
+    "ProfileIds": [
+      "68357cf96d966c2c14becdc9"
+    ]
+  },
+  {
+    "Id": "68357cfa6d966c2c14befc68",
+    "Name": "Warhawk Riders",
+    "Attributes": {
+      "totalCost": "44",
+      "category": "Special",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Asrai Longbow",
+        "Hand Weapon",
+        "Warhawk",
+        "Wicked Claws",
+        "Cavalry Spear",
+        "Wind Rider",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "06744af7-6df4-43c5-a909-0bc24fb86dd5"
+    ],
+    "ProfileIds": [
+      "68357cfa6d966c2c14befc6b"
+    ]
+  },
+  {
+    "Id": "68357cfa6d966c2c14bf0cb8",
+    "Name": "Wild Riders",
+    "Attributes": {
+      "totalCost": "27",
+      "category": "Special",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Hunting Spear",
+        "Hand Weapon",
+        "Wild Hunter",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e6a81685-a3ac-4bee-bd83-b6bff2ec9365",
+      "98e0849a-e4b7-4643-95c9-54a87875d474",
+      "e538d4bc-e92d-4fb6-9f0b-0e30da558290"
+    ],
+    "ProfileIds": [
+      "68357cfa6d966c2c14bf0cbb"
+    ]
+  },
+  {
+    "Id": "68357cfb6d966c2c14bf3350",
+    "Name": "Wood Elf Beast Packs",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Special",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Hand Weapon",
+        "Hand Weapon",
+        "Hand Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cfb6d966c2c14bf3353"
+    ]
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf354c",
+    "Name": "Deepwood Scouts",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Rare",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Asrai Longbow",
+        "Lord's Bowman",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "eb8e4580-d08b-4bfe-acf1-3d1031add9e1",
+      "2d279d69-b067-4416-be81-95dd558bdb31",
+      "66429f88-5898-489d-9ad7-3f827e30745c"
+    ],
+    "ProfileIds": [
+      "68357cfc6d966c2c14bf354f"
+    ]
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf555c",
+    "Name": "Great Eagles",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Rare",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Eagle",
+        "Serrated Maw",
+        "Wicked Claws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cfc6d966c2c14bf5564"
+    ]
+  },
+  {
+    "Id": "68357cfc6d966c2c14bf571e",
+    "Name": "Waywatchers",
+    "Attributes": {
+      "totalCost": "16",
+      "category": "Rare",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Asrai Longbow",
+        "Sentinel",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "bf7972de-1434-43be-bb6c-896edd1b490d"
+    ],
+    "ProfileIds": [
+      "68357cfc6d966c2c14bf5723"
+    ]
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf6740",
+    "Name": "Wildwood Rangers",
+    "Attributes": {
+      "totalCost": "14",
+      "category": "Rare",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Hand Weapon",
+        "Ranger's Glaive",
+        "Wildwood Warden",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "dbba123e-c6f6-445d-9380-4d325a56267a",
+      "d5a62d45-7898-43ed-8f58-760020a0c512",
+      "b5de5074-3476-45ce-80b1-537455668039"
+    ],
+    "ProfileIds": [
+      "68357cfd6d966c2c14bf6743"
+    ]
+  },
+  {
+    "Id": "68357cfd6d966c2c14bf8da8",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "729fc13f-2275-4d8a-b641-5097b249d18b",
+      "2dff5c91-d52d-48d8-bcfc-b70767e0a830",
+      "b1825563-c112-49df-8d83-92e236fdd668"
+    ],
+    "ProfileIds": [
+      "68357cfd6d966c2c14bf8dc6"
+    ]
+  },
+  {
+    "Id": "68357cfe6d966c2c14bf9de7",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cfe6d966c2c14bf9df0"
+    ]
+  },
+  {
+    "Id": "68357cfe6d966c2c14bf9fa6",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357cfe6d966c2c14bf9fac"
+    ]
+  },
+  {
+    "Id": "68357cfe6d966c2c14bfa1b4",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "58e9f6fc-a9e3-4b75-bda7-2843c6a3ca36",
+      "73ee50a1-be58-412e-be2f-faf6ad77f89e"
+    ],
+    "ProfileIds": [
+      "68357cfe6d966c2c14bfa1ba"
+    ]
+  },
+  {
+    "Id": "68357cff6d966c2c14bfaa80",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "30594788-1c77-4151-80a1-acab913d339c"
+    ],
+    "ProfileIds": [
+      "68357cff6d966c2c14bfaa94"
+    ]
+  },
+  {
+    "Id": "68357cff6d966c2c14bfae5e",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d7a05a76-845a-471f-aa5f-944172282a26",
+      "d0bf69d6-3730-4f18-b5f1-8d637c319a29"
+    ],
+    "ProfileIds": [
+      "68357cff6d966c2c14bfae6a",
+      "68357cff6d966c2c14bfae73",
+      "68357cff6d966c2c14bfae7c",
+      "68357cff6d966c2c14bfae85"
+    ]
+  }
+]

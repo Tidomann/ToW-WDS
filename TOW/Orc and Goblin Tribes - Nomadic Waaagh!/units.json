@@ -1,0 +1,837 @@
+[
+  {
+    "Id": "68357be06d966c2c1483b6a9",
+    "Name": "Kiknik Toofsnatcha",
+    "Attributes": {
+      "totalCost": "105",
+      "category": "Named Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357be06d966c2c1483b6ad"
+    ]
+  },
+  {
+    "Id": "68357be06d966c2c1483b893",
+    "Name": "Ogdruz Swampdigga",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Named Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": []
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357be06d966c2c1483b897"
+    ]
+  },
+  {
+    "Id": "68357be06d966c2c1483ba69",
+    "Name": "Black Orc Bigboss",
+    "Attributes": {
+      "totalCost": "91",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Orc Boar Chariot",
+        "Black Orc Chariot",
+        "Tusks",
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Frenzy",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Battle Standard Bearer",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "82fc449e-307f-4be9-b851-cb8822c8489d",
+      "06c2a8c2-c766-42f1-8cdf-2037b5d423a2",
+      "68fc4908-4d49-4bcd-b8d2-3f7771888e95",
+      "9d63d340-c361-4e02-b643-d4e48e20faaa"
+    ],
+    "ProfileIds": [
+      "68357be06d966c2c1483ba6e"
+    ]
+  },
+  {
+    "Id": "68357be16d966c2c1483e2f7",
+    "Name": "Black Orc Warboss",
+    "Attributes": {
+      "totalCost": "151",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Orc Boar Chariot",
+        "Wyvern",
+        "Black Orc Chariot",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Tusks",
+        "Hand Weapon",
+        "Frenzy",
+        "Wyvern",
+        "Wicked claws",
+        "Venomous Tail",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ee26901b-44b5-4f80-a870-c8ecdbc163f6",
+      "a93e896a-4a27-4dd1-b84e-00a8dae74a14",
+      "1bf9769a-f50f-44b3-a4cc-2f12f3df1b28",
+      "964ced61-e056-4533-bc06-5e29ff0397fd",
+      "75112fb9-97ca-4661-99b1-e510afb9b1f8"
+    ],
+    "ProfileIds": [
+      "68357be16d966c2c1483e2fc"
+    ]
+  },
+  {
+    "Id": "68357be26d966c2c14840dbd",
+    "Name": "Goblin Bigboss",
+    "Attributes": {
+      "totalCost": "88",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Goblin Wolf Chariot",
+        "Gigantic Spider",
+        "Giant Wolf",
+        "Claws and fangs",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shortbow",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Battle Standard Bearer",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b9a0fa8c-7e98-499e-b5bc-1808582d5fb3",
+      "a8cd54fa-dbe8-49e8-9b7a-a93e8e77c995",
+      "f33786be-433a-4a70-a52e-894fda5054f5",
+      "d13a0e30-d335-4413-aa9c-fdd87122c370"
+    ],
+    "ProfileIds": [
+      "68357be26d966c2c14840dc0"
+    ]
+  },
+  {
+    "Id": "68357be36d966c2c148435a8",
+    "Name": "Goblin Oddgit",
+    "Attributes": {
+      "totalCost": "113",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Goblin Wolf Chariot",
+        "Giant Wolf",
+        "Claws and fangs",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shortbow",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b1879d45-64e4-4ceb-9aad-65776ff304d5",
+      "55dc33d8-ee11-4e57-829c-a7f64f4dc867",
+      "4320f1fc-b47b-4fe5-9755-58bba4d5fead"
+    ],
+    "ProfileIds": [
+      "68357be36d966c2c148435ab"
+    ]
+  },
+  {
+    "Id": "68357be46d966c2c14845239",
+    "Name": "Goblin Oddnob",
+    "Attributes": {
+      "totalCost": "188",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Goblin Wolf Chariot",
+        "Arachnarok Spider",
+        "Giant Wolf",
+        "Claws and fangs",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shortbow",
+        "Venom Surge",
+        "Spidersilk Lobber",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "23dc321a-c9d9-44e4-a0d9-4d2f44fc8aaf",
+      "553159cb-96ab-4448-a0fb-5960d6270ebc",
+      "38737837-5bb0-4625-97d5-99bdcd0da90a",
+      "946b0303-fe36-4fca-a341-126a6a9beb88"
+    ],
+    "ProfileIds": [
+      "68357be46d966c2c1484523c"
+    ]
+  },
+  {
+    "Id": "68357be56d966c2c1484791c",
+    "Name": "Goblin Warboss",
+    "Attributes": {
+      "totalCost": "113",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Goblin Wolf Chariot",
+        "Gigantic Spider",
+        "Giant Wolf",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Claws and fangs",
+        "Hand Weapon",
+        "Shortbow",
+        "Shield",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "342770f2-52b2-47cf-9463-af096806f4e7",
+      "32e0dd12-c932-4c7b-8073-49cd473f16a9",
+      "3a137b40-e1bf-4a28-8d58-12cf77e78b45",
+      "ea5dc860-67c5-4bda-882a-7db469eb02d9"
+    ],
+    "ProfileIds": [
+      "68357be56d966c2c1484791f"
+    ]
+  },
+  {
+    "Id": "68357be56d966c2c14849a7b",
+    "Name": "Orc Bigboss",
+    "Attributes": {
+      "totalCost": "71",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Orc Boar Chariot",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Tusks",
+        "Hand Weapon",
+        "Frenzy",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a61f624c-35be-49f9-b4d3-d7e3910579bc",
+      "e7981d6d-f0cb-4320-876e-dc0ed5db54f5",
+      "35354d22-b33a-4458-8d30-76fb2fafef7b"
+    ],
+    "ProfileIds": [
+      "68357be56d966c2c14849a7e"
+    ]
+  },
+  {
+    "Id": "68357be66d966c2c1484b89d",
+    "Name": "Orc Warboss",
+    "Attributes": {
+      "totalCost": "126",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Wyvern",
+        "Orc Boar Chariot",
+        "Tusks",
+        "Wyvern",
+        "Wicked claws",
+        "Venomous Tail",
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Frenzy",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "09a5ad76-e116-40a3-b4fb-91d59c96ba75",
+      "bbf50b9f-7c89-4cc0-b905-97fa765222d1",
+      "a5947b93-b996-4d64-bd54-8b3fcb21be72",
+      "7215c2d5-4baa-4353-af77-2cc8b4c7b34a"
+    ],
+    "ProfileIds": [
+      "68357be66d966c2c1484b8a7"
+    ]
+  },
+  {
+    "Id": "68357be76d966c2c1484da92",
+    "Name": "Orc Weirdboy",
+    "Attributes": {
+      "totalCost": "81",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Tusks",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d8400a57-fda2-4b8d-a160-845c364c17e7",
+      "115e56fc-21b3-4359-b1f0-fd61c701e0ff"
+    ],
+    "ProfileIds": [
+      "68357be76d966c2c1484da95"
+    ]
+  },
+  {
+    "Id": "68357be76d966c2c1484ed58",
+    "Name": "Orc Weirdnob",
+    "Attributes": {
+      "totalCost": "156",
+      "category": "Characters",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "War Boar",
+        "Wyvern",
+        "Tusks",
+        "Wyvern",
+        "Wicked claws",
+        "Venomous Tail",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c1c9a95d-25ba-4af5-b8af-027ed43a2b03",
+      "4b6e244a-b639-4f08-879a-7fc3f8821b88",
+      "a7763e90-1195-429b-8102-f688ee9620e8"
+    ],
+    "ProfileIds": [
+      "68357be76d966c2c1484ed62"
+    ]
+  },
+  {
+    "Id": "68357be86d966c2c148509b9",
+    "Name": "Black Orc Chariot",
+    "Attributes": {
+      "totalCost": "132",
+      "category": "Core",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "990560c4-34f6-4956-bf4f-c7226f81b829"
+    ],
+    "ProfileIds": [
+      "68357be86d966c2c148509c1"
+    ]
+  },
+  {
+    "Id": "68357be86d966c2c14850d88",
+    "Name": "Goblin Wolf Chariots",
+    "Attributes": {
+      "totalCost": "53",
+      "category": "Core",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Claws and fangs",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shortbow",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a1807a87-845d-4bb8-9cea-1a60fc56e58a"
+    ],
+    "ProfileIds": [
+      "68357be86d966c2c14850d91"
+    ]
+  },
+  {
+    "Id": "68357be96d966c2c14851198",
+    "Name": "Goblin Wolf Rider Mobs",
+    "Attributes": {
+      "totalCost": "10",
+      "category": "Core",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shortbow",
+        "Shield",
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Claws and fangs",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c0cc39cf-ffaa-45ab-8919-2228610ff39c",
+      "27df43d9-1f22-468b-aa73-c39f5e9c074f"
+    ],
+    "ProfileIds": [
+      "68357be96d966c2c1485119b"
+    ]
+  },
+  {
+    "Id": "68357be96d966c2c148519c8",
+    "Name": "Orc Boar Boy Mobs",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Core",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Frenzy",
+        "Hand Weapon",
+        "Tusks",
+        "Shield",
+        "Cavalry Spear",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "762ad5e4-ea27-4491-b60a-1f23b525bb0a",
+      "785f1cd0-4dc1-41ec-b21d-cd6fcbac341d"
+    ],
+    "ProfileIds": [
+      "68357be96d966c2c148519d0"
+    ]
+  },
+  {
+    "Id": "68357bea6d966c2c14853ac4",
+    "Name": "Orc Boar Boy Mobs",
+    "Attributes": {
+      "totalCost": "15",
+      "category": "Special",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Frenzy",
+        "Hand Weapon",
+        "Tusks",
+        "Shield",
+        "Cavalry Spear",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "830c7e35-26d2-45af-8609-2d6319e8f4e6",
+      "1f35e62e-d424-4903-9e37-0d9b3e5d370a"
+    ],
+    "ProfileIds": [
+      "68357bea6d966c2c14853ac7"
+    ]
+  },
+  {
+    "Id": "68357bea6d966c2c14855bac",
+    "Name": "Orc Boar Chariots",
+    "Attributes": {
+      "totalCost": "90",
+      "category": "Special",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cavalry Spear",
+        "Hand Weapon",
+        "Frenzy",
+        "Tusks"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bea6d966c2c14855baf"
+    ]
+  },
+  {
+    "Id": "68357bea6d966c2c14855d9f",
+    "Name": "Snotling Pump Wagons",
+    "Attributes": {
+      "totalCost": "35",
+      "category": "Special",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Light Chariot",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Throwing Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bea6d966c2c14855da2"
+    ]
+  },
+  {
+    "Id": "68357bea6d966c2c14855f5c",
+    "Name": "Black Orc Chariot",
+    "Attributes": {
+      "totalCost": "132",
+      "category": "Rare",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Standard Bearer"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "61d9bedd-f79d-44cc-9d1a-6e06a5d73280"
+    ],
+    "ProfileIds": [
+      "68357bea6d966c2c14855f5f"
+    ]
+  },
+  {
+    "Id": "68357beb6d966c2c14856321",
+    "Name": "Giants",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Rare",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Giant's Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357beb6d966c2c14856324"
+    ]
+  },
+  {
+    "Id": "68357beb6d966c2c148564d9",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c71ad355-b2a3-4d25-9428-5f50332a7164",
+      "56b1e0bb-3585-4fd5-90ef-00857c1799c4",
+      "93997fdb-a1df-4796-bd96-c301e4082333"
+    ],
+    "ProfileIds": [
+      "68357beb6d966c2c148564f7"
+    ]
+  },
+  {
+    "Id": "68357beb6d966c2c14857518",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357beb6d966c2c14857520"
+    ]
+  },
+  {
+    "Id": "68357beb6d966c2c148576d7",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357beb6d966c2c148576dd"
+    ]
+  },
+  {
+    "Id": "68357bec6d966c2c148578e5",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f90d810a-64a8-40b9-b1ed-5feb10d279df",
+      "6d528ba8-683b-4707-ba53-acd2649bfc39"
+    ],
+    "ProfileIds": [
+      "68357bec6d966c2c148578eb"
+    ]
+  },
+  {
+    "Id": "68357bec6d966c2c148581b1",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "6c07b78b-847f-4ee3-ae3d-95d261fd8071"
+    ],
+    "ProfileIds": [
+      "68357bec6d966c2c148581c5"
+    ]
+  },
+  {
+    "Id": "68357bec6d966c2c1485858f",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "7ac69d68-8704-4871-9911-7df2a8b7cffa",
+      "cf2384c3-f169-4738-8ac5-752447271eab"
+    ],
+    "ProfileIds": [
+      "68357bec6d966c2c1485859b",
+      "68357bec6d966c2c148585a4",
+      "68357bec6d966c2c148585ad",
+      "68357bec6d966c2c148585b6"
+    ]
+  }
+]

@@ -1,0 +1,5975 @@
+[
+  {
+    "Id": "68357c8c6d966c2c14ae44f1",
+    "Name": "Cairn Wraith",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6561-8029-dac3-162": "Ethereal",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "af7f-d19a-b801-c2f7": "Spectral Scythe"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cairn Wraith",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "2",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "af7f-d19a-b801-c2f7": "Spectral Scythe"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "ea33acd5-38a3-4739-bcd1-5dca2ec70815",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "325"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b3093f6c-a4e4-4aac-a296-8f4c4dcf512e",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "340"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "c3374ee1-322b-4cc6-9c3a-a5dcad4b4938",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "250"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "9a4a968e-559f-43b5-a696-61abee18dfe1",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "345"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "f61414ec-34ff-4d6d-bb43-4a59b091ffbe",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "146"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6b44e03a-06c8-454d-b246-e4d14af0eae6",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "144"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "7e02c104-b44f-4b55-8dc4-ab1f73cbb0c2",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "315"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c8c6d966c2c14ae4751",
+    "Name": "Master Necromancer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "f21c-26a3-f179-be43": "Dark Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master Necromancer",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "f21c-26a3-f179-be43": "Dark Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "131a5efd-8a0c-4047-9672-409b6da073ca",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "255"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "60698b86-cd9d-4286-8f51-e6402e8ac719",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "270"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "3cf17000-72c9-4eee-8c95-1a010b28dca6",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "180"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "4808616c-ba38-4701-af7c-7e8c5b57c934",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "275"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "6f3ac625-c1a0-4cb7-8918-42c31a9eb04c",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "76"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "3842846e-48a7-48b4-9f3a-36ad4ad8895a",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "74"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "c4f92596-5ea4-4c35-b2e3-c9422c63ea2b",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "245"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c8e6d966c2c14ae9c74",
+    "Name": "Necromantic Acolyte",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "9219-4a13-f83c-5ae1": "Invocation Of Nehek",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "f21c-26a3-f179-be43": "Dark Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Necromantic Acolyte",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f21c-26a3-f179-be43": "Dark Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "b4052441-72ed-4605-8ce5-61c15323aae8",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "340"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "476b-2146-c433-b229": "The Hunger",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "ef27a1e4-47e2-471e-8d45-7e26eb10e5b3",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "476b-2146-c433-b229": "The Hunger",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "f13efc4a-f6f1-49ac-85ce-e2ab3d9b779b",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "265"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "476b-2146-c433-b229": "The Hunger",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "9fd89ebb-4216-466a-88d8-ad1f7b051979",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "360"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "476b-2146-c433-b229": "The Hunger",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "e8cfcfe9-2130-4385-8c0f-b64c8e27f36d",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "161"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "476b-2146-c433-b229": "The Hunger",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "fb08cb94-3922-4c13-acc3-7398b8c294d2",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "159"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "476b-2146-c433-b229": "The Hunger",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "494927f7-5ace-430f-bce3-99074a631bba",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "330"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "476b-2146-c433-b229": "The Hunger",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c906d966c2c14aef181",
+    "Name": "Strigoi Ghoul King",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "f4b3-18af-16bf-78dd": "Hatred (all enemies)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "476b-2146-c433-b229": "The Hunger",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Strigoi Ghoul King",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "3",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "7",
+          "A": "5",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c926d966c2c14af3d99",
+    "Name": "Tomb Banshee",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6561-8029-dac3-162": "Ethereal",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tomb Banshee",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "91501c81-fb77-49be-9a6c-3353bade4dee",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "355"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "0164b042-f403-407e-9ea3-26a068883fbf",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "370"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "859ec0a9-3ef1-4c0c-a8c9-eee888ecd670",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "280"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b0e9c0d6-107c-4ba0-9261-85c22d464f49",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "375"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "5e73f892-47f8-4d1d-b129-b2dab9549fd3",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "176"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "662b1d31-78de-420b-8730-95596dac4e85",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "174"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "45becf42-389c-4970-84f8-47750328d031",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "345"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "2368-87b7-7d34-5a": "Infested",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c926d966c2c14af3ffa",
+    "Name": "Vampire Count",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (2)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vampire Count",
+        "Values": {
+          "M": "6",
+          "WS": "7",
+          "BS": "5",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "6",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "75c53789-67a5-47bb-bfc5-3e7ab8e2c50a",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "270"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "b3452737-f7ce-4479-b5f3-45ad2a354fd8",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "285"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "fd0fea21-e6b9-446a-815e-b28df277d483",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "195"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "562ec4f4-cbbd-4e49-8773-0c8e4b9b03a6",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "290"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "961af24e-075a-4ed1-b8cd-2b2108a05ba3",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "91"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "7fc55581-0ccf-48ae-aa66-dbec730ea806",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "89"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "2250aace-83b8-4c90-8063-635bc85b7353",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "260"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c946d966c2c14af8d3d",
+    "Name": "Vampire Thrall",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9995-d057-e81e-db89": "Banner Of The Count",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vampire Thrall",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "4",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "5",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5b5f-acf0-7c9-33b5": "Lore of Undeath"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "47829301-958c-47f1-b242-9635dd0eb716",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "280"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "d9232478-339d-4261-95c9-abfd893164df",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "295"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "22ed141e-aca3-4039-a1ba-fbb6e0b43f43",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "205"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "4bbde1fa-efda-4965-b622-e8fb87f42f43",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "300"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "b1b2fa6a-4639-49db-ae44-78917209e5e1",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "101"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "a5ff6412-b9f5-4e40-831c-2ab18daddc6e",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "99"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "785a-2886-af42-dce9": "First Charge",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "751099f5-45d1-485c-8330-3e1220522f9a",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "270"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c966d966c2c14afe774",
+    "Name": "Wight King",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wight King",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6cbef203-a884-47db-896a-ef1732808406",
+    "Name": "Mortis Engine",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "235"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8a35-7450-44ac-b4ab": "Accursed Reliquary",
+      "325f-b9d3-e13c-452e": "Blasphemous Tome",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Mortis Engine",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Banshees",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "63f42a96-d363-4475-805d-86b2d62f1823",
+    "Name": "Coven Throne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "250"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd76-139a-4a2b-605b": "Coven Throne Bound Spell",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "fe97-12b2-dec1-4ed8": "Ghoulish Glamour",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (Spirit Horde only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "8956-9484-4d5f-abad": "Coven Throne",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "3520-64c9-a855-ce9e": "Lance"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Coven Throne",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+5)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "8956-9484-4d5f-abad": "Coven Throne"
+        }
+      },
+      {
+        "Name": "Pallid Handmaidens",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spirit Horde",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "3520-64c9-a855-ce9e": "Lance"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "558e6842-ecc3-493f-87bd-5db5c87af76a",
+    "Name": "Abyssal Terror",
+    "Attributes": {
+      "type": "Monstrous Creature",
+      "height": "Standard",
+      "totalcost": "160"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "a668-f95-891-63b6": "Poisonous Tail",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Abyssal Terror",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "a668-f95-891-63b6": "Poisonous Tail",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "afe477f4-ddf5-4724-ab91-c98a582e2557",
+    "Name": "Zombie Dragon",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "255"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "68-fd83-be63-86de": "Carrion Feeders",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "9a1d-38b0-7d7-7552": "Full Plate Armour",
+      "b25b-7a46-6c0-f432": "Pestilential Breath",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie Dragon",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "-",
+          "S": "6",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "2",
+          "A": "5",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "b25b-7a46-6c0-f432": "Pestilential Breath",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "b561a64b-8381-4d26-bd06-8c5f518ca7b6",
+    "Name": "Nightmare",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "56"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "8a152a78-23cb-443e-841b-1b95ee91c6a6",
+    "Name": "Skeletal Steed",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "54"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "785a-2886-af42-dce9": "First Charge",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "1f6699ef-b123-4b17-9040-df82f2122702",
+    "Name": "Terrorgheist",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "225"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+5)",
+          "I": "3",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c986d966c2c14b0344f",
+    "Name": "Wight Lord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "860b-e13a-4710-9bf0": "Killing Blow",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d9a-a7c4-e899-727a": "Wight Banner",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wight Lord",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c996d966c2c14b08df5",
+    "Name": "Bat Swarm",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "c557-6102-9a35-bbcd": "Fly (7)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bat Swarm",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "0",
+          "S": "2",
+          "T": "2",
+          "W": "5",
+          "I": "4",
+          "A": "5",
+          "Ld": "3"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9a6d966c2c14b09abc",
+    "Name": "Hell Knight (Black Knight)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow (Black Knights & Hell Knight only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hell Knight",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c9a6d966c2c14b09054",
+    "Name": "Black Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow (Black Knights & Hell Knight only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Knight",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c9a6d966c2c14b0bc30",
+    "Name": "Crypt Ghast (Crypt Ghoul)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crypt Ghast",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "3",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9a6d966c2c14b0b9cb",
+    "Name": "Crypt Ghoul",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crypt Ghoul",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0c0f0",
+    "Name": "Doom Wolf (Dire Wolf)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "3d49-5f35-1a3-51e9": "Slavering Charge",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doom Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "3"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0be89",
+    "Name": "Dire Wolf",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "3d49-5f35-1a3-51e9": "Slavering Charge",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dire Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "3"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0cda3",
+    "Name": "Seneschal (Grave Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seneschal",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9b6d966c2c14b0c34e",
+    "Name": "Grave Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Grave Guard",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0ef0b",
+    "Name": "Skeleton Champion (Skeleton Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Champion",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0ec81",
+    "Name": "Skeleton Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skeleton Warrior",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0f689",
+    "Name": "Zombie",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "4176-fb21-2d35-b9c9": "The Newly Dead",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Zombie",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "1",
+          "A": "1",
+          "Ld": "2"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9c6d966c2c14b1081f",
+    "Name": "Hell Knight (Black Knight)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow (Black Knights & Hell Knight only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hell Knight",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c9c6d966c2c14b0fdb7",
+    "Name": "Black Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow (Black Knights & Hell Knight only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Knight",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c9d6d966c2c14b1272f",
+    "Name": "Corpse Cart",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1e33-db54-cb98-d68b": "Balefire Brazier",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "790b-ac72-a11e-cdbf": "Lore Of Undeath",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "1b08-4621-6379-ff1f": "Random Attacks (The Restless Dead only)",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "73ed-43a8-8ea9-59d1": "Necromancy",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Corpse Cart",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "73ed-43a8-8ea9-59d1": "Necromancy"
+        }
+      },
+      {
+        "Name": "Corpsemaster",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "73ed-43a8-8ea9-59d1": "Necromancy"
+        }
+      },
+      {
+        "Name": "The Restless Dead",
+        "Values": {
+          "M": "4",
+          "WS": "1",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "1",
+          "A": "2D6",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c9d6d966c2c14b12c3b",
+    "Name": "Crypt Haunter (Crypt Horror)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "a570-53-8c8b-96a": "Filth-encrusted Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crypt Haunter",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "a570-53-8c8b-96a": "Filth-encrusted Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9d6d966c2c14b129d6",
+    "Name": "Crypt Horror",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "a570-53-8c8b-96a": "Filth-encrusted Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crypt Horror",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "a570-53-8c8b-96a": "Filth-encrusted Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9d6d966c2c14b12e9c",
+    "Name": "Fell Bat",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Fell Bat",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "3"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9e6d966c2c14b13b50",
+    "Name": "Seneschal (Grave Guard)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seneschal",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9e6d966c2c14b130fb",
+    "Name": "Grave Guard",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "1947-af53-7f07-815f": "Cleaving Blow",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Grave Guard",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c9e6d966c2c14b15a33",
+    "Name": "Spirit Host",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "90f0-98df-b9e9-934a": "Bound Spirits",
+      "6561-8029-dac3-162": "Ethereal",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Spirit Host",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "4",
+          "I": "1",
+          "A": "4",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9e6d966c2c14b15c91",
+    "Name": "Terrorgheist",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "6",
+          "W": "6",
+          "I": "3",
+          "A": "4",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357c9f6d966c2c14b1616b",
+    "Name": "Vargoyle (Vargheist)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vargoyle",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9f6d966c2c14b15f07",
+    "Name": "Vargheist",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vargheist",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357c9f6d966c2c14b163c9",
+    "Name": "Black Coach",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "f588-1484-90ea-8362": "Spectral Coach",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "e099-1ebb-9e85-34c8": "Armour Value :  3+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "af7f-d19a-b801-c2f7": "Spectral Scythe"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Black Coach",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "6",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  3+"
+        }
+      },
+      {
+        "Name": "Nightmares",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Wraith",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "af7f-d19a-b801-c2f7": "Spectral Scythe"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357c9f6d966c2c14b170cb",
+    "Name": "Kastellan (Blood Knight)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "238e-4e22-63f-9042": "Accursed Weapons",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "5148-5edf-9137-322e": "Martial Pride",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Kastellan",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357c9f6d966c2c14b16635",
+    "Name": "Blood Knight",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "238e-4e22-63f-9042": "Accursed Weapons",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "785a-2886-af42-dce9": "First Charge",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "5148-5edf-9137-322e": "Martial Pride",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3520-64c9-a855-ce9e": "Lance",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Blood Knight",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3520-64c9-a855-ce9e": "Lance",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Nightmare",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357ca06d966c2c14b192c5",
+    "Name": "Hellwraith (Hexwraith)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6561-8029-dac3-162": "Ethereal",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "4f87-5014-bbe7-2d13": "Spectral Reapers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hellwraith",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spectral Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357ca06d966c2c14b1904a",
+    "Name": "Hexwraith",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6561-8029-dac3-162": "Ethereal",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "2125-6aa2-f782-42bf": "Magical Attacks",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "5b67-8535-146c-7cea": "Open Order",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "4f87-5014-bbe7-2d13": "Spectral Reapers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hexwraith",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Spectral Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357ca06d966c2c14b19530",
+    "Name": "Terrorgheist",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "2368-87b7-7d34-5a": "Infested",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "522d-e0c9-a174-ca95": "Wailing Dirge",
+      "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "9988-6c6d-15ba-ca4a": "Rancid maw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Terrorgheist",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "6",
+          "W": "6",
+          "I": "3",
+          "A": "4",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "e93a-8c45-a0c0-f81e": "Filth-encrusted Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "9988-6c6d-15ba-ca4a": "Rancid maw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357ca06d966c2c14b19a08",
+    "Name": "Vargoyle (Vargheist)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vargoyle",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca06d966c2c14b197a5",
+    "Name": "Vargheist",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Vargheist",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca16d966c2c14b19c6a",
+    "Name": "Varghulf",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "9015-2214-a000-7398": "Bestial Fury",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "4190-a061-b7dc-3712": "Dark Vitality",
+      "8f64-6d4c-466b-1b94": "Flammable",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78b6-d212-caa2-cef1": "Indomitable (1)",
+      "a6ee-a62b-1579-2c37": "Necromantic Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "a952-5825-e8b9-bd43": "Wicked Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Varghulf",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "4",
+          "A": "4",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "a952-5825-e8b9-bd43": "Wicked Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357ca16d966c2c14b1a4da",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca16d966c2c14b19ee6",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca16d966c2c14b1b1b0",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357ca26d966c2c14b1b414",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357ca26d966c2c14b1b6ca",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357ca26d966c2c14b1c4e7",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca26d966c2c14b1c244",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357ca36d966c2c14b1c76a",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357ca36d966c2c14b1c773",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357ca36d966c2c14b1c77c",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357ca36d966c2c14b1c785",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

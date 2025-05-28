@@ -1,0 +1,4746 @@
+[
+  {
+    "Id": "68357b176d966c2c1460f0b0",
+    "Name": "Bloodthirster",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c883-e46f-ba0f-c6be": "Daemonic Charge",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "98b5-10aa-d591-14fa": "Bloodflail",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodthirster",
+        "Values": {
+          "M": "8",
+          "WS": "10",
+          "BS": "5",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "7",
+          "A": "6",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "98b5-10aa-d591-14fa": "Bloodflail",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460f422",
+    "Name": "Daemon Prince",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5318-b7f2-609d-d783": "Chaos Armour",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e054-df59-ce35-eff8": "Infernal Favour (2)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "525f-ed7f-9ed6-b396": "Ensorcelled weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "98c1-602-e06e-18ee": "Lore of Daemons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Daemon Prince",
+        "Values": {
+          "M": "6",
+          "WS": "7",
+          "BS": "5",
+          "S": "6",
+          "T": "5",
+          "W": "4",
+          "I": "7",
+          "A": "5",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "525f-ed7f-9ed6-b396": "Ensorcelled weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b176d966c2c1460f7a9",
+    "Name": "Great Unclean One",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "e054-df59-ce35-eff8": "Infernal Favour (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "98c1-602-e06e-18ee": "Lore of Daemons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Unclean One",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "3",
+          "S": "6",
+          "T": "7",
+          "W": "7",
+          "I": "4",
+          "A": "5",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6d44d0f8-22fc-4bb1-9d66-c6ec2e58c7df",
+    "Name": "Juggernaut of Khorne",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "130"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Juggernaut of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "(+1)",
+          "W": "(+1)",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "14e69227-a55d-43e6-b3e8-89ed52f0bdb3",
+    "Name": "Blood Throne Of Khorne",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "240"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "6147-fbe4-65ce-b1aa": "Gorefeast",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "ea6e-e58b-8b41-3cc1": "Totem Of Endless Bloodletting",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8016-ac95-6de-d431": "Hellblade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Blood Throne Of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bloodletter Crew",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b186d966c2c1460fb3d",
+    "Name": "Herald of Khorne",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herald of Khorne",
+        "Values": {
+          "M": "5",
+          "WS": "7",
+          "BS": "4",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "6",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "23ad48f4-28c9-4471-b5f4-7fa3be0d7426",
+    "Name": "Palanquin of Nurgle",
+    "Attributes": {
+      "type": "Monstrous Cavalry",
+      "height": "Standard",
+      "totalcost": "135"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Palanquin of Nurgle",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "(+4)",
+          "I": "3",
+          "A": "D6+1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b186d966c2c146105ec",
+    "Name": "Herald of Nurgle",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "98c1-602-e06e-18ee": "Lore of Daemons",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herald of Nurgle",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "5",
+          "S": "5",
+          "T": "5",
+          "W": "2",
+          "I": "4",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98c1-602-e06e-18ee": "Lore of Daemons",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "f87bc1a0-c39a-4541-bcdf-6fcdfb7daab0",
+    "Name": "Steed of Slaanesh",
+    "Attributes": {
+      "type": "Light Cavalry",
+      "height": "Standard",
+      "totalcost": "101"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "78c217c4-899b-48b1-a608-21aaf4e349b2",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Attributes": {
+      "type": "Light Chariot",
+      "height": "Standard",
+      "totalcost": "185"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seeker Chariot Of Slaanesh",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "4841039a-19af-446e-aab2-e89d077ec9f8",
+    "Name": "Exalted Seeker Chariot Of Slaanesh",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "270"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Exalted Seeker Chariot Of Slaanesh",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+6)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357b186d966c2c14610d04",
+    "Name": "Herald of Slaanesh",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "98c1-602-e06e-18ee": "Lore of Daemons",
+      "c8e7-6704-893f-4b1b": "Piercing Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herald of Slaanesh",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "4",
+          "S": "4",
+          "T": "3",
+          "W": "2",
+          "I": "6",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98c1-602-e06e-18ee": "Lore of Daemons",
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6f03878b-97f7-435d-907b-4f80b0fedc60",
+    "Name": "Disc of Tzeentch",
+    "Attributes": {
+      "type": "",
+      "height": "Standard",
+      "totalcost": "110"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Disc of Tzeentch",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "2a3a48b8-9a61-4fde-b8b2-1fddaaa8de86",
+    "Name": "Chariot of Tzeentch",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "180"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "7e93-87bf-dd40-d67f": "Slashing Attack (Screamers only)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chariot of Tzeentch",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+"
+        }
+      },
+      {
+        "Name": "Screamer",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "942e0db1-a980-4501-9e60-3b89821709ec",
+    "Name": "Burning Chariot of Tzeentch",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "280"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "7e93-87bf-dd40-d67f": "Slashing Attack (Screamers only)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "256b-6a1-239c-178e": "Daemonology",
+      "98c1-602-e06e-18ee": "Lore of Daemons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame",
+      "ec59-a4dd-928c-f154": "Lamprey’s Bite",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Burning Chariot of Tzeentch",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "256b-6a1-239c-178e": "Daemonology",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      },
+      {
+        "Name": "Exalted Flamer",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "5",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "98c1-602-e06e-18ee": "Lore of Daemons",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      },
+      {
+        "Name": "Screamer",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+        }
+      },
+      {
+        "Name": "Blue Horror Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b196d966c2c14611bcb",
+    "Name": "Herald of Tzeentch",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "98c1-602-e06e-18ee": "Lore of Daemons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herald of Tzeentch",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b196d966c2c14612c8f",
+    "Name": "Keeper of Secrets",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "e054-df59-ce35-eff8": "Infernal Favour (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "256b-6a1-239c-178e": "Daemonology",
+      "b5de-11a2-d4dc-8530": "Impaling claws",
+      "98c1-602-e06e-18ee": "Lore of Daemons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Keeper of Secrets",
+        "Values": {
+          "M": "8",
+          "WS": "7",
+          "BS": "6",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "7",
+          "A": "6",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "b5de-11a2-d4dc-8530": "Impaling claws",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b196d966c2c14613011",
+    "Name": "Lord of Change",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (2)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "98c1-602-e06e-18ee": "Lore of Daemons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lord of Change",
+        "Values": {
+          "M": "6",
+          "WS": "6",
+          "BS": "6",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "6",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c146136ff",
+    "Name": "Bloodreaper (Bloodletter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodreaper",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c1461339e",
+    "Name": "Bloodletter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodletter",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c14614431",
+    "Name": "Ectoplasmic Horror (Blue Horror)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ectoplasmic Horror",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c14614105",
+    "Name": "Blue Horror",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Blue Horror",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c1461474f",
+    "Name": "Brimstone Horrors",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Brimstone Horrors",
+        "Values": {
+          "M": "5",
+          "WS": "2",
+          "BS": "2",
+          "S": "2",
+          "T": "3",
+          "W": "6",
+          "I": "2",
+          "A": "4",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c14614a6c",
+    "Name": "Chaos Fury",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "7046-2e99-b93-c148": "Daemonic talons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Fury",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "7046-2e99-b93-c148": "Daemonic talons"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c146150f1",
+    "Name": "Alluress (Daemonette)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c8e7-6704-893f-4b1b": "Piercing Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Alluress",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1a6d966c2c14614d96",
+    "Name": "Daemonette",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "c8e7-6704-893f-4b1b": "Piercing Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Daemonette",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c14615ae9",
+    "Name": "Flesh Hound",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Flesh Hound",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c14615e11",
+    "Name": "Nurglings",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nurglings",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "0",
+          "S": "2",
+          "T": "3",
+          "W": "7",
+          "I": "2",
+          "A": "D3+1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c1461648e",
+    "Name": "Iridescent Horror (Pink Horror)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "348-20e6-3e31-17fa": "Scintillating Sorcery",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Iridescent Horror",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c1461612d",
+    "Name": "Pink Horror",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "348-20e6-3e31-17fa": "Scintillating Sorcery",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pink Horror",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c146171f0",
+    "Name": "Plagueridden (Plaguebearer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plagueridden",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1b6d966c2c14616e95",
+    "Name": "Plaguebearer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plaguebearer",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14617f4d",
+    "Name": "Heartseeker (Seeker)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Heartseeker",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14617be8",
+    "Name": "Seeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seeker",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14618961",
+    "Name": "Beast of Nurgle",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e74d-de46-99dc-cf8e": "Attention Seeker",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "d480-9ae7-cc51-f294": "Slime Trail",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "6468-50c6-9b68-c662": "Writhing tentacles"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Beast of Nurgle",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "4",
+          "I": "2",
+          "A": "D6+1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "6468-50c6-9b68-c662": "Writhing tentacles"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14618ff4",
+    "Name": "Bloodreaper (Bloodletter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodreaper",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Juggernaut of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14618c82",
+    "Name": "Bloodletter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodletter",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Juggernaut of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c14619d89",
+    "Name": "Bloodreaper (Bloodletter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodreaper",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1c6d966c2c14619a29",
+    "Name": "Bloodletter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodletter",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461aab7",
+    "Name": "Ectoplasmic Horror (Blue Horror)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ectoplasmic Horror",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461a78c",
+    "Name": "Blue Horror",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Blue Horror",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461add4",
+    "Name": "Brimstone Horrors",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Brimstone Horrors",
+        "Values": {
+          "M": "5",
+          "WS": "2",
+          "BS": "2",
+          "S": "2",
+          "T": "3",
+          "W": "6",
+          "I": "2",
+          "A": "4",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461b448",
+    "Name": "Alluress (Daemonette)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c8e7-6704-893f-4b1b": "Piercing Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Alluress",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461b0ee",
+    "Name": "Daemonette",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "c8e7-6704-893f-4b1b": "Piercing Claws"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Daemonette",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b1d6d966c2c1461be3f",
+    "Name": "Fiend of Slaanesh",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "591b-9c1d-b844-166f": "Soporific Musk",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "c2dd-e3b2-645e-f01b": "Venomous tail"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Fiend of Slaanesh",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "6",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws",
+          "c2dd-e3b2-645e-f01b": "Venomous tail"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461c4e2",
+    "Name": "Pyroclaster",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1, Exalted Flamer only)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons (Exalted Flamer only)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pyroclaster",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461c4e2e",
+    "Name": "Exalted Flamer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1, Exalted Flamer only)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons (Exalted Flamer only)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Exalted Flamer",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461c15f",
+    "Name": "Flamer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1, Exalted Flamer only)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons (Exalted Flamer only)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Flamer",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461c84c",
+    "Name": "Flesh Hound",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Flesh Hound",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461cb75",
+    "Name": "Hellflayer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2D6+1)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hellflayer",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+"
+        }
+      },
+      {
+        "Name": "Exalted Alluress",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461ceaa",
+    "Name": "Nurglings",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Nurglings",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "0",
+          "S": "2",
+          "T": "3",
+          "W": "7",
+          "I": "2",
+          "A": "D3+1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461d525",
+    "Name": "Iridescent Horror (Pink Horror)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "348-20e6-3e31-17fa": "Scintillating Sorcery",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Iridescent Horror",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1e6d966c2c1461d1c5",
+    "Name": "Pink Horror",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "348-20e6-3e31-17fa": "Scintillating Sorcery",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pink Horror",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461e29d",
+    "Name": "Plagueridden (Plaguebearer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Rot Fly only)",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c9e2-68ca-3b19-c513": "Death’s Heads",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plagueridden",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c9e2-68ca-3b19-c513": "Death’s Heads",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      },
+      {
+        "Name": "Rot Fly",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461df2a",
+    "Name": "Plaguebearer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Rot Fly only)",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c9e2-68ca-3b19-c513": "Death’s Heads",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plaguebearer",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c9e2-68ca-3b19-c513": "Death’s Heads",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      },
+      {
+        "Name": "Rot Fly",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461f02f",
+    "Name": "Plagueridden (Plaguebearer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plagueridden",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461ecd5",
+    "Name": "Plaguebearer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plaguebearer",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b1f6d966c2c1461fa26",
+    "Name": "Screamer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "7e93-87bf-dd40-d67f": "Slashing Attack",
+      "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Screamer",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c1461fd41",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seeker Chariot Of Slaanesh",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c146203d1",
+    "Name": "Heartseeker (Seeker)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Heartseeker",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c1462006d",
+    "Name": "Seeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seeker",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c14620de2",
+    "Name": "Beast of Nurgle",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e74d-de46-99dc-cf8e": "Attention Seeker",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e054-df59-ce35-eff8": "Infernal Favour (1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "d480-9ae7-cc51-f294": "Slime Trail",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "6468-50c6-9b68-c662": "Writhing tentacles"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Beast of Nurgle",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "4",
+          "I": "2",
+          "A": "D6+1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "6468-50c6-9b68-c662": "Writhing tentacles"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c14621473",
+    "Name": "Bloodreaper (Bloodletter)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodreaper",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Juggernaut of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b206d966c2c14621102",
+    "Name": "Bloodletter",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "8016-ac95-6de-d431": "Hellblade",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bloodletter",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "Juggernaut of Khorne",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "a2d4-a8c-aaf6-c326": "Brass bound hooves"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c14621ea5",
+    "Name": "Burning Chariot Of Tzeentch",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons",
+      "7e93-87bf-dd40-d67f": "Slashing Attack (Screamers only)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "256b-6a1-239c-178e": "Daemonology",
+      "98c1-602-e06e-18ee": "Lore of Daemons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame",
+      "ec59-a4dd-928c-f154": "Lamprey’s Bite",
+      "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Burning Chariot of Tzeentch",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "256b-6a1-239c-178e": "Daemonology",
+          "98c1-602-e06e-18ee": "Lore of Daemons"
+        }
+      },
+      {
+        "Name": "Exalted Flamer",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "5",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "98c1-602-e06e-18ee": "Lore of Daemons",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      },
+      {
+        "Name": "Screamer",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+        }
+      },
+      {
+        "Name": "Blue Horror Crew",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "f2f0-ceb6-ef2d-ee82": "Flames Of Tzeentch",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c14622242",
+    "Name": "Fiend of Slaanesh",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "591b-9c1d-b844-166f": "Soporific Musk",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "c2dd-e3b2-645e-f01b": "Venomous tail"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Fiend of Slaanesh",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "6",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws",
+          "c2dd-e3b2-645e-f01b": "Venomous tail"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c146228e3",
+    "Name": "Pyroclaster (Flamer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1, Exalted Flamer only)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons (Exalted Flamer only)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Pyroclaster",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c14622561",
+    "Name": "Flamer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "e45d-952-f679-ae2c": "Flaming Attacks",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "e054-df59-ce35-eff8": "Infernal Favour (1, Exalted Flamer only)",
+      "f761-a20c-f2ba-8fc9": "Lore Of Daemons (Exalted Flamer only)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "57c6-6df1-cb73-c9fb": "Warpflame"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Flamer",
+        "Values": {
+          "M": "6",
+          "WS": "2",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "57c6-6df1-cb73-c9fb": "Warpflame"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c14622c4d",
+    "Name": "Hellflayer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (2D6+1)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Hellflayer",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+"
+        }
+      },
+      {
+        "Name": "Exalted Alluress",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c146232f3",
+    "Name": "Plagueridden (Plaguebearer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Rot Fly only)",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "c9e2-68ca-3b19-c513": "Death’s Heads",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plagueridden",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "c9e2-68ca-3b19-c513": "Death’s Heads",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      },
+      {
+        "Name": "Rot Fly",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b216d966c2c14622f82",
+    "Name": "Plaguebearer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2, Rot Fly only)",
+      "5bc7-74c0-b56a-457d": "Daemon of Nurgle",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Tzeentch)",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c9e2-68ca-3b19-c513": "Death’s Heads",
+      "30ee-6b4e-90f8-8e8d": "Plaguesword",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Plaguebearer",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c9e2-68ca-3b19-c513": "Death’s Heads",
+          "30ee-6b4e-90f8-8e8d": "Plaguesword"
+        }
+      },
+      {
+        "Name": "Rot Fly",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "68357b226d966c2c14623d27",
+    "Name": "Screamer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e96e-7433-355b-34bc": "Daemon of Tzeentch",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Nurgle)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "7e93-87bf-dd40-d67f": "Slashing Attack",
+      "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Screamer",
+        "Values": {
+          "M": "1",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ec59-a4dd-928c-f154": "Lamprey’s Bite"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357b226d966c2c14624041",
+    "Name": "Seeker Chariot Of Slaanesh",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Steed of Slaanesh only)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "3341-9239-4961-e8ce": "Daemon of Slaanesh",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Khorne)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks (Steed of Slaanesh only)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "e099-1ebb-9e85-34c8": "Armour Value :  5+",
+      "c8e7-6704-893f-4b1b": "Piercing Claws",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Seeker Chariot Of Slaanesh",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  5+"
+        }
+      },
+      {
+        "Name": "Daemonette Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "c8e7-6704-893f-4b1b": "Piercing Claws"
+        }
+      },
+      {
+        "Name": "Steed of Slaanesh",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "5",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b226d966c2c14624372",
+    "Name": "Skull Cannon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "99b8-490b-fb62-c2b5": "Brazen Wheels",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5683-c92c-2137-7db0": "Daemon of Khorne",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "785a-2886-af42-dce9": "First Charge",
+      "f4b3-18af-16bf-78dd": "Hatred (Daemons of Slaanesh)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+      "7cd6-d329-ea50-6d9a": "Cannon of Khorne -  Scatter shot",
+      "f0f4-6d93-2765-627c": "Cannon of Khorne -  Solid shot",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8016-ac95-6de-d431": "Hellblade"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skull Cannon",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "2",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value :  4+",
+          "7cd6-d329-ea50-6d9a": "Cannon of Khorne -  Scatter shot",
+          "f0f4-6d93-2765-627c": "Cannon of Khorne -  Solid shot",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bloodletter Crew",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "8016-ac95-6de-d431": "Hellblade"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b226d966c2c146246a2",
+    "Name": "Soul Grinder",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "755a-790d-9ba0-fdd5": "Daemonic",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "89ae-9660-ecf4-35cf": "Harvester cannon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "acee-e9b9-7db8-e2df": "Iron claw"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Soul Grinder",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "3",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "3",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "89ae-9660-ecf4-35cf": "Harvester cannon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "acee-e9b9-7db8-e2df": "Iron claw"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "68357b236d966c2c146250b2",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b226d966c2c14624a00",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b236d966c2c14625fc2",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "68357b236d966c2c146262e4",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b236d966c2c14626658",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c1462782b",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b236d966c2c146274ca",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c14627b6c",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c14627b75",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c14627b7e",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357b246d966c2c14627b87",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

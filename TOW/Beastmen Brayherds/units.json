@@ -1,0 +1,1074 @@
+[
+  {
+    "Id": "68357afd6d966c2c145c384b",
+    "Name": "Beastlord",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Tuskgor Chariot",
+        "Razorgor Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a6548813-3b87-4ed7-9c41-73cf72aefecd",
+      "b051c0d2-0380-4eaf-a51e-a4a428162f37",
+      "c8164f8e-53f5-4778-875e-b8b542e1bf04"
+    ],
+    "ProfileIds": [
+      "68357afd6d966c2c145c3850"
+    ]
+  },
+  {
+    "Id": "68357afe6d966c2c145c5446",
+    "Name": "Bray-Shaman",
+    "Attributes": {
+      "totalCost": "65",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Tuskgor Chariot",
+        "Razorgor Chariot",
+        "Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1d2bd4e8-62a6-430e-833c-9838790fd8e6",
+      "f0c46fa2-aafc-4a67-8d8f-d21091f20095",
+      "5723038e-487b-44e0-840b-c9bf72562d01"
+    ],
+    "ProfileIds": [
+      "68357afe6d966c2c145c5449"
+    ]
+  },
+  {
+    "Id": "68357aff6d966c2c145c73e3",
+    "Name": "Centigor Chieftain",
+    "Attributes": {
+      "totalCost": "75",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cavalry Spear",
+        "Great Weapon",
+        "Javelin",
+        "Throwing Axe",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357aff6d966c2c145c73e6"
+    ]
+  },
+  {
+    "Id": "68357aff6d966c2c145c7cc9",
+    "Name": "Doombull",
+    "Attributes": {
+      "totalCost": "210",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357aff6d966c2c145c7cce"
+    ]
+  },
+  {
+    "Id": "68357aff6d966c2c145c8599",
+    "Name": "Gorebull",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357aff6d966c2c145c859c"
+    ]
+  },
+  {
+    "Id": "68357aff6d966c2c145c8e67",
+    "Name": "Great Bray-Shaman",
+    "Attributes": {
+      "totalCost": "150",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Tuskgor Chariot",
+        "Razorgor Chariot",
+        "Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "61b57029-c4e7-4652-9fae-631b000da266",
+      "73c591b6-b090-4b59-bedb-186ea7fe6376",
+      "0805b357-78ab-4a6c-8a27-83d046ca33ef"
+    ],
+    "ProfileIds": [
+      "68357aff6d966c2c145c8e6e"
+    ]
+  },
+  {
+    "Id": "68357b006d966c2c145cae10",
+    "Name": "Wargor",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Tuskgor Chariot",
+        "Razorgor Chariot",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon",
+        "Cavalry Spear",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "2e14048d-d5ea-423f-807d-849b0c2bef50",
+      "00dff75b-3ca1-4a3e-be14-fec48b5f693f",
+      "446b2b1e-2cd2-4eae-b2a8-8a63e7adeb60"
+    ],
+    "ProfileIds": [
+      "68357b006d966c2c145cae13"
+    ]
+  },
+  {
+    "Id": "68357b016d966c2c145cceeb",
+    "Name": "Bestigor Herds",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Gouge-horn",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4126da1c-ab6d-4098-bb01-785a753380af",
+      "d07f99e3-7807-4ca9-9315-62a468831d09",
+      "6b3cc59f-1952-49b1-a1e4-212d65db83c6"
+    ],
+    "ProfileIds": [
+      "68357b016d966c2c145ccef1"
+    ]
+  },
+  {
+    "Id": "68357b016d966c2c145cf8a3",
+    "Name": "Chaos Warhounds",
+    "Attributes": {
+      "totalCost": "6",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b016d966c2c145cf8a6"
+    ]
+  },
+  {
+    "Id": "68357b016d966c2c145cfb0c",
+    "Name": "Gor Herds",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Hand Weapon",
+        "True-horn",
+        "Shield",
+        "Great Weapon",
+        "Additional Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "0fe8f842-5ae7-4407-889f-a1eac6dc95ee",
+      "980bdf7c-6720-4e73-94ae-e2e40ab369de",
+      "8ddb8a5e-4856-48a5-ba7b-8417e6fde260"
+    ],
+    "ProfileIds": [
+      "68357b016d966c2c145cfb10"
+    ]
+  },
+  {
+    "Id": "68357b026d966c2c145d1e1c",
+    "Name": "Minotaurs",
+    "Attributes": {
+      "totalCost": "47",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Bloodkine",
+        "Shield",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "fa5e7f82-c370-4b63-aa32-c2a7eb77af91",
+      "77caa731-5ea6-4e45-af3c-050a279c2383",
+      "30ff09dd-76d6-48f1-8d6f-996dd29add7e"
+    ],
+    "ProfileIds": [
+      "68357b026d966c2c145d1e2d"
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d508b",
+    "Name": "Razorgor Herds",
+    "Attributes": {
+      "totalCost": "52",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "War Beast",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b036d966c2c145d508e"
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d52ec",
+    "Name": "Tuskgor Chariots",
+    "Attributes": {
+      "totalCost": "85",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b036d966c2c145d52ef"
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d557d",
+    "Name": "Ungor Herds",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Core",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Throwing Spear",
+        "Thrusting Spear",
+        "Shortbow",
+        "Shield",
+        "Hand Weapon",
+        "Half-horn",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "479e8b75-c948-4376-ab3a-197c81d209dc",
+      "b9ceab7d-1321-4da0-89c8-cb735fc476a1",
+      "895920b7-e558-4f07-a14f-c87b3adca223"
+    ],
+    "ProfileIds": [
+      "68357b036d966c2c145d5580"
+    ]
+  },
+  {
+    "Id": "68357b036d966c2c145d5f91",
+    "Name": "Bestigor Herds",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Gouge-horn",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "92ed239e-e6e3-439d-9c3c-6125861b72a3",
+      "315bc26e-013b-4e65-811d-c7ac97d2eac4",
+      "16b040c8-1655-4d72-bbac-ece4ca469979"
+    ],
+    "ProfileIds": [
+      "68357b036d966c2c145d5f94"
+    ]
+  },
+  {
+    "Id": "68357b046d966c2c145d893d",
+    "Name": "Centigor Herds",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Light Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Javelin",
+        "Throwing Axe",
+        "Throwing Spear",
+        "Cavalry Spear",
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "Gorehoof",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "15c4b7f3-c493-4799-ac14-4da16b2955be",
+      "09922944-64a3-45da-9e91-3c7c3f8566b4",
+      "7e55b765-4e0e-4790-976f-a546050a39b4"
+    ],
+    "ProfileIds": [
+      "68357b046d966c2c145d8940"
+    ]
+  },
+  {
+    "Id": "68357b046d966c2c145dac75",
+    "Name": "Chaos Ogres",
+    "Attributes": {
+      "totalCost": "33",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Additional Hand Weapon",
+        "Hand Weapon",
+        "Champion",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "944037ff-4342-4122-ae55-905ec9e11d43",
+      "fe327ab4-c237-4343-a271-d84ed91251bc",
+      "ee6aa25d-5034-4edc-a53e-edc6ccc73a6a"
+    ],
+    "ProfileIds": [
+      "68357b046d966c2c145dac78"
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145db685",
+    "Name": "Cockatrice",
+    "Attributes": {
+      "totalCost": "170",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Petrifying gaze",
+        "Acidic vomit"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b056d966c2c145db688"
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145db8f2",
+    "Name": "Cygor (Special)",
+    "Attributes": {
+      "totalCost": "215",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hurl attacks",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b056d966c2c145db8f9"
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145dbb5d",
+    "Name": "Dragon Ogres",
+    "Attributes": {
+      "totalCost": "56",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Halberd",
+        "Hand Weapon",
+        "Shartak",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f5f14310-1458-4bef-afb1-82ea641f08dc"
+    ],
+    "ProfileIds": [
+      "68357b056d966c2c145dbb60"
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145dccf9",
+    "Name": "Ghorgon (Special)",
+    "Attributes": {
+      "totalCost": "245",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cleaver-Limbs"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b056d966c2c145dccff"
+    ]
+  },
+  {
+    "Id": "68357b056d966c2c145dcf5e",
+    "Name": "Harpies",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b056d966c2c145dcf61"
+    ]
+  },
+  {
+    "Id": "68357b066d966c2c145dd1ba",
+    "Name": "Jabberslythe (Special)",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Slythey tongue"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b066d966c2c145dd1c1"
+    ]
+  },
+  {
+    "Id": "68357b066d966c2c145dd423",
+    "Name": "Minotaur Herds",
+    "Attributes": {
+      "totalCost": "47",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Bloodkine",
+        "Shield",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8f4219f0-199a-4994-8873-eebffba8f6c6",
+      "505c6c1a-fbbe-4171-8d09-7993026e00b0",
+      "8cfec389-04cd-4277-8054-6c698d370607"
+    ],
+    "ProfileIds": [
+      "68357b066d966c2c145dd431"
+    ]
+  },
+  {
+    "Id": "68357b066d966c2c145e0686",
+    "Name": "Razorgor Chariots",
+    "Attributes": {
+      "totalCost": "120",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Cavalry Spear"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b066d966c2c145e0689"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e0917",
+    "Name": "Chaos Giants",
+    "Attributes": {
+      "totalCost": "200",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Giant's Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e091a"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e0b7f",
+    "Name": "Chaos Spawn",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e0b82"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e0dec",
+    "Name": "Chaos Trolls",
+    "Attributes": {
+      "totalCost": "41",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Troll Vomit",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e0df6"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e1066",
+    "Name": "Cygor",
+    "Attributes": {
+      "totalCost": "215",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hurl attacks",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e1069"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e12cd",
+    "Name": "Dragon Ogre Shaggoth",
+    "Attributes": {
+      "totalCost": "225",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e12d0"
+    ]
+  },
+  {
+    "Id": "68357b076d966c2c145e1b93",
+    "Name": "Ghorgon",
+    "Attributes": {
+      "totalCost": "245",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cleaver-Limbs"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b076d966c2c145e1b96"
+    ]
+  },
+  {
+    "Id": "68357b086d966c2c145e1df5",
+    "Name": "Gigantic Spawn of Chaos",
+    "Attributes": {
+      "totalCost": "145",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Slashing talons",
+        "Gnashing maws"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b086d966c2c145e1dfd"
+    ]
+  },
+  {
+    "Id": "68357b086d966c2c145e206c",
+    "Name": "Jabberslythe",
+    "Attributes": {
+      "totalCost": "195",
+      "category": "Rare",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Wicked Claws",
+        "Slythey tongue"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b086d966c2c145e206f"
+    ]
+  },
+  {
+    "Id": "68357b086d966c2c145e22d1",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ae0d136b-a3ec-427f-b0ef-71dd2918c42f",
+      "7366a92b-6283-4c5d-9108-cf7963a17b4f",
+      "79a8879a-1c59-4e84-8384-a34f4153a53d"
+    ],
+    "ProfileIds": [
+      "68357b086d966c2c145e22ef"
+    ]
+  },
+  {
+    "Id": "68357b086d966c2c145e35b8",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b086d966c2c145e35c0"
+    ]
+  },
+  {
+    "Id": "68357b096d966c2c145e3821",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b096d966c2c145e3827"
+    ]
+  },
+  {
+    "Id": "68357b096d966c2c145e3ad9",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "300874ed-0884-4ee0-b0ac-b8f990c5ee57",
+      "4c11cd3e-5a97-49d8-aefd-53515da12fb2"
+    ],
+    "ProfileIds": [
+      "68357b096d966c2c145e3adf"
+    ]
+  },
+  {
+    "Id": "68357b096d966c2c145e464d",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "98ecaed7-e0f1-4c20-a996-5bd010a924fc"
+    ],
+    "ProfileIds": [
+      "68357b096d966c2c145e4661"
+    ]
+  },
+  {
+    "Id": "68357b096d966c2c145e4b7f",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "82d32748-e927-4844-a298-f85d554efabd",
+      "ebb259a7-5a85-4ea1-b13d-10358aa62a07"
+    ],
+    "ProfileIds": [
+      "68357b096d966c2c145e4b8b",
+      "68357b096d966c2c145e4b94",
+      "68357b096d966c2c145e4b9d",
+      "68357b096d966c2c145e4ba6"
+    ]
+  }
+]

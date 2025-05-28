@@ -1,0 +1,927 @@
+[
+  {
+    "Id": "68357b9c6d966c2c1475e89f",
+    "Name": "Lady Élisse Duchaard",
+    "Attributes": {
+      "totalCost": "225",
+      "category": "Named Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b9c6d966c2c1475e8a4"
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c1475f818",
+    "Name": "Sir Cecil Gastonne",
+    "Attributes": {
+      "totalCost": "165",
+      "category": "Named Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sorrow’s End",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b9d6d966c2c1475f81d"
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c14760785",
+    "Name": "The Green Knight",
+    "Attributes": {
+      "totalCost": "275",
+      "category": "Named Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357b9d6d966c2c14760789"
+    ]
+  },
+  {
+    "Id": "68357b9d6d966c2c147616f7",
+    "Name": "Baron",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Lance",
+        "Morning Star",
+        "Great Weapon",
+        "Hand Weapon",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Wicked Claws",
+        "Serrated Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "083c53b1-e07f-4374-84e8-0df37b3ec9cf",
+      "f6c3ee1a-fb44-4f0d-a374-20f05e1748d8",
+      "e688f63c-f9c1-4aa1-89a3-c6657b956705",
+      "0966d9ba-1ea2-4269-9104-99e955a5cd48",
+      "f17ae3d8-3b0d-4896-bd17-6724034ac9c8"
+    ],
+    "ProfileIds": [
+      "68357b9d6d966c2c14761702"
+    ]
+  },
+  {
+    "Id": "68357b9f6d966c2c1476863a",
+    "Name": "Damsel",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Warhorse",
+        "Unicorn",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "529136d1-4821-43d7-b70f-0a487111b7b9",
+      "c39dca8f-c850-4962-bf21-9088bdc446d0",
+      "c308ed28-439b-4a0f-99e9-a5d6ec7f9a7f",
+      "3e3b2cf3-fd60-4ec6-8d9d-0508b45c2069"
+    ],
+    "ProfileIds": [
+      "68357b9f6d966c2c1476863d"
+    ]
+  },
+  {
+    "Id": "68357ba06d966c2c1476e210",
+    "Name": "Duke",
+    "Attributes": {
+      "totalCost": "175",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Lance",
+        "Morning Star",
+        "Great Weapon",
+        "Hand Weapon",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Hippogryph",
+        "Wicked Claws",
+        "Serrated Maw",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e3455d4f-b4ac-47a4-a3e8-41121657298d",
+      "322f04c1-a7c2-4acc-b3a4-9a805c811127",
+      "98695d23-66ab-488c-b7e5-2d38b1c82ce2",
+      "73d33b04-30a5-4ab1-8877-9d0f0b71d40e",
+      "0c6538c8-c92b-4d58-b83e-85dacd2fff90"
+    ],
+    "ProfileIds": [
+      "68357ba06d966c2c1476e214"
+    ]
+  },
+  {
+    "Id": "68357ba16d966c2c147750bd",
+    "Name": "Paladin",
+    "Attributes": {
+      "totalCost": "60",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Lance",
+        "Morning Star",
+        "Great Weapon",
+        "Hand Weapon",
+        "Royal Pegasus",
+        "Barded Pegasus",
+        "Battle Standard Bearer",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4c0ad61f-d95a-4ac7-a694-641ff1903a3e",
+      "515d4bcc-8f44-45bf-ac5a-c80d1935cee2",
+      "2ac7b3ac-2ce7-43bc-b584-a4aa747a8009",
+      "46eb44c1-401f-43c8-b825-00b81c64d011"
+    ],
+    "ProfileIds": [
+      "68357ba16d966c2c147750c1"
+    ]
+  },
+  {
+    "Id": "68357ba36d966c2c1477afd9",
+    "Name": "Prophetess",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bretonnian Warhorse",
+        "Warhorse",
+        "Royal Pegasus",
+        "Unicorn",
+        "Hand Weapon",
+        "Royal Pegasus"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1067ef79-0042-443c-9692-68bbf8649133",
+      "c725c9a3-f009-46de-bae2-c7f92e0322ba",
+      "b9556ce7-556e-4ce5-9948-98b7eff8fe47",
+      "01bea80d-8cf7-4ba2-a17f-20afc8265a62",
+      "9e8ed655-a7f0-4ebe-b207-8157bfa368e3"
+    ],
+    "ProfileIds": [
+      "68357ba36d966c2c1477afe4"
+    ]
+  },
+  {
+    "Id": "68357ba46d966c2c14782308",
+    "Name": "Sergeants-At-Arms",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Warhorse",
+        "Additional Hand Weapon",
+        "Cavalry Spear",
+        "Halberd",
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "e8dbb0c4-2409-4377-90f6-7b49272c5f59",
+      "b4a71444-7a6e-433b-9998-fa775eecadd2"
+    ],
+    "ProfileIds": [
+      "68357ba46d966c2c1478230b"
+    ]
+  },
+  {
+    "Id": "68357ba56d966c2c14784e6d",
+    "Name": "Battle Pilgrims & Grail Reliquae",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ba56d966c2c14784e71"
+    ]
+  },
+  {
+    "Id": "68357ba56d966c2c14785dd4",
+    "Name": "Knights Errant",
+    "Attributes": {
+      "totalCost": "19",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Gallant",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ee56f404-0d12-4cdd-8287-a6798e81f02c",
+      "cb400b24-52d4-4b34-a824-8509ab5d4b1c",
+      "59306c25-659b-4521-9334-7c233a927e84"
+    ],
+    "ProfileIds": [
+      "68357ba56d966c2c14785ddc"
+    ]
+  },
+  {
+    "Id": "68357ba66d966c2c1478a2e4",
+    "Name": "Knights of the Realm on Foot",
+    "Attributes": {
+      "totalCost": "11",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Shield",
+        "Hand Weapon",
+        "First Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "772952a1-1002-49bf-89b6-ac47c8694f0a",
+      "7bce24a5-e761-4f51-9662-6a89480f1247",
+      "98e130e2-8f92-4b35-b009-ac264b29898f"
+    ],
+    "ProfileIds": [
+      "68357ba66d966c2c1478a2e7"
+    ]
+  },
+  {
+    "Id": "68357ba76d966c2c14790008",
+    "Name": "Mounted Knights of the Realm",
+    "Attributes": {
+      "totalCost": "24",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a4d9fa1a-1ae1-4b7d-b74d-519b304149f5",
+      "0f1a8981-0b79-4ce8-bf6d-08d79ddb43dc"
+    ],
+    "ProfileIds": [
+      "68357ba76d966c2c1479000b"
+    ]
+  },
+  {
+    "Id": "68357ba86d966c2c14795dbc",
+    "Name": "Squires",
+    "Attributes": {
+      "totalCost": "7",
+      "category": "Core",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Esquire",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b08ede51-0346-467c-b255-804f995b98ca",
+      "b2a65cec-0028-4b84-bf8e-27ba27af2fb0",
+      "b580c051-1788-479e-96f1-304f00fba3c0"
+    ],
+    "ProfileIds": [
+      "68357ba86d966c2c14795dbf"
+    ]
+  },
+  {
+    "Id": "68357ba96d966c2c14799b64",
+    "Name": "Battle Pilgrims & Grail Reliquae",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357ba96d966c2c14799b67"
+    ]
+  },
+  {
+    "Id": "68357ba96d966c2c1479aaca",
+    "Name": "Men-At-Arms",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Shield",
+        "Polearm",
+        "Yeoman",
+        "Grail Monk",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3304c54e-87bf-42bb-9d61-8856d472bdc3",
+      "dadd935d-f501-40a4-9452-957ec77d3e33",
+      "0b956748-5ee2-473e-b7b4-fe6244206163"
+    ],
+    "ProfileIds": [
+      "68357ba96d966c2c1479aacd"
+    ]
+  },
+  {
+    "Id": "68357baa6d966c2c1479e892",
+    "Name": "Peasant Bowmen",
+    "Attributes": {
+      "totalCost": "5",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Longbow",
+        "Villein",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "5feb237f-efb2-4a34-9215-42fc8a768a36",
+      "a1f5325f-d138-48e5-ad95-09099a045c7d",
+      "4ba7fe15-aca6-4f1b-92f8-6316bbe87676"
+    ],
+    "ProfileIds": [
+      "68357baa6d966c2c1479e895"
+    ]
+  },
+  {
+    "Id": "68357bab6d966c2c147a265e",
+    "Name": "Pegasus Knights",
+    "Attributes": {
+      "totalCost": "55",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Monstrous Cavalry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Barded Pegasus",
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "First Knight",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "ff9e31b7-baa1-40be-a6ba-131950c4b8c1",
+      "558d3dff-eec3-4846-b1ce-feafd42d3c9f",
+      "9cc3cd54-8bb3-4476-aeda-02fc6e279daa"
+    ],
+    "ProfileIds": [
+      "68357bab6d966c2c147a2661"
+    ]
+  },
+  {
+    "Id": "68357bab6d966c2c147a6b5a",
+    "Name": "Questing Knights",
+    "Attributes": {
+      "totalCost": "26",
+      "category": "Special",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Great Weapon",
+        "Shield",
+        "Paragon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "a9eb157c-a7ef-4033-80ef-914304c1ff0e",
+      "114f3499-babe-4790-8905-f3a719d0370e",
+      "910ecf8c-239e-4c7c-b8a4-335925e79f37"
+    ],
+    "ProfileIds": [
+      "68357bab6d966c2c147a6b5d"
+    ]
+  },
+  {
+    "Id": "68357bad6d966c2c147ac97e",
+    "Name": "Field Trebuchet",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Field Trebuchet"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bad6d966c2c147ac982"
+    ]
+  },
+  {
+    "Id": "68357bad6d966c2c147ad8dc",
+    "Name": "Grail Knights",
+    "Attributes": {
+      "totalCost": "38",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Lance",
+        "Shield",
+        "Grail Guardian",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "83906e7d-733c-453f-96ca-58c5d613af68",
+      "6f35f75e-a760-4cf5-a8ed-be50f6f696a0",
+      "79ab2d32-e17e-4279-8fb4-46ceaa2cb7e7"
+    ],
+    "ProfileIds": [
+      "68357bad6d966c2c147ad8df"
+    ]
+  },
+  {
+    "Id": "68357bae6d966c2c147b3740",
+    "Name": "Mounted Yeomen",
+    "Attributes": {
+      "totalCost": "13",
+      "category": "Rare",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Shield",
+        "Hand Weapon",
+        "Shortbow",
+        "Cavalry Spear",
+        "Warden",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d098f6f7-3efc-46b8-95a6-c07e1859e84b",
+      "93422653-271b-496b-b7de-ffdffa58812b",
+      "553e63f2-d496-432d-93f2-43c75bff847d"
+    ],
+    "ProfileIds": [
+      "68357bae6d966c2c147b3743"
+    ]
+  },
+  {
+    "Id": "68357baf6d966c2c147b7588",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "3083315b-6f2a-4ddf-a1dd-0e35e816e701",
+      "7a57f0ee-0d72-4376-b3bd-fc19288b8982",
+      "bc3907d1-2f09-4a64-9171-49b577dd667d"
+    ],
+    "ProfileIds": [
+      "68357baf6d966c2c147b75a6"
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bbc47",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bb06d966c2c147bbc50"
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bcba6",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bb06d966c2c147bcbac"
+    ]
+  },
+  {
+    "Id": "68357bb06d966c2c147bdb54",
+    "Name": "Empire Knights",
+    "Attributes": {
+      "totalCost": "21",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "66e72dd8-f837-4dd7-85ab-310fa98cfc93",
+      "b86deaea-aa36-4f61-bbdd-f100de33b1dc",
+      "dcb97fbf-be03-414d-8deb-19484ce85718"
+    ],
+    "ProfileIds": [
+      "68357bb06d966c2c147bdb57"
+    ]
+  },
+  {
+    "Id": "68357bb26d966c2c147c3974",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b260720c-452d-486f-b8ba-7b3b0304572e",
+      "d7d7b4d7-2099-4989-9c6f-72efa1636bac"
+    ],
+    "ProfileIds": [
+      "68357bb26d966c2c147c397a"
+    ]
+  },
+  {
+    "Id": "68357bb26d966c2c147c78c0",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "f269c375-6312-4121-ab34-90e6aa7b3f06"
+    ],
+    "ProfileIds": [
+      "68357bb26d966c2c147c78d4"
+    ]
+  },
+  {
+    "Id": "68357bb36d966c2c147c97de",
+    "Name": "Inner Circle Knights",
+    "Attributes": {
+      "totalCost": "29",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Wolf Hammer",
+        "Lance",
+        "Shield",
+        "Hand Weapon",
+        "Barded Warhorse",
+        "Inner Circle Preceptor",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4084ac53-a797-4c97-bca3-822ac11801bd",
+      "f2580f5b-e58b-4ccf-85f0-0b6db3aebcf1",
+      "75b61aa5-88a0-4382-8c93-fd13d752e4c8"
+    ],
+    "ProfileIds": [
+      "68357bb36d966c2c147c97e1"
+    ]
+  },
+  {
+    "Id": "68357bb46d966c2c147cf5c6",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Kingdom of Bretonnia - Errantry Crusade",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "8d3471d0-5b37-49b3-bb18-2f3ab97d887c",
+      "6130fbb7-b74c-4fb2-b5d1-a1c5995d1fee"
+    ],
+    "ProfileIds": [
+      "68357bb46d966c2c147cf5d2",
+      "68357bb46d966c2c147cf5db",
+      "68357bb46d966c2c147cf5e4",
+      "68357bb46d966c2c147cf5ed"
+    ]
+  }
+]
