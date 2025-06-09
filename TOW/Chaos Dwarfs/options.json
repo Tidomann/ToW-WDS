@@ -88,14 +88,6 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "abd0f0bc-d07c-437b-ae41-78cabd36f485",
-    "Name": "Bale Taurus",
-    "Type": "Mount",
-    "OwnerId": "68357b0c6d966c2c145ebb27",
-    "WDSDataId": "cc068ee3-3bd4-43c9-b0ed-44a357163382",
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
     "Name": "Great Taurus",
     "Type": "Mount",
@@ -104,43 +96,11 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "de29acb7-bbdb-4dce-b64a-99ac6edbb6d1",
-    "Name": "Giant Wolf",
-    "Type": "Mount",
-    "OwnerId": "68357b0c6d966c2c145ebb27",
-    "WDSDataId": "721dbb4f-26ca-4465-8545-ad4d9b5534a1",
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "069e5aad-66c5-43f8-bbe7-10427b6a43d0",
     "Name": "On Foot",
     "Type": "Mount",
     "OwnerId": "68357b0d6d966c2c145ef091",
     "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "0c789d2a-a72a-47b1-8ef2-c15e4d536bb2",
-    "Name": "Lammasu",
-    "Type": "Mount",
-    "OwnerId": "68357b0d6d966c2c145ef091",
-    "WDSDataId": "c65d8541-2499-4b53-add8-628e55c29706",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "281d8fcf-1b0b-406d-ad74-c9a687177b53",
-    "Name": "Bale Taurus",
-    "Type": "Mount",
-    "OwnerId": "68357b0d6d966c2c145ef091",
-    "WDSDataId": "d621a771-af26-4f25-aa83-ee8311ea9e16",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "cfdf9999-2058-4e24-9775-065d6ce19f66",
-    "Name": "Great Taurus",
-    "Type": "Mount",
-    "OwnerId": "68357b0d6d966c2c145ef091",
-    "WDSDataId": "43309818-fb7a-403f-9383-ab1b21481997",
     "StatlineIndex": "0"
   },
   {
@@ -210,7 +170,7 @@
   {
     "Id": "7d29d96e-5af5-4f1a-93ae-febd718c0aad",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b106d966c2c145fb96b",
     "WDSDataId": "68357b116d966c2c145fcc4d",
     "StatlineIndex": "0"
@@ -234,7 +194,7 @@
   {
     "Id": "5bebc12a-f36b-4da4-831b-b982fde84f10",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b116d966c2c145fed07",
     "WDSDataId": "68357b116d966c2c145feff8",
     "StatlineIndex": "0"
@@ -258,7 +218,7 @@
   {
     "Id": "e700a686-21a8-4120-8a7d-22819bf631a2",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b116d966c2c145ff8a7",
     "WDSDataId": "68357b116d966c2c1460038d",
     "StatlineIndex": "0"
@@ -282,7 +242,7 @@
   {
     "Id": "4b4809e2-3bbe-43d7-888e-72c5ec52b54b",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b126d966c2c14602403",
     "WDSDataId": "68357b126d966c2c14602ec5",
     "StatlineIndex": "0"
@@ -306,7 +266,7 @@
   {
     "Id": "c3db5fcb-56c0-4015-b8c1-ab18f602aafc",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b136d966c2c146054bb",
     "WDSDataId": "68357b136d966c2c14605f87",
     "StatlineIndex": "0"
@@ -330,7 +290,7 @@
   {
     "Id": "cb4f424b-b9cd-4138-8704-efacf60a2b20",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b136d966c2c146082ac",
     "WDSDataId": "68357b146d966c2c14608bbb",
     "StatlineIndex": "0"
@@ -338,7 +298,7 @@
   {
     "Id": "b3bf33ab-99ac-4f71-b72e-67a148bd1ff9",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b146d966c2c146097ab",
     "WDSDataId": "68357b146d966c2c14609a95",
     "StatlineIndex": "0"
@@ -354,7 +314,7 @@
   {
     "Id": "66d41f9f-ef9d-4e24-b1e5-33c9cd40d669",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b156d966c2c1460a910",
     "WDSDataId": "68357b156d966c2c1460ac26",
     "StatlineIndex": "0"
@@ -378,7 +338,7 @@
   {
     "Id": "6e1a3e54-934c-4aa2-b9f6-007199fee0ca",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b156d966c2c1460b530",
     "WDSDataId": "68357b156d966c2c1460bbb8",
     "StatlineIndex": "0"
@@ -418,7 +378,7 @@
   {
     "Id": "e08d50c3-c5dd-4b85-971f-a71b4678ffd7",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b166d966c2c1460e011",
     "WDSDataId": "68357b166d966c2c1460e33e",
     "StatlineIndex": "0"

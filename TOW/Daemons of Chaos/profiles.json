@@ -1877,7 +1877,7 @@
   },
   {
     "Id": "68357b1c6d966c2c14618ff4",
-    "Name": "Bloodreaper (Bloodletter)",
+    "Name": "Bloodreaper (Bloodcrushers)",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2796,7 +2796,7 @@
   },
   {
     "Id": "68357b1f6d966c2c1461e29d",
-    "Name": "Plagueridden (Plaguebearer)",
+    "Name": "Plagueridden (Plague Drones)",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2864,7 +2864,7 @@
   },
   {
     "Id": "68357b1f6d966c2c1461df2a",
-    "Name": "Plaguebearer",
+    "Name": "Plague Drone",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3328,7 +3328,7 @@
   },
   {
     "Id": "68357b206d966c2c14621473",
-    "Name": "Bloodreaper (Bloodletter)",
+    "Name": "Bloodreaper (Bloodcrushers)",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3815,7 +3815,7 @@
   },
   {
     "Id": "68357b216d966c2c146232f3",
-    "Name": "Plagueridden (Plaguebearer)",
+    "Name": "Plagueridden (Plague Drones)",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -3883,7 +3883,7 @@
   },
   {
     "Id": "68357b216d966c2c14622f82",
-    "Name": "Plaguebearer",
+    "Name": "Plague Drone",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {

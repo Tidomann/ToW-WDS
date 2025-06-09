@@ -72,7 +72,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "82fc449e-307f-4be9-b851-cb8822c8489d",
       "06c2a8c2-c766-42f1-8cdf-2037b5d423a2",
       "68fc4908-4d49-4bcd-b8d2-3f7771888e95",
       "9d63d340-c361-4e02-b643-d4e48e20faaa"
@@ -113,7 +112,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "ee26901b-44b5-4f80-a870-c8ecdbc163f6",
       "a93e896a-4a27-4dd1-b84e-00a8dae74a14",
       "1bf9769a-f50f-44b3-a4cc-2f12f3df1b28",
       "964ced61-e056-4533-bc06-5e29ff0397fd",
@@ -152,7 +150,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "b9a0fa8c-7e98-499e-b5bc-1808582d5fb3",
       "a8cd54fa-dbe8-49e8-9b7a-a93e8e77c995",
       "f33786be-433a-4a70-a52e-894fda5054f5",
       "d13a0e30-d335-4413-aa9c-fdd87122c370"
@@ -185,7 +182,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "b1879d45-64e4-4ceb-9aad-65776ff304d5",
       "55dc33d8-ee11-4e57-829c-a7f64f4dc867",
       "4320f1fc-b47b-4fe5-9755-58bba4d5fead"
     ],
@@ -220,7 +216,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "23dc321a-c9d9-44e4-a0d9-4d2f44fc8aaf",
       "553159cb-96ab-4448-a0fb-5960d6270ebc",
       "38737837-5bb0-4625-97d5-99bdcd0da90a",
       "946b0303-fe36-4fca-a341-126a6a9beb88"
@@ -257,7 +252,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "342770f2-52b2-47cf-9463-af096806f4e7",
       "32e0dd12-c932-4c7b-8073-49cd473f16a9",
       "3a137b40-e1bf-4a28-8d58-12cf77e78b45",
       "ea5dc860-67c5-4bda-882a-7db469eb02d9"
@@ -293,7 +287,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "a61f624c-35be-49f9-b4d3-d7e3910579bc",
       "e7981d6d-f0cb-4320-876e-dc0ed5db54f5",
       "35354d22-b33a-4458-8d30-76fb2fafef7b"
     ],
@@ -331,7 +324,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "09a5ad76-e116-40a3-b4fb-91d59c96ba75",
       "bbf50b9f-7c89-4cc0-b905-97fa765222d1",
       "a5947b93-b996-4d64-bd54-8b3fcb21be72",
       "7215c2d5-4baa-4353-af77-2cc8b4c7b34a"
@@ -360,7 +352,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "d8400a57-fda2-4b8d-a160-845c364c17e7",
       "115e56fc-21b3-4359-b1f0-fd61c701e0ff"
     ],
     "ProfileIds": [
@@ -391,7 +382,6 @@
     },
     "RuleIds": {},
     "OptionListIds": [
-      "c1c9a95d-25ba-4af5-b8af-027ed43a2b03",
       "4b6e244a-b639-4f08-879a-7fc3f8821b88",
       "a7763e90-1195-429b-8102-f688ee9620e8"
     ],
@@ -435,7 +425,7 @@
       "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -479,6 +469,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "9424be4f-f104-428c-b106-f2864de8ec0bc",
       "c0cc39cf-ffaa-45ab-8919-2228610ff39c",
       "27df43d9-1f22-468b-aa73-c39f5e9c074f"
     ],
@@ -511,6 +502,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "441006dd-cfa2-479a-855e-7d626f3e20b2c",
       "762ad5e4-ea27-4491-b60a-1f23b525bb0a",
       "785f1cd0-4dc1-41ec-b21d-cd6fcbac341d"
     ],
@@ -543,6 +535,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "441006dd-cfa2-479a-855e-7d626f3e20b2c2",
       "830c7e35-26d2-45af-8609-2d6319e8f4e6",
       "1f35e62e-d424-4903-9e37-0d9b3e5d370a"
     ],
@@ -584,7 +577,7 @@
       "army": "Orc and Goblin Tribes - Nomadic Waaagh!",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [

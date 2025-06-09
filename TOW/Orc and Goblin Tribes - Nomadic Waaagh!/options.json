@@ -1,13 +1,5 @@
 [
   {
-    "Id": "82fc449e-307f-4be9-b851-cb8822c8489d",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be06d966c2c1483ba69",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "06c2a8c2-c766-42f1-8cdf-2037b5d423a2",
     "Name": "War Boar",
     "Type": "Mount",
@@ -29,14 +21,6 @@
     "Type": "Mount",
     "OwnerId": "68357be06d966c2c1483ba69",
     "WDSDataId": "fd283091-0b8f-4ade-a3c6-1c35df7bc391",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "ee26901b-44b5-4f80-a870-c8ecdbc163f6",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be16d966c2c1483e2f7",
-    "WDSDataId": null,
     "StatlineIndex": "0"
   },
   {
@@ -72,14 +56,6 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "b9a0fa8c-7e98-499e-b5bc-1808582d5fb3",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be26d966c2c14840dbd",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "a8cd54fa-dbe8-49e8-9b7a-a93e8e77c995",
     "Name": "Goblin Wolf Chariot",
     "Type": "Mount",
@@ -104,14 +80,6 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "b1879d45-64e4-4ceb-9aad-65776ff304d5",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be36d966c2c148435a8",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "55dc33d8-ee11-4e57-829c-a7f64f4dc867",
     "Name": "Goblin Wolf Chariot",
     "Type": "Mount",
@@ -125,14 +93,6 @@
     "Type": "Mount",
     "OwnerId": "68357be36d966c2c148435a8",
     "WDSDataId": "3a8682a7-fddb-4ecd-83a7-3e7056b3e483",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "23dc321a-c9d9-44e4-a0d9-4d2f44fc8aaf",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be46d966c2c14845239",
-    "WDSDataId": null,
     "StatlineIndex": "0"
   },
   {
@@ -160,14 +120,6 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "342770f2-52b2-47cf-9463-af096806f4e7",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be56d966c2c1484791c",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "32e0dd12-c932-4c7b-8073-49cd473f16a9",
     "Name": "Goblin Wolf Chariot",
     "Type": "Mount",
@@ -192,14 +144,6 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "a61f624c-35be-49f9-b4d3-d7e3910579bc",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be56d966c2c14849a7b",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "e7981d6d-f0cb-4320-876e-dc0ed5db54f5",
     "Name": "War Boar",
     "Type": "Mount",
@@ -213,14 +157,6 @@
     "Type": "Mount",
     "OwnerId": "68357be56d966c2c14849a7b",
     "WDSDataId": "a56acc69-9561-4e84-8fcf-08cd3d1a69b5",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "09a5ad76-e116-40a3-b4fb-91d59c96ba75",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be66d966c2c1484b89d",
-    "WDSDataId": null,
     "StatlineIndex": "0"
   },
   {
@@ -248,27 +184,11 @@
     "StatlineIndex": "0"
   },
   {
-    "Id": "d8400a57-fda2-4b8d-a160-845c364c17e7",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be76d966c2c1484da92",
-    "WDSDataId": null,
-    "StatlineIndex": "0"
-  },
-  {
     "Id": "115e56fc-21b3-4359-b1f0-fd61c701e0ff",
     "Name": "War Boar",
     "Type": "Mount",
     "OwnerId": "68357be76d966c2c1484da92",
     "WDSDataId": "95d1ae99-b143-45b6-a1cf-8143f25db57f",
-    "StatlineIndex": "0"
-  },
-  {
-    "Id": "c1c9a95d-25ba-4af5-b8af-027ed43a2b03",
-    "Name": "On Foot",
-    "Type": "Mount",
-    "OwnerId": "68357be76d966c2c1484ed58",
-    "WDSDataId": null,
     "StatlineIndex": "0"
   },
   {
@@ -362,7 +282,7 @@
   {
     "Id": "c71ad355-b2a3-4d25-9428-5f50332a7164",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357beb6d966c2c148564d9",
     "WDSDataId": "68357beb6d966c2c14856a43",
     "StatlineIndex": "0"
@@ -402,7 +322,7 @@
   {
     "Id": "6c07b78b-847f-4ee3-ae3d-95d261fd8071",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bec6d966c2c148581b1",
     "WDSDataId": "68357bec6d966c2c148583c0",
     "StatlineIndex": "0"
@@ -422,5 +342,29 @@
     "OwnerId": "68357bec6d966c2c1485858f",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "9424be4f-f104-428c-b106-f2864de8ec0bc",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357be96d966c2c14851198",
+    "WDSDataId": "68357bd76d966c2c1482a810c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "441006dd-cfa2-479a-855e-7d626f3e20b2c",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357be96d966c2c148519c8",
+    "WDSDataId": "68357bdb6d966c2c148339c7c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "441006dd-cfa2-479a-855e-7d626f3e20b2c2",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bea6d966c2c14853ac4",
+    "WDSDataId": "68357bdb6d966c2c148339c7c",
+    "StatlineIndex": "0"
   }
 ]

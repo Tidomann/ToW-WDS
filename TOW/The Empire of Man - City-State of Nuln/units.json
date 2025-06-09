@@ -360,16 +360,11 @@
         "Shield",
         "Halberd",
         "Sergeant",
-        "Hand Weapon",
         "Handgun",
-        "Sergeant",
         "Brace of Pistols",
         "Hochland Long Rifle",
         "Repeater Handgun",
-        "Handgun",
-        "Hand Weapon",
         "Shield",
-        "Sergeant",
         "Standard Bearer",
         "Musician",
         "Champion"
@@ -377,6 +372,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "f99861f9-5100-4a20-bc06-1c6353335084c",
       "f99861f9-5100-4a20-bc06-1c6353335084",
       "c1f038e8-11ea-4355-8c72-5bfb83a08f23"
     ],
@@ -400,17 +396,11 @@
         "Hand Weapon",
         "Shield",
         "Halberd",
-        "Sergeant",
-        "Hand Weapon",
-        "Shield",
-        "Sergeant",
-        "Hand Weapon",
         "Handgun",
         "Sergeant",
         "Brace of Pistols",
         "Hochland Long Rifle",
         "Repeater Handgun",
-        "Handgun",
         "Standard Bearer",
         "Musician",
         "Champion"
@@ -418,6 +408,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "77af2db0-7138-4c64-8ca2-6cb44260cac4c",
       "77af2db0-7138-4c64-8ca2-6cb44260cac4",
       "132796e1-bc67-43e6-b17c-520750828794"
     ],
@@ -692,6 +683,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "dbc9e222-f166-42c3-80b8-bf13876b12c9c",
       "2b2bee7e-3078-43dd-93e4-4f3f564bb138"
     ],
     "ProfileIds": [
@@ -997,7 +989,7 @@
     ]
   },
   {
-    "Id": "68357c246d966c2c148dfe75",
+    "Id": "68357b406d966c2c1466eeb6",
     "Name": "Prince Ulther's Dragon Company",
     "Attributes": {
       "totalCost": "115",
@@ -1012,34 +1004,21 @@
         "Hand Weapon",
         "Brace of Pistols",
         "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Great Weapon",
         "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Standard Bearer",
         "Musician"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "89726f67-1271-4286-be92-4a6764d3a625",
-      "ea554392-8191-40e8-8208-f4c3e1b5dd4d"
+      "48951f3b-44a6-466c-ad94-ulther",
+      "48951f3b-44a6-466c-ad94-borri",
+      "48951f3b-44a6-466c-ad94-a915f20b96d2",
+      "78d0896a-21f1-4995-9517-92d231e9fa50"
     ],
     "ProfileIds": [
-      "68357c246d966c2c148dfe7d",
-      "68357c246d966c2c148dfe86",
-      "68357c246d966c2c148dfe8f",
-      "68357c246d966c2c148dfe98"
+      "68357b406d966c2c1466eed9"
     ]
   }
 ]

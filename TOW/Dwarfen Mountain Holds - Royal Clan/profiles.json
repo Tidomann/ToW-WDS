@@ -934,6 +934,53 @@
     }
   },
   {
+    "Id": "68357b4c6d966c2c1468a403g",
+    "Name": "Giant Slayer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "5b67-8535-146c-7cea": "Open Order",
+      "a230-c540-6a65-4974": "Resolute",
+      "ea84-d53c-ef3b-57e8": "Slayer",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Giant Slayer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357b4d6d966c2c1468a7ef",
     "Name": "Bolt Thrower",
     "Attributes": {},
@@ -1926,49 +1973,6 @@
     }
   },
   {
-    "Id": "68357b506d966c2c14691d41",
-    "Name": "Slayer Crew",
-    "Attributes": {},
-    "AttributeLists": {},
-    "RuleIds": {
-      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
-      "93d9-c75b-f655-30ac": "Immune To Psychology",
-      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
-      "59a5-7eca-ee35-96ac": "Skirmishers",
-      "d3eb-1fa0-bb19-f390": "Unbreakable",
-      "57cc-870a-8ff4-b492": "Whirling Doom",
-      "6d4a-7733-d725-a267": "Hand Weapon"
-    },
-    "EquipmentIds": [],
-    "OptionListIds": [],
-    "Statlines": [
-      {
-        "Name": "Slayer Crew",
-        "Values": {
-          "M": "3",
-          "WS": "4",
-          "BS": "3",
-          "S": "3",
-          "T": "4",
-          "W": "2",
-          "I": "2",
-          "A": "2",
-          "Ld": "10"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      }
-    ],
-    "Base": {
-      "Shape": "square",
-      "Size": {
-        "width": "25",
-        "length": "25"
-      }
-    }
-  },
-  {
     "Id": "68357b506d966c2c146920f9",
     "Name": "Imperial Dwarf Warrior",
     "Attributes": {},
@@ -2153,61 +2157,8 @@
     }
   },
   {
-    "Id": "68357b516d966c2c14694a5d",
-    "Name": "Standard Bearer (Dragon Company trooper)",
-    "Attributes": {},
-    "AttributeLists": {},
-    "RuleIds": {
-      "883e-e1b1-4fe9-5912": "Close Order",
-      "1f64-3ddc-db58-12fb": "Drilled",
-      "2e16-e293-353e-6881": "Gromril Weapons",
-      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
-      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
-      "4d1b-2617-ebdc-4f4d": "Mercenaries",
-      "a230-c540-6a65-4974": "Resolute",
-      "e351-bbd6-f470-b604": "Stubborn",
-      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
-      "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour",
-      "8997-c74d-3a8d-ecf9": "Shield",
-      "bcf8-d942-102e-b155": "Standard Bearer"
-    },
-    "EquipmentIds": [],
-    "OptionListIds": [],
-    "Statlines": [
-      {
-        "Name": "Dragon Company trooper",
-        "Values": {
-          "M": "3",
-          "WS": "4",
-          "BS": "3",
-          "S": "3",
-          "T": "4",
-          "W": "1",
-          "I": "2",
-          "A": "1",
-          "Ld": "9"
-        },
-        "RuleIds": {
-          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
-          "6d4a-7733-d725-a267": "Hand Weapon",
-          "dbb2-4d85-84c2-528c": "Light Armour",
-          "8997-c74d-3a8d-ecf9": "Shield",
-          "bcf8-d942-102e-b155": "Standard Bearer"
-        }
-      }
-    ],
-    "Base": {
-      "Shape": "square",
-      "Size": {
-        "width": "25",
-        "length": "25"
-      }
-    }
-  },
-  {
-    "Id": "68357b516d966c2c14694a66",
-    "Name": "Borri Forkbeard (champion)",
+    "Id": "68357b406d966c2c1466eec7",
+    "Name": "Borri Forkbeard",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2259,7 +2210,7 @@
     }
   },
   {
-    "Id": "68357b516d966c2c14694a6f",
+    "Id": "68357b406d966c2c1466eed0",
     "Name": "Prince Ulther Stonehammer",
     "Attributes": {},
     "AttributeLists": {},
@@ -2316,8 +2267,8 @@
     }
   },
   {
-    "Id": "68357b516d966c2c14694a78",
-    "Name": "Musician (Dragon Company trooper)",
+    "Id": "68357b406d966c2c1466eed9",
+    "Name": "Dragon Company trooper",
     "Attributes": {},
     "AttributeLists": {},
     "RuleIds": {
@@ -2328,12 +2279,7 @@
       "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
       "4d1b-2617-ebdc-4f4d": "Mercenaries",
       "a230-c540-6a65-4974": "Resolute",
-      "e351-bbd6-f470-b604": "Stubborn",
-      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
-      "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour",
-      "40f2-dd77-f0ca-3663": "Musician",
-      "8997-c74d-3a8d-ecf9": "Shield"
+      "e351-bbd6-f470-b604": "Stubborn"
     },
     "EquipmentIds": [],
     "OptionListIds": [],
@@ -2355,7 +2301,6 @@
           "3f0e-1dc6-b425-bf59": "Brace of Pistols",
           "6d4a-7733-d725-a267": "Hand Weapon",
           "dbb2-4d85-84c2-528c": "Light Armour",
-          "40f2-dd77-f0ca-3663": "Musician",
           "8997-c74d-3a8d-ecf9": "Shield"
         }
       }

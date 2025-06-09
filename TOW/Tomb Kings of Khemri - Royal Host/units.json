@@ -259,17 +259,20 @@
         "Shield",
         "Hand Weapon",
         "Cavalry Cohorts Master of Horse",
-        "Blade Of Nurglitch",
-        "Weeping Blade",
-        "The Fellblade",
-        "Death Globe",
         "Warbow",
-        "Champion"
+        "Champion",
+        "Standard Bearer",
+        "Musician"
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "9a484d85-d1b2-4721-ac70-a4321e9194sccc",
+      "e70a6fe2-6242-4cb1-9466-c84eb5c617sccsb",
+      "19a2930b-b17d-4337-b55c-3379447258sccm"
+    ],
     "ProfileIds": [
+      "68357c7d6d966c2c14aa1b98a",
       "68357c7d6d966c2c14aa1b98"
     ]
   },
@@ -282,7 +285,7 @@
       "army": "Tomb Kings of Khemri - Royal Host",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -322,19 +325,20 @@
         "Thrusting Spear",
         "Shield",
         "Hand Weapon",
-        "Cohorts Master of Arms",
-        "Blade Of Nurglitch",
-        "Weeping Blade",
-        "The Fellblade",
-        "Death Globe",
-        "Hand Weapon",
         "Warbow",
+        "Standard Bearer",
+        "Musician",
         "Champion"
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "5c174e85-7a2e-455b-ac0c-sicchamp",
+      "f59bebfb-6c33-4ca8-8ea3-sicmusician",
+      "3225a188-5091-4635-9ed3-sicstandard"
+    ],
     "ProfileIds": [
+      "68357c7f6d966c2c14aab753a",
       "68357c7f6d966c2c14aab753"
     ]
   },
@@ -379,7 +383,7 @@
       "army": "Tomb Kings of Khemri - Royal Host",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -558,7 +562,7 @@
       "army": "Tomb Kings of Khemri - Royal Host",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [

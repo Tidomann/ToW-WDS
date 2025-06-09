@@ -139,9 +139,7 @@
     "OptionListIds": [
       "17a3bb38-1201-4697-9ecb-e5aecfe7d985",
       "0d0648c8-73c0-4427-b622-33a97d03e4d8",
-      "abd0f0bc-d07c-437b-ae41-78cabd36f485",
-      "3419c37e-9a90-4c9a-9049-ba5b018fadfb",
-      "de29acb7-bbdb-4dce-b64a-99ac6edbb6d1"
+      "3419c37e-9a90-4c9a-9049-ba5b018fadfb"
     ],
     "ProfileIds": [
       "68357b0c6d966c2c145ebb2a"
@@ -160,9 +158,6 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Lammasu",
-        "Bale Taurus",
-        "Great Taurus",
         "Giant Wolf",
         "Additional Hand Weapon",
         "Great Weapon",
@@ -171,21 +166,15 @@
         "Shortbow",
         "Shield",
         "Hand Weapon",
-        "Lammasu",
         "Mace Tail",
         "Sorcerous Exhalation",
-        "Bale Taurus",
         "Trampling Hooves",
-        "Goring Horns",
-        "Great Taurus"
+        "Goring Horns"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "069e5aad-66c5-43f8-bbe7-10427b6a43d0",
-      "0c789d2a-a72a-47b1-8ef2-c15e4d536bb2",
-      "281d8fcf-1b0b-406d-ad74-c9a687177b53",
-      "cfdf9999-2058-4e24-9775-065d6ce19f66",
       "99a595d8-e27a-4081-95de-8c279030410f"
     ],
     "ProfileIds": [

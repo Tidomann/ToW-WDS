@@ -2952,6 +2952,169 @@
     }
   },
   {
+    "Id": "68357ce16d966c2c14bb1b6dhound",
+    "Name": "Deepwood Hound",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "f569-fb1b-7300-4124": "Run with the Pack",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Deepwood Hound",
+        "Values": {
+          "M": "9",
+          "WS": "4",
+          "BS": "-",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357ce16d966c2c14bb1b6dcat",
+    "Name": "Forest Cat",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "f569-fb1b-7300-4124": "Run with the Pack",
+      "59a5-7eca-ee35-96ac": "Skirmishers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Forest Cat",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "-",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357ce16d966c2c14bb1b6dboar",
+    "Name": "Sylvan Boar",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "f569-fb1b-7300-4124": "Run with the Pack",
+      "59a5-7eca-ee35-96ac": "Skirmishers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sylvan Boar",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357ce16d966c2c14bb1b6dbear",
+    "Name": "Bear of Loren",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide",
+      "d077-d714-bfa4-22ae": "Cleaving Blow",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "f569-fb1b-7300-4124": "Run with the Pack",
+      "59a5-7eca-ee35-96ac": "Skirmishers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bear of Loren",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
     "Id": "68357ce16d966c2c14bb242c",
     "Name": "Champion (Ogre)",
     "Attributes": {},

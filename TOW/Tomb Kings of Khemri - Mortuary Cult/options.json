@@ -66,7 +66,7 @@
   {
     "Id": "c9fc2e66-8214-4129-82bd-761a377693c8",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c676d966c2c14a3cc64",
     "WDSDataId": "68357c676d966c2c14a3e0fc",
     "StatlineIndex": "0"
@@ -90,7 +90,7 @@
   {
     "Id": "eee6c90c-5534-40d7-8129-99531332654d",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c686d966c2c14a41e90",
     "WDSDataId": "68357c686d966c2c14a43337",
     "StatlineIndex": "0"
@@ -114,7 +114,7 @@
   {
     "Id": "7192db3e-3293-401b-9106-4443d836278a",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c696d966c2c14a47100",
     "WDSDataId": "68357c696d966c2c14a48beb",
     "StatlineIndex": "0"
@@ -138,7 +138,7 @@
   {
     "Id": "337bdaf0-d98d-4d9b-9d02-8509f8aced22",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c6a6d966c2c14a4f101",
     "WDSDataId": "68357c6b6d966c2c14a50bd2",
     "StatlineIndex": "0"
@@ -162,7 +162,7 @@
   {
     "Id": "e325e5b3-915b-4aa7-a892-5f450482af2f",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c6c6d966c2c14a57092",
     "WDSDataId": "68357c6c6d966c2c14a58522",
     "StatlineIndex": "0"
@@ -170,7 +170,7 @@
   {
     "Id": "de535de8-17d8-46df-ae71-2aefb003a0e5",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c6e6d966c2c14a60005",
     "WDSDataId": "68357c6e6d966c2c14a61c8a",
     "StatlineIndex": "0"
@@ -194,7 +194,7 @@
   {
     "Id": "67d8f38d-e26b-421f-8fc9-458806aa247c",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c706d966c2c14a69ae0",
     "WDSDataId": "68357c706d966c2c14a6af6e",
     "StatlineIndex": "0"
@@ -202,7 +202,7 @@
   {
     "Id": "9af17140-690f-418a-bdd3-b99f68070047",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c716d966c2c14a6c3e8",
     "WDSDataId": "68357c716d966c2c14a6d87a",
     "StatlineIndex": "0"
@@ -210,7 +210,7 @@
   {
     "Id": "5fc7efd0-f9ec-4f3f-a28e-124160c52e6d",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c726d966c2c14a73ef7",
     "WDSDataId": "68357c736d966c2c14a7571f",
     "StatlineIndex": "0"
@@ -250,7 +250,7 @@
   {
     "Id": "7d7a2425-5894-4d8b-8cc0-14c44eb7c169",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357c756d966c2c14a8173b",
     "WDSDataId": "68357c756d966c2c14a82c08",
     "StatlineIndex": "0"

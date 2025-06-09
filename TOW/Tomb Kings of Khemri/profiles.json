@@ -147,6 +147,38 @@
           "6dff-8099-25e8-3e3f": "The Crown Of Nehekhara",
           "9a47-6f63-1b9b-873e": "The Scarab Brooch Of Usirian"
         }
+      },
+      {
+        "Name": "Chariot of the Gods",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "8",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      },
+      {
+        "Name": "Skeletal Steed (x4)",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
       }
     ],
     "Base": {

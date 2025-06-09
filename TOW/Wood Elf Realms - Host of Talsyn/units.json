@@ -30,7 +30,7 @@
       "army": "Wood Elf Realms - Host of Talsyn",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "3"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -475,6 +475,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "f2ee01db-e6c7-4aac-97e7-616585381cacc",
       "f2ee01db-e6c7-4aac-97e7-616585381cac",
       "52202a98-08ca-45e4-b289-174aacaee7c4"
     ],
@@ -580,7 +581,7 @@
       "army": "Wood Elf Realms - Host of Talsyn",
       "height": "Standard",
       "type": "Monstrous Creature",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [

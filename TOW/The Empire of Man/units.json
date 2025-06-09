@@ -796,6 +796,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "dbc9e222-f166-42c3-80b8-bf13876b12c9c",
       "dbc9e222-f166-42c3-80b8-bf13876b12c9"
     ],
     "ProfileIds": [
@@ -1251,7 +1252,7 @@
     ]
   },
   {
-    "Id": "68357c156d966c2c148bd268",
+    "Id": "68357b406d966c2c1466eeb6",
     "Name": "Prince Ulther's Dragon Company",
     "Attributes": {
       "totalCost": "115",
@@ -1266,34 +1267,21 @@
         "Hand Weapon",
         "Brace of Pistols",
         "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Great Weapon",
         "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Standard Bearer",
         "Musician"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "2f722b2e-dba7-4b54-acce-1d163815102a",
-      "b802b865-6b2b-4acc-8031-2f2a34c730dc"
+      "48951f3b-44a6-466c-ad94-ulther",
+      "48951f3b-44a6-466c-ad94-borri",
+      "48951f3b-44a6-466c-ad94-a915f20b96d2",
+      "78d0896a-21f1-4995-9517-92d231e9fa50"
     ],
     "ProfileIds": [
-      "68357c156d966c2c148bd270",
-      "68357c156d966c2c148bd279",
-      "68357c156d966c2c148bd282",
-      "68357c156d966c2c148bd28b"
+      "68357b406d966c2c1466eed9"
     ]
   }
 ]

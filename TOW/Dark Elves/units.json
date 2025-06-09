@@ -50,9 +50,7 @@
       "1ecb103b-3a5c-41ba-bd9f-c0bc868bd4fd",
       "918e46d2-d0f7-4a15-acf6-4ee7f3e319eb",
       "62f11a4d-9d0a-454c-80db-232b2995f10e",
-      "17a0b27f-0b60-4383-8ee3-7313cae1c1cf",
-      "5a489803-da62-42ce-bb9e-d077a7bcb850",
-      "eb89138c-0083-4443-bd65-919b4ae11c37"
+      "5a489803-da62-42ce-bb9e-d077a7bcb850"
     ],
     "ProfileIds": [
       "68357b246d966c2c14628576"
@@ -107,12 +105,8 @@
       "f8a9437b-ed17-4d1e-b894-cad3b50d6255",
       "75b21997-f79c-4d49-bbf0-637e8e2c2b3b",
       "a2edfa3e-c850-4033-8ed2-a2053195b84e",
-      "39f7d14c-b2fa-4c0b-bec4-65201111f6a6",
-      "a50269bf-8f24-4664-b11d-ceae2483c7b1",
       "f58cd2b9-f875-4ea1-94b7-b47103465a2d",
-      "e0e1cca7-3774-445c-94ce-1e250de33be4",
-      "22769054-a334-4407-a007-f520443dd353",
-      "3ff51da3-8f5b-4861-bab9-48e2d8daa819"
+      "22769054-a334-4407-a007-f520443dd353"
     ],
     "ProfileIds": [
       "68357b266d966c2c1462d9e0"
@@ -131,40 +125,15 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Cold One",
-        "Dark Steed",
-        "Black Dragon",
-        "Manticore",
-        "Dark Pegasus",
         "Cauldron of Blood",
-        "Cold One Chariot",
-        "Scourgerunner Chariot",
         "Two Hand Weapons",
-        "Hand Weapon",
-        "Black Dragon",
-        "Wicked claws",
-        "Serrated Maw",
-        "Noxious breath",
-        "Manticore",
-        "Venomous tail",
-        "Dark Pegasus",
-        "Cauldron of Blood",
-        "Cavalry Spear",
-        "Repeater Crossbow",
-        "Ravager harpoon"
+        "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
       "9db05c9d-5519-42a6-a199-72c737bf5ef7",
-      "07be665f-1630-4ede-9fb6-b8dae271c34d",
-      "3e96355f-755c-4912-8ce8-420833616e64",
-      "83941267-46a3-4d70-a77d-6815b217a630",
-      "aeb30240-5683-4b0d-8e4e-c0d0d5fdd6b9",
-      "c9ca5600-dd0b-4266-85e9-148a11fb935f",
-      "a3dbee30-1f4f-4a36-a8f5-19d81e8c9e7b",
-      "7c66317f-435b-4ab5-8f65-7ae8d2fb6195",
-      "ed911941-078f-40fe-b719-8d2ba9ab3b73"
+      "a3dbee30-1f4f-4a36-a8f5-19d81e8c9e7b"
     ],
     "ProfileIds": [
       "68357b286d966c2c14633cd9"
@@ -183,41 +152,22 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Cold One",
-        "Dark Steed",
-        "Black Dragon",
         "Manticore",
-        "Dark Pegasus",
-        "Cauldron of Blood",
-        "Cold One Chariot",
         "Scourgerunner Chariot",
         "Cavalry Spear",
         "Repeater Crossbow",
         "Shield",
         "Hand Weapon",
         "Whip",
-        "Black Dragon",
-        "Wicked claws",
-        "Serrated Maw",
-        "Noxious breath",
         "Manticore",
         "Venomous tail",
-        "Dark Pegasus",
-        "Cauldron of Blood",
         "Two Hand Weapons",
         "Ravager harpoon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "806d0268-1551-4cb1-aa4d-fc93a85152e1",
-      "e7d2bb4c-0b1e-40e6-b886-d3c9d988850c",
-      "6358d73c-ca69-448a-a00d-2e212cdc2330",
-      "131630eb-af78-4a85-aa96-dc951df474c0",
       "9d5a503b-9652-416e-8d39-f52b52da6c3b",
-      "e7702cfd-1742-4201-aea7-c10c411fcd8e",
-      "5f8cf005-9726-469b-9993-89f1677372dc",
-      "53199a5c-5c48-429c-8aa6-15eddadbf6f4",
       "df26dadc-3282-4a0a-ab93-bd65dc6d43fa"
     ],
     "ProfileIds": [
@@ -264,25 +214,9 @@
       "FullOptions": [
         "Cold One",
         "Dark Steed",
-        "Black Dragon",
-        "Manticore",
         "Dark Pegasus",
-        "Cauldron of Blood",
-        "Cold One Chariot",
-        "Scourgerunner Chariot",
         "Hand Weapon",
-        "Black Dragon",
-        "Wicked claws",
-        "Serrated Maw",
-        "Noxious breath",
-        "Manticore",
-        "Venomous tail",
-        "Dark Pegasus",
-        "Cauldron of Blood",
-        "Two Hand Weapons",
-        "Cavalry Spear",
-        "Repeater Crossbow",
-        "Ravager harpoon"
+        "Dark Pegasus"
       ]
     },
     "RuleIds": {},
@@ -290,12 +224,7 @@
       "16ee551d-141f-4b74-96e3-90d4b0e50714",
       "f7beff8a-afeb-4b4e-852e-59433f27414e",
       "7e18f8e7-4b09-418f-8708-89e2714ddc9a",
-      "8bbf4823-b183-4fb8-a759-1c1de599c511",
-      "35084a5e-0e6d-456d-b5f0-793b4e7cd7f9",
-      "5b330dd6-1f1f-4ac9-8050-f112c6a3f764",
-      "6881c610-8f0c-46c0-94c0-29d1cf830031",
-      "7fcb5a43-f1b3-4a43-8ad3-25f9d01748c4",
-      "49438fcc-fbce-4f30-a16d-92503f066d46"
+      "5b330dd6-1f1f-4ac9-8050-f112c6a3f764"
     ],
     "ProfileIds": [
       "68357b2b6d966c2c1463ec1f"
@@ -317,24 +246,15 @@
         "Cold One",
         "Dark Steed",
         "Black Dragon",
-        "Manticore",
         "Dark Pegasus",
-        "Cauldron of Blood",
-        "Cold One Chariot",
-        "Scourgerunner Chariot",
         "Hand Weapon",
         "Black Dragon",
         "Wicked claws",
         "Serrated Maw",
         "Noxious breath",
-        "Manticore",
         "Venomous tail",
         "Dark Pegasus",
-        "Cauldron of Blood",
-        "Two Hand Weapons",
-        "Cavalry Spear",
-        "Repeater Crossbow",
-        "Ravager harpoon"
+        "Cavalry Spear"
       ]
     },
     "RuleIds": {},
@@ -343,11 +263,7 @@
       "07409f7f-6b93-4a65-bf78-5de3e912959b",
       "90aefa14-320e-40b8-84ee-691cc0db1d9b",
       "efefaab7-9a16-481d-b1f8-7343e25508f4",
-      "2c5afb6f-6432-418b-8256-69b778708523",
-      "c217ec7c-813f-4281-bb1e-0a50349db9dc",
-      "ce92df56-839b-48bb-90c5-63e83dc81e85",
-      "67ebc9a4-8293-4050-994b-40512e37ecd1",
-      "08cecc84-a8d8-41c4-a20a-fcf29424e0f9"
+      "c217ec7c-813f-4281-bb1e-0a50349db9dc"
     ],
     "ProfileIds": [
       "68357b2d6d966c2c14644a58"
@@ -715,7 +631,7 @@
       "army": "Dark Elves",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [

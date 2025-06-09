@@ -2722,6 +2722,49 @@
     }
   },
   {
+    "Id": "68357bd76d966c2c148290f4c",
+    "Name": "Boss (Goblin)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "6cb0-9d5a-f165-e272": "Fear of Elves",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357bd76d966c2c14829c88",
     "Name": "Spider Rider",
     "Attributes": {},
@@ -2753,6 +2796,69 @@
           "I": "3",
           "A": "1",
           "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Giant Spider",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357bd76d966c2c14829c88c",
+    "Name": "Boss (Spider Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "6cb0-9d5a-f165-e272": "Fear of Elves",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
         },
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon",
@@ -2851,6 +2957,69 @@
     }
   },
   {
+    "Id": "68357bd76d966c2c1482a810c",
+    "Name": "Boss (Wolf Rider)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "afa3-a46a-2608-f62c": "Chariot Runners",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "6cb0-9d5a-f165-e272": "Fear of Elves",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Giant Wolf",
+        "Values": {
+          "M": "9",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
     "Id": "68357bd86d966c2c1482b41d",
     "Name": "Night Goblin",
     "Attributes": {},
@@ -2879,6 +3048,49 @@
           "I": "3",
           "A": "1",
           "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bd86d966c2c1482b41dc",
+    "Name": "Boss (Night Goblin)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "6cb0-9d5a-f165-e272": "Fear of Elves",
+      "f4b3-18af-16bf-78dd": "Hatred (Dwarfs)",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
         },
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon",
@@ -2960,6 +3172,49 @@
           "I": "3",
           "A": "1",
           "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bd86d966c2c1482c25ac",
+    "Name": "Boss (Orc)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "78e4-fffe-6662-41fe": "Ignore Goblin Panic",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e" : "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
         },
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon"
@@ -3366,6 +3621,68 @@
     }
   },
   {
+    "Id": "68357bda6d966c2c148327d6c",
+    "Name": "Boss (Squig Hopper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "f4b3-18af-16bf-78dd": "Hatred (Dwarfs)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "5b67-8535-146c-7cea": "Open Order",
+      "4924-fc1f-bcd-746a": "Random Movement",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bounder Squig",
+        "Values": {
+          "M": "3d6",
+          "WS": "4",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "2",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "82e4-fca1-31c7-48f9": "Huge gob"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357bdb6d966c2c148339c7",
     "Name": "Boar Boy",
     "Attributes": {},
@@ -3399,6 +3716,71 @@
           "I": "3",
           "A": "1",
           "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      },
+      {
+        "Name": "War Boar",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357bdb6d966c2c148339c7c",
+    "Name": "Boss (Boar Boy)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "b592-330-5a29-162f": "Choppas",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "78e4-fffe-6662-41fe": "Ignore Goblin Panic",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c392-507a-daf5-126": "Tusker Charge",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Boss",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
         },
         "RuleIds": {
           "6d4a-7733-d725-a267": "Hand Weapon",
@@ -4552,6 +4934,90 @@
           "dbb2-4d85-84c2-528c": "Light Armour",
           "40f2-dd77-f0ca-3663": "Musician",
           "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bd86d966c2c1482c25aob",
+    "Name": "Orc Bully",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "b592-330-5a29-162f": "Choppas",
+      "f03b-fc52-c489-f365": "Bully"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Orc Boy",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "7505-7edf-c3de-57a6": "Whip"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "68357bd86d966c2c1482bfa7h",
+    "Name": "Squig Herder",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "f4b3-18af-16bf-78dd": "Hatred (Dwarfs)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "5b67-8535-146c-7cea": "Open Order",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "3335-f4ef-a032-9cb8": "Squigs Go Wild",
+      "505f-e12d-2e36-31d0": "Warband"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Squig Herder",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
         }
       }
     ],

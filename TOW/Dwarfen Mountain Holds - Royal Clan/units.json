@@ -326,7 +326,7 @@
     ]
   },
   {
-    "Id": "68357b4c6d966c2c1468a3f3",
+    "Id": "68357b3d6d966c2c146691f5",
     "Name": "Slayers",
     "Attributes": {
       "totalCost": "12",
@@ -340,16 +340,17 @@
       "FullOptions": [
         "Hand Weapon",
         "Additional Hand Weapon",
-        "Great Weapon",
-        "Hand Weapon",
-        "Additional Hand Weapon",
         "Great Weapon"
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "3fc301a3-fd3b-4e19-82a5-d38e71e990cfs",
+      "5e839955-2c2b-4a53-92d6-6d190dc1fdeas"
+    ],
     "ProfileIds": [
-      "68357b4c6d966c2c1468a403"
+      "68357b4c6d966c2c1468a403",      
+      "68357b4c6d966c2c1468a403g"
     ]
   },
   {
@@ -693,15 +694,13 @@
     "AttributeLists": {
       "FullOptions": [
         "Goblin-Hewer",
-        "Hand Weapon",
         "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
-      "68357b506d966c2c14691d1c",
-      "68357b506d966c2c14691d41"
+      "68357b506d966c2c14691d1c"
     ]
   },
   {
@@ -803,7 +802,7 @@
     ]
   },
   {
-    "Id": "68357b516d966c2c14694a55",
+    "Id": "68357b406d966c2c1466eeb6",
     "Name": "Prince Ulther's Dragon Company",
     "Attributes": {
       "totalCost": "115",
@@ -818,34 +817,21 @@
         "Hand Weapon",
         "Brace of Pistols",
         "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Great Weapon",
         "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Standard Bearer",
         "Musician"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
-      "1836d55e-4b69-4b3c-9ed8-d1e6e61c2492",
-      "7b565789-b71a-4eb9-b745-de5b677fed21"
+      "48951f3b-44a6-466c-ad94-ulther",
+      "48951f3b-44a6-466c-ad94-borri",
+      "48951f3b-44a6-466c-ad94-a915f20b96d2",
+      "78d0896a-21f1-4995-9517-92d231e9fa50"
     ],
     "ProfileIds": [
-      "68357b516d966c2c14694a5d",
-      "68357b516d966c2c14694a66",
-      "68357b516d966c2c14694a6f",
-      "68357b516d966c2c14694a78"
+      "68357b406d966c2c1466eed9"
     ]
   }
 ]

@@ -30,7 +30,7 @@
       "army": "Wood Elf Realms",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "3"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -675,7 +675,7 @@
       "army": "Wood Elf Realms",
       "height": "Standard",
       "type": "Monstrous Creature",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -753,16 +753,16 @@
     },
     "AttributeLists": {
       "FullOptions": [
-        "Hand Weapon",
-        "Hand Weapon",
-        "Hand Weapon",
-        "Hand Weapon",
         "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
+      "68357ce16d966c2c14bb1b6dhound",
+      "68357ce16d966c2c14bb1b6dcat",
+      "68357ce16d966c2c14bb1b6dboar",
+      "68357ce16d966c2c14bb1b6dbear",
       "68357ce16d966c2c14bb1b6d"
     ]
   },

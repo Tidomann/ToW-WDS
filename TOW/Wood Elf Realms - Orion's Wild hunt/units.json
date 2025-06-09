@@ -5,7 +5,7 @@
     "Attributes": {
       "totalCost": "170",
       "category": "Named Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -27,10 +27,10 @@
     "Attributes": {
       "totalCost": "455",
       "category": "Named Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "3"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -50,7 +50,7 @@
     "Attributes": {
       "totalCost": "70",
       "category": "Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -93,7 +93,7 @@
     "Attributes": {
       "totalCost": "135",
       "category": "Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -139,7 +139,7 @@
     "Attributes": {
       "totalCost": "85",
       "category": "Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -163,7 +163,7 @@
     "Attributes": {
       "totalCost": "80",
       "category": "Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -199,7 +199,7 @@
     "Attributes": {
       "totalCost": "85",
       "category": "Characters",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -223,7 +223,7 @@
     "Attributes": {
       "totalCost": "18",
       "category": "Core",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -255,7 +255,7 @@
     "Attributes": {
       "totalCost": "27",
       "category": "Core",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -287,7 +287,7 @@
     "Attributes": {
       "totalCost": "24",
       "category": "Special",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -318,7 +318,7 @@
     "Attributes": {
       "totalCost": "16",
       "category": "Special",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -350,7 +350,7 @@
     "Attributes": {
       "totalCost": "44",
       "category": "Special",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Monstrous Cavalry",
       "defaultFront": "3"
@@ -380,7 +380,7 @@
     "Attributes": {
       "totalCost": "27",
       "category": "Special",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -412,23 +412,23 @@
     "Attributes": {
       "totalCost": "11",
       "category": "Special",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
     },
     "AttributeLists": {
       "FullOptions": [
-        "Hand Weapon",
-        "Hand Weapon",
-        "Hand Weapon",
-        "Hand Weapon",
         "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
+      "68357ce16d966c2c14bb1b6dhound",
+      "68357ce16d966c2c14bb1b6dcat",
+      "68357ce16d966c2c14bb1b6dboar",
+      "68357ce16d966c2c14bb1b6dbear",
       "68357cfb6d966c2c14bf3353"
     ]
   },
@@ -438,7 +438,7 @@
     "Attributes": {
       "totalCost": "13",
       "category": "Rare",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -469,10 +469,10 @@
     "Attributes": {
       "totalCost": "60",
       "category": "Rare",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Monstrous Creature",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -493,7 +493,7 @@
     "Attributes": {
       "totalCost": "16",
       "category": "Rare",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -520,7 +520,7 @@
     "Attributes": {
       "totalCost": "14",
       "category": "Rare",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -552,7 +552,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -585,7 +585,7 @@
     "Attributes": {
       "totalCost": "300",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -607,7 +607,7 @@
     "Attributes": {
       "totalCost": "50",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -629,7 +629,7 @@
     "Attributes": {
       "totalCost": "8",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -663,7 +663,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -693,7 +693,7 @@
     "Attributes": {
       "totalCost": "115",
       "category": "Mercenaries",
-      "army": "Wood Elf Realms - Orion's Wild hunt",
+      "army": "Wood Elf Realms - Orion's Wild Hunt",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"

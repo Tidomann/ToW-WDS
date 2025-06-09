@@ -392,6 +392,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "f68354e8-4716-44ec-b190-bb935ca17d8bc",
       "48f379e8-2923-4bae-95a8-fcfa35334caa",
       "cee852da-8ebf-44aa-a14c-05524cc466d1"
     ],
@@ -424,6 +425,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "92ca19ff-c876-4851-aa9a-4c53e843ecbbc",
       "f9ea66da-1375-4df3-b308-29cb3f7c63e9",
       "6ea1de8d-a755-4b65-8767-c63a8221d10a"
     ],
@@ -456,6 +458,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "9424be4f-f104-428c-b106-f2864de8ec0bc",
       "b3a5f1bf-93b4-4679-b79a-11645377d4ca",
       "eeb03195-dd8f-4c5b-8d3b-7726954be888"
     ],
@@ -490,6 +493,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "873910b4-40a0-40d1-a268-5221484906f8c",
       "c5325980-c52d-4c72-9e25-f547bef60f2e",
       "84179f11-bd61-4379-b1a5-a14fd6fa9b72"
     ],
@@ -581,7 +585,7 @@
       "army": "Orc and Goblin Tribes - Troll Horde",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -625,6 +629,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "441006dd-cfa2-479a-855e-7d626f3e20b2c",
       "64f30fb5-f8aa-4ac8-9b6a-dc44f5e2d823",
       "5469f8db-8023-47b6-bd85-70052e17f76e"
     ],

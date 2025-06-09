@@ -62,9 +62,7 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [
-      "d08cd9e2-2a67-4caf-b537-fb42e6ba72cc"
-    ],
+    "OptionListIds": [],
     "ProfileIds": [
       "68357c436d966c2c1497c667"
     ]
@@ -328,7 +326,7 @@
       "army": "Tomb Kings of Khemri",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -511,7 +509,7 @@
       "army": "Tomb Kings of Khemri",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [

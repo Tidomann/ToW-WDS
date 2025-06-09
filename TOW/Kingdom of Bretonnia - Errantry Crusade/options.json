@@ -202,7 +202,7 @@
   {
     "Id": "ee56f404-0d12-4cdd-8287-a6798e81f02c",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357ba56d966c2c14785dd4",
     "WDSDataId": "68357ba56d966c2c14786f3a",
     "StatlineIndex": "0"
@@ -226,7 +226,7 @@
   {
     "Id": "772952a1-1002-49bf-89b6-ac47c8694f0a",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357ba66d966c2c1478a2e4",
     "WDSDataId": "68357ba66d966c2c1478ba37",
     "StatlineIndex": "0"
@@ -248,6 +248,14 @@
     "StatlineIndex": "1"
   },
   {
+    "Id": "a4d9fa1a-1ae1-4b7d-b74d-519b304149f5c",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357ba76d966c2c14790008",
+    "WDSDataId": "68357ba76d966c2c1479000bc",
+    "StatlineIndex": "1"
+  },
+  {
     "Id": "a4d9fa1a-1ae1-4b7d-b74d-519b304149f5",
     "Name": "Musician",
     "Type": "ModelAddRule",
@@ -266,7 +274,7 @@
   {
     "Id": "b08ede51-0346-467c-b255-804f995b98ca",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357ba86d966c2c14795dbc",
     "WDSDataId": "68357ba86d966c2c14796d31",
     "StatlineIndex": "0"
@@ -288,8 +296,16 @@
     "StatlineIndex": "1"
   },
   {
-    "Id": "3304c54e-87bf-42bb-9d61-8856d472bdc3",
+    "Id": "62a7fb4c-e2aa-45ee-86fa-46ca607c0eafy",
     "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357ba96d966c2c1479aaca",
+    "WDSDataId": "68357b886d966c2c147278a2y",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "3304c54e-87bf-42bb-9d61-8856d472bdc3",
+    "Name": "Grail Monk",
     "Type": "ModelAdd",
     "OwnerId": "68357ba96d966c2c1479aaca",
     "WDSDataId": "68357ba96d966c2c1479ba51",
@@ -314,7 +330,7 @@
   {
     "Id": "5feb237f-efb2-4a34-9215-42fc8a768a36",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357baa6d966c2c1479e892",
     "WDSDataId": "68357baa6d966c2c1479f81a",
     "StatlineIndex": "0"
@@ -338,7 +354,7 @@
   {
     "Id": "ff9e31b7-baa1-40be-a6ba-131950c4b8c1",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bab6d966c2c147a265e",
     "WDSDataId": "68357bab6d966c2c147a37ba",
     "StatlineIndex": "0"
@@ -362,7 +378,7 @@
   {
     "Id": "a9eb157c-a7ef-4033-80ef-914304c1ff0e",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bab6d966c2c147a6b5a",
     "WDSDataId": "68357bac6d966c2c147a82f8",
     "StatlineIndex": "0"
@@ -386,7 +402,7 @@
   {
     "Id": "83906e7d-733c-453f-96ca-58c5d613af68",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bad6d966c2c147ad8dc",
     "WDSDataId": "68357bad6d966c2c147af092",
     "StatlineIndex": "0"
@@ -410,7 +426,7 @@
   {
     "Id": "d098f6f7-3efc-46b8-95a6-c07e1859e84b",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bae6d966c2c147b3740",
     "WDSDataId": "68357bae6d966c2c147b46ee",
     "StatlineIndex": "0"
@@ -434,7 +450,7 @@
   {
     "Id": "3083315b-6f2a-4ddf-a1dd-0e35e816e701",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357baf6d966c2c147b7588",
     "WDSDataId": "68357baf6d966c2c147b8892",
     "StatlineIndex": "0"
@@ -458,7 +474,7 @@
   {
     "Id": "66e72dd8-f837-4dd7-85ab-310fa98cfc93",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bb06d966c2c147bdb54",
     "WDSDataId": "68357bb16d966c2c147bf2f1",
     "StatlineIndex": "0"
@@ -498,7 +514,7 @@
   {
     "Id": "f269c375-6312-4121-ab34-90e6aa7b3f06",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bb26d966c2c147c78c0",
     "WDSDataId": "68357bb36d966c2c147c886f",
     "StatlineIndex": "0"
@@ -506,7 +522,7 @@
   {
     "Id": "4084ac53-a797-4c97-bca3-822ac11801bd",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bb36d966c2c147c97de",
     "WDSDataId": "68357bb36d966c2c147caf65",
     "StatlineIndex": "0"
@@ -542,5 +558,21 @@
     "OwnerId": "68357bb46d966c2c147cf5c6",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "95fb1a63-83a1-455b-9866-grail-reliquae",
+    "Name": "Grail Reliquae",
+    "Type": "ModelAdd",
+    "OwnerId": "68357ba96d966c2c14799b64",
+    "WDSDataId": "68357b886d966c2c147278a2ygrail",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "95fb1a63-83a1-455b-9866-grail-reliquae2",
+    "Name": "Grail Reliquae",
+    "Type": "ModelAdd",
+    "OwnerId": "68357ba56d966c2c14784e6d",
+    "WDSDataId": "68357b886d966c2c147278a2ygrail",
+    "StatlineIndex": "0"
   }
 ]

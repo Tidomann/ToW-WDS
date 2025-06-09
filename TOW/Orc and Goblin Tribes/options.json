@@ -322,7 +322,7 @@
   {
     "Id": "39f67a58-5aa6-4e19-a9b6-0d7e0b0e2f4f",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bd66d966c2c14825ded",
     "WDSDataId": "68357bd66d966c2c148270ab",
     "StatlineIndex": "0"
@@ -344,6 +344,14 @@
     "StatlineIndex": "1"
   },
   {
+    "Id": "f68354e8-4716-44ec-b190-bb935ca17d8bc",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bd76d966c2c148290f1",
+    "WDSDataId": "68357bd76d966c2c148290f4c",
+    "StatlineIndex": "0"
+  },
+  {
     "Id": "f68354e8-4716-44ec-b190-bb935ca17d8b",
     "Name": "Musician",
     "Type": "ModelAddRule",
@@ -358,6 +366,14 @@
     "OwnerId": "68357bd76d966c2c148290f1",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "92ca19ff-c876-4851-aa9a-4c53e843ecbbc",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bd76d966c2c14829c85",
+    "WDSDataId": "68357bd76d966c2c14829c88c",
+    "StatlineIndex": "0"
   },
   {
     "Id": "92ca19ff-c876-4851-aa9a-4c53e843ecbb",
@@ -376,6 +392,14 @@
     "StatlineIndex": "1"
   },
   {
+    "Id": "9424be4f-f104-428c-b106-f2864de8ec0bc",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bd76d966c2c1482a80d",
+    "WDSDataId": "68357bd76d966c2c1482a810c",
+    "StatlineIndex": "0"
+  },
+  {
     "Id": "9424be4f-f104-428c-b106-f2864de8ec0b",
     "Name": "Musician",
     "Type": "ModelAddRule",
@@ -392,6 +416,14 @@
     "StatlineIndex": "1"
   },
   {
+    "Id": "36fe3a1b-f6d5-412d-995a-3f1ae058fd8ac",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bd86d966c2c1482b415",
+    "WDSDataId": "68357bd86d966c2c1482b41dc",
+    "StatlineIndex": "0"
+  },
+  {
     "Id": "36fe3a1b-f6d5-412d-995a-3f1ae058fd8a",
     "Name": "Musician",
     "Type": "ModelAddRule",
@@ -406,6 +438,14 @@
     "OwnerId": "68357bd86d966c2c1482b415",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "873910b4-40a0-40d1-a268-5221484906f8c",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bd86d966c2c1482c257",
+    "WDSDataId": "68357bd86d966c2c1482c25ac",
+    "StatlineIndex": "0"
   },
   {
     "Id": "873910b4-40a0-40d1-a268-5221484906f8",
@@ -426,7 +466,7 @@
   {
     "Id": "526a52ef-7707-461a-b084-2385ff974715",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bd96d966c2c1482e954",
     "WDSDataId": "68357bd96d966c2c1482fc0c",
     "StatlineIndex": "0"
@@ -456,6 +496,14 @@
     "StatlineIndex": "1"
   },
   {
+    "Id": "441006dd-cfa2-479a-855e-7d626f3e20b2c",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bdb6d966c2c148339c4",
+    "WDSDataId": "68357bdb6d966c2c148339c7c",
+    "StatlineIndex": "0"
+  },
+  {
     "Id": "441006dd-cfa2-479a-855e-7d626f3e20b2",
     "Name": "Musician",
     "Type": "ModelAddRule",
@@ -474,7 +522,7 @@
   {
     "Id": "59edc48a-9436-42f3-b970-0e15bdc5ce5e",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bdd6d966c2c148381a1",
     "WDSDataId": "68357bde6d966c2c14838801",
     "StatlineIndex": "0"
@@ -514,7 +562,7 @@
   {
     "Id": "d456252e-6493-4756-bda6-ed82fcc0c9e0",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357bdf6d966c2c1483a815",
     "WDSDataId": "68357bdf6d966c2c1483ab1a",
     "StatlineIndex": "0"
@@ -534,5 +582,37 @@
     "OwnerId": "68357bdf6d966c2c1483addf",
     "WDSDataId": "bcf8-d942-102e-b155",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "873910b4-40a0-40d1-a268-522148490000c",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "68357bda6d966c2c148327ce",
+    "WDSDataId": "68357bda6d966c2c148327d6c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "04cbbc86-b188-4bbc-99fb-29911bc6ed03obb",
+    "Name": "Orc Bully",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bda6d966c2c14831f08",
+    "WDSDataId": "68357bd86d966c2c1482c25aob",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "04cbbc86-b188-4bbc-99fb-29911bc6ed03obc",
+    "Name": "Orc Bully",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bdc6d966c2c14836c6e",
+    "WDSDataId": "68357bd86d966c2c1482c25aob",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "04cbbc86-b188-4bbc-99fb-29911bc6ed03obl",
+    "Name": "Orc Bully",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bdd6d966c2c148371e6",
+    "WDSDataId": "68357bd86d966c2c1482c25aob",
+    "StatlineIndex": "0"
   }
 ]

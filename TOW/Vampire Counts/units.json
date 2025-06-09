@@ -409,7 +409,7 @@
       "army": "Vampire Counts",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -742,7 +742,7 @@
       "army": "Vampire Counts",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [

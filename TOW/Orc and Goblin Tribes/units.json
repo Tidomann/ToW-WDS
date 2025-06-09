@@ -564,6 +564,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "f68354e8-4716-44ec-b190-bb935ca17d8bc",
       "f68354e8-4716-44ec-b190-bb935ca17d8b",
       "3cacd137-fa59-4341-8291-d49778c58494"
     ],
@@ -596,6 +597,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "92ca19ff-c876-4851-aa9a-4c53e843ecbbc",
       "92ca19ff-c876-4851-aa9a-4c53e843ecbb",
       "b938074c-a144-4647-b556-7303a6f38ca3"
     ],
@@ -628,6 +630,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "9424be4f-f104-428c-b106-f2864de8ec0bc",
       "9424be4f-f104-428c-b106-f2864de8ec0b",
       "a776861c-4a8d-4ea4-8989-7d1a862d70b7"
     ],
@@ -659,6 +662,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "36fe3a1b-f6d5-412d-995a-3f1ae058fd8ac",
       "36fe3a1b-f6d5-412d-995a-3f1ae058fd8a",
       "91e25dcc-c034-4a1f-b167-b8e0df55e9e4"
     ],
@@ -687,6 +691,7 @@
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
+      "68357bd86d966c2c1482bfa7h",
       "68357bd86d966c2c1482bfa7"
     ]
   },
@@ -717,6 +722,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "873910b4-40a0-40d1-a268-5221484906f8c",
       "873910b4-40a0-40d1-a268-5221484906f8",
       "087457fd-e68b-4fe9-a532-45634f06c4f4"
     ],
@@ -733,7 +739,7 @@
       "army": "Orc and Goblin Tribes",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -825,7 +831,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "04cbbc86-b188-4bbc-99fb-29911bc6ed03obb"
+    ],
     "ProfileIds": [
       "68357bda6d966c2c14831f10"
     ]
@@ -839,7 +847,7 @@
       "army": "Orc and Goblin Tribes",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -878,7 +886,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "873910b4-40a0-40d1-a268-522148490000c"
+    ],
     "ProfileIds": [
       "68357bda6d966c2c148327d6"
     ]
@@ -908,6 +918,7 @@
     },
     "RuleIds": {},
     "OptionListIds": [
+      "441006dd-cfa2-479a-855e-7d626f3e20b2c",
       "441006dd-cfa2-479a-855e-7d626f3e20b2",
       "650597ca-fa27-473a-bb87-9cc554efcb5a"
     ],
@@ -974,7 +985,7 @@
       "army": "Orc and Goblin Tribes",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -1059,7 +1070,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "04cbbc86-b188-4bbc-99fb-29911bc6ed03obc"
+    ],
     "ProfileIds": [
       "68357bdc6d966c2c14836c76"
     ]
@@ -1106,7 +1119,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "04cbbc86-b188-4bbc-99fb-29911bc6ed03obl"
+    ],
     "ProfileIds": [
       "68357bdd6d966c2c148371ee"
     ]

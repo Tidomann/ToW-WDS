@@ -337,7 +337,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -433,7 +433,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -658,7 +658,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -810,7 +810,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -926,7 +926,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -948,7 +948,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -1194,7 +1194,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -1216,7 +1216,7 @@
       "army": "Daemons of Chaos",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [

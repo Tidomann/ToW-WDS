@@ -27,6 +27,27 @@
     ]
   },
   {
+    "Id": "68357bfa6d966c2c14875de8",
+    "Name": "Packmaster",
+    "Attributes": {
+      "totalCost": "0",
+      "category": "Uncategorized",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "68357bfe6d966c2c148packmaster"
+    ]
+  },
+  {
     "Id": "68357bfa6d966c2c148760e1",
     "Name": "Grey Seer",
     "Attributes": {
@@ -234,7 +255,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "752df0d6-6536-4f6b-90d4-1e2859a4e5femmgr"
+    ],
     "ProfileIds": [
       "68357bfc6d966c2c1487c4c9"
     ]
@@ -394,7 +417,9 @@
       ]
     },
     "RuleIds": {},
-    "OptionListIds": [],
+    "OptionListIds": [
+      "752df0d6-6536-4f6b-90d4-1e2859a4e5femmro"
+    ],
     "ProfileIds": [
       "68357bfe6d966c2c1488184b"
     ]
@@ -530,8 +555,7 @@
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
-      "68357c006d966c2c1488394f",
-      "68357c006d966c2c14883954"
+      "68357c006d966c2c1488394f"
     ]
   },
   {
@@ -719,6 +743,67 @@
       "68357c026d966c2c14886b31",
       "68357c026d966c2c14886b3a",
       "68357c026d966c2c14886b43"
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f0a0stormvermin",
+    "Name": "Stormvermin",
+    "Attributes": {
+      "totalCost": "10",
+      "category": "Core",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Halberds",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b559d973-6e46-4380-8b89-svchampion",
+      "3096f824-f792-405d-b757-svmusician",
+      "87ed83a3-facd-4b1e-95ea-svstandard"
+    ],
+    "ProfileIds": [
+      "68357bfe6d966c2c148stormvermin"
+    ]
+  },
+  {
+    "Id": "68357bfe6d966c2c1487f0a0clanrats",
+    "Name": "Clanrats",
+    "Attributes": {
+      "totalCost": "4",
+      "category": "Core",
+      "army": "Skaven",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Thrusting Spear",
+        "Shield",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b559d973-6e46-4380-8b89-crchampion",
+      "3096f824-f792-405d-b757-crmusician",
+      "87ed83a3-facd-4b1e-95ea-crstandard"
+    ],
+    "ProfileIds": [
+      "68357bfe6d966c2c148clanrats"
     ]
   }
 ]

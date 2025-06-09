@@ -404,58 +404,6 @@
           "6d4a-7733-d725-a267": "Hand Weapon",
           "c56e-8d1b-bb4-de99": "Heavy Armour"
         }
-      },
-      {
-        "Name": "Chaos Chariot",
-        "Values": {
-          "M": "-",
-          "WS": "-",
-          "BS": "-",
-          "S": "5",
-          "T": "5",
-          "W": "(+4)",
-          "I": "-",
-          "A": "-",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 3+"
-        }
-      },
-      {
-        "Name": "Chaos Steed",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      },
-      {
-        "Name": "Chariot Charioteer",
-        "Values": {
-          "M": "-",
-          "WS": "5",
-          "BS": "3",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "4",
-          "A": "1",
-          "Ld": "8"
-        },
-        "RuleIds": {
-          "98f8-9d8-94cd-3379": "Halberd",
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
       }
     ],
     "Base": {
@@ -976,58 +924,6 @@
           "9a1d-38b0-7d7-7552": "Full Plate Armour",
           "6d4a-7733-d725-a267": "Hand Weapon"
         }
-      },
-      {
-        "Name": "Chaos Chariot",
-        "Values": {
-          "M": "-",
-          "WS": "-",
-          "BS": "-",
-          "S": "5",
-          "T": "5",
-          "W": "(+4)",
-          "I": "-",
-          "A": "-",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 3+"
-        }
-      },
-      {
-        "Name": "Chaos Steed",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      },
-      {
-        "Name": "Chariot Charioteer",
-        "Values": {
-          "M": "-",
-          "WS": "5",
-          "BS": "3",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "4",
-          "A": "1",
-          "Ld": "8"
-        },
-        "RuleIds": {
-          "98f8-9d8-94cd-3379": "Halberd",
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
       }
     ],
     "Base": {
@@ -1486,58 +1382,6 @@
           "6d4a-7733-d725-a267": "Hand Weapon",
           "c56e-8d1b-bb4-de99": "Heavy Armour"
         }
-      },
-      {
-        "Name": "Chaos Chariot",
-        "Values": {
-          "M": "-",
-          "WS": "-",
-          "BS": "-",
-          "S": "5",
-          "T": "5",
-          "W": "(+4)",
-          "I": "-",
-          "A": "-",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 3+"
-        }
-      },
-      {
-        "Name": "Chaos Steed",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      },
-      {
-        "Name": "Chariot Charioteer",
-        "Values": {
-          "M": "-",
-          "WS": "5",
-          "BS": "3",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "4",
-          "A": "1",
-          "Ld": "8"
-        },
-        "RuleIds": {
-          "98f8-9d8-94cd-3379": "Halberd",
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
       }
     ],
     "Base": {
@@ -1772,58 +1616,6 @@
           "256b-6a1-239c-178e": "Daemonology",
           "6d4a-7733-d725-a267": "Hand Weapon",
           "dbb2-4d85-84c2-528c": "Light Armour"
-        }
-      },
-      {
-        "Name": "Chaos Chariot",
-        "Values": {
-          "M": "-",
-          "WS": "-",
-          "BS": "-",
-          "S": "5",
-          "T": "5",
-          "W": "(+4)",
-          "I": "-",
-          "A": "-",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 3+"
-        }
-      },
-      {
-        "Name": "Chaos Steed",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      },
-      {
-        "Name": "Chariot Charioteer",
-        "Values": {
-          "M": "-",
-          "WS": "5",
-          "BS": "3",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "4",
-          "A": "1",
-          "Ld": "8"
-        },
-        "RuleIds": {
-          "98f8-9d8-94cd-3379": "Halberd",
-          "6d4a-7733-d725-a267": "Hand Weapon"
         }
       }
     ],
@@ -2171,58 +1963,6 @@
           "256b-6a1-239c-178e": "Daemonology",
           "6d4a-7733-d725-a267": "Hand Weapon",
           "c56e-8d1b-bb4-de99": "Heavy Armour"
-        }
-      },
-      {
-        "Name": "Chaos Chariot",
-        "Values": {
-          "M": "-",
-          "WS": "-",
-          "BS": "-",
-          "S": "5",
-          "T": "5",
-          "W": "(+4)",
-          "I": "-",
-          "A": "-",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "e099-1ebb-9e85-34c8": "Armour Value : 3+"
-        }
-      },
-      {
-        "Name": "Chaos Steed",
-        "Values": {
-          "M": "7",
-          "WS": "3",
-          "BS": "-",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "3",
-          "A": "1",
-          "Ld": "-"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon"
-        }
-      },
-      {
-        "Name": "Chariot Charioteer",
-        "Values": {
-          "M": "-",
-          "WS": "5",
-          "BS": "3",
-          "S": "4",
-          "T": "-",
-          "W": "-",
-          "I": "4",
-          "A": "1",
-          "Ld": "8"
-        },
-        "RuleIds": {
-          "98f8-9d8-94cd-3379": "Halberd",
-          "6d4a-7733-d725-a267": "Hand Weapon"
         }
       }
     ],
@@ -4079,6 +3819,48 @@
       "Size": {
         "width": "25",
         "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cab6d966c2c14b328fhandler",
+    "Name": "Chaos Warhound Handler",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e746-bbf6-d1b9-b9c7": "Handler",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "fcf3-41f3-60c8-7deb": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "691e-10ec-4f7c-a2c4": "Vanguard"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Warhound Handler",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
       }
     }
   }

@@ -147,6 +147,38 @@
           "6dff-8099-25e8-3e3f": "The Crown Of Nehekhara",
           "9a47-6f63-1b9b-873e": "The Scarab Brooch Of Usirian"
         }
+      },
+      {
+        "Name": "Chariot of the Gods",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "8",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      },
+      {
+        "Name": "Skeletal Steed (x4)",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
       }
     ],
     "Base": {
@@ -1006,6 +1038,73 @@
     }
   },
   {
+    "Id": "68357c7d6d966c2c14aa1b98c",
+    "Name": "Master of Horse (Skeleton Cavalry Cohort)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "2e43-b149-c124-2965": "Steadfast Discipline",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Horse",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "5f1c-fd04-b0d5-d5e": "Champion"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
     "Id": "68357c7d6d966c2c14aa1b98",
     "Name": "Royal Host Horseman",
     "Attributes": {},
@@ -1046,6 +1145,74 @@
           "6d4a-7733-d725-a267": "Hand Weapon",
           "dbb2-4d85-84c2-528c": "Light Armour",
           "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Skeletal Steed",
+        "Values": {
+          "M": "8",
+          "WS": "2",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "68357c7d6d966c2c14aa1b98a",
+    "Name": "Royal Host Horseman Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "2e43-b149-c124-2965": "Steadfast Discipline",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Royal Host Horseman Archer",
+        "Values": {
+          "M": "-",
+          "WS": "2",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "d6b8-1ad9-d024-1d72": "Warbow"
         }
       },
       {
@@ -1251,6 +1418,59 @@
     }
   },
   {
+    "Id": "68357c7f6d966c2c14aab753c",
+    "Name": "Master of Arms (Royal Host Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "2e43-b149-c124-2965": "Steadfast Discipline",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "85-9154-7dc1-ddc6": "Thrusting Spear",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master of Arms",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "85-9154-7dc1-ddc6": "Thrusting Spear",
+          "5f1c-fd04-b0d5-d5e": "Champion"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357c7f6d966c2c14aab753",
     "Name": "Royal Host Warrior",
     "Attributes": {},
@@ -1290,6 +1510,55 @@
           "dbb2-4d85-84c2-528c": "Light Armour",
           "8997-c74d-3a8d-ecf9": "Shield",
           "85-9154-7dc1-ddc6": "Thrusting Spear"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357c7f6d966c2c14aab753a",
+    "Name": "Royal Host Archer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "d57a-d79-ea09-8dbd": "Arrows of Asaph",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "cc25-1643-8beb-8c64": "Nehekharan Undead",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (6+)",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "2e43-b149-c124-2965": "Steadfast Discipline",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "d6b8-1ad9-d024-1d72": "Warbow"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Royal Host Archer",
+        "Values": {
+          "M": "4",
+          "WS": "2",
+          "BS": "2",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+      "d6b8-1ad9-d024-1d72": "Warbow"
         }
       }
     ],

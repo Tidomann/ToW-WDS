@@ -1250,6 +1250,23 @@
         "RuleIds": {
           "4bc3-c0d5-6a31-3091": "Plagueclaw catapult"
         }
+      },
+      {
+        "Name": "Plague Monk Crew",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "D3+3",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
       }
     ],
     "Base": {
@@ -1288,30 +1305,8 @@
         "RuleIds": {
           "92ed-f18a-c3a4-7a3e": "Warp Lightning Cannon"
         }
-      }
-    ],
-    "Base": {
-      "Shape": "square",
-      "Size": {
-        "width": "50",
-        "length": "100"
-      }
-    }
-  },
-  {
-    "Id": "68357c006d966c2c14883954",
-    "Name": "Engineer & Crew",
-    "Attributes": {},
-    "AttributeLists": {},
-    "RuleIds": {
-      "59a5-7eca-ee35-96ac": "Skirmishers",
-      "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour"
-    },
-    "EquipmentIds": [],
-    "OptionListIds": [],
-    "Statlines": [
-      {
+      },
+       {
         "Name": "Engineer & Crew",
         "Values": {
           "M": "5",
@@ -1333,8 +1328,8 @@
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "20",
-        "length": "20"
+        "width": "50",
+        "length": "100"
       }
     }
   },
@@ -1876,6 +1871,262 @@
           "dbb2-4d85-84c2-528c": "Light Armour",
           "40f2-dd77-f0ca-3663": "Musician",
           "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148packmaster",
+    "Name": "Packmaster",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "7aa8-e26d-1738-44b6": "Leader Of The Pack",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Packmaster",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148mastermoulder",
+    "Name": "Master Moulder",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "7aa8-e26d-1738-44b6": "Leader Of The Pack",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Master Moulder",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148clanrats",
+    "Name": "Clanrats",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Clanrats",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "4"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148clanratsc",
+    "Name": "Clawleader",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Clawleader",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148stormvermin",
+    "Name": "Stormvermin",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Stormvermin",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "98f8-9d8-94cd-3379": "Halberd"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357bfe6d966c2c148stormverminc",
+    "Name": "Fangleader",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "89ce-2c95-bf48-c8af": "Scurry Away",
+      "505f-e12d-2e36-31d0": "Warband",
+      "2207-44c7-b287-ae97": "Warpstone Weapons",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Fangleader",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "98f8-9d8-94cd-3379": "Halberd"
         }
       }
     ],

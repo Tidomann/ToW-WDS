@@ -219,7 +219,7 @@
       "army": "Lizardmen",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -582,7 +582,7 @@
       "army": "Lizardmen",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -607,7 +607,7 @@
       "army": "Lizardmen",
       "height": "Standard",
       "type": "War Beast",
-      "defaultFront": "5"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -620,7 +620,7 @@
     "OptionListIds": [],
     "ProfileIds": [
       "68357bc06d966c2c147f2220",
-      "68357bc06d966c2c147f221b"
+      "68357bc06d966c2c147f1f2f"
     ]
   },
   {

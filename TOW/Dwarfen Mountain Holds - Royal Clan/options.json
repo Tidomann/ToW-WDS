@@ -34,7 +34,7 @@
   {
     "Id": "271d835e-f50a-43e8-929f-5c77a41191a6",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4b6d966c2c146871eb",
     "WDSDataId": "68357b4b6d966c2c1468764c",
     "StatlineIndex": "0"
@@ -58,7 +58,7 @@
   {
     "Id": "aef84f5a-7a9a-4638-8096-833a952e95d0",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4c6d966c2c14688327",
     "WDSDataId": "68357b4c6d966c2c14688713",
     "StatlineIndex": "0"
@@ -82,7 +82,7 @@
   {
     "Id": "dfe3520c-b827-4b3c-9153-166f7510e711",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4c6d966c2c14689293",
     "WDSDataId": "68357b4c6d966c2c146896fd",
     "StatlineIndex": "0"
@@ -106,7 +106,7 @@
   {
     "Id": "f4e61e68-f36d-43e9-ad0c-14767a9e3a4c",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4d6d966c2c1468b790",
     "WDSDataId": "68357b4e6d966c2c1468bbef",
     "StatlineIndex": "0"
@@ -130,7 +130,7 @@
   {
     "Id": "b3559e96-314a-4077-b020-818b517f6a56",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4e6d966c2c1468c8c0",
     "WDSDataId": "68357b4e6d966c2c1468ccee",
     "StatlineIndex": "0"
@@ -154,7 +154,7 @@
   {
     "Id": "a85a1d60-9fc9-4804-a694-a71a6be89ff1",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4e6d966c2c1468d92c",
     "WDSDataId": "68357b4e6d966c2c1468dd32",
     "StatlineIndex": "0"
@@ -178,7 +178,7 @@
   {
     "Id": "405dfd25-c989-4270-b21f-8b3bbaf5b726",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4f6d966c2c1468e8f4",
     "WDSDataId": "68357b4f6d966c2c1468ed09",
     "StatlineIndex": "0"
@@ -202,7 +202,7 @@
   {
     "Id": "e48c4e61-3131-41ed-8c18-df402fa865fa",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b4f6d966c2c1468f908",
     "WDSDataId": "68357b4f6d966c2c14690070",
     "StatlineIndex": "0"
@@ -258,7 +258,7 @@
   {
     "Id": "d1b530ae-4b9c-4fec-ad99-14cb9f62023d",
     "Name": "Champion",
-    "Type": "ModelAdd",
+    "Type": "ModelSwap",
     "OwnerId": "68357b516d966c2c1469427b",
     "WDSDataId": "68357b516d966c2c14694688",
     "StatlineIndex": "0"
@@ -277,6 +277,54 @@
     "Type": "ModelAddRule",
     "OwnerId": "68357b516d966c2c14694a55",
     "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3fc301a3-fd3b-4e19-82a5-d38e71e990cfs",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c146691f5",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "5e839955-2c2b-4a53-92d6-6d190dc1fdeas",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b3d6d966c2c146691f5",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "78d0896a-21f1-4995-9517-92d231e9fa50",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "48951f3b-44a6-466c-ad94-a915f20b96d2",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "48951f3b-44a6-466c-ad94-ulther",
+    "Name": "Prince Ulther Stonehammer",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "68357b406d966c2c1466eed0",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "48951f3b-44a6-466c-ad94-borri",
+    "Name": "Borri Forkbeard",
+    "Type": "ModelAdd",
+    "OwnerId": "68357b406d966c2c1466eeb6",
+    "WDSDataId": "68357b406d966c2c1466eec7",
     "StatlineIndex": "1"
   }
 ]

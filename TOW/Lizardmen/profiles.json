@@ -3032,50 +3032,6 @@
     }
   },
   {
-    "Id": "68357bc06d966c2c147f221b",
-    "Name": "Skink Handler",
-    "Attributes": {},
-    "AttributeLists": {},
-    "RuleIds": {
-      "1f39-2789-f136-7645": "Aquatic",
-      "2d23-e868-8f64-7196": "Beast Handlers",
-      "36e4-6605-cfed-f985": "Cold Blooded",
-      "5ec9-a98-d8c5-e18b": "Fear",
-      "59a5-7eca-ee35-96ac": "Skirmishers",
-      "6d4a-7733-d725-a267": "Hand Weapon",
-      "dbb2-4d85-84c2-528c": "Light Armour"
-    },
-    "EquipmentIds": [],
-    "OptionListIds": [],
-    "Statlines": [
-      {
-        "Name": "Skink Handler",
-        "Values": {
-          "M": "6",
-          "WS": "2",
-          "BS": "3",
-          "S": "3",
-          "T": "2",
-          "W": "1",
-          "I": "4",
-          "A": "1",
-          "Ld": "5"
-        },
-        "RuleIds": {
-          "6d4a-7733-d725-a267": "Hand Weapon",
-          "dbb2-4d85-84c2-528c": "Light Armour"
-        }
-      }
-    ],
-    "Base": {
-      "Shape": "square",
-      "Size": {
-        "width": "25",
-        "length": "25"
-      }
-    }
-  },
-  {
     "Id": "68357bc06d966c2c147f2508",
     "Name": "Stegadon",
     "Attributes": {},

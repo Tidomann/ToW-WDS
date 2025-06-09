@@ -2347,6 +2347,52 @@
     }
   },
   {
+    "Id": "68357ccc6d966c2c14b7bbc9c",
+    "Name": "Headtaker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "3b0c-a477-8823-3a25": "Frenzy",
+      "fcf3-41f3-60c8-7deb": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "9d55-1585-fa0f-185c": "Relentless Warriors",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Headtaker",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": ""
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "5f1c-fd04-b0d5-d5e": "Champion"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357ccc6d966c2c14b7bbc9",
     "Name": "Marauder Tribe Berserkers",
     "Attributes": {},
@@ -2665,6 +2711,120 @@
       "Size": {
         "width": "30",
         "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357ccd6d966c2c14b7ee51c",
+    "Name": "First Sword",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "eaca-69a2-8b6a-81c6": "Furious Charge",
+      "fcf3-41f3-60c8-7deb": "Mark of Chaos Undivided",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "First Sword",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "5f1c-fd04-b0d5-d5e": "Champion"
+        }
+      },
+      {
+        "Name": "Warhorse",
+        "Values": {
+          "M": "8",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "68357cce6d966c2c14b815fdc",
+    "Name": "Skin Wolf Jarl",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2d66-1e83-7509-8f8f": "Blood Rage",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "fcf3-41f3-60c8-7deb": "Mark of Chaos Undivided",
+      "5b67-8535-146c-7cea": "Open Order",
+      "d76e-0026-4ccf-3a80": "Primal Fury",
+      "2eb0-1ec8-8e04-72d4": "Regeneration (5+)",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "5651-f304-f59f-abe4": "Warped Form",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Skin Wolf Jarl",
+        "Values": {
+          "M": "7",
+          "WS": "5",
+          "BS": "-",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
       }
     }
   },
@@ -3836,6 +3996,48 @@
       "Size": {
         "width": "25",
         "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "68357cab6d966c2c14b328fhandler",
+    "Name": "Chaos Warhound Handler",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "e746-bbf6-d1b9-b9c7": "Handler",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "fcf3-41f3-60c8-7deb": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "691e-10ec-4f7c-a2c4": "Vanguard"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Warhound Handler",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
       }
     }
   }

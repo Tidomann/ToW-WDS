@@ -528,7 +528,7 @@
       "army": "Dwarfen Mountain Holds",
       "height": "Standard",
       "type": "Monstrous Cavalry",
-      "defaultFront": "3"
+      "defaultFront": "1"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -690,9 +690,6 @@
       "FullOptions": [
         "Hand Weapon",
         "Additional Hand Weapon",
-        "Great Weapon",
-        "Hand Weapon",
-        "Additional Hand Weapon",
         "Great Weapon"
       ]
     },
@@ -765,15 +762,13 @@
     "AttributeLists": {
       "FullOptions": [
         "Goblin-Hewer",
-        "Hand Weapon",
         "Hand Weapon"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [],
     "ProfileIds": [
-      "68357b3d6d966c2c14669b5f",
-      "68357b3d6d966c2c14669b84"
+      "68357b3d6d966c2c14669b5f"
     ]
   },
   {
@@ -930,28 +925,6 @@
     ]
   },
   {
-    "Id": "68357b3f6d966c2c1466d40f",
-    "Name": "Bonegrinder Giant",
-    "Attributes": {
-      "totalCost": "300",
-      "category": "Mercenaries",
-      "army": "Dwarfen Mountain Holds",
-      "height": "Standard",
-      "type": "",
-      "defaultFront": "1"
-    },
-    "AttributeLists": {
-      "FullOptions": [
-        "Bonegrinder Giant’s Club"
-      ]
-    },
-    "RuleIds": {},
-    "OptionListIds": [],
-    "ProfileIds": [
-      "68357b3f6d966c2c1466d418"
-    ]
-  },
-  {
     "Id": "68357b3f6d966c2c1466d714",
     "Name": "Doomseeker",
     "Attributes": {
@@ -1053,33 +1026,20 @@
         "Hand Weapon",
         "Brace of Pistols",
         "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Great Weapon",
         "Dragonblade",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
-        "Hand Weapon",
-        "Brace of Pistols",
-        "Shield",
         "Standard Bearer",
         "Musician"
       ]
     },
     "RuleIds": {},
     "OptionListIds": [
+      "48951f3b-44a6-466c-ad94-ulther",
+      "48951f3b-44a6-466c-ad94-borri",
       "48951f3b-44a6-466c-ad94-a915f20b96d2",
       "78d0896a-21f1-4995-9517-92d231e9fa50"
     ],
     "ProfileIds": [
-      "68357b406d966c2c1466eebe",
-      "68357b406d966c2c1466eec7",
-      "68357b406d966c2c1466eed0",
       "68357b406d966c2c1466eed9"
     ]
   }

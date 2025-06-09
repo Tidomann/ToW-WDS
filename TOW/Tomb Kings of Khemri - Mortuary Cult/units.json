@@ -341,7 +341,7 @@
       "army": "Tomb Kings of Khemri - Mortuary Cult",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -506,7 +506,7 @@
       "army": "Tomb Kings of Khemri - Mortuary Cult",
       "height": "Standard",
       "type": "Light Chariot",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
@@ -561,7 +561,7 @@
       "army": "Tomb Kings of Khemri - Mortuary Cult",
       "height": "Standard",
       "type": "Swarms",
-      "defaultFront": "5"
+      "defaultFront": "3"
     },
     "AttributeLists": {
       "FullOptions": [
