@@ -901,8 +901,8 @@
     "Base": {
       "Shape": "square",
       "Size": {
-        "width": "152",
-        "length": "152"
+        "width": "108",
+        "length": "108"
       }
     }
   },
