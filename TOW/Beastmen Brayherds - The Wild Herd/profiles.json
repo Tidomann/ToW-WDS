@@ -1,0 +1,3413 @@
+[
+  {
+    "Id": "6847dd517e64980f67607cf9",
+    "Name": "Ghorros Warhoof",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "92b3-e07b-208b-ca6a": "Father of Beasts",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6883-5744-d0e5-dc3b": "The Skull of the Unicorn Lord",
+      "353f-f21a-bb7c-d516": "The Sons of Ghorros",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "76fd-f37d-33e2-cc94": "Mansmasher"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ghorros Warhoof",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "76fd-f37d-33e2-cc94": "Mansmasher"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6847dd517e64980f67607f87",
+    "Name": "Kralmaw, the Prophet of Ruin",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "583e-832e-5e02-23cb": "Braystaff",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "e9e5-d860-7701-0f11": "Future Sight",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "f294-c233-5f85-0821": "Grisly Totem",
+      "87fd-67b2-286c-24e5": "Leering Spirit",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "f21c-26a3-f179-be43": "Dark Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Kralmaw, The Prophet of Ruin",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "4",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "f21c-26a3-f179-be43": "Dark Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "c6a3cc53-4c02-48bb-a0ad-7aeb9628964d",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "e58b0554-20e7-4b4e-9f09-0d3d7356199b",
+    "Name": "Razorgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "235"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Razorgor only)",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd527e64980f67608221",
+    "Name": "Beastlord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Beastlord",
+        "Values": {
+          "M": "5",
+          "WS": "6",
+          "BS": "3",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "5",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "4e4620e3-d23a-4bef-baca-d52fc7cc419b",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "150"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "583e-832e-5e02-23cb": "Braystaff",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "785a-2886-af42-dce9": "First Charge",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "8395cae2-c4ef-4778-9b8e-9ab720d0b02a",
+    "Name": "Razorgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "185"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Razorgor only)",
+      "583e-832e-5e02-23cb": "Braystaff",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render (Razorgor only)",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd537e64980f67609f5b",
+    "Name": "Bray-Shaman",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "583e-832e-5e02-23cb": "Braystaff",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "256b-6a1-239c-178e": "Daemonology",
+      "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bray-Shaman",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd557e64980f6760c057",
+    "Name": "Warhoof",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warhoof",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "3",
+          "S": "5",
+          "T": "4",
+          "W": "3",
+          "I": "3",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "071bb32f-4f78-4ce6-a420-633d16dcb35a",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "235"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "583e-832e-5e02-23cb": "Braystaff",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "785a-2886-af42-dce9": "First Charge",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "481ede89-725e-4d54-bbe0-af00f644caa2",
+    "Name": "Razorgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "270"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Razorgor only)",
+      "583e-832e-5e02-23cb": "Braystaff",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render (Razorgor only)",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd557e64980f6760c9a2",
+    "Name": "Great Bray-Shaman",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "583e-832e-5e02-23cb": "Braystaff",
+      "814d-8748-07c1-ab99": "Dark Coven",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "6419-d95f-555e-16b9": "Lore of Beasts",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "256b-6a1-239c-178e": "Daemonology",
+      "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Great Bray-Shaman",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "256b-6a1-239c-178e": "Daemonology",
+          "aeab-25ff-6e57-d7d3": "Lore of Beasts"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "f98d7f3b-b8c9-4601-8c07-cef429c4d13f",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "140"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "86ce5017-983d-4171-8275-09efb0124f66",
+    "Name": "Razorgor Chariot",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "175"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Razorgor only)",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "(+4)",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd577e64980f6760eaa5",
+    "Name": "Wargor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "e85-bc3d-e4db-88b": "Gaze of the Gods",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Wargor",
+        "Values": {
+          "M": "5",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "4",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd597e64980f67611622",
+    "Name": "Gorehoof (Centigor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gorehoof",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6847dd597e64980f67610cf2",
+    "Name": "Centigor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Centigor",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5a7e64980f6761318e",
+    "Name": "Chaos Warhound",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Warhound",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5b7e64980f67613d37",
+    "Name": "True-horn (Gor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4203-7f82-8eaa-bfd3": "Bestial Charge",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "True-horn",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5b7e64980f67613412",
+    "Name": "Gor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4203-7f82-8eaa-bfd3": "Bestial Charge",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gor",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5c7e64980f6761635b",
+    "Name": "Foe-render (Gor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4203-7f82-8eaa-bfd3": "Bestial Charge",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "7d6a-a4f8-24d3-a41f": "Mixed Unit",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Foe-render",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5c7e64980f6761588f",
+    "Name": "Gor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4203-7f82-8eaa-bfd3": "Bestial Charge",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "b664-8530-a988-7ba9": "Impetuous",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "7d6a-a4f8-24d3-a41f": "Mixed Unit",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gor",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5d7e64980f67618385",
+    "Name": "Primal Warhound",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Primal Warhound",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5e7e64980f67618616",
+    "Name": "Razorgor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "31c4-f186-18ba-cd04": "Foe render",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5e7e64980f67618896",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5f7e64980f67618de8",
+    "Name": "Half-horn (Ungor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "afa3-a46a-2608-f62c": "Chariot Runners",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Half-horn",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5f7e64980f67618b42",
+    "Name": "Ungor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "afa3-a46a-2608-f62c": "Chariot Runners",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ungor",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "5"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd607e64980f6761a099",
+    "Name": "Gouge-horn (Bestigor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gouge-horn",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "6847dd5f7e64980f676195c1",
+    "Name": "Bestigor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "505f-e12d-2e36-31d0": "Warband",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bestigor",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "6847dd617e64980f6761ca2f",
+    "Name": "Gorehoof (Centigor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gorehoof",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6847dd617e64980f6761c102",
+    "Name": "Centigor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c-7525-760e-17ad": "Drunken",
+      "df-a39-e62-1c57": "Fast Cavalry",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "505f-e12d-2e36-31d0": "Warband",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Centigor",
+        "Values": {
+          "M": "8",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6847dd627e64980f6761e59a",
+    "Name": "Cockatrice",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "72db-24bb-7493-d753": "Stomp Attacks (1)",
+      "c32f-e4ed-cc42-69fc": "Stony Stare",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "232-9631-9864-6533": "Petrifying Gaze"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cockatrice",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "4",
+          "I": "6",
+          "A": "6",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "232-9631-9864-6533": "Petrifying Gaze"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6847dd637e64980f6761f14d",
+    "Name": "Shartak (Dragon Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fe92-e9d9-91b4-e794": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "74d8-efb5-1253-cb99": "The Quickening Storm",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Shartak",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "2",
+          "S": "5",
+          "T": "4",
+          "W": "4",
+          "I": "2",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "6847dd627e64980f6761e822",
+    "Name": "Dragon Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fe92-e9d9-91b4-e794": "Ensorcelled Weapons",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "72db-24bb-7493-d753": "Stomp Attacks (2)",
+      "74d8-efb5-1253-cb99": "The Quickening Storm",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Ogres",
+        "Values": {
+          "M": "7",
+          "WS": "4",
+          "BS": "2",
+          "S": "5",
+          "T": "4",
+          "W": "4",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "6847dd637e64980f6761fa69",
+    "Name": "Harpy",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Harpy",
+        "Values": {
+          "M": "5",
+          "WS": "3",
+          "BS": "0",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "2",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd637e64980f6761fce0",
+    "Name": "Herdstone",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "8482-0f23-6ab1-a7fe": "A Tingle in the Air",
+      "4423-d81d-1197-e49c": "Bestial Fury",
+      "3a3e-a3c6-d393-b1dc": "Controlling a Herdstone",
+      "7641-f791-8120-9758": "Dark Sorcery",
+      "af29-67cf-d73b-ec79": "Fearsome Edifice",
+      "fb58-ea2e-9d71-3c0c": "Placing a Herdstone",
+      "7e4f-91be-f8d3-0bcd": "Victory Points"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Herdstone",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "-",
+          "W": "-",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {}
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "152",
+        "length": "152"
+      }
+    }
+  },
+  {
+    "Id": "6847dd647e64980f6761ff6b",
+    "Name": "Preyton",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "988d-7383-6ad8-b25d": "Crown of Antlers",
+      "c8a8-9dd9-7b0c-54cf": "Endless Malice",
+      "c557-6102-9a35-bbcd": "Fly (10)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "4705-90b5-671c-2f5c": "Twisted Antlers"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Preyton",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "5",
+          "A": "4",
+          "Ld": "6"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "4705-90b5-671c-2f5c": "Twisted Antlers"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "6847dd647e64980f676201f1",
+    "Name": "Razorgor Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1, Razorgor only)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "785a-2886-af42-dce9": "First Charge",
+      "31c4-f186-18ba-cd04": "Foe render (Razorgor only)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+2)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Razorgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Razorgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "4",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd657e64980f6762049c",
+    "Name": "Tuskgor Chariot",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "785a-2886-af42-dce9": "First Charge",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D6+1)",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "3650-49a2-85b-702e": "Razor Tusks",
+      "505f-e12d-2e36-31d0": "Warband",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "ee75-c1a8-2f0c-c264": "Cavalry Spear"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Tuskgor Chariot",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "4",
+          "W": "4",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Tuskgor",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "2",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Bestigor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "4",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Gor Crew",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "ee75-c1a8-2f0c-c264": "Cavalry Spear",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd657e64980f676209dd",
+    "Name": "Splice-horn (Warped Gor)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "32f0-4684-911d-f9a7": "Blessings of Chaos",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Splice-horn",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "D3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "6847dd657e64980f67620748",
+    "Name": "Warped Gor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (1)",
+      "32f0-4684-911d-f9a7": "Blessings of Chaos",
+      "8117-de6e-d7df-3eca": "Blood Rage",
+      "595-bbd0-34c7-e601": "Mark of Chaos Undivided",
+      "e83e-f127-1904-3858": "Move Through Cover",
+      "5b67-8535-146c-7cea": "Open Order",
+      "24a7-8ec2-fca1-21e2": "Primal Fury",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "505f-e12d-2e36-31d0": "Warband",
+      "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Warped Gor",
+        "Values": {
+          "M": "5",
+          "WS": "4",
+          "BS": "2",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "3",
+          "A": "D3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "44c2-f355-d5ed-24d7": "Additional Hand Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "30"
+      }
+    }
+  },
+  {
+    "Id": "6847dd667e64980f67621183",
+    "Name": "Chaos Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "e433-20e5-52c4-8f15": "Giant Attacks",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "5ef1-6977-b2a8-bb53": "Pick Up And...",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "742-e3dd-26f9-778f": "Giant's Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "2",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "742-e3dd-26f9-778f": "Giant's Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6847dd667e64980f67621405",
+    "Name": "Chaos Spawn",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5b67-8535-146c-7cea": "Open Order",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "4924-fc1f-bcd-746a": "Random Movement",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Chaos Spawn",
+        "Values": {
+          "M": "2D6",
+          "WS": "3",
+          "BS": "0",
+          "S": "4",
+          "T": "5",
+          "W": "3",
+          "I": "3",
+          "A": "D6",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "6847dd677e64980f6762168c",
+    "Name": "Cygor",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5b02-b6ce-8f7f-b393": "Ghostsight",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "b06f-c50f-6546-509c": "Soul-eater",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "d4f0-36b-aa97-3f9e": "Hurl Attacks",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cygor",
+        "Values": {
+          "M": "7",
+          "WS": "2",
+          "BS": "1",
+          "S": "6",
+          "T": "5",
+          "W": "6",
+          "I": "3",
+          "A": "4",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "d4f0-36b-aa97-3f9e": "Hurl Attacks",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd677e64980f6762190d",
+    "Name": "Dragon Ogre Shaggoth",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (2)",
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "fe92-e9d9-91b4-e794": "Ensorcelled Weapons",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "b8f1-3ef8-d7a2-509c": "Storm Call",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "74d8-efb5-1253-cb99": "The Quickening Storm",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Ogre Shaggoth",
+        "Values": {
+          "M": "7",
+          "WS": "6",
+          "BS": "2",
+          "S": "6",
+          "T": "5",
+          "W": "6",
+          "I": "4",
+          "A": "5",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "75"
+      }
+    }
+  },
+  {
+    "Id": "6847dd687e64980f67622228",
+    "Name": "Jabberslythe",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "dfb4-a590-c057-c4f1": "Maddening Aura",
+      "81f5-4895-4abc-fc39": "Poisoned Attacks",
+      "2e29-8f80-1a23-dbdb": "Spurting Bile Blood",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3)",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "3e50-c9fe-dc8e-163d": "Slythey Tongue"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jabberslythe",
+        "Values": {
+          "M": "6",
+          "WS": "4",
+          "BS": "4",
+          "S": "5",
+          "T": "5",
+          "W": "5",
+          "I": "3",
+          "A": "5",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "3e50-c9fe-dc8e-163d": "Slythey Tongue"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd687e64980f67622af8",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6847dd687e64980f676224c5",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6847dd697e64980f67623858",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6847dd697e64980f67623ad8",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6a7e64980f67623daa",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6b7e64980f67624c53",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6a7e64980f67624994",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6b7e64980f67624ef2",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6b7e64980f67624efb",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6b7e64980f67624f04",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6847dd6b7e64980f67624f0d",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  }
+]

@@ -13336,5 +13336,167 @@
     "Name": "Trickster's Blades",
     "Type": "General",
     "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Attacks (+D3), Require Two Hands\nNotes: -"
+  },
+  {
+    "Id": "92b3-e07b-208b-ca6a",
+    "Name": "Father of Beasts",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "6883-5744-d0e5-dc3b",
+    "Name": "The Skull of the Unicorn Lord",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "353f-f21a-bb7c-d516",
+    "Name": "The Sons of Ghorros",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "76fd-f37d-33e2-cc94",
+    "Name": "Mansmasher",
+    "Type": "Equipment",
+    "Description": null
+  },
+  {
+    "Id": "e9e5-d860-7701-0f11",
+    "Name": "Future Sight",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "f294-c233-5f85-0821",
+    "Name": "Grisly Totem",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "87fd-67b2-286c-24e5",
+    "Name": "Leering Spirit",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "8482-0f23-6ab1-a7fe",
+    "Name": "A Tingle in the Air",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "3a3e-a3c6-d393-b1dc",
+    "Name": "Controlling a Herdstone",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "7641-f791-8120-9758",
+    "Name": "Dark Sorcery",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "af29-67cf-d73b-ec79",
+    "Name": "Fearsome Edifice",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "fb58-ea2e-9d71-3c0c",
+    "Name": "Placing a Herdstone",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "988d-7383-6ad8-b25d",
+    "Name": "Crown of Antlers",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "c8a8-9dd9-7b0c-54cf",
+    "Name": "Endless Malice",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "4705-90b5-671c-2f5c",
+    "Name": "Twisted Antlers",
+    "Type": "Equipment",
+    "Description": null
+  },
+  {
+    "Id": "814d-8748-07c1-ab99",
+    "Name": "Dark Coven",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "7d6a-a4f8-24d3-a41f",
+    "Name": "Mixed Unit",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "32f0-4684-911d-f9a7",
+    "Name": "Blessings of Chaos",
+    "Type": "Global",
+    "Description": null
+  },
+  {
+    "Id": "b783-ab7e-dbf9-5b11",
+    "Name": "The Dolorous Blade (Deadly blows)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat."
+  },
+  {
+    "Id": "b1df-7321-f745-aee7",
+    "Name": "The Dolorous Blade (Rapid strikes)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Extra Attacks (D6), Magical Attacks\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat."
+  },
+  {
+    "Id": "e7c7-b48f-7d2c-b337",
+    "Name": "Polearm (Double-handed)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Requires Two Hands\nNotes: -"
+  },
+  {
+    "Id": "985a-110b-3393-79b7",
+    "Name": "Polearm (Single handed)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\nNotes: -"
+  },
+  {
+    "Id": "7513-3d8a-0665-3fda",
+    "Name": "Howdah (Lizardmen)",
+    "Type": "General",
+    "Description": "Description: To represent its howdah and crew, a behemoth with this special rule has a split profile and follows both the ‘Split Profile (Chariots)’ and ‘Firing Platform’ rules (see page 194).\n*Note that, because it has the Howdah special rule, a Stegadon or Ancient Stegadon is considered to be a chariot mount, rather than a ridden monster.*"
+  },
+  {
+    "Id": "92c9-78d2-aa39-a8b9",
+    "Name": "Leadbelcher Gun (Scatter shot)",
+    "Type": "General",
+    "Description": "R: 18\nS: 3\nAP: -\nSpecial Rules: Armour Bane (1)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing. If the roll To Hit is successful when firing scatter shot, a leadbelcher gun causes D3 hits to the target enemy unit, rather than the usual one."
+  },
+  {
+    "Id": "b006-417c-17d1-fb58",
+    "Name": "Leadbelcher Gun (Solid shot)",
+    "Type": "General",
+    "Description": "R: 24\nS: 5\nAP: -2\nSpecial Rules: Armour Bane (1), Cumbersome, Multiple Wounds (2)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing."
+  },
+  {
+    "Id": "c478-cb33-aa71-5e7a",
+    "Name": "Da Skull Smasha (Pick)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (2), Magical Attacks, Multiple Wounds (2)\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat."
+  },
+  {
+    "Id": "bdfa-7454-de80-7d73",
+    "Name": "Da Skull Smasha (Hammer)",
+    "Type": "General",
+    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (2), Magical Attacks\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat."
   }
 ]
