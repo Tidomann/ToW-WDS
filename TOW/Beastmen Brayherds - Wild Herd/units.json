@@ -5,7 +5,7 @@
     "Attributes": {
       "totalCost": "155",
       "category": "Named Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Cavalry",
       "defaultFront": "1"
@@ -27,7 +27,7 @@
     "Attributes": {
       "totalCost": "245",
       "category": "Named Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -49,7 +49,7 @@
     "Attributes": {
       "totalCost": "115",
       "category": "Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -81,7 +81,7 @@
     "Attributes": {
       "totalCost": "65",
       "category": "Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -111,7 +111,7 @@
     "Attributes": {
       "totalCost": "75",
       "category": "Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "1"
@@ -138,7 +138,7 @@
     "Attributes": {
       "totalCost": "150",
       "category": "Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "1"
@@ -168,7 +168,7 @@
     "Attributes": {
       "totalCost": "55",
       "category": "Characters",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -201,7 +201,7 @@
     "Attributes": {
       "totalCost": "19",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -237,7 +237,7 @@
     "Attributes": {
       "totalCost": "6",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "War Beast",
       "defaultFront": "5"
@@ -259,7 +259,7 @@
     "Attributes": {
       "totalCost": "7",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -294,7 +294,7 @@
     "Attributes": {
       "totalCost": "7",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -330,7 +330,7 @@
     "Attributes": {
       "totalCost": "6",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "War Beast",
       "defaultFront": "5"
@@ -355,7 +355,7 @@
     "Attributes": {
       "totalCost": "52",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "War Beast",
       "defaultFront": "5"
@@ -377,7 +377,7 @@
     "Attributes": {
       "totalCost": "85",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Chariot",
       "defaultFront": "1"
@@ -401,7 +401,7 @@
     "Attributes": {
       "totalCost": "5",
       "category": "Core",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -435,7 +435,7 @@
     "Attributes": {
       "totalCost": "13",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -466,7 +466,7 @@
     "Attributes": {
       "totalCost": "19",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Light Cavalry",
       "defaultFront": "5"
@@ -502,7 +502,7 @@
     "Attributes": {
       "totalCost": "170",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "1"
@@ -526,7 +526,7 @@
     "Attributes": {
       "totalCost": "56",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Cavalry",
       "defaultFront": "3"
@@ -555,7 +555,7 @@
     "Attributes": {
       "totalCost": "11",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -577,7 +577,7 @@
     "Attributes": {
       "totalCost": "100",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -597,7 +597,7 @@
     "Attributes": {
       "totalCost": "160",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "5"
@@ -621,7 +621,7 @@
     "Attributes": {
       "totalCost": "120",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Chariot",
       "defaultFront": "1"
@@ -645,7 +645,7 @@
     "Attributes": {
       "totalCost": "85",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Chariot",
       "defaultFront": "1"
@@ -669,7 +669,7 @@
     "Attributes": {
       "totalCost": "16",
       "category": "Special",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Regular Infantry",
       "defaultFront": "5"
@@ -701,7 +701,7 @@
     "Attributes": {
       "totalCost": "200",
       "category": "Rare",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -723,7 +723,7 @@
     "Attributes": {
       "totalCost": "50",
       "category": "Rare",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -745,7 +745,7 @@
     "Attributes": {
       "totalCost": "215",
       "category": "Rare",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -768,7 +768,7 @@
     "Attributes": {
       "totalCost": "225",
       "category": "Rare",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "1"
@@ -792,7 +792,7 @@
     "Attributes": {
       "totalCost": "195",
       "category": "Rare",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Creature",
       "defaultFront": "1"
@@ -815,7 +815,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -848,7 +848,7 @@
     "Attributes": {
       "totalCost": "300",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "",
       "defaultFront": "1"
@@ -870,7 +870,7 @@
     "Attributes": {
       "totalCost": "50",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "1"
@@ -892,7 +892,7 @@
     "Attributes": {
       "totalCost": "8",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
@@ -926,7 +926,7 @@
     "Attributes": {
       "totalCost": "31",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Monstrous Infantry",
       "defaultFront": "3"
@@ -956,7 +956,7 @@
     "Attributes": {
       "totalCost": "115",
       "category": "Mercenaries",
-      "army": "Beastmen Brayherds - The Wild Herd",
+      "army": "Beastmen Brayherds - Wild Herd",
       "height": "Standard",
       "type": "Heavy Infantry",
       "defaultFront": "5"
