@@ -1,5 +1,125 @@
 [
   {
+    "Id": "7c-7525-760e-17ad",
+    "Name": "Drunken",
+    "Type": "Global",
+    "Description": "Description: During the Start of Turn sub-phase of each of your turns, roll on the Drunken table for each unit with this special rule that is not currently Frenzied, that is not engaged in combat and that is not fleeing:\nDrunken Table:\n● D6: Result ● 1: Unsteady: The unit has become somewhat unsteady. Until its next Start of Turn sub-phase, the unit is subject to the Random Movement special rule and its Movement characteristic becomes D6+2.\n● 2-5: Sobering Up: The alcohol has no discernible effect upon the unit.\n● 6: Belligerent Drunks: The unit has turned quite belligerent. Until its next Start of Turn sub-phase, the unit is subject to the Frenzy special rule. A unit with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game.\n"
+  },
+  {
+    "Id": "92b3-e07b-208b-ca6a",
+    "Name": "Father of Beasts",
+    "Type": "Global",
+    "Description": "Whilst within Ghorros Warhoof's Command range, friendly Centigor Herds may re-roll the D6 when rolling on the Drunken table."
+  },
+  {
+    "Id": "e85-bc3d-e4db-88b",
+    "Name": "Gaze of the Gods",
+    "Type": "Global",
+    "Description": "Description: During the Command sub-phase of their turn, a character with this special rule may choose to roll on the Gaze of the Gods table:\n- 1: Damned by Chaos: The Champion is beset with visions of the Reals of Chaos. This model becomes subject to the Stupidity special rule for the reminder of the game. If they already have this special rule, they suffer a -1 modifier to their Leadership (to a maximum of 2).\n- 2: Unnatural Quickness: To the Champion, time itself seems to slow around them. Until your next Start of Turn sub-phase, this model gains +1 modifier to their Initiative characteristic (to a maximum of 10).\n- 3: Iron Skin: Beneath their baroque armour, the Champion's skin becomes like iron.\nUntil your next Start of Turn sub-phase, this model gains +1 modifier to their Toughness characteristic (to a maximum of 10).\n- 4: Murderous Mutations: Long tentacles whip from beneath this Champion's armour to grasp at their enemies. For the reminder of the game, this model gains +1 modifier to their Weapon Skill characteristic (to a maximum of 10).\n- 5: Dark Fury: A terrible rage grips the Champion. For the reminder of the game, this model gains +1 modifier to their Attacks characteristic (to a maximum of 10).\n- 6: Apotheosis: The Champion is blessed with Daemonic vitality. For the reminder of the game, this model gains +1 modifier to both their Strength and Leadership chracteristics (to a maximum of 10).\n"
+  },
+  {
+    "Id": "595-bbd0-34c7-e601",
+    "Name": "Mark of Chaos Undivided",
+    "Type": "Global",
+    "Description": "Description: Models with the Mark of Chaos Undivided can re-roll any failed Fear, Panic or Terror tests.\n"
+  },
+  {
+    "Id": "e83e-f127-1904-3858",
+    "Name": "Move Through Cover",
+    "Type": "Global",
+    "Description": "Description: Models with this special rule do not suffer any modifiers to their Movement characteristic for moving through difficult or dangerous terrain. In addition, a model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests.\n"
+  },
+  {
+    "Id": "24a7-8ec2-fca1-21e2",
+    "Name": "Primal Fury",
+    "Type": "Global",
+    "Description": "Description: When this unit’s combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, it must make a Leadership test. If this test is passed, the unit becomes subject to ‘Primal Fury’ until the end of this Combat phase. A unit subject to Primal Fury may re-roll any rolls To Hit of a natural 1.\n"
+  },
+  {
+    "Id": "72db-24bb-7493-d753",
+    "Name": "Stomp Attacks",
+    "Type": "Global",
+    "Description": "Description: The number of Stomp Attacks caused varies from model to model and will be shown in brackets after the name of this special rule. Often, this is determined by the roll of a dice.\nResolving Stomp Attacks: Stomp Attacks can only be made by a model that is in base contact with the enemy. Stomp Attacks are attacks made in combat that always strike at Initiative 1 (regardless of modifiers) and that hit automatically using the unmodified Strength characteristic of the model.\n"
+  },
+  {
+    "Id": "dc91-48b3-3696-217",
+    "Name": "Swiftstride",
+    "Type": "Global",
+    "Description": "Description: A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3\" and, when it makes a Charge, Flee or Pursuit roll, may apply a +D6 modifier to the result.\n"
+  },
+  {
+    "Id": "6883-5744-d0e5-dc3b",
+    "Name": "The Skull of the Unicorn Lord",
+    "Type": "Global",
+    "Description": "Ghorros has a 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack and a 5+ Ward save against any wounds suffered that were caused by a Magical enemy attack."
+  },
+  {
+    "Id": "353f-f21a-bb7c-d516",
+    "Name": "The Sons of Ghorros",
+    "Type": "Global",
+    "Description": "0-1 Centigor herd in the same muster list as Ghorros may be upgraded to Sons of Ghorros for +2 points per model. Sons of Ghorros have a +1 modifier to their Weapon Skill and Leadership characteristic (to a maximum of 10) and gain the Armour Bane (1) special rule."
+  },
+  {
+    "Id": "505f-e12d-2e36-31d0",
+    "Name": "Warband",
+    "Type": "Global",
+    "Description": "Description: Unless it is fleeing, a Warband gains a positive (+) modifier to its Leadership characteristic equal to its current Rank Bonus, up to a maximum of Leadership 10. However, a Warband cannot use this modifier to its Leadership should it ever choose to make a Restraint test. In addition, if the majority of the models in a unit have this special rule, it may re-roll its Charge roll.\nNote that unless a character also has this special rule, their Leadership cannot be modified by this special rule. A Warband can use either its own modified Leadership, the modified Leadership of a Warband character, or the unmodified Leadership of a non-Warband character, whichever is the higher.\n"
+  },
+  {
+    "Id": "6d4a-7733-d725-a267",
+    "Name": "Hand Weapon",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: -\nNotes: Unless specified otherwise, all models are assumed to be equipped with a hand weapon.\n"
+  },
+  {
+    "Id": "76fd-f37d-33e2-cc94",
+    "Name": "Mansmasher",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (D3)\nNotes: This weapon's Strength modifier applies only during a turn in which the wielder charged.\n"
+  },
+  {
+    "Id": "583e-832e-5e02-23cb",
+    "Name": "Braystaff",
+    "Type": "Global",
+    "Description": "Description: When this model’s combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, it must choose to use its Braystaff offensively or defensively. Used offensively, a Braystaff counts as a great weapon. Used defensively, a Braystaff counts as a hand weapon and gives its wielder an Armour Value of 5+.\n"
+  },
+  {
+    "Id": "e9e5-d860-7701-0f11",
+    "Name": "Future Sight",
+    "Type": "Global",
+    "Description": "Kralmaw has a 4+ Ward save against any wounds suffered."
+  },
+  {
+    "Id": "f294-c233-5f85-0821",
+    "Name": "Grisly Totem",
+    "Type": "Global",
+    "Description": "The Grisly Totem is a Braystaff. In addition, all enemy units within 6\" of Kralmaw suffer a -1 modifier to their Leadership characteristic (to a minimum of 2)."
+  },
+  {
+    "Id": "87fd-67b2-286c-24e5",
+    "Name": "Leering Spirit",
+    "Type": "Global",
+    "Description": "When Kralmaw is deployed, place a Leering Spirit marker anywhere on the battlefield that is not within 8\" of an enemy unit. Once placed, a Leering Spirit marker does not move but has a 360° line of sight. The marker cannot be charged, targeted or attacked in any way. However, if Kralmaw is removed from play as a casualty, the Leering Spirit marker is also removed from play. During the Shooting phase of each of Kralmaw's turns, the Leering Spirit marker may cast the Devolve spell from the Lore of Beasts (see page 117 of the Ravening Hordes) as a Bound Spell with a Power Level of 3.\n*Note that the Leering Spirit marker is ignored for the purposes of movement, combat and line of sight, as if it was not there. Should the presence of it interfere with the position of units, simply make not of its position and move it aside, replacing it when convenient to do so.*"
+  },
+  {
+    "Id": "6419-d95f-555e-16b9",
+    "Name": "Lore of Beasts",
+    "Type": "Global",
+    "Description": "Description: A Wizard with the 'Lore of Beasts' special rule may discard one of their randomly generated spells as normal.\nWhen they do so, they may select instead the signature spell of their chose Lore of Magic, or one of the following spells:\n- Viletide\n- Devolve \n- Mantle of Ghorgok\n"
+  },
+  {
+    "Id": "f21c-26a3-f179-be43",
+    "Name": "Dark Magic",
+    "Type": "Equipment",
+    "Description": "Word of Pain\nStream of Corruption\nInfernal Gateway\nPhantasmagoria\nBattle Lust\nSoul Eater\nDoombolt\n"
+  },
+  {
+    "Id": "aeab-25ff-6e57-d7d3",
+    "Name": "Lore of Beasts",
+    "Type": "Equipment",
+    "Description": "Viletide\nMantle of Ghorok\nDevolve\n"
+  },
+  {
     "Id": "8117-de6e-d7df-3eca",
     "Name": "Blood Rage",
     "Type": "Global",
@@ -24,28 +144,10 @@
     "Description": "Description: Whilst subject to Primal Fury, a hand weapon carried by a model with this special rule has an Armour Piercing characteristic of -2.\nNote that this special rule only applies to a single, non-magical hand weapon and does not apply to a model’s mount (should it have one). If the model is using two hand weapons or any other sort of weapon, this special rule ceases to apply.\n"
   },
   {
-    "Id": "e85-bc3d-e4db-88b",
-    "Name": "Gaze of the Gods",
-    "Type": "Global",
-    "Description": "Description: During the Command sub-phase of their turn, a character with this special rule may choose to roll on the Gaze of the Gods table:\n- 1: Damned by Chaos: The Champion is beset with visions of the Reals of Chaos. This model becomes subject to the Stupidity special rule for the reminder of the game. If they already have this special rule, they suffer a -1 modifier to their Leadership (to a maximum of 2).\n- 2: Unnatural Quickness: To the Champion, time itself seems to slow around them. Until your next Start of Turn sub-phase, this model gains +1 modifier to their Initiative characteristic (to a maximum of 10).\n- 3: Iron Skin: Beneath their baroque armour, the Champion's skin becomes like iron.\nUntil your next Start of Turn sub-phase, this model gains +1 modifier to their Toughness characteristic (to a maximum of 10).\n- 4: Murderous Mutations: Long tentacles whip from beneath this Champion's armour to grasp at their enemies. For the reminder of the game, this model gains +1 modifier to their Weapon Skill characteristic (to a maximum of 10).\n- 5: Dark Fury: A terrible rage grips the Champion. For the reminder of the game, this model gains +1 modifier to their Attacks characteristic (to a maximum of 10).\n- 6: Apotheosis: The Champion is blessed with Daemonic vitality. For the reminder of the game, this model gains +1 modifier to both their Strength and Leadership chracteristics (to a maximum of 10).\n"
-  },
-  {
     "Id": "5c2-e9dd-2715-a0c0",
     "Name": "Impact Hits",
     "Type": "Global",
     "Description": "Description: The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rile. Often, this is determined by the roll of a dice.\nResolving Impact Hits: Impact Hits can only be made by a charging model that moved 3\" or more and that is in base contact with the enemy. Impact hits are attacks made in combat that always strike at Initiative 10 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model.\n"
-  },
-  {
-    "Id": "595-bbd0-34c7-e601",
-    "Name": "Mark of Chaos Undivided",
-    "Type": "Global",
-    "Description": "Description: Models with the Mark of Chaos Undivided can re-roll any failed Fear, Panic or Terror tests.\n"
-  },
-  {
-    "Id": "24a7-8ec2-fca1-21e2",
-    "Name": "Primal Fury",
-    "Type": "Global",
-    "Description": "Description: When this unit’s combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, it must make a Leadership test. If this test is passed, the unit becomes subject to ‘Primal Fury’ until the end of this Combat phase. A unit subject to Primal Fury may re-roll any rolls To Hit of a natural 1.\n"
   },
   {
     "Id": "3650-49a2-85b-702e",
@@ -54,22 +156,10 @@
     "Description": "Description: During a turn in which it charged, the Armour Piercing characteristic of a Tuskgor’s or Razorgor’s tusks (hand weapon) is improved by 1.\nNote that this special rule only applies to attacks made by a Tuskgor or Razorgor, not to a chariot or its crew.\n"
   },
   {
-    "Id": "505f-e12d-2e36-31d0",
-    "Name": "Warband",
-    "Type": "Global",
-    "Description": "Description: Unless it is fleeing, a Warband gains a positive (+) modifier to its Leadership characteristic equal to its current Rank Bonus, up to a maximum of Leadership 10. However, a Warband cannot use this modifier to its Leadership should it ever choose to make a Restraint test. In addition, if the majority of the models in a unit have this special rule, it may re-roll its Charge roll.\nNote that unless a character also has this special rule, their Leadership cannot be modified by this special rule. A Warband can use either its own modified Leadership, the modified Leadership of a Warband character, or the unmodified Leadership of a non-Warband character, whichever is the higher.\n"
-  },
-  {
     "Id": "e099-1ebb-9e85-34c8",
     "Name": "Armour Value : 4+",
     "Type": "Equipment",
     "Description": "Description: Base Armour value\n"
-  },
-  {
-    "Id": "6d4a-7733-d725-a267",
-    "Name": "Hand Weapon",
-    "Type": "Equipment",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: -\nNotes: Unless specified otherwise, all models are assumed to be equipped with a hand weapon.\n"
   },
   {
     "Id": "77ca-5e-3d5e-ead5",
@@ -96,58 +186,16 @@
     "Description": "Description: Models with this special rule cause Fear:\n\n• If a unit wishes to declare a charge against an enemy unit that both causes Fear and has a higher Unit Strength, it must first make a Leadership test. If this test is failed, the unit cannot charge. It does not move and is considered to have made a failed charge. If this test is passed, the unit can charge as normal.\n\n• If a unit is engaged with an enemy unit that both causes Fear and has a higher Unit Strength when its combat is chosen during any Choose & Fight Combat sub-phase, it must make a Leadership test. If this test is failed, any models in the unit that direct their attacks against the Fear-causing enemy suffer a -1 modifier to their rolls To Hit.\nA unit only needs to make one Fear test per turn. Models that cause Fear are immune to Fear. A unit that does not cause Fear does not become immune to Fear when joined by a character that does.\n"
   },
   {
-    "Id": "583e-832e-5e02-23cb",
-    "Name": "Braystaff",
-    "Type": "Global",
-    "Description": "Description: When this model’s combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, it must choose to use its Braystaff offensively or defensively. Used offensively, a Braystaff counts as a great weapon. Used defensively, a Braystaff counts as a hand weapon and gives its wielder an Armour Value of 5+.\n"
-  },
-  {
-    "Id": "6419-d95f-555e-16b9",
-    "Name": "Lore of Beasts",
-    "Type": "Global",
-    "Description": "Description: A Wizard with the 'Lore of Beasts' special rule may discard one of their randomly generated spells as normal.\nWhen they do so, they may select instead the signature spell of their chose Lore of Magic, or one of the following spells:\n- Viletide\n- Devolve \n- Mantle of Ghorgok\n"
-  },
-  {
     "Id": "256b-6a1-239c-178e",
     "Name": "Daemonology",
     "Type": "Equipment",
     "Description": "Steed of Shadows\nGathering Darkness\nDaemonic Familiars\nDaemonic Vessel\nVortex of Chaos\nDaemonic Vigour\nThe Summoning\n"
   },
   {
-    "Id": "aeab-25ff-6e57-d7d3",
-    "Name": "Lore of Beasts",
-    "Type": "Equipment",
-    "Description": "Viletide\nMantle of Ghorok\nDevolve\n"
-  },
-  {
-    "Id": "7c-7525-760e-17ad",
-    "Name": "Drunken",
-    "Type": "Global",
-    "Description": "Description: During the Start of Turn sub-phase of each of your turns, roll on the Drunken table for each unit with this special rule that is not currently Frenzied, that is not engaged in combat and that is not fleeing:\nDrunken Table:\n● D6: Result ● 1: Unsteady: The unit has become somewhat unsteady. Until its next Start of Turn sub-phase, the unit is subject to the Random Movement special rule and its Movement characteristic becomes D6+2.\n● 2-5: Sobering Up: The alcohol has no discernible effect upon the unit.\n● 6: Belligerent Drunks: The unit has turned quite belligerent. Until its next Start of Turn sub-phase, the unit is subject to the Frenzy special rule. A unit with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game.\n"
-  },
-  {
     "Id": "df-a39-e62-1c57",
     "Name": "Fast Cavalry",
     "Type": "Global",
     "Description": "Description: If all of the models (including characters) within a unit arrayed in an Open Order formation have this special rule, the unit may perform its Quick Turn (see page 183) even if it marched.\n"
-  },
-  {
-    "Id": "e83e-f127-1904-3858",
-    "Name": "Move Through Cover",
-    "Type": "Global",
-    "Description": "Description: Models with this special rule do not suffer any modifiers to their Movement characteristic for moving through difficult or dangerous terrain. In addition, a model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests.\n"
-  },
-  {
-    "Id": "72db-24bb-7493-d753",
-    "Name": "Stomp Attacks",
-    "Type": "Global",
-    "Description": "Description: The number of Stomp Attacks caused varies from model to model and will be shown in brackets after the name of this special rule. Often, this is determined by the roll of a dice.\nResolving Stomp Attacks: Stomp Attacks can only be made by a model that is in base contact with the enemy. Stomp Attacks are attacks made in combat that always strike at Initiative 1 (regardless of modifiers) and that hit automatically using the unmodified Strength characteristic of the model.\n"
-  },
-  {
-    "Id": "dc91-48b3-3696-217",
-    "Name": "Swiftstride",
-    "Type": "Global",
-    "Description": "Description: A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3\" and, when it makes a Charge, Flee or Pursuit roll, may apply a +D6 modifier to the result.\n"
   },
   {
     "Id": "5e04-be01-6254-98b9",
@@ -171,7 +219,7 @@
     "Id": "5f1c-fd04-b0d5-d5e",
     "Name": "Champion",
     "Type": "Equipment",
-    "Description": null
+    "Description": "In combat, a champion that is within the fighting rank fights as normal. Enemy models that are in base contact with a champion can direct attacks against that champion if they wish. Champions can issue and accept challenges in the same manner as a character."
   },
   {
     "Id": "c56e-8d1b-bb4-de99",
@@ -210,10 +258,10 @@
     "Description": "Description: A unit consisting of models with this special rule may adopt a Skirmish formation.\n"
   },
   {
-    "Id": "8997-c74d-3a8d-ecf9",
-    "Name": "Shield",
+    "Id": "44c2-f355-d5ed-24d7",
+    "Name": "Additional Hand Weapon",
     "Type": "Equipment",
-    "Description": "Description: A model that carries a shield improves its armour value by 1. For example, a model equipped with light armour has an armour value of 6+. Should that model also carry a shield, its armour value would be improved by 1 by lowering the target number from 6+ to 5+.\nNote that if a model uses a weapon that has the Requires Two Hands special rule in combat, it cannot also use a shield.\n"
+    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Atacks (+1), Require Two Hands\nNotes: -\n"
   },
   {
     "Id": "fcf3-41f3-60c8-7deb",
@@ -238,6 +286,12 @@
     "Name": "Chariot Runners",
     "Type": "Global",
     "Description": "Description: Friendly models whose troop type is ‘chariot’ can draw a line of sight over or through models with this special rule and can move through friendly units if they are in Skirmish formation and if the majority of models have this special rule. If the chariot’s move would result in it ending up ‘on top’ of a Chariot Runner, simply nudge the Chariot Runner aside, by the smallest amount possible, to make space for the chariot. Whilst in Skirmish formation units of Chariot Runners can treat friendly chariots that are within 1\" of one or more of the unit’s models as a part of the unit for the purposes of unit coherency.\n"
+  },
+  {
+    "Id": "8997-c74d-3a8d-ecf9",
+    "Name": "Shield",
+    "Type": "Equipment",
+    "Description": "Description: A model that carries a shield improves its armour value by 1. For example, a model equipped with light armour has an armour value of 6+. Should that model also carry a shield, its armour value would be improved by 1 by lowering the target number from 6+ to 5+.\nNote that if a model uses a weapon that has the Requires Two Hands special rule in combat, it cannot also use a shield.\n"
   },
   {
     "Id": "d256-85be-6fcc-1cb",
@@ -360,6 +414,48 @@
     "Description": "Description: Units with this special rule may be deployed after all other units from both armies. They can be deployed anywhere on the battlefield that is more than 12\" away from an enemy model. If deployed in this way, Scouts cannot declare a charge during their first turn.\nIf both armies contain Scouts, a roll-off should determine which player deploys Scouts first. The players then alternate deploying their scouting units one at a time, starting with the player who won the roll-off.\n"
   },
   {
+    "Id": "8482-0f23-6ab1-a7fe",
+    "Name": "A Tingle in the Air",
+    "Type": "Global",
+    "Description": "The air around a Herdstone tingles strangely, and those that stand too close report a funny taste in their mouths. The unit that controls the Herdstone gains Magic Resistance (-1)."
+  },
+  {
+    "Id": "4423-d81d-1197-e49c",
+    "Name": "Bestial Fury",
+    "Type": "Global",
+    "Description": "Beneath the shadow of a Herdstone, Beastmen fight with terrible ferocity, shedding blood and gore in honour of the Ruinous Powers. If the Herdstone is controlled by a Beastmen Brayherds unit, friendly Beastmen Brayherds units that are within 12\" of the Herdstone may re-roll any rolls To Wound of a natural 1 whilst it is engaged in combat."
+  },
+  {
+    "Id": "3a3e-a3c6-d393-b1dc",
+    "Name": "Controlling a Herdstone",
+    "Type": "Global",
+    "Description": "A Herdstone can be controlled by a single unit that is within 6\" of it, that has a Unit Strength of five or more and that is not fleeing. If two or more eligible units belonging to opposing armies are within 6\", the unit closest to the Herdstone controls it. If two units belonging to opposing armies are equally close, a Herdstone is 'contested' and neither unit controls it."
+  },
+  {
+    "Id": "7641-f791-8120-9758",
+    "Name": "Dark Sorcery",
+    "Type": "Global",
+    "Description": "The Winds of Magic flow strangely around a Herdstone, as if warped by its malevolence. If the Herdstone is controlled by a Beastman Brayherds unit, friendly Beastmen Brayherds Wizards that are within 12\" of the Herdstone gain a +1 modifier to their Casting rolls, and enemy Wizards within 12\" of the Herdstone suffer a -1 modifier to their Casting rolls."
+  },
+  {
+    "Id": "af29-67cf-d73b-ec79",
+    "Name": "Fearsome Edifice",
+    "Type": "Global",
+    "Description": "Covered with strange sigils daubed in blood, an aura of evil surrounds a Herdstone. Whilst within 12\" of a Herdstone that is controlled by a Beastmen Brayherds unit, enemy units suffer a -1 modifier to their Leadership characteristic when making a Leadership test due to Fear, Panic or Terror."
+  },
+  {
+    "Id": "fb58-ea2e-9d71-3c0c",
+    "Name": "Placing a Herdstone",
+    "Type": "Global",
+    "Description": "A Herdstone is an impassable terrain feature and must be fielded as presented here.\nAlternatively, if the players agree, a special feature specified by a scenario can be replaced with a Herdstone.\nOnce the players have finished placing terrain and have rolled for deployment a Beastman Breyherds player whose muster list included a Herdstone may place it on the battlefield. The Herdstone may be placed anywhere on the battlefield that is not within their opponent's deployment zone and not within 6\" of the centre of the battlefield.\nAlternatively, if the Herdstone is replacing a special feature specified by a scenario, it must be placed as described by the scenario."
+  },
+  {
+    "Id": "7e4f-91be-f8d3-0bcd",
+    "Name": "Victory Points",
+    "Type": "Global",
+    "Description": null
+  },
+  {
     "Id": "dfb4-a590-c057-c4f1",
     "Name": "Maddening Aura",
     "Type": "Global",
@@ -382,6 +478,24 @@
     "Name": "Slythey Tongue",
     "Type": "Equipment",
     "Description": "R: 12\"\nS: 5\nAP: -1\nSpecial Rules: Move & Shoot, Quick Shot\nNotes: -\n"
+  },
+  {
+    "Id": "988d-7383-6ad8-b25d",
+    "Name": "Crown of Antlers",
+    "Type": "Global",
+    "Description": "Impact Hits caused by a model with this special rule have the Armour Bane (1) special rule and an Armour Piercing characteristic of -1."
+  },
+  {
+    "Id": "c8a8-9dd9-7b0c-54cf",
+    "Name": "Endless Malice",
+    "Type": "Global",
+    "Description": "If this model wins a round of combat and chooses to restrain and reform (and passes its Leadership test to do so), enemy units within 6\" of it must make a Panic test as if a nearby friend had been destroyed."
+  },
+  {
+    "Id": "4705-90b5-671c-2f5c",
+    "Name": "Twisted Antlers",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1)\nNotes:\n"
   },
   {
     "Id": "e433-20e5-52c4-8f15",
@@ -555,7 +669,7 @@
     "Id": "bcf8-d942-102e-b155",
     "Name": "Standard Bearer",
     "Type": "Equipment",
-    "Description": null
+    "Description": "If a unit includes a standard bearer, it may claim a bonus of +1 combat result point.\nIf a fleeing unit is run down by an enemy unit, or if a unit is destroyed in combat by an enemy unit, its standard is claimed as a trophy. Standards claimed in this way are worth bonus Victory Points at the end of the battle. Once a standard has been lost in this way, it cannot be reclaimed."
   },
   {
     "Id": "f170-4b76-b645-29c4",
@@ -579,6 +693,30 @@
     "Id": "40f2-dd77-f0ca-3663",
     "Name": "Musician",
     "Type": "Equipment",
+    "Description": "“Onwards To Victory!” If, once the combat result has been calculated, both sides have the exact same number of points each, the side that has a musician in the front rank of one or more of its units may claim a bonus of +1 combat result point.\nIf, however, the opposing side has a musician also, the redoubled efforts (and almighty clamour) cancel each other out and neither side may claim this bonus.\nSteadying Rhythm If a fleeing unit contains a musician, it may apply a +1 modifier to its Leadership characteristic whenever it attempts to rally, up to a maximum of Leadership 10.\nQuick Time Should a unit that contains a musician wish to march whilst within 8\" of an enemy unit, it may apply a +1 modifier to its Leadership characteristic, up to a maximum of Leadership 10, when making its Leadership test.\nMusicians As Casualties If a musician model is slain, another rank and file model belonging to the same unit, but that is not a command group model, will retrieve the fallen instrument and take their place. Therefore, a unit cannot lose its musician unless it, the standard bearer and the champion are the only remaining models in the unit. This applies even if the musician is targeted by an attack that allows a specific model within a unit to be targeted, or finds themselves lying underneath a template.\nIf the only other remaining models in a unit are the champion and standard bearer, the musician must be removed as a casualty before either."
+  },
+  {
+    "Id": "b664-8530-a988-7ba9",
+    "Name": "Impetuous",
+    "Type": "Global",
+    "Description": "Description: If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, roll a D6. On a roll of 1-3, the unit must declare a charge. On a roll of 4+, the unit may act as normal.\n"
+  },
+  {
+    "Id": "814d-8748-07c1-ab99",
+    "Name": "Dark Coven",
+    "Type": "Global",
+    "Description": "Beastmen Shamans within a Wild Herd army may leach power from nearby Wizards when they attempt to cast a spell or when attempting a Wizardly Dispel. To do so, when a Bray-Shaman or Great Bray-Shaman makes a Casting or Dispel roll, they may apply a +1 modifier to the roll if one or more friendly Wizards that are not fleeing and have not succumbed to Stupidity are within their Command range. However, if they roll a natural double 1, something has gone horribly wrong. Roll immediately on the Miscast table as normal but apply the result to the Bray-Shaman or Great Bray-Shaman that made the attempt and to each friendly Wizard within their Command range."
+  },
+  {
+    "Id": "7d6a-a4f8-24d3-a41f",
+    "Name": "Mixed Unit",
+    "Type": "Global",
+    "Description": "Models within a Primal Warherd have different Weapon Skill and Toughness characteristics. Before rolling To Wound, hits caused by enemy shooting should be divided as evenly as possible between Gors and Ungors. In combat, enemy models must direct their attacks against models in the fighting rank of this unit, as described on page 147 of the *Warhammer: the Old World** rulebook."
+  },
+  {
+    "Id": "32f0-4684-911d-f9a7",
+    "Name": "Blessings of Chaos",
+    "Type": "Global",
     "Description": null
   },
   {
@@ -640,18 +778,6 @@
     "Name": "Ignore Goblin Panic",
     "Type": "Global",
     "Description": "Description: This unit does not have to make a Panic test when a friendly Goblin unit is destroyed or Breaks and flees from combat whilst within 6\" of it. Nor does this unit have to make a Panic test when it is fled through by a friendly Goblin unit.\nNote that, for the purposes of this rule, a Goblin unit is considered to be any unit that is made up entirely of Goblins of any kind, mounted or otherwise. This includes any war machine or chariot that is crewed entirely by Goblins. Should a Goblin unit be joined by an Orc character, it is no longer considered to be a Goblin unit.\n"
-  },
-  {
-    "Id": "b664-8530-a988-7ba9",
-    "Name": "Impetuous",
-    "Type": "Global",
-    "Description": "Description: If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, roll a D6. On a roll of 1-3, the unit must declare a charge. On a roll of 4+, the unit may act as normal.\n"
-  },
-  {
-    "Id": "44c2-f355-d5ed-24d7",
-    "Name": "Additional Hand Weapon",
-    "Type": "Equipment",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Atacks (+1), Require Two Hands\nNotes: -\n"
   },
   {
     "Id": "9a1d-38b0-7d7-7552",
@@ -1017,7 +1143,7 @@
     "Id": "c8e7-6704-893f-4b1b",
     "Name": "Piercing Claws",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (2), Extra Attacks (1), Requires Two Hands\nNotes: \n"
   },
   {
     "Id": "e96e-7433-355b-34bc",
@@ -1047,7 +1173,7 @@
     "Id": "f2f0-ceb6-ef2d-ee82",
     "Name": "Flames Of Tzeentch",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: 18\"\nS: 3\nAP: -\nSpecial Rules: Flaming Attacks, Multiple Shots (2), Quick Shot\nNotes: \n"
   },
   {
     "Id": "b5de-11a2-d4dc-8530",
@@ -1221,7 +1347,7 @@
     "Id": "75e9-7e36-d63b-cf9a",
     "Name": "Ravager harpoon",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: 24\"\nS: 6\nAP: -3\nSpecial Rules: Cumbersome, Multiple Wounds (D3), Ponderous\nNotes: During the Shooting phase, one of the Beastmaster Crew may fire this weapon instead of their repeater crossbow.\n"
   },
   {
     "Id": "e3ae-90-a94a-e684",
@@ -1894,12 +2020,6 @@
     "Name": "Magical Attacks",
     "Type": "Global",
     "Description": "Description: Any attack made or hit caused by a model with this special rule, or made using a weapon with this special rule, is a ‘Magical’ attack.\nNote that all spells are considered to have this special rule, as are any hits caused by magic items.\n"
-  },
-  {
-    "Id": "f21c-26a3-f179-be43",
-    "Name": "Dark Magic",
-    "Type": "Equipment",
-    "Description": "Word of Pain\nStream of Corruption\nInfernal Gateway\nPhantasmagoria\nBattle Lust\nSoul Eater\nDoombolt\n"
   },
   {
     "Id": "306e-1857-ff89-754e",
@@ -3738,6 +3858,12 @@
     "Description": "Description: A Black Coach is not wholly corporeal. To represent this, a Black Coach may become ‘Incorporeal’ during the Command sub-phase of its turn, and will remain Incorporeal until your next Start of Turn sub-phase. Whilst Incorporeal, a Black Coach:\n- Loses the Impact Hits (D6+2) special rule.\n- Gains the Ethereal and Fly (10) special rules.\n"
   },
   {
+    "Id": "e977-f337-569a-f59a",
+    "Name": "Spectral Scythe",
+    "Type": "Equipment",
+    "Description": null
+  },
+  {
     "Id": "238e-4e22-63f-9042",
     "Name": "Accursed Weapons",
     "Type": "Global",
@@ -3909,61 +4035,61 @@
     "Id": "1751-0dbe-b0dd-2f9c",
     "Name": "Boldest of the Bold",
     "Type": "Global",
-    "Description": null
+    "Description": "Araloth ignores all negative modifiers to his Leadership characteristic."
   },
   {
     "Id": "87ae-4d49-7f58-085f",
     "Name": "Favour of the Goddess",
     "Type": "Global",
-    "Description": null
+    "Description": "Araloth has a 5+ Ward save against any wounds suffered."
   },
   {
     "Id": "605a-2b9a-7e83-441d",
     "Name": "Skaryn the Eye Thief",
     "Type": "Global",
-    "Description": null
+    "Description": "During the Command sub-phase of his turn, Araloth may attempt to dispatch Skaryn to strike from the skies by rolling a D6. On a roll of 1-2, Skaryn lingers out of reach of the enemy and nothing happens. On a roll of 3+, Skaryn descends from the skies to strike at his master's mark. Nominate a single enemy model within 18\" of Araloth. That model suffers a single Strength 4 hit with an AP of -1. If the target suffers an unsaved wound, its Weapon Skill and Initiative characteristics are reduced by D3 (to a minimum of 1) for the remainder of the game."
   },
   {
     "Id": "0e4f-f4c2-dda3-106b",
     "Name": "Spear of Talsyn",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks\nNotes: \n"
   },
   {
     "Id": "de18-9243-99b8-e4c0",
     "Name": "Spectral Hounds",
     "Type": "Global",
-    "Description": null
+    "Description": "Hounds of Orion can only be wounded by Magical attacks."
   },
   {
     "Id": "d02d-982c-5880-ea5c",
     "Name": "Cloak of Isha",
     "Type": "Equipment",
-    "Description": null
+    "Description": "The Cloak of Isha grants Orion a 5+ Ward save. In addition, during each of your Start of Turn sub-phases, roll a D6. On a roll of 5+, Orion recovers a single Wound lost earlier in the battle."
   },
   {
     "Id": "c63a-9e6c-d0ea-4aac",
     "Name": "Hawk's Talon",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: 30\"\nS: S\nAP: -1\nSpecial Rules: Magical Attacks, Multiple Shots (D3+1)\nNotes: \n"
   },
   {
     "Id": "7a6b-bb43-f56f-83a9",
     "Name": "Horn of the Wild Hunt",
     "Type": "Equipment",
-    "Description": null
+    "Description": "Once per game, during the Command sub-phase of his turn, Orion may sound the Horn of the Wild Hunt. If he does, until the end of this turn, friendly units in Orion's Command range gain the Frenzy special rule. A unit may become Frenzied in this way even if it has lost Frenzy earlier in the game."
   },
   {
     "Id": "1004-049d-01ed-b2e5",
     "Name": "Spear of Kurnous",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: Combat\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: \n"
   },
   {
     "Id": "0225-ebef-3cf8-2b9d",
     "Name": "Spear of Kurnous",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: 18\"\nS: S+1\nAP: -2\nSpecial Rules: Magical Attacks, Multiple Wounds (D3)\nNotes: The Spear of Kurnous shoots like a bolt thrower, using the Through & Through special rule.\n"
   },
   {
     "Id": "7f99-6c97-9b99-ab2e",
@@ -4119,19 +4245,19 @@
     "Id": "f569-fb1b-7300-4124",
     "Name": "Run with the Pack",
     "Type": "Global",
-    "Description": null
+    "Description": "Whilst one or more Beast Keeper remains within this unit, the unit is not subject to the Undisciplined rule and 'war beasts' within this unit do not fear models with the Flaming Attacks special rule. In addition, a unit with this special rule may use the movement characteristic of the majority of the models in the unit."
   },
   {
     "Id": "b675-3379-db49-2279",
     "Name": "Courage Beyond Compare",
     "Type": "Global",
-    "Description": null
+    "Description": "If this character joins a unit of Guardians of Talsyn, that unit gains the Immune to Psychology special rule. Should this character leave the unit for any reason, the unit loses this special rule."
   },
   {
     "Id": "a01f-c0a1-372b-91b8",
     "Name": "Parry",
     "Type": "Global",
-    "Description": null
+    "Description": "When fighting with a hand weapon and shield, or Asrai spear and shield, this unit improves its armour value by 1."
   },
   {
     "Id": "5706-b80f-ecc9-85ee",
@@ -13338,165 +13464,195 @@
     "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Extra Attacks (+D3), Require Two Hands\nNotes: -"
   },
   {
-    "Id": "92b3-e07b-208b-ca6a",
-    "Name": "Father of Beasts",
+    "Id": "af03-793d-6bbc-5f76",
+    "Name": "Celestial Forged Armour",
     "Type": "Global",
-    "Description": null
+    "Description": "A model with this special rule has a Ward save against any wounds suffered. The armour value of this Ward save is shown in brackets after the name of this special rule (shown here as 'X+'), in addition, a Wizard with this special rule may wear armour without penalty."
   },
   {
-    "Id": "6883-5744-d0e5-dc3b",
-    "Name": "The Skull of the Unicorn Lord",
+    "Id": "955a-ba16-5057-1c10",
+    "Name": "Disdain of the Dragons",
     "Type": "Global",
-    "Description": null
+    "Description": "Enemy models that with to issue a challenge whilst within Miao Ying's Command range must first make a Leadership test (using their own Leadership). If the enemy model wishes to issue a challenge whilst engaged in a combat Miao Ying is also engaged in, it must apply a +1 modifier to the dice roll if she is in her Human form, and a +2 modifier if she is in her Dragon form:\n- If this test is passed, the challenge is issued as normal.\n- If this test if failed, the challenge dies on the enemy's lips and goes unissued.\nFinally, a challenge issued by Miao Ying cannot be refused."
   },
   {
-    "Id": "353f-f21a-bb7c-d516",
-    "Name": "The Sons of Ghorros",
+    "Id": "ace9-f0d5-dcff-3fd4",
+    "Name": "Mastery of the Elemental Winds",
     "Type": "Global",
-    "Description": null
+    "Description": "Once per turn, a Wizard within your army that has this special rule and that is within 6\" of one or more friendly Wizards that also have this special rule may apply a +1 modifier to a Casting roll.\n*Note that this is a modifier to the result of a roll - it does not negate a roll of a natural double 1.*"
   },
   {
-    "Id": "76fd-f37d-33e2-cc94",
-    "Name": "Mansmasher",
+    "Id": "0961-1f72-1cf4-5b76",
+    "Name": "Mastery of the Storm Winds",
+    "Type": "Global",
+    "Description": "Miao Ying may discard up to two of her randomly generated spells (rather than the usual one). When she does so, she may replace them with spells chosen from the Lore of Yang, The Lore of Yin, the signature spell of her chosen Lore of Magic or with The Storm Dragon's Fury."
+  },
+  {
+    "Id": "d0a7-9cb1-086c-03e1",
+    "Name": "Supreme Matriarch of Nan-Gau",
+    "Type": "Global",
+    "Description": "If your army includes Miao Ying, she must be the army's General. In addition, 0-1 unit of Jade Warriors and 0-1 unit of Jade lancers in her army may be upgraded to Celestial Dragon Guard for +1 point per model. Celestial Dragon Guard have a +1 modifier to their Weapon Skill and Leadership characteristic (to a maximum of 10) and gain the Celestial Armour (6+) special rule."
+  },
+  {
+    "Id": "8cea-5579-7aed-1e6b",
+    "Name": "Transformation of the Dragon",
+    "Type": "Global",
+    "Description": "A Cathayan Dragon may adopt both Human and Dragon forms. To represent this, you may choose a Cathayan Dragon's form at the start of the game by simply placing the appropriate model on the battlefield during deployment. Each form has its own profile of characteristics.\nHuman Form, Dragon Form, Death of a Dragon, Transformation"
+  },
+  {
+    "Id": "50d1-e83d-685e-7c94",
+    "Name": "Will of the Dragons",
+    "Type": "Global",
+    "Description": "A unit with this special rule may re-roll a failed Panic test when a friendly unit is destroyed whilst within 6\" of it, or when it is fled through by a friendly unit."
+  },
+  {
+    "Id": "1306-cc1f-3581-1a58",
+    "Name": "Wrath of the Storm",
+    "Type": "Global",
+    "Description": "All units of Jade Warriors and Jade Lancers included in an army that is led by Miao Ying gain the Hatred (Warriors of Chaos & Daemonic models) special rule."
+  },
+  {
+    "Id": "2594-1ceb-1657-9e16",
+    "Name": "Talons of the Storm",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Magical Attacks, Strike First\nNotes: \n"
   },
   {
-    "Id": "e9e5-d860-7701-0f11",
-    "Name": "Future Sight",
+    "Id": "4cef-4823-4dd5-a26a",
+    "Name": "Cathayan Cataphracts",
     "Type": "Global",
-    "Description": null
+    "Description": "When a unit in which the majority of the models have this special rule makes a follow up move, the unit counts as having charged during the next turn."
   },
   {
-    "Id": "f294-c233-5f85-0821",
-    "Name": "Grisly Totem",
+    "Id": "fcda-2bba-91ce-ea11",
+    "Name": "Harmony of Stone & Steel",
     "Type": "Global",
-    "Description": null
+    "Description": "A unit joined by a character with this special rule may re-roll any failed Leadership test when attempting to reform after running down a foe, when attempting to redirect a charge, or when making a Restraint test."
   },
   {
-    "Id": "87fd-67b2-286c-24e5",
-    "Name": "Leering Spirit",
+    "Id": "2f6c-9e02-448f-7671",
+    "Name": "Disengage",
     "Type": "Global",
-    "Description": null
+    "Description": "Should this model lose a round of combat it may attempt to 'disengage' by making a Leadership test. If this test is passed, this model may Fall Back in Good Order rather than Give Ground. Enemy units can follow up as if this model had given ground, moving 2\" directly towards this model, but cannot pursue it. However, if this test is failed, this model is unable to disengage and must Give Ground as normal. In addition, should it win a round of combat, this model may choose to Fall Back in Good Order rather than make a follow up or pursuit move."
   },
   {
-    "Id": "8482-0f23-6ab1-a7fe",
-    "Name": "A Tingle in the Air",
+    "Id": "6426-3e2d-c25d-c9ec",
+    "Name": "Eye of the Dragon",
     "Type": "Global",
-    "Description": null
+    "Description": "Friendly models whose weapons shoot using the 'Bombardment' special rule can shoot using this model's line of sight rather than their own."
   },
   {
-    "Id": "3a3e-a3c6-d393-b1dc",
-    "Name": "Controlling a Herdstone",
+    "Id": "a92d-b204-33f2-6097",
+    "Name": "Grand Strategist",
     "Type": "Global",
-    "Description": null
+    "Description": "Unless the character is fleeing, all friendly units within their Command range, except your General, can use this character's Leadership characteristic instead of their own. In addition, once per turn a friendly unit that wins a round of combat whilst within this character's Command range may choose to Fall Back in Good Order rather than making a follow up or pursuit move."
   },
   {
-    "Id": "7641-f791-8120-9758",
-    "Name": "Dark Sorcery",
+    "Id": "93f6-fc7c-2989-4664",
+    "Name": "Heavenly Beacon",
     "Type": "Global",
-    "Description": null
+    "Description": "Unless this model is fleeing, friendly units within 12\" of it may re-roll any failed Panic of Rally tests. In addition, whilst this model is on the battlefield, unless it is fleeing, you may apply a +1 or -1 modifier to the result when rolling to determine if a friendly unit with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed. Finally, a Lord Magistrate or Strategist mounted on a Sky Lantern has a Command range of 12\"."
   },
   {
-    "Id": "af29-67cf-d73b-ec79",
-    "Name": "Fearsome Edifice",
-    "Type": "Global",
-    "Description": null
-  },
-  {
-    "Id": "fb58-ea2e-9d71-3c0c",
-    "Name": "Placing a Herdstone",
-    "Type": "Global",
-    "Description": null
-  },
-  {
-    "Id": "988d-7383-6ad8-b25d",
-    "Name": "Crown of Antlers",
-    "Type": "Global",
-    "Description": null
-  },
-  {
-    "Id": "c8a8-9dd9-7b0c-54cf",
-    "Name": "Endless Malice",
-    "Type": "Global",
-    "Description": null
-  },
-  {
-    "Id": "4705-90b5-671c-2f5c",
-    "Name": "Twisted Antlers",
+    "Id": "3f07-e69d-8818-d45d",
+    "Name": "Sky Lantern Crane Gun",
     "Type": "Equipment",
-    "Description": null
+    "Description": "R: 36\"\nS: 6\nAP: -2\nSpecial Rules: Armour Bane (2), Cumbersome\nNotes: \n"
   },
   {
-    "Id": "814d-8748-07c1-ab99",
-    "Name": "Dark Coven",
+    "Id": "9eca-5650-4f78-32be",
+    "Name": "Lore of Yang",
     "Type": "Global",
-    "Description": null
+    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
   },
   {
-    "Id": "7d6a-a4f8-24d3-a41f",
-    "Name": "Mixed Unit",
+    "Id": "7c73-2f69-0462-4857",
+    "Name": "Iron Talons",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Strike First\nNotes: \n"
+  },
+  {
+    "Id": "19f5-926f-38ec-f9a4",
+    "Name": "Lore of Yang",
+    "Type": "Equipment",
+    "Description": "A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below."
+  },
+  {
+    "Id": "7056-0a8f-b809-d25a",
+    "Name": "Crown of Horns",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1)\nNotes: \n"
+  },
+  {
+    "Id": "e8db-9b63-e462-8bd5",
+    "Name": "Cathayan Lance",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Armour Bane (1), Fight in Extra Rank\nNotes: Models whose troop type is 'cavalry', 'monster', or 'chariot' only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged.\n"
+  },
+  {
+    "Id": "bd90-2e9b-ed27-5498",
+    "Name": "Defensive Stance",
     "Type": "Global",
-    "Description": null
+    "Description": "Unless it charged during the preceding Movement phase, or counts as having charged this turn, a unit with this special rule may re-roll any Armour Save rolls of a natural 1 made during the Combat phase."
   },
   {
-    "Id": "32f0-4684-911d-f9a7",
-    "Name": "Blessings of Chaos",
+    "Id": "ef00-e657-a314-91ab",
+    "Name": "Grand cannon",
+    "Type": "Equipment",
+    "Description": "R: 48\"\nS: 10\nAP: -3\nSpecial Rules: Armour Bane (3), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3+1), Thunderous Impact\nNotes: This weapon does not use its crew's Ballistic Skill. Instead it shoots using the 'Cannon Fire' special rule. This weapon uses the Black Powder misfire table.\n"
+  },
+  {
+    "Id": "22be-fd06-f491-d1f9",
+    "Name": "Implacable",
     "Type": "Global",
-    "Description": null
+    "Description": "Once per game, during a turn in which it was charged, this model may choose not to Give Ground should it lose a round of combat. In addition, once per game this model may re-roll its Charge roll."
   },
   {
-    "Id": "b783-ab7e-dbf9-5b11",
-    "Name": "The Dolorous Blade (Deadly blows)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat."
+    "Id": "b221-591c-1017-89e3",
+    "Name": "Jade Sentinel",
+    "Type": "Global",
+    "Description": "A Jade Sentinel knows a single spell (chosen by their controlling player before armies are deployed) from either the Battle Magic or Elementalism Lore of Magic. It may cast this spell as a Bound spell with a Power Level of 3."
   },
   {
-    "Id": "b1df-7321-f745-aee7",
-    "Name": "The Dolorous Blade (Rapid strikes)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S\nAP: -1\nSpecial Rules: Extra Attacks (D6), Magical Attacks\nNote: The Dolorous Blade has two profiles. You must choose which the wielder will use at the start of each round of combat."
+    "Id": "6b2c-21ff-3566-67c6",
+    "Name": "Terracotta Sentinel",
+    "Type": "Global",
+    "Description": "A Terracotta Sentinel has the Regeneration (6+) special rule."
   },
   {
-    "Id": "e7c7-b48f-7d2c-b337",
-    "Name": "Polearm (Double-handed)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S+1\nAP: -1\nSpecial Rules: Requires Two Hands\nNotes: -"
+    "Id": "1085-72be-d0a2-9dad",
+    "Name": "Great Blade",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S+1\nAP: -4\nSpecial Rules: Killing Blow, Monster Slayer, Multiple Wounds (D3)\nNotes: This weapon has two profiles, representing the different ways it can be used in combat. You must choose which profile the wielder will use at the start of each round of a combat.\n"
   },
   {
-    "Id": "985a-110b-3393-79b7",
-    "Name": "Polearm (Single handed)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S\nAP: -\nSpecial Rules: Fight in Extra Rank\nNotes: -"
+    "Id": "00ec-8265-17bd-9428",
+    "Name": "Great Blade",
+    "Type": "Equipment",
+    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (1), Extra Attacks (+2D3), Strike Last\nNotes: \n"
   },
   {
-    "Id": "7513-3d8a-0665-3fda",
-    "Name": "Howdah (Lizardmen)",
-    "Type": "General",
-    "Description": "Description: To represent its howdah and crew, a behemoth with this special rule has a split profile and follows both the ‘Split Profile (Chariots)’ and ‘Firing Platform’ rules (see page 194).\n*Note that, because it has the Howdah special rule, a Stegadon or Ancient Stegadon is considered to be a chariot mount, rather than a ridden monster.*"
+    "Id": "850f-0f9a-58d2-fbce",
+    "Name": "Bastion Rockets",
+    "Type": "Equipment",
+    "Description": "R: 12-48\"\nS: 4(5)\nAP: -1(-3)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D6)\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule, a 3\" blast template and the Black Powder Misfire table. The Multiple Wounds (D6) special rule applies only to a single model whose base lies underneath the central hole of the blast template.\n"
   },
   {
-    "Id": "92c9-78d2-aa39-a8b9",
-    "Name": "Leadbelcher Gun (Scatter shot)",
-    "Type": "General",
-    "Description": "R: 18\nS: 3\nAP: -\nSpecial Rules: Armour Bane (1)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing. If the roll To Hit is successful when firing scatter shot, a leadbelcher gun causes D3 hits to the target enemy unit, rather than the usual one."
+    "Id": "4158-2f69-ead2-c35f",
+    "Name": "Rocket Battery",
+    "Type": "Equipment",
+    "Description": "R: 12-48\"\nS: 3(4)\nAP: -1(-1)\nSpecial Rules: Armour Bane (1), Bombardment, Cumbersome, Flaming Attacks, Move or Shoot, Wailing Spirits\nNotes: This weapon shoots like a stone thrower, using the 'Bombardment' special rule, a 5\" blast template and the Black Powder misfire table.\n"
   },
   {
-    "Id": "b006-417c-17d1-fb58",
-    "Name": "Leadbelcher Gun (Solid shot)",
-    "Type": "General",
-    "Description": "R: 24\nS: 5\nAP: -2\nSpecial Rules: Armour Bane (1), Cumbersome, Multiple Wounds (2)\nNotes: A Leadbelcher gun has two profiles, representing its two modes of firing."
+    "Id": "0d43559d-0096-4f9f-819c-9def07813fb7",
+    "Name": "Enough for Everyone",
+    "Type": "Global",
+    "Description": "If an Ogre Loader is equipped with gunpowder bombs, the crew of the war machine that Ogre Loader has joined is also equipped with gunpowder bombs."
   },
   {
-    "Id": "c478-cb33-aa71-5e7a",
-    "Name": "Da Skull Smasha (Pick)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S\nAP: -2\nSpecial Rules: Armour Bane (2), Magical Attacks, Multiple Wounds (2)\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat."
-  },
-  {
-    "Id": "bdfa-7454-de80-7d73",
-    "Name": "Da Skull Smasha (Hammer)",
-    "Type": "General",
-    "Description": "R: Combat\nS: S+2\nAP: -1\nSpecial Rules: Armour Bane (2), Magical Attacks\nNote: Da Skull Smasha has two profiles. You must choose which Kiknik will use at the start of the first round of combat."
+    "Id": "70418e48-f1d9-4e87-bfed-1f8d07415fe4",
+    "Name": "Mercenary Crew",
+    "Type": "Global",
+    "Description": "An Ogre Loader is a special type of character that can be taken as an upgrade to accompany a Cathayan war machine. During deployment, position an Ogre Loader with its war machine, as you would a character that has joined a unit. Once placed, an Ogre Loader cannot leave its war machine.\nThe crew of any war machine joined by an Ogre Loader gains a +1 modifier to its movement characteristic and the Stubborn Special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice."
   }
 ]

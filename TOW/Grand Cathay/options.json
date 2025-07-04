@@ -1,0 +1,218 @@
+[
+  {
+    "Id": "1c535924-7f81-49b7-b84e-0086c491c485",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb035736",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "a1e61223-e7ca-480c-9715-c5bd1b334c89",
+    "Name": "Cathayan Warhorse",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb035736",
+    "WDSDataId": "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "c600698f-fb8f-439a-ba22-dc64aa41ae68",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb036c07",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "51ece94c-b1bc-47e8-b090-a3620b0e1c96",
+    "Name": "Cathayan Warhorse",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb036c07",
+    "WDSDataId": "9e976c64-4500-44f6-9e6c-0e76a12bb488",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "b2d491cc-2f98-440c-ad29-6b9b7331e5d6",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb037d56",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "32eda734-cc48-47c7-9de1-1778caeb3fa6",
+    "Name": "Sky Lantern",
+    "Type": "Mount",
+    "OwnerId": "6866ef0bf0f4ee4feb037d56",
+    "WDSDataId": "d5dc961f-65f5-4652-a6ad-df6eae6fe27e",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "4afa87b2-13ee-49d6-a72d-4afcfde7f3e2",
+    "Name": "On Foot",
+    "Type": "Mount",
+    "OwnerId": "6866ef0df0f4ee4feb03b2a4",
+    "WDSDataId": null,
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "cf7a55af-1006-4d0a-aeee-ce760ca3c777",
+    "Name": "Sky Lantern",
+    "Type": "Mount",
+    "OwnerId": "6866ef0df0f4ee4feb03b2a4",
+    "WDSDataId": "cce541a3-9b7f-4748-af0a-7d0c71d28c97",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "aa3f0e32-f8b9-4feb-94d7-eac5b0806279",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "6866ef0df0f4ee4feb03d3a1",
+    "WDSDataId": "6866ef0df0f4ee4feb03de4c",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "892feb05-8ace-4d3f-b15b-f2d46e3de868",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0df0f4ee4feb03d3a1",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "c934339c-3983-453c-b8fe-72e0c0914d89",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0df0f4ee4feb03d3a1",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "fb81b69d-02eb-4519-9556-f28883b2850b",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "6866ef0ef0f4ee4feb03fdd3",
+    "WDSDataId": "6866ef0ef0f4ee4feb04084f",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "4fa1fa8a-cb8a-4206-9d21-4281e0dba03e",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0ef0f4ee4feb03fdd3",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "e3fa1174-948c-49ed-a5c6-484918352838",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0ef0f4ee4feb03fdd3",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "28916550-5573-4b49-8260-a4f495825516",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "6866ef0ff0f4ee4feb042d5a",
+    "WDSDataId": "6866ef0ff0f4ee4feb0437fb",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "06d44536-9c5d-4654-b58e-2c62604df5f4",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0ff0f4ee4feb042d5a",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3ecc9a9a-38aa-4b0a-a5f4-63414935fed2",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef0ff0f4ee4feb042d5a",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "b8994f96-2231-472f-8ab0-2a0c3be63268",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "6866ef11f0f4ee4feb04616a",
+    "WDSDataId": "6866ef11f0f4ee4feb046734",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "8b34eca7-5a20-4494-b13d-e6a702581b43",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef11f0f4ee4feb04616a",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "3f0680be-6bdc-42ff-af83-1876e8bb5672",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef11f0f4ee4feb04616a",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "466d0384-3d8c-47e1-84fd-68e2d0df2616",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef12f0f4ee4feb0476be",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "f513e352-e949-4c79-9452-55345fb38785",
+    "Name": "Standard",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef12f0f4ee4feb0476be",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "d0e973cd-5a4a-4076-af05-3c3d61d1c800",
+    "Name": "Champion",
+    "Type": "ModelSwap",
+    "OwnerId": "6866ef12f0f4ee4feb047ff2",
+    "WDSDataId": "6866ef12f0f4ee4feb04821b",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "23b922e1-f015-4224-8f7c-e111996a1d58",
+    "Name": "Musician",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef12f0f4ee4feb048404",
+    "WDSDataId": "40f2-dd77-f0ca-3663",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "588159b2-378e-45a8-b1dc-588a3e8a5e3d",
+    "Name": "Standard Bearer",
+    "Type": "ModelAddRule",
+    "OwnerId": "6866ef12f0f4ee4feb048404",
+    "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+  {
+    "Id": "588159b2-378e-45a8-b1dc-588a3e8a5e39",
+    "Name": "Ogre Loader",
+    "Type": "ModelAdd",
+    "OwnerId": "6866ef0ef0f4ee4feb042789",
+    "WDSDataId": "6866ef0cf0f4ee4feb03a889",
+    "StatlineIndex": "0"
+  },
+  {
+    "Id": "c05556a2-64cb-49da-bc15-da8caeab46db",
+    "Name": "Ogre Loader",
+    "Type": "ModelAdd",
+    "OwnerId": "6866ef0ff0f4ee4feb042b69",
+    "WDSDataId": "6866ef0cf0f4ee4feb03a889",
+    "StatlineIndex": "0"
+  }
+]

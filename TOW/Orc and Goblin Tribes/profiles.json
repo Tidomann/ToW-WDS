@@ -3064,6 +3064,44 @@
     }
   },
   {
+    "Id": "68357bd86d966c2c1482b419",
+    "Name": "Night Goblin Fanatic",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "70d3-ea31-eb40-a58c": "Release the Fanatics!"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Night Goblin Fanatic",
+        "Values": {
+          "M": "*",
+          "WS": "*",
+          "BS": "*",
+          "S": "5",
+          "T": "3",
+          "W": "1",
+          "I": "5",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "1f92-933c-dfaa-bd0a": "Fanatic Ball & Chain"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "round",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
     "Id": "68357bd86d966c2c1482b41dc",
     "Name": "Boss (Night Goblin)",
     "Attributes": {},

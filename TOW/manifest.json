@@ -1,18 +1,19 @@
 {
-  "version": 10,
+  "version": 5,
   "files": [
     "cards.json",
     "hierarchy.json",
+    "manifest.json",
     "rules.json",
     "Beastmen Brayherds/options.json",
     "Beastmen Brayherds/profiles.json",
     "Beastmen Brayherds/units.json",
-    "Beastmen Brayherds - Wild Herd/options.json",
-    "Beastmen Brayherds - Wild Herd/profiles.json",
-    "Beastmen Brayherds - Wild Herd/units.json",
     "Beastmen Brayherds - Minotaur Blood Herd/options.json",
     "Beastmen Brayherds - Minotaur Blood Herd/profiles.json",
     "Beastmen Brayherds - Minotaur Blood Herd/units.json",
+    "Beastmen Brayherds - Wild Herd/options.json",
+    "Beastmen Brayherds - Wild Herd/profiles.json",
+    "Beastmen Brayherds - Wild Herd/units.json",
     "Chaos Dwarfs/options.json",
     "Chaos Dwarfs/profiles.json",
     "Chaos Dwarfs/units.json",
@@ -31,6 +32,9 @@
     "Dwarfen Mountain Holds - Royal Clan/options.json",
     "Dwarfen Mountain Holds - Royal Clan/profiles.json",
     "Dwarfen Mountain Holds - Royal Clan/units.json",
+    "Grand Cathay/options.json",
+    "Grand Cathay/profiles.json",
+    "Grand Cathay/units.json",
     "High Elf Realms/options.json",
     "High Elf Realms/profiles.json",
     "High Elf Realms/units.json",
@@ -103,8 +107,8 @@
     "Wood Elf Realms - Host of Talsyn/options.json",
     "Wood Elf Realms - Host of Talsyn/profiles.json",
     "Wood Elf Realms - Host of Talsyn/units.json",
-    "Wood Elf Realms - Orion's Wild hunt/options.json",
-    "Wood Elf Realms - Orion's Wild hunt/profiles.json",
-    "Wood Elf Realms - Orion's Wild hunt/units.json"
+    "Wood Elf Realms - Orion's Wild Hunt/options.json",
+    "Wood Elf Realms - Orion's Wild Hunt/profiles.json",
+    "Wood Elf Realms - Orion's Wild Hunt/units.json"
   ]
 }

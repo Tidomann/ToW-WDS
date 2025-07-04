@@ -6,6 +6,19 @@
       "Name": "Beastmen Brayherds",
       "Children": {
         "faction-beastmen-brayherds-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-ghorros-warhoof,-sire-of-a-thousand-young": {
+              "Name": "Ghorros Warhoof, Sire of a Thousand Young",
+              "Children": {}
+            },
+            "unit-kralmaw,-the-prophet-of-ruin": {
+              "Name": "Kralmaw, The Prophet of Ruin",
+              "Children": {}
+            }
+          }
+        },
+        "faction-beastmen-brayherds-category-1": {
           "Name": "Characters",
           "Children": {
             "unit-beastlord": {
@@ -38,7 +51,7 @@
             }
           }
         },
-        "faction-beastmen-brayherds-category-1": {
+        "faction-beastmen-brayherds-category-2": {
           "Name": "Core",
           "Children": {
             "unit-bestigor-herds": {
@@ -51,6 +64,10 @@
             },
             "unit-gor-herds": {
               "Name": "Gor Herds",
+              "Children": {}
+            },
+            "unit-minotaur-herds": {
+              "Name": "Minotaur Herds",
               "Children": {}
             },
             "unit-razorgor-herds": {
@@ -67,7 +84,7 @@
             }
           }
         },
-        "faction-beastmen-brayherds-category-2": {
+        "faction-beastmen-brayherds-category-3": {
           "Name": "Special",
           "Children": {
             "unit-bestigor-herds": {
@@ -86,16 +103,36 @@
               "Name": "Cockatrice",
               "Children": {}
             },
+            "unit-cygor": {
+              "Name": "Cygor",
+              "Children": {}
+            },
             "unit-dragon-ogres": {
               "Name": "Dragon Ogres",
+              "Children": {}
+            },
+            "unit-ghorgon": {
+              "Name": "Ghorgon",
               "Children": {}
             },
             "unit-harpies": {
               "Name": "Harpies",
               "Children": {}
             },
+            "unit-herdstone": {
+              "Name": "Herdstone",
+              "Children": {}
+            },
+            "unit-jabberslythe": {
+              "Name": "Jabberslythe",
+              "Children": {}
+            },
             "unit-minotaur-herds": {
               "Name": "Minotaur Herds",
+              "Children": {}
+            },
+            "unit-preyton": {
+              "Name": "Preyton",
               "Children": {}
             },
             "unit-razorgor-chariots": {
@@ -104,7 +141,7 @@
             }
           }
         },
-        "faction-beastmen-brayherds-category-3": {
+        "faction-beastmen-brayherds-category-4": {
           "Name": "Rare",
           "Children": {
             "unit-chaos-giants": {
@@ -141,7 +178,7 @@
             }
           }
         },
-        "faction-beastmen-brayherds-category-4": {
+        "faction-beastmen-brayherds-category-5": {
           "Name": "Mercenaries",
           "Children": {
             "unit-badlands-ogre-bulls": {
@@ -150,6 +187,22 @@
             },
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -277,6 +330,22 @@
             },
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -441,6 +510,22 @@
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
               "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -566,6 +651,26 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -782,6 +887,35 @@
               "Children": {}
             }
           }
+        },
+        "faction-daemons-of-chaos-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
         }
       }
     },
@@ -929,6 +1063,26 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -1098,6 +1252,10 @@
               "Name": "Badlands Ogre Bulls",
               "Children": {}
             },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
             "unit-doomseeker": {
               "Name": "Doomseeker",
               "Children": {}
@@ -1245,6 +1403,10 @@
               "Name": "Badlands Ogre Bulls",
               "Children": {}
             },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
             "unit-doomseeker": {
               "Name": "Doomseeker",
               "Children": {}
@@ -1255,6 +1417,10 @@
             },
             "unit-imperial-dwarf-mercenaries": {
               "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
               "Children": {}
             },
             "unit-prince-ulther's-dragon-company": {
@@ -1384,6 +1550,10 @@
               "Name": "Badlands Ogre Bulls",
               "Children": {}
             },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
             "unit-doomseeker": {
               "Name": "Doomseeker",
               "Children": {}
@@ -1396,8 +1566,115 @@
               "Name": "Imperial Dwarf Mercenaries",
               "Children": {}
             },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
             "unit-prince-ulther's-dragon-company": {
               "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
+        }
+      }
+    },
+"faction-grand-cathay": {
+      "Name": "Grand Cathay",
+      "Children": {
+        "faction-grand-cathay-category-0": {
+          "Name": "Named Characters",
+          "Children": {
+            "unit-miao-ying,-the-storm-dragon": {
+              "Name": "Miao Ying, The Storm Dragon",
+              "Children": {}
+            }
+          }
+        },
+        "faction-grand-cathay-category-1": {
+          "Name": "Characters",
+          "Children": {
+            "unit-gate-keeper": {
+              "Name": "Gate Keeper",
+              "Children": {}
+            },
+            "unit-gate-master": {
+              "Name": "Gate Master",
+              "Children": {}
+            },
+            "unit-lord-magistrate": {
+              "Name": "Lord Magistrate",
+              "Children": {}
+            },
+            "unit-shugengan-general": {
+              "Name": "Shugengan General",
+              "Children": {}
+            },
+            "unit-shugengan-lord": {
+              "Name": "Shugengan Lord",
+              "Children": {}
+            },
+            "unit-strategist": {
+              "Name": "Strategist",
+              "Children": {}
+            }
+          }
+        },
+        "faction-grand-cathay-category-2": {
+          "Name": "Core",
+          "Children": {
+            "unit-jade-lancer": {
+              "Name": "Jade Lancer",
+              "Children": {}
+            },
+            "unit-jade-warriors": {
+              "Name": "Jade Warriors",
+              "Children": {}
+            }
+          }
+        },
+        "faction-grand-cathay-category-3": {
+          "Name": "Special",
+          "Children": {
+            "unit-cathayan-grand-cannon": {
+              "Name": "Cathayan Grand Cannon",
+              "Children": {}
+            },
+            "unit-cathayan-sentinel": {
+              "Name": "Cathayan Sentinel",
+              "Children": {}
+            },
+            "unit-fire-rain-rocket-battery": {
+              "Name": "Fire Rain Rocket Battery",
+              "Children": {}
+            },
+            "unit-jade-lancer": {
+              "Name": "Jade Lancer",
+              "Children": {}
+            },
+            "unit-sky-lantern": {
+              "Name": "Sky Lantern",
+              "Children": {}
+            }
+          }
+        },
+        "faction-grand-cathay-category-4": {
+          "Name": "Rare",
+          "Children": {
+            "unit-cathayan-sentinel": {
+              "Name": "Cathayan Sentinel",
+              "Children": {}
+            },
+            "unit-sky-lantern": {
+              "Name": "Sky Lantern",
+              "Children": {}
+            }
+          }
+        },
+        "faction-grand-cathay-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
               "Children": {}
             }
           }
@@ -1566,6 +1843,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -1670,6 +1967,35 @@
               "Children": {}
             }
           }
+        },
+        "faction-high-elf-realms---chracian-warhost-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
         }
       }
     },
@@ -1761,6 +2087,35 @@
             },
             "unit-merwyrms": {
               "Name": "Merwyrms",
+              "Children": {}
+            }
+          }
+        },
+        "faction-high-elf-realms---sea-guard-garrison-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -1885,6 +2240,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -2005,12 +2380,36 @@
         "faction-kingdom-of-bretonnia---bretonnian-exiles-category-5": {
           "Name": "Mercenaries",
           "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
             "unit-empire-archers": {
               "Name": "Empire Archers",
               "Children": {}
             },
             "unit-free-company-militia": {
               "Name": "Free Company Militia",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -2136,12 +2535,36 @@
         "faction-kingdom-of-bretonnia---errantry-crusade-category-5": {
           "Name": "Mercenaries",
           "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
             "unit-empire-knights": {
               "Name": "Empire Knights",
               "Children": {}
             },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
             "unit-inner-circle-knights": {
               "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -2261,6 +2684,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -2378,6 +2821,26 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -2582,6 +3045,22 @@
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
               "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -2708,6 +3187,22 @@
             },
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -2852,6 +3347,22 @@
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
               "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -2864,7 +3375,7 @@
           "Name": "Uncategorized",
           "Children": {
             "unit-packmasters-&-master-moulders": {
-              "Name": "Packmaster",
+              "Name": "Packmasters & Master Moulders",
               "Children": {}
             },
             "unit-weapon-team": {
@@ -2982,6 +3493,26 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -3163,6 +3694,10 @@
               "Name": "Badlands Ogre Bulls",
               "Children": {}
             },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
             "unit-doomseeker": {
               "Name": "Doomseeker",
               "Children": {}
@@ -3310,6 +3845,14 @@
         "faction-the-empire-of-man---city-state-of-nuln-category-5": {
           "Name": "Mercenaries",
           "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
             "unit-doomseeker": {
               "Name": "Doomseeker",
               "Children": {}
@@ -3459,6 +4002,34 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-empire-knights": {
+              "Name": "Empire Knights",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-inner-circle-knights": {
+              "Name": "Inner Circle Knights",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -3615,6 +4186,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -3759,6 +4350,35 @@
               "Children": {}
             }
           }
+        },
+        "faction-tomb-kings-of-khemri---mortuary-cult-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
+            }
+          }
         }
       }
     },
@@ -3874,6 +4494,35 @@
           "Children": {
             "unit-screaming-skull-catapult": {
               "Name": "Screaming Skull Catapult",
+              "Children": {}
+            }
+          }
+        },
+        "faction-tomb-kings-of-khemri---royal-host-category-5": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -4019,6 +4668,35 @@
             },
             "unit-varghulf": {
               "Name": "Varghulf",
+              "Children": {}
+            }
+          }
+        },
+        "faction-vampire-counts-category-4": {
+          "Name": "Mercenaries",
+          "Children": {
+            "unit-badlands-ogre-bulls": {
+              "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -4175,6 +4853,22 @@
             "unit-bonegrinder-giant": {
               "Name": "Bonegrinder Giant",
               "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -4313,6 +5007,22 @@
             },
             "unit-centigor-herds": {
               "Name": "Centigor Herds",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }
@@ -4454,8 +5164,24 @@
               "Name": "Bonegrinder Giant",
               "Children": {}
             },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
             "unit-gor-herds": {
               "Name": "Gor Herds",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             },
             "unit-ungor-herds": {
@@ -4604,6 +5330,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -4731,6 +5477,26 @@
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
               "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
+              "Children": {}
             }
           }
         }
@@ -4841,6 +5607,26 @@
           "Children": {
             "unit-badlands-ogre-bulls": {
               "Name": "Badlands Ogre Bulls",
+              "Children": {}
+            },
+            "unit-bonegrinder-giant": {
+              "Name": "Bonegrinder Giant",
+              "Children": {}
+            },
+            "unit-doomseeker": {
+              "Name": "Doomseeker",
+              "Children": {}
+            },
+            "unit-imperial-dwarf-mercenaries": {
+              "Name": "Imperial Dwarf Mercenaries",
+              "Children": {}
+            },
+            "unit-imperial-ogres": {
+              "Name": "Imperial Ogres",
+              "Children": {}
+            },
+            "unit-prince-ulther's-dragon-company": {
+              "Name": "Prince Ulther's Dragon Company",
               "Children": {}
             }
           }

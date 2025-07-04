@@ -209,7 +209,7 @@
   },
   {
     "Id": "990560c4-34f6-4956-bf4f-c7226f81b829",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357be86d966c2c148509b9",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -233,7 +233,7 @@
   },
   {
     "Id": "27df43d9-1f22-468b-aa73-c39f5e9c074f",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357be96d966c2c14851198",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -249,7 +249,7 @@
   },
   {
     "Id": "785f1cd0-4dc1-41ec-b21d-cd6fcbac341d",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357be96d966c2c148519c8",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -265,7 +265,7 @@
   },
   {
     "Id": "1f35e62e-d424-4903-9e37-0d9b3e5d370a",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bea6d966c2c14853ac4",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -273,7 +273,7 @@
   },
   {
     "Id": "61d9bedd-f79d-44cc-9d1a-6e06a5d73280",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bea6d966c2c14855f5c",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -313,7 +313,7 @@
   },
   {
     "Id": "6d528ba8-683b-4707-ba53-acd2649bfc39",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bec6d966c2c148578e5",
     "WDSDataId": "bcf8-d942-102e-b155",

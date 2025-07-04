@@ -1,0 +1,642 @@
+[
+  {
+    "Id": "6866ef0af0f4ee4feb035535",
+    "Name": "Miao Ying, The Storm Dragon",
+    "Attributes": {
+      "totalCost": "485",
+      "category": "Named Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef0af0f4ee4feb03553e"
+    ]
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb035736",
+    "Name": "Gate Keeper",
+    "Attributes": {
+      "totalCost": "45",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cathayan Warhorse",
+        "Battle Standard Bearer",
+        "Celestial Blade",
+        "Cathayan Lance",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "1c535924-7f81-49b7-b84e-0086c491c485",
+      "a1e61223-e7ca-480c-9715-c5bd1b334c89"
+    ],
+    "ProfileIds": [
+      "6866ef0bf0f4ee4feb035739"
+    ]
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb036c07",
+    "Name": "Gate Master",
+    "Attributes": {
+      "totalCost": "80",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Cathayan Warhorse",
+        "Celestial Blade",
+        "Cathayan Lance",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c600698f-fb8f-439a-ba22-dc64aa41ae68",
+      "51ece94c-b1bc-47e8-b090-a3620b0e1c96"
+    ],
+    "ProfileIds": [
+      "6866ef0bf0f4ee4feb036c0a"
+    ]
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb037d56",
+    "Name": "Lord Magistrate",
+    "Attributes": {
+      "totalCost": "65",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sky Lantern",
+        "Gunpowder Bombs",
+        "Dragon Fire Bombs",
+        "Hand Weapon",
+        "Sky Lantern",
+        "Sky Lantern Crane Guns",
+        "Iron Hail Guns and Gunpowder Bombs",
+        "Iron Hail Guns and Dragon Fire Bombs",
+        "Commander",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b2d491cc-2f98-440c-ad29-6b9b7331e5d6",
+      "32eda734-cc48-47c7-9de1-1778caeb3fa6"
+    ],
+    "ProfileIds": [
+      "6866ef0bf0f4ee4feb037d5e"
+    ]
+  },
+  {
+    "Id": "6866ef0cf0f4ee4feb039e62",
+    "Name": "Shugengan General",
+    "Attributes": {
+      "totalCost": "175",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Celestial Blade",
+        "Cathayan Lance",
+        "Hand Weapon",
+        "Iron Talons",
+        "Crown of Horns",
+        "Dragon Fire Pistol"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef0cf0f4ee4feb039e65"
+    ]
+  },
+  {
+    "Id": "6866ef0cf0f4ee4feb03a87f",
+    "Name": "Shugengan Lord",
+    "Attributes": {
+      "totalCost": "250",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Monstrous Creature",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Celestial Blade",
+        "Cathayan Lance",
+        "Hand Weapon",
+        "Iron Talons",
+        "Dragon Fire Pistol",
+        "Crown of Horns"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef0cf0f4ee4feb03a887"
+    ]
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03b2a4",
+    "Name": "Strategist",
+    "Attributes": {
+      "totalCost": "40",
+      "category": "Characters",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sky Lantern",
+        "Gunpowder Bombs",
+        "Dragon Fire Bombs",
+        "Hand Weapon",
+        "Sky Lantern",
+        "Sky Lantern Crane Guns",
+        "Iron Hail Guns and Gunpowder Bombs",
+        "Iron Hail Guns and Dragon Fire Bombs",
+        "Commander",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "4afa87b2-13ee-49d6-a72d-4afcfde7f3e2",
+      "cf7a55af-1006-4d0a-aeee-ce760ca3c777"
+    ],
+    "ProfileIds": [
+      "6866ef0df0f4ee4feb03b2a7"
+    ]
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03d3a1",
+    "Name": "Jade Lancer",
+    "Attributes": {
+      "totalCost": "20",
+      "category": "Core",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Cathayan Lance",
+        "Shield",
+        "Jade Lancer Officer",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "aa3f0e32-f8b9-4feb-94d7-eac5b0806279",
+      "892feb05-8ace-4d3f-b15b-f2d46e3de868",
+      "c934339c-3983-453c-b8fe-72e0c0914d89"
+    ],
+    "ProfileIds": [
+      "6866ef0df0f4ee4feb03d3ae"
+    ]
+  },
+  {
+    "Id": "6866ef0ef0f4ee4feb03fdd3",
+    "Name": "Jade Warriors",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Core",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Halberd",
+        "Shield",
+        "Hand Weapon",
+        "Jade Officer",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "fb81b69d-02eb-4519-9556-f28883b2850b",
+      "4fa1fa8a-cb8a-4206-9d21-4281e0dba03e",
+      "e3fa1174-948c-49ed-a5c6-484918352838"
+    ],
+    "ProfileIds": [
+      "6866ef0ef0f4ee4feb03fdda"
+    ]
+  },
+  {
+    "Id": "6866ef0ef0f4ee4feb042789",
+    "Name": "Cathayan Grand Cannon",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Special",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Grand Cannon",
+        "Hand Weapon",
+        "Gunpowder Bombs",
+		"Ogre Loader"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "588159b2-378e-45a8-b1dc-588a3e8a5e39"
+	],
+    "ProfileIds": [
+      "6866ef0ef0f4ee4feb042792"
+    ]
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb04297a",
+    "Name": "Cathayan Sentinel",
+    "Attributes": {
+      "totalCost": "230",
+      "category": "Special",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Blade",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef0ff0f4ee4feb042982"
+    ]
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb042b69",
+    "Name": "Fire Rain Rocket Battery",
+    "Attributes": {
+      "totalCost": "130",
+      "category": "Special",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "War Machine",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Fire Rain Rocket",
+        "Hand Weapon",
+        "Gunpowder Bombs",
+		"Ogre Loader"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "c05556a2-64cb-49da-bc15-da8caeab46db"
+	],
+    "ProfileIds": [
+      "6866ef0ff0f4ee4feb042b72"
+    ]
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb042d5a",
+    "Name": "Jade Lancer",
+    "Attributes": {
+      "totalCost": "20",
+      "category": "Special",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Cathayan Lance",
+        "Shield",
+        "Jade Lancer Officer",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "28916550-5573-4b49-8260-a4f495825516",
+      "06d44536-9c5d-4654-b58e-2c62604df5f4",
+      "3ecc9a9a-38aa-4b0a-a5f4-63414935fed2"
+    ],
+    "ProfileIds": [
+      "6866ef0ff0f4ee4feb042d62"
+    ]
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045778",
+    "Name": "Sky Lantern",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Special",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sky Lantern",
+        "Sky Lantern Crane Guns",
+        "Iron Hail Guns and Gunpowder Bombs",
+        "Iron Hail Guns and Dragon Fire Bombs",
+        "Hand Weapon",
+        "Commander",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef10f0f4ee4feb045780"
+    ]
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045b81",
+    "Name": "Cathayan Sentinel",
+    "Attributes": {
+      "totalCost": "230",
+      "category": "Rare",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Blade",
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef10f0f4ee4feb045b84"
+    ]
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045d6b",
+    "Name": "Sky Lantern",
+    "Attributes": {
+      "totalCost": "135",
+      "category": "Rare",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Chariot",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Sky Lantern",
+        "Sky Lantern Crane Guns",
+        "Iron Hail Guns and Gunpowder Bombs",
+        "Iron Hail Guns and Dragon Fire Bombs",
+        "Hand Weapon",
+        "Commander",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef10f0f4ee4feb045d6e"
+    ]
+  },
+  {
+    "Id": "6866ef11f0f4ee4feb04616a",
+    "Name": "Badlands Ogre Bulls",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Crusher",
+        "Additional Hand Weapon",
+        "Great Weapon",
+        "Ironfist",
+        "Hand Weapon",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "b8994f96-2231-472f-8ab0-2a0c3be63268",
+      "8b34eca7-5a20-4494-b13d-e6a702581b43",
+      "3f0680be-6bdc-42ff-af83-1876e8bb5672"
+    ],
+    "ProfileIds": [
+      "6866ef11f0f4ee4feb04618b"
+    ]
+  },
+  {
+    "Id": "6866ef11f0f4ee4feb0472bd",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {
+      "totalCost": "300",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Bonegrinder Giant’s Club"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef11f0f4ee4feb0472c6"
+    ]
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb047496",
+    "Name": "Doomseeker",
+    "Attributes": {
+      "totalCost": "50",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6866ef12f0f4ee4feb04749c"
+    ]
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb0476be",
+    "Name": "Imperial Dwarf Mercenaries",
+    "Attributes": {
+      "totalCost": "8",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Great Weapon",
+        "Thrusting Spear",
+        "Crossbow",
+        "Handgun",
+        "Shield",
+        "Hand Weapon",
+        "Veteran",
+        "Standard Bearer",
+        "Musician",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "466d0384-3d8c-47e1-84fd-68e2d0df2616",
+      "f513e352-e949-4c79-9452-55345fb38785"
+    ],
+    "ProfileIds": [
+      "6866ef12f0f4ee4feb0476c4"
+    ]
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb047ff2",
+    "Name": "Imperial Ogres",
+    "Attributes": {
+      "totalCost": "31",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Monstrous Infantry",
+      "defaultFront": "3"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Ogre Captain",
+        "Light cannon",
+        "Ogre pistol",
+        "Great Weapon",
+        "Morning Star",
+        "Hand Weapon",
+        "Champion"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "d0e973cd-5a4a-4076-af05-3c3d61d1c800"
+    ],
+    "ProfileIds": [
+      "6866ef12f0f4ee4feb048006"
+    ]
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb048404",
+    "Name": "Prince Ulther's Dragon Company",
+    "Attributes": {
+      "totalCost": "115",
+      "category": "Mercenaries",
+      "army": "Grand Cathay",
+      "height": "Standard",
+      "type": "Heavy Infantry",
+      "defaultFront": "5"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Great Weapon",
+        "Dragonblade",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Hand Weapon",
+        "Brace of Pistols",
+        "Shield",
+        "Standard Bearer",
+        "Musician"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [
+      "23b922e1-f015-4224-8f7c-e111996a1d58",
+      "588159b2-378e-45a8-b1dc-588a3e8a5e3d"
+    ],
+    "ProfileIds": [
+      "6866ef12f0f4ee4feb048410",
+      "6866ef12f0f4ee4feb048419",
+      "6866ef12f0f4ee4feb048422",
+      "6866ef12f0f4ee4feb04842b"
+    ]
+  }
+]

@@ -361,7 +361,7 @@
   },
   {
     "Id": "3cacd137-fa59-4341-8291-d49778c58494",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bd76d966c2c148290f1",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -385,7 +385,7 @@
   },
   {
     "Id": "b938074c-a144-4647-b556-7303a6f38ca3",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bd76d966c2c14829c85",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -409,7 +409,7 @@
   },
   {
     "Id": "a776861c-4a8d-4ea4-8989-7d1a862d70b7",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bd76d966c2c1482a80d",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -433,10 +433,18 @@
   },
   {
     "Id": "91e25dcc-c034-4a1f-b167-b8e0df55e9e4",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bd86d966c2c1482b415",
     "WDSDataId": "bcf8-d942-102e-b155",
+    "StatlineIndex": "1"
+  },
+    {
+    "Id": "e4978352-2885-4da7-8491-7383aba672c8",
+    "Name": "Fanatic",
+    "Type": "ModelAdd",
+    "OwnerId": "68357bd86d966c2c1482b415",
+    "WDSDataId": "68357bd86d966c2c1482b419",
     "StatlineIndex": "1"
   },
   {
@@ -457,7 +465,7 @@
   },
   {
     "Id": "087457fd-e68b-4fe9-a532-45634f06c4f4",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bd86d966c2c1482c257",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -513,7 +521,7 @@
   },
   {
     "Id": "650597ca-fa27-473a-bb87-9cc554efcb5a",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bdb6d966c2c148339c4",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -553,7 +561,7 @@
   },
   {
     "Id": "43e5b0ee-2da4-4566-983a-ca19643e0443",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357bde6d966c2c14839b71",
     "WDSDataId": "bcf8-d942-102e-b155",

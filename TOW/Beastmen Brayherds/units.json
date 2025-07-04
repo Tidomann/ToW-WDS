@@ -1,5 +1,69 @@
 [
   {
+    "Id": "6847dd3c7e64980f675f19b0",
+    "Name": "Ghorros Warhoof, Sire of a Thousand Young",
+    "Attributes": {
+      "totalCost": "155",
+      "category": "Named Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Heavy Cavalry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6847dd3c7e64980f675f19b4"
+    ]
+  },
+  {
+    "Id": "6847dd517e64980f67607f7e",
+    "Name": "Kralmaw, The Prophet of Ruin",
+    "Attributes": {
+      "totalCost": "245",
+      "category": "Named Characters",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "Regular Infantry",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": [
+        "Hand Weapon"
+      ]
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6847dd517e64980f67607f87"
+    ]
+  },
+  {
+    "Id": "6847dd437e64980f675f9a09",
+    "Name": "Herdstone",
+    "Attributes": {
+      "totalCost": "100",
+      "category": "Special",
+      "army": "Beastmen Brayherds",
+      "height": "Standard",
+      "type": "",
+      "defaultFront": "1"
+    },
+    "AttributeLists": {
+      "FullOptions": []
+    },
+    "RuleIds": {},
+    "OptionListIds": [],
+    "ProfileIds": [
+      "6847dd437e64980f675f9a0d"
+    ]
+  },
+  {
     "Id": "68357afd6d966c2c145c384b",
     "Name": "Beastlord",
     "Attributes": {

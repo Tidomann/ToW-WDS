@@ -1,0 +1,1996 @@
+[
+  {
+    "Id": "6866ef0af0f4ee4feb03553e",
+    "Name": "Miao Ying",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "af03-793d-6bbc-5f76": "Celestial Forged Armour (5+)",
+      "955a-ba16-5057-1c10": "Disdain of the Dragons",
+      "609a-2943-a6e1-e002": "General",
+      "f4b3-18af-16bf-78dd": "Hatred (Warriors of Chaos & Daemonic models)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "ace9-f0d5-dcff-3fd4": "Mastery of the Elemental Winds",
+      "0961-1f72-1cf4-5b76": "Mastery of the Storm Winds",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "d0a7-9cb1-086c-03e1": "Supreme Matriarch of Nan-Gau",
+      "8cea-5579-7aed-1e6b": "Transformation of the Dragon",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "1306-cc1f-3581-1a58": "Wrath of the Storm",
+      "3c27-d55d-e778-cb89": "Battle Magic"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Miao Ying, Dragon Form",
+        "Values": {
+          "M": "8",
+          "WS": "8",
+          "BS": "3",
+          "S": "7",
+          "T": "6",
+          "W": "7",
+          "I": "6",
+          "A": "6",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "9a1d-38b0-7d7-7552": "Full Plate Armour",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "2594-1ceb-1657-9e16": "Talons of the Storm",
+          "c557-6102-9a35-bbcd": "Fly (9, Dragon form)",
+          "c822-7ad0-f24a-e4af": "Large Target (Dragon form)",
+          "72db-24bb-7493-d753": "Stomp Attacks (D6, Dragon form)",
+          "dc91-48b3-3696-217": "Swiftstride (Dragon form)",
+          "c7a2-35bf-4313-f4f0": "Terror (Dragon form)"
+        }
+      },
+      {
+        "Name": "Miao Ying, Human Form",
+        "Values": {
+          "M": "4",
+          "WS": "7",
+          "BS": "5",
+          "S": "4",
+          "T": "4",
+          "W": "7",
+          "I": "7",
+          "A": "4",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "2594-1ceb-1657-9e16": "Talons of the Storm",
+          "23c4-bd19-2422-ad08": "Rallying Cry (Human Form)",
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "50"
+      }
+    }
+  },
+  {
+    "Id": "73621bc6-49c7-4ef6-b1f9-b1ca5762fa59",
+    "Name": "Cathayan Warhorse",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "61"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb035739",
+    "Name": "Gate Keeper",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gate Keeper",
+        "Values": {
+          "M": "4",
+          "WS": "6",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "2",
+          "I": "4",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "9e976c64-4500-44f6-9e6c-0e76a12bb488",
+    "Name": "Cathayan Warhorse",
+    "Attributes": {
+      "type": "Heavy Cavalry",
+      "height": "Standard",
+      "totalcost": "96"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "5186-798d-69d-6545": "Counter Charge",
+      "785a-2886-af42-dce9": "First Charge",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "eb5d-bd8a-c75c-66d7": "Barding",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb036c0a",
+    "Name": "Gate Master",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Gate Master",
+        "Values": {
+          "M": "4",
+          "WS": "7",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "4",
+          "A": "3",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "d5dc961f-65f5-4652-a6ad-df6eae6fe27e",
+    "Name": "Sky Lantern",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "200"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "2f6c-9e02-448f-7671": "Disengage",
+      "6426-3e2d-c25d-c9ec": "Eye of the Dragon",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "a92d-b204-33f2-6097": "Grand Strategist",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "93f6-fc7c-2989-4664": "Heavenly Beacon",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1, Sky Lantern only)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sky Lantern",
+        "Values": {
+          "M": "1",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "7",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun"
+        }
+      },
+      {
+        "Name": "Lantern Gunners",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Commander",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "5",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0bf0f4ee4feb037d5e",
+    "Name": "Lord Magistrate",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a92d-b204-33f2-6097": "Grand Strategist",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Lord Magistrate",
+        "Values": {
+          "M": "4",
+          "WS": "5",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "3",
+          "I": "4",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0cf0f4ee4feb039e65",
+    "Name": "Shugengan General",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "af03-793d-6bbc-5f76": "Celestial Forged Armour (5+)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "9eca-5650-4f78-32be": "Lore of Yang",
+      "ace9-f0d5-dcff-3fd4": "Mastery of the Elemental Winds",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "7c73-2f69-0462-4857": "Iron Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "19f5-926f-38ec-f9a4": "Lore of Yang",
+      "7056-0a8f-b809-d25a": "Crown of Horns"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Shugengan General",
+        "Values": {
+          "M": "-",
+          "WS": "5",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "6",
+          "I": "5",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "7c73-2f69-0462-4857": "Iron Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "19f5-926f-38ec-f9a4": "Lore of Yang"
+        }
+      },
+      {
+        "Name": "Great Spirit Longma",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "7056-0a8f-b809-d25a": "Crown of Horns"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0cf0f4ee4feb03a887",
+    "Name": "Shugengan Lord",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "5450-cbf1-3e74-254a": "Armoured Hide (2)",
+      "af03-793d-6bbc-5f76": "Celestial Forged Armour (5+)",
+      "5186-798d-69d-6545": "Counter Charge",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "c557-6102-9a35-bbcd": "Fly (9)",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "9eca-5650-4f78-32be": "Lore of Yang",
+      "ace9-f0d5-dcff-3fd4": "Mastery of the Elemental Winds",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "3c27-d55d-e778-cb89": "Battle Magic",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "7c73-2f69-0462-4857": "Iron Talons",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "19f5-926f-38ec-f9a4": "Lore of Yang",
+      "7056-0a8f-b809-d25a": "Crown of Horns"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Shugengan Lord",
+        "Values": {
+          "M": "-",
+          "WS": "6",
+          "BS": "3",
+          "S": "4",
+          "T": "5",
+          "W": "7",
+          "I": "6",
+          "A": "4",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3c27-d55d-e778-cb89": "Battle Magic",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "7c73-2f69-0462-4857": "Iron Talons",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "19f5-926f-38ec-f9a4": "Lore of Yang"
+        }
+      },
+      {
+        "Name": "Great Spirit Longma",
+        "Values": {
+          "M": "8",
+          "WS": "5",
+          "BS": "-",
+          "S": "5",
+          "T": "-",
+          "W": "-",
+          "I": "4",
+          "A": "3",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "7056-0a8f-b809-d25a": "Crown of Horns"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "cce541a3-9b7f-4748-af0a-7d0c71d28c97",
+    "Name": "Sky Lantern",
+    "Attributes": {
+      "type": "Heavy Chariot",
+      "height": "Standard",
+      "totalcost": "175"
+    },
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "2f6c-9e02-448f-7671": "Disengage",
+      "6426-3e2d-c25d-c9ec": "Eye of the Dragon",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "a92d-b204-33f2-6097": "Grand Strategist",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "93f6-fc7c-2989-4664": "Heavenly Beacon",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1, Sky Lantern only)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sky Lantern",
+        "Values": {
+          "M": "1",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "7",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun"
+        }
+      },
+      {
+        "Name": "Lantern Gunners",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Commander",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "5",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03b2a7",
+    "Name": "Strategist",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "a92d-b204-33f2-6097": "Grand Strategist",
+      "fcda-2bba-91ce-ea11": "Harmony of Stone & Steel",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Strategist",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "4",
+          "S": "3",
+          "T": "3",
+          "W": "2",
+          "I": "3",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03de4c",
+    "Name": "Jade Lancer Officer (Jade Lancer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e8db-9b63-e462-8bd5": "Cathayan Lance",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Lancer Officer",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "e8db-9b63-e462-8bd5": "Cathayan Lance",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0df0f4ee4feb03d3ae",
+    "Name": "Jade Lancer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e8db-9b63-e462-8bd5": "Cathayan Lance",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Lancer",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "e8db-9b63-e462-8bd5": "Cathayan Lance",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ef0f4ee4feb04084f",
+    "Name": "Jade Officer (Jade Warrior)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd90-2e9b-ed27-5498": "Defensive Stance",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Officer",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ef0f4ee4feb03fdda",
+    "Name": "Jade Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "bd90-2e9b-ed27-5498": "Defensive Stance",
+      "559-d4c6-b2e8-500f": "Detachment",
+      "7424-ec43-7581-965a": "Regimental Unit",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "98f8-9d8-94cd-3379": "Halberd",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Warrior",
+        "Values": {
+          "M": "4",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "98f8-9d8-94cd-3379": "Halberd",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ef0f4ee4feb042792",
+    "Name": "Grand Cannon",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "ef00-e657-a314-91ab": "Grand cannon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Grand Cannon",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "ef00-e657-a314-91ab": "Grand cannon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb042982",
+    "Name": "Cathayan Sentinel",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "22be-fd06-f491-d1f9": "Implacable",
+      "b221-591c-1017-89e3": "Jade Sentinel",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "6b2c-21ff-3566-67c6": "Terracotta Sentinel",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "1085-72be-d0a2-9dad": "Great Blade (Deadly Strike)",
+      "00ec-8265-17bd-9428": "Great Blade (Scything Blow)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cathayan Sentinel",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "1",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "3",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "1085-72be-d0a2-9dad": "Great Blade (Deadly Strike)",
+          "00ec-8265-17bd-9428": "Great Blade (Scything Blow)",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb042b72",
+    "Name": "Fire Rain Rocket",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "59a5-7eca-ee35-96ac": "Skirmishers",
+      "850f-0f9a-58d2-fbce": "Bastion Rockets",
+      "4158-2f69-ead2-c35f": "Rocket Battery"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Fire Rain Rocket",
+        "Values": {
+          "M": "-",
+          "WS": "-",
+          "BS": "-",
+          "S": "-",
+          "T": "6",
+          "W": "3",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "850f-0f9a-58d2-fbce": "Bastion Rockets",
+          "4158-2f69-ead2-c35f": "Rocket Battery"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "60",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb0437fb",
+    "Name": "Jade Lancer Officer (Jade Lancer)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e8db-9b63-e462-8bd5": "Cathayan Lance",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Lancer Officer",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "e8db-9b63-e462-8bd5": "Cathayan Lance",
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0ff0f4ee4feb042d62",
+    "Name": "Jade Lancer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "4cef-4823-4dd5-a26a": "Cathayan Cataphracts",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5186-798d-69d-6545": "Counter Charge",
+      "9cba-89a5-1796-5fe4": "Horde",
+      "dc91-48b3-3696-217": "Swiftstride",
+      "50d1-e83d-685e-7c94": "Will of the Dragons",
+      "e8db-9b63-e462-8bd5": "Cathayan Lance",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "eb5d-bd8a-c75c-66d7": "Barding"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Jade Lancer",
+        "Values": {
+          "M": "-",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "3",
+          "W": "1",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "e8db-9b63-e462-8bd5": "Cathayan Lance",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      },
+      {
+        "Name": "Cathayan Warhorse",
+        "Values": {
+          "M": "7",
+          "WS": "3",
+          "BS": "-",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "eb5d-bd8a-c75c-66d7": "Barding",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "30",
+        "length": "60"
+      }
+    }
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045780",
+    "Name": "Sky Lantern",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "2f6c-9e02-448f-7671": "Disengage",
+      "6426-3e2d-c25d-c9ec": "Eye of the Dragon",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "93f6-fc7c-2989-4664": "Heavenly Beacon",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1, Sky Lantern only)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sky Lantern",
+        "Values": {
+          "M": "1",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "7",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun"
+        }
+      },
+      {
+        "Name": "Lantern Gunners",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Commander",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "5",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045b84",
+    "Name": "Cathayan Sentinel",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "22be-fd06-f491-d1f9": "Implacable",
+      "b221-591c-1017-89e3": "Jade Sentinel",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "72db-24bb-7493-d753": "Stomp Attacks (D3+1)",
+      "6b2c-21ff-3566-67c6": "Terracotta Sentinel",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "1085-72be-d0a2-9dad": "Great Blade (Deadly Strike)",
+      "00ec-8265-17bd-9428": "Great Blade (Scything Blow)",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "c56e-8d1b-bb4-de99": "Heavy Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Cathayan Sentinel",
+        "Values": {
+          "M": "6",
+          "WS": "5",
+          "BS": "1",
+          "S": "6",
+          "T": "6",
+          "W": "6",
+          "I": "3",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "1085-72be-d0a2-9dad": "Great Blade (Deadly Strike)",
+          "00ec-8265-17bd-9428": "Great Blade (Scything Blow)",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "c56e-8d1b-bb4-de99": "Heavy Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "150"
+      }
+    }
+  },
+  {
+    "Id": "6866ef10f0f4ee4feb045d6e",
+    "Name": "Sky Lantern",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "2f6c-9e02-448f-7671": "Disengage",
+      "6426-3e2d-c25d-c9ec": "Eye of the Dragon",
+      "eea7-89d9-a996-403c": "Feigned Flight",
+      "1a06-31aa-cbfe-1a5": "Fire & Flee",
+      "c557-6102-9a35-bbcd": "Fly (8)",
+      "93f6-fc7c-2989-4664": "Heavenly Beacon",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1, Sky Lantern only)",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "1f10-d7d-be19-7e8f": "Reserve Move",
+      "fe5e-8838-7fbd-a7ec": "Scouts",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+      "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "5f1c-fd04-b0d5-d5e": "Champion"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Sky Lantern",
+        "Values": {
+          "M": "1",
+          "WS": "-",
+          "BS": "-",
+          "S": "5",
+          "T": "5",
+          "W": "7",
+          "I": "-",
+          "A": "-",
+          "Ld": "-"
+        },
+        "RuleIds": {
+          "e099-1ebb-9e85-34c8": "Armour Value : 4+",
+          "3f07-e69d-8818-d45d": "Sky Lantern Crane Gun"
+        }
+      },
+      {
+        "Name": "Lantern Gunners",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "4",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "1",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      },
+      {
+        "Name": "Commander",
+        "Values": {
+          "M": "-",
+          "WS": "3",
+          "BS": "5",
+          "S": "3",
+          "T": "-",
+          "W": "-",
+          "I": "3",
+          "A": "2",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "100",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef11f0f4ee4feb046734",
+    "Name": "Champion (Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Crusher",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6866ef11f0f4ee4feb04618b",
+    "Name": "Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "2",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6866ef11f0f4ee4feb0472c6",
+    "Name": "Bonegrinder Giant",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "7c08-9451-ab5c-b5eb": "Bonegrinder Giant Attacks",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "c822-7ad0-f24a-e4af": "Large Target",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "72db-24bb-7493-d753": "Stomp Attacks (D6+1)",
+      "c7a2-35bf-4313-f4f0": "Terror",
+      "4f28-3f86-cf88-6b3a": "Timmm-Berrr!",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Bonegrinder Giant",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "1",
+          "S": "7",
+          "T": "6",
+          "W": "8",
+          "I": "3",
+          "A": "*",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "d3a2-c528-1da0-e731": "Bonegrinder Giant’s Club",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "50",
+        "length": "100"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb04749c",
+    "Name": "Doomseeker",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "233a-1715-82be-1410": "Deathblow",
+      "74e5-b4c9-5ca9-6ca2": "Doomseeker",
+      "8961-ff44-72ad-9de1": "First to the Fray",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "93d9-c75b-f655-30ac": "Immune To Psychology",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (D3+1)",
+      "2ecd-c6b3-bd8b-864b": "Loner",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-2)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "1b08-4621-6379-ff1f": "Random Attacks",
+      "a230-c540-6a65-4974": "Resolute",
+      "d3eb-1fa0-bb19-f390": "Unbreakable",
+      "691e-10ec-4f7c-a2c4": "Vanguard",
+      "133a-a421-c52f-e33f": "Whirlwind of Death",
+      "6d4a-7733-d725-a267": "Hand Weapon"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Doomseeker",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "0",
+          "S": "5",
+          "T": "4",
+          "W": "2",
+          "I": "3",
+          "A": "2D3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb0476c4",
+    "Name": "Imperial Dwarf Warrior",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "32f7-8e30-3fe8-b11e": "Shieldwall",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Dwarf Warrior",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb04821b",
+    "Name": "Champion (Imperial Ogre)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "5f1c-fd04-b0d5-d5e": "Champion",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Captain",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "4",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "4",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "5f1c-fd04-b0d5-d5e": "Champion",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb048006",
+    "Name": "Imperial Ogre",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "2af0-975f-bb14-8b8f": "Armour Bane (1)",
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "5ec9-a98-d8c5-e18b": "Fear",
+      "5c2-e9dd-2715-a0c0": "Impact Hits (1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "6359-4018-5cd4-3720": "Motley Crew",
+      "9e92-303-8d40-895c": "Ogre Charge",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Imperial Ogre",
+        "Values": {
+          "M": "6",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "7"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb048410",
+    "Name": "Standard Bearer (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield",
+      "bcf8-d942-102e-b155": "Standard Bearer"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield",
+          "bcf8-d942-102e-b155": "Standard Bearer"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb048419",
+    "Name": "Borri Forkbeard (champion)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "77ca-5e-3d5e-ead5": "Great Weapon",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Borri Forkbeard",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "5",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "2",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "77ca-5e-3d5e-ead5": "Great Weapon",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb048422",
+    "Name": "Prince Ulther Stonehammer",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "f170-4b76-b645-29c4": "Dragonblade",
+      "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "ea58-1a09-e839-cced": "Rune of Fury",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Prince Ulther Stonehammer",
+        "Values": {
+          "M": "3",
+          "WS": "5",
+          "BS": "5",
+          "S": "4",
+          "T": "5",
+          "W": "2",
+          "I": "2",
+          "A": "3",
+          "Ld": "10"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "f170-4b76-b645-29c4": "Dragonblade",
+          "34c9-6f88-dcfd-d3fa": "Grudge Rune",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "ea58-1a09-e839-cced": "Rune of Fury",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef12f0f4ee4feb04842b",
+    "Name": "Musician (Dragon Company trooper)",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "883e-e1b1-4fe9-5912": "Close Order",
+      "1f64-3ddc-db58-12fb": "Drilled",
+      "2e16-e293-353e-6881": "Gromril Weapons",
+      "f4b3-18af-16bf-78dd": "Hatred (Orcs & Goblins)",
+      "90ed-c9be-a611-79cc": "Magic Resistance (-1)",
+      "4d1b-2617-ebdc-4f4d": "Mercenaries",
+      "a230-c540-6a65-4974": "Resolute",
+      "e351-bbd6-f470-b604": "Stubborn",
+      "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+      "6d4a-7733-d725-a267": "Hand Weapon",
+      "dbb2-4d85-84c2-528c": "Light Armour",
+      "40f2-dd77-f0ca-3663": "Musician",
+      "8997-c74d-3a8d-ecf9": "Shield"
+    },
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Dragon Company trooper",
+        "Values": {
+          "M": "3",
+          "WS": "4",
+          "BS": "3",
+          "S": "3",
+          "T": "4",
+          "W": "1",
+          "I": "2",
+          "A": "1",
+          "Ld": "9"
+        },
+        "RuleIds": {
+          "3f0e-1dc6-b425-bf59": "Brace of Pistols",
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour",
+          "40f2-dd77-f0ca-3663": "Musician",
+          "8997-c74d-3a8d-ecf9": "Shield"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "25",
+        "length": "25"
+      }
+    }
+  },
+  {
+    "Id": "6866ef0cf0f4ee4feb03a889",
+    "Name": "Ogre Loader",
+    "Attributes": {},
+    "AttributeLists": {},
+    "RuleIds": {
+      "0d43559d-0096-4f9f-819c-9def07813fb7": "Enough for Everyone",
+      "70418e48-f1d9-4e87-bfed-1f8d07415fe4": "Mercenary Crew"
+	},
+    "EquipmentIds": [],
+    "OptionListIds": [],
+    "Statlines": [
+      {
+        "Name": "Ogre Loader",
+        "Values": {
+          "M": "4",
+          "WS": "3",
+          "BS": "3",
+          "S": "4",
+          "T": "4",
+          "W": "3",
+          "I": "2",
+          "A": "3",
+          "Ld": "8"
+        },
+        "RuleIds": {
+          "6d4a-7733-d725-a267": "Hand Weapon",
+          "dbb2-4d85-84c2-528c": "Light Armour"
+        }
+      }
+    ],
+    "Base": {
+      "Shape": "square",
+      "Size": {
+        "width": "40",
+        "length": "40"
+      }
+    }
+  }
+]

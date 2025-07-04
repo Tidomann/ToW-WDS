@@ -233,7 +233,7 @@
   },
   {
     "Id": "c7a9f777-f44c-479d-9166-97b36c525ee5",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357b506d966c2c146920f3",
     "WDSDataId": "bcf8-d942-102e-b155",
@@ -249,7 +249,7 @@
   },
   {
     "Id": "a88b70ea-485b-4b72-9eac-81f498dc38dd",
-    "Name": "Standard",
+    "Name": "Standard Bearer",
     "Type": "ModelAddRule",
     "OwnerId": "68357b516d966c2c146931b7",
     "WDSDataId": "bcf8-d942-102e-b155",
