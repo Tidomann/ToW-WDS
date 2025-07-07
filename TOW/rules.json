@@ -13654,5 +13654,119 @@
     "Name": "Mercenary Crew",
     "Type": "Global",
     "Description": "An Ogre Loader is a special type of character that can be taken as an upgrade to accompany a Cathayan war machine. During deployment, position an Ogre Loader with its war machine, as you would a character that has joined a unit. Once placed, an Ogre Loader cannot leave its war machine.\nThe crew of any war machine joined by an Ogre Loader gains a +1 modifier to its movement characteristic and the Stubborn Special rule. In addition, once per game, a Fire Rain Rocket Battery or Cathayan grand cannon that includes an Ogre Loader may fire twice during the Shooting phase, or re-roll a single Artillery dice."
+  },
+  {
+    "Id": "6c22-b0e4-7c83-f9ce",
+    "Name": "The Black Maul",
+    "Type": "Equipment",
+    "Description": "R: Combat\"\nS: S+2\nAP: -3\nSpecial Rules: Extra Attacks (+D6), Magical Attacks\nNotes: Each time a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Black Maul suffers a -1 modifier to their Weapon Skill characteristic (to a minimum of 1, and for the remainder of the game).\n"
+  },
+  {
+    "Id": "dc0e-e8c2-12df-a6a6",
+    "Name": "The Axes of Khorgor",
+    "Type": "Equipment",
+    "Description": "R: Combat\"\nS: S+1\nAP: -2\nSpecial Rules: Extra Attacks (+1), Magical Attacks, Requires Two Hands\nNotes: The wielder of the Axes of Khorgor may re-roll any rolls To Wound of a natural 1 made during the Combat phase.\n"
+  },
+  {
+    "Id": "0440-3bde-551d-aab6",
+    "Name": "The Brass Cleaver",
+    "Type": "Equipment",
+    "Description": "R: Combat\"\nS: S\nAP: -2\nSpecial Rules: Magical Attacks\nNotes: Enemy models are not permitted an armour, Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.\n"
+  },
+  {
+    "Id": "e2fd-5367-e309-4b38",
+    "Name": "Scimitar of Skultar",
+    "Type": "Equipment",
+    "Description": "R: Combat\"\nS: S\nAP: -1\nSpecial Rules: Armour Bane (1), Magical Attacks, Multiple Wounds (2)\nNotes: \n"
+  },
+  {
+    "Id": "4bff-4512-72f7-9066",
+    "Name": "Heavy Chaos Armour",
+    "Type": "General",
+    "Description": "Heavy Chaos Armour is a suit of heavy armour. It may be purchased and worn by a Wizard, even if they do not have the option to be equipped with armour, a shield, or barding, without penalty. In addition, the wearer of Chaos Armour has a 5+ Ward save against any wounds suffered."
+  },
+  {
+    "Id": "4cf2-7e47-f643-68ea",
+    "Name": "Full Plate Chaos Armour",
+    "Type": "General",
+    "Description": "Full Plate Chaos Armour is a suit of full plate armour. It may be purchased and worn by a Wizard, even if they do not have the option to be equipped with armour, a shield, or barding, without penalty. In addition, the wearer of Chaos Armour has a 5+ Ward save against any wounds suffered."
+  },
+  {
+    "Id": "e23d-76a3-9548-1bef",
+    "Name": "The Fur of Sharggu",
+    "Type": "General",
+    "Description": "May be worn with other armour. The wearer of the Fur of Sharggu improves their armour value by 2 (to a maximum of 2+) against non magical shooting attacks."
+  },
+  {
+    "Id": "8dc2-47a1-1d47-09fe",
+    "Name": "Chalice of Dark Rain",
+    "Type": "General",
+    "Description": "Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of the Chalice of Dark Rain may drink from it. Until your next Start of Turn sub-phase, the range of all enemy missile weapons is halved (rounding fractions up) and enemy war machines cannot shoot."
+  },
+  {
+    "Id": "3e4f-17f3-e33d-b151",
+    "Name": "Cornucopia of Corpulence",
+    "Type": "General",
+    "Description": "When the bearer's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, enemy models in base contact with the bearer of the Cornucopia of Corpulence must make a Toughness test. If this test is failed, they lose a single Wound."
+  },
+  {
+    "Id": "a7ab-8da0-e87c-5e59",
+    "Name": "The Gore Banner",
+    "Type": "General",
+    "Description": "If a unit wishes to declare a charge against a unit carrying the Gore Banner, it must first make a Leadership test. If this test is failed, the unit cannot charge. It does not move and is considered to have made a failed charge. If this test is passed, the unit can charge as normal."
+  },
+  {
+    "Id": "37a6-700a-6da5-9a7e",
+    "Name": "Banner of the Warped Moon",
+    "Type": "General",
+    "Description": "Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of this banner may attempt to unleash its power by making a Leadership test (using their own unmodified leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule."
+  },
+  {
+    "Id": "0231-9e3a-04b0-5bbc",
+    "Name": "The Beast Banner",
+    "Type": "General",
+    "Description": "A unit carrying the Beast Banner increases its maximum possible charge range by 3\" and, when it makes a Charge roll, may apply a +D3 modifier to the result."
+  },
+  {
+    "Id": "a506-bca1-0e23-e657",
+    "Name": "The Beast Banner",
+    "Type": "General",
+    "Description": "A unit carrying the Soiled Tapestry gains the Hatred (all enemies) special rule. However, all enemy models Hate the unit carrying this banner."
+  },
+  {
+    "Id": "798c-560a-42e9-5487",
+    "Name": "Horn of the Great Hunt",
+    "Type": "General",
+    "Description": "Once per turn, after rolling to determine if a unit with the Ambushers special rule that is currently held in reserve as reinforcements arrives, and if the bearer of the Horn of the Great Hunt is on the battlefield and is not fleeing, you may apply a +1 or -1 modifier to the result."
+  },
+  {
+    "Id": "979e-3133-aa22-e685",
+    "Name": "Scourge of the Burdened",
+    "Type": "General",
+    "Description": "The wielder of the Scourge of the Burdened can cast the Call of the Wild spell from the Lore of Primal Magic as a Bound Spell with a Power Level of 2."
+  },
+  {
+    "Id": "0759-a082-207c-e519",
+    "Name": "Cacophonous Dirge",
+    "Type": "General",
+    "Description": "Whilst their unit is within 18\" of the bearer of the Cacophonous Dirge, enemy musicians cannot use their 'Onwards to Victory!,' Steadying Rhythm or Quick Time rules."
+  },
+  {
+    "Id": "fefb-5c2e-5dd7-79d1",
+    "Name": "Blood of the Shadowgave",
+    "Type": "General",
+    "Description": "Single use. A Wizard may use this item instead of making a Wizardly dispel attempt. If they do so, the spell is automatically dispelled with no Dispel roll required.\n*Note that a perfect invocation cannot be dispelled.*"
+  },
+  {
+    "Id": "cd81-3161-391c-2469",
+    "Name": "Daemon Heart",
+    "Type": "General",
+    "Description": "When attempted a Wizardly dispel, the bearer of the Daemon Heart counts their Level of Wizardry as being one higher than that of the Wizard whose spell they are dispelling or, in the case of Bound Spells, one higher than that spell's Power Level.\n*Note this applies even if it would mean the bearer counts their Level of Wizardry as being lower than it actually is.*"
+  },
+  {
+    "Id": "9d87-1c69-4628-28ed",
+    "Name": "Goretooth",
+    "Type": "General",
+    "Description": "In addition to the Lores of Magic they may normally know spell from, the bearer of a Goretooth may know spells from the Lore of Primal Magic."
   }
 ]

@@ -1462,5 +1462,89 @@
     "Duration": "",
     "Level": "",
     "PathName": "Coven Throne"
+  },
+  {
+    "Id": "primordial gloom/primal magic",
+    "Name": "Primordial Gloom",
+    "Type": "Magical Vortex",
+    "Attributes": {},
+    "Description": "Remains in Play. Place a small (3\") blast template so that its central hole is within 12\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6\" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain.",
+    "CastingValue": "9+",
+    "Range": "12\"",
+    "Duration": "",
+    "Level": "",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "call of the wild/primal magic",
+    "Name": "Call of the Wild",
+    "Type": "Conveyance",
+    "Attributes": {},
+    "Description": "This spell can only target friendly models whose troop type is 'infantry' or 'cavalry.' Until the end of this turn the target friendly unit gains the Reserve Move special rule.",
+    "CastingValue": "8+",
+    "Range": "12\"",
+    "Duration": "",
+    "Level": "1",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "in the gloaming wildwood/primal magic",
+    "Name": "In the Gloaming Wildwood",
+    "Type": "Hex",
+    "Attributes": {},
+    "Description": "Remains in play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.",
+    "CastingValue": "10+",
+    "Range": "15\"",
+    "Duration": "",
+    "Level": "2",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "flock of doom/primal magic",
+    "Name": "Flock of Doom",
+    "Type": "Assailment",
+    "Attributes": {},
+    "Description": "Place a small (3\") blast template so that its central hole is directly over the center of a unit that the caster is engaged in combat with. Once placed, the template will scatter D3+1\". Any enemy model whos base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule.",
+    "CastingValue": "8+",
+    "Range": "Combat",
+    "Duration": "",
+    "Level": "3",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "fury of the beast/primal magic",
+    "Name": "Fury of the Beast",
+    "Type": "Enchantment",
+    "Attributes": {},
+    "Description": "Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule.",
+    "CastingValue": "9+",
+    "Range": "Self",
+    "Duration": "",
+    "Level": "4",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "strangleroot/primal magic",
+    "Name": "Strangleroot",
+    "Type": "Magic Missile",
+    "Attributes": {},
+    "Description": "Draw a straight line, 4D6\" in length, from the caster's base edge. Any enemy models whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2.",
+    "CastingValue": "8+",
+    "Range": "4D6\"",
+    "Duration": "",
+    "Level": "5",
+    "PathName": "Primal Magic"
+  },
+  {
+    "Id": "neath the shaden wodespan/primal magic",
+    "Name": "'Neath the Shaden Wodaespan",
+    "Type": "Magical Vortex",
+    "Attributes": {},
+    "Description": "Remains in play. Place a large (5\") blast template so that it's central hole is within 15\" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain which no line of sight can be drawn. Whilst within 6\" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a maximum of 1). Any enemy unit that ends its movement within 3\" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing.",
+    "CastingValue": "10+",
+    "Range": "15\"",
+    "Duration": "",
+    "Level": "6",
+    "PathName": "Primal Magic"
   }
 ]
